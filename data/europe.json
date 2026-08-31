@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:36:10.240916+00:00",
+  "updated_at": "2026-08-31T13:59:36.845858+00:00",
   "hackathons": [
     {
       "name": "Fuckup Nights London #10: Hackathon",
@@ -13,6 +13,21 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:59f81478eb46cf7a"
+    },
+    {
+      "name": "Alpaca AI Trading Agents Hackathon",
+      "organizer": "lablab.ai",
+      "url": "https://lablab.ai/ai-hackathons/alpaca-ai-trading-agents-hackathon",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-04",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:0f04cafd2c949b52"
     },
     {
       "name": "Rebuild Private Markets: The Ylookup x Encode AI Hackathon",
@@ -210,19 +225,6 @@
       "uid": "hk:1b0248d8668c3727"
     },
     {
-      "name": "AaltoAI Hackathon: Data Sovereignty & Responsible AI",
-      "organizer": "Luma",
-      "url": "https://lu.ma/heyq2zch",
-      "source": "luma",
-      "location": "Espoo, Espoo, Finland, Finland",
-      "format": "in_person",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-20",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:e5c6c2184bdbb5d0"
-    },
-    {
       "name": "AISB Hackathon 2026",
       "organizer": "Luma",
       "url": "https://lu.ma/3gswve8n",
@@ -370,6 +372,21 @@
       "uid": "hk:632dfbc14809b364"
     },
     {
+      "name": "AI Game Jam AI Hackathon",
+      "organizer": "lablab.ai",
+      "url": "https://lablab.ai/ai-hackathons/ai-game-jam",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:8c0c11b595139ed7"
+    },
+    {
       "name": "DurHack",
       "organizer": "MLH",
       "url": "https://durhack.com",
@@ -381,6 +398,51 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:171ae7a98e42a7d4"
+    },
+    {
+      "name": "NASA Space Apps Challenge",
+      "organizer": "spaceappschallenge.org",
+      "url": "https://www.spaceappschallenge.org/",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:5a40e9e33561b4ed"
+    },
+    {
+      "name": "NASA Space Apps Challenge (@SpaceApps) / X",
+      "organizer": "x.com",
+      "url": "https://x.com/SpaceApps?lang=en",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:7cd1ab95726ecda5"
+    },
+    {
+      "name": "when the idea is still being built. 🚀 NASA Space Apps ...",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/p/Dci67c4js92/",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:3acb15305290f356"
     },
     {
       "name": "Leukerbad Hackathon 2026 (Robotics, XR, and AI)",
@@ -425,36 +487,6 @@
       "uid": "hk:928397c8e18cd480"
     },
     {
-      "name": "#GirlsInAI2020 Romania Hackathon - Timișoara, Romania",
-      "organizer": "hackathon.com",
-      "url": "https://www.hackathon.com/event/girlsinai2020-romania-hackathon---timisoara-romania-90634214375",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:1bca2735f75951e7"
-    },
-    {
-      "name": "#hackathon #bucharest | Digital Twins for Infrastructures & Cities",
-      "organizer": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/digital-twins-for-infrastructures-cities_hackathon-bucharest-activity-7439620660831760384-_e_W",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:9a817e9886745eb0"
-    },
-    {
       "name": "24 Hours of Google - Hackathon",
       "organizer": "asmi.ro",
       "url": "https://www.asmi.ro/articole/google-hackaton",
@@ -468,36 +500,6 @@
         "apify"
       ],
       "uid": "hk:8bfc2f1916356fa6"
-    },
-    {
-      "name": "24 Hours of Google - Hackathon - ASMI",
-      "organizer": "asmi.ro",
-      "url": "https://asmi.ro/Articole/google-hackaton",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:903915de1b52bc64"
-    },
-    {
-      "name": "24 Hours of Google Hackathon 2026 | Eduard Olteanu",
-      "organizer": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/edi-olteanu_24-hours-of-google-hackathon-2026-activity-7444659551465021440-GvNr",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:b952380d1acd3e7b"
     },
     {
       "name": "24 Hours of Google Hackathon | Tudor Vișan",
@@ -528,36 +530,6 @@
         "apify"
       ],
       "uid": "hk:e9b64ffe0418af92"
-    },
-    {
-      "name": "[Recap] AI21 Labs Hackathon #2",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-hackathons/ai21-labs-hackathon-2",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:2d2049394788d9ed"
-    },
-    {
-      "name": "[Recap] Anthropic AI Hackathon",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-hackathons/anthropic-ai-hackathon",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:80daecf950edb012"
     },
     {
       "name": "[Recap] Band of Agents Hackathon",
@@ -665,21 +637,6 @@
       "uid": "hk:1f052f5fb0a5ed29"
     },
     {
-      "name": "AI Game Jam AI Hackathon",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-hackathons/ai-game-jam",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:8c0c11b595139ed7"
-    },
-    {
       "name": "AI Hackathon Project Ideas",
       "organizer": "lablab.ai",
       "url": "https://lablab.ai/guide/ai-hackathon-project-ideas",
@@ -723,66 +680,6 @@
         "apify"
       ],
       "uid": "hk:87c7600607940e12"
-    },
-    {
-      "name": "Alpaca AI Trading Agents Hackathon",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-hackathons/alpaca-ai-trading-agents-hackathon",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:0f04cafd2c949b52"
-    },
-    {
-      "name": "Amplix Foundataion AI Bhabarta Hackathon 2026 India",
-      "organizer": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/amplinxtfoundation_%F0%9D%90%80%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%8D%F0%9D%90%B1%F0%9D%90%AD-%F0%9D%90%85%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7-is-activity-7454430820083122176-CI5r",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:aa15ca485279302e"
-    },
-    {
-      "name": "Articole despre nasa space apps challenge",
-      "organizer": "romania-actualitati.ro",
-      "url": "https://www.romania-actualitati.ro/articole-despre/nasa+space+apps+challenge/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:4ef76908cd37fde9"
-    },
-    {
-      "name": "ASMI dă start înscrierilor la hackathon-ul Smarthack",
-      "organizer": "iqads.ro",
-      "url": "https://www.iqads.ro/articol/61622/asmi-da-start-inscrierilor-la-hackathon-ul-smarthack",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:abf05e49d96d8f70"
     },
     {
       "name": "ASMI și Microsoft lansează un nou hackathon: prima ediție ...",
@@ -875,21 +772,6 @@
       "uid": "hk:f780abe077675b29"
     },
     {
-      "name": "CASSINI Hackathon #11 - EU Space for Water",
-      "organizer": "asmi.ro",
-      "url": "https://www.asmi.ro/articole/cassini-hackaton",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:36af4f433cd72b04"
-    },
-    {
       "name": "CASSINI Hackathons - EU Space for Consumer Experience",
       "organizer": "CASSINI Hackathons & Mentoring",
       "url": "https://taikai.network/hackathons/eu-space-consumer-experience",
@@ -941,36 +823,6 @@
       "uid": "hk:40ed36b6661e16f3"
     },
     {
-      "name": "Challenge Accepted Hackathon - Google Developer Groups",
-      "organizer": "gdg.community.dev",
-      "url": "https://gdg.community.dev/events/details/google-google-developer-group-bucharest-presents-challenge-accepted-hackathon/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:b37ab8a126a7ab43"
-    },
-    {
-      "name": "Colliers Hackathon",
-      "organizer": "hackathon.com",
-      "url": "https://www.hackathon.com/event/colliers-hackathon-5dd6b71880665b001bc3d28d",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:5ccb5e8d423b6e46"
-    },
-    {
       "name": "Daniel Chis - 24 Hours of Google Hackathon",
       "organizer": "linkedin.com",
       "url": "https://www.linkedin.com/posts/daniel-chis-8a3aa5106_24-hours-of-google-hackathon-activity-7313274160783278081-FCyS",
@@ -986,21 +838,6 @@
       "uid": "hk:46d06e8486c63006"
     },
     {
-      "name": "December EESTEC Olympics 2.0",
-      "organizer": "lest.fe.uni-lj.si",
-      "url": "https://lest.fe.uni-lj.si/news/decembrski-eestec-olympics-2-0/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c177ee59b8a54d6e"
-    },
-    {
       "name": "DevHacks CLUJ powered by MassMutual Romania",
       "organizer": "hackathon.com",
       "url": "https://www.hackathon.com/event/devhacks-cluj-powered-by-massmutual-romania-471083682977",
@@ -1014,21 +851,6 @@
         "apify"
       ],
       "uid": "hk:aa4d339023f13fc2"
-    },
-    {
-      "name": "Discover Hackathon Events & Activities in Romania",
-      "organizer": "eventbrite.com",
-      "url": "https://www.eventbrite.com/d/romania/hackathon/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:87afb45634b1f62c"
     },
     {
       "name": "EESTEC Olympics",
@@ -1106,36 +928,6 @@
       "uid": "hk:06cbdb2bc5ba0c32"
     },
     {
-      "name": "EUDIS Defence Hackathon and Mentoring Spring 2026",
-      "organizer": "taikai.network",
-      "url": "https://taikai.network/en/eudisROMANIA/hackathons/2026spring/overview",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:3f9bd4852896d50f"
-    },
-    {
-      "name": "Europe Cybersecurity Hackathons September October 2026",
-      "organizer": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/hackathon-hub_%F0%9D%97%AA%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%B8%F0%9D%97%B9%F0%9D%98%86-%F0%9D%97%9B%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B8%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%97%A6%F0%9D%97%BD%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81-activity-7497567228079288320-01wd",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:6cd284ac0814fb61"
-    },
-    {
       "name": "Europe Defense Tech Hackathons 2026",
       "organizer": "linkedin.com",
       "url": "https://www.linkedin.com/posts/hackathon-hub_%F0%9D%97%AA%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%B8%F0%9D%97%B9%F0%9D%98%86-%F0%9D%97%9B%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B8%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%97%A6%F0%9D%97%BD%F0%9D%97%BC-activity-7495026810049499154-kE0B",
@@ -1151,51 +943,6 @@
       "uid": "hk:438ae5d48f7f8d6a"
     },
     {
-      "name": "European Defense Tech Hackathons 2026",
-      "organizer": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/%C5%9Fevval-%C3%A7elik-1709sev_%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F-activity-7495049460671139840-LbLz",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:49afa3f977d55852"
-    },
-    {
-      "name": "Eyes on Earth Copernicus Roadshow Bucharest Romania",
-      "organizer": "hackathon.com",
-      "url": "https://www.hackathon.com/event/eyes-on-earth-copernicus-roadshow-bucharest-romania-93043418369",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:3a52f41ea80ae99a"
-    },
-    {
-      "name": "Find & Organize Hackathons in Bucharest, Romania",
-      "organizer": "hackathon.com",
-      "url": "https://www.hackathon.com/city/romania/bucharest",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:a802b723e623d091"
-    },
-    {
       "name": "Find & Organize Hackathons in Timisoara, Romania",
       "organizer": "hackathon.com",
       "url": "https://www.hackathon.com/city/romania/timisoara",
@@ -1209,36 +956,6 @@
         "apify"
       ],
       "uid": "hk:494aa813ecbf6e11"
-    },
-    {
-      "name": "FinTech Hackathon - Bucharest",
-      "organizer": "lhoft.com",
-      "url": "https://lhoft.com/event/fintech-hackathon-bucharest/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c7ea7d9f9df17f5c"
-    },
-    {
-      "name": "From Capstone to Startup: Join Innovation Labs Romania ...",
-      "organizer": "digitwin4ciue.eu",
-      "url": "https://www.digitwin4ciue.eu/2026/02/05/startup-innovation-labs-romania/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:53614607f4ca6740"
     },
     {
       "name": "Gemini Ultra 1.0 Hackathon team: JAMS",
@@ -1271,36 +988,6 @@
       "uid": "hk:aa6a0b2f2521b2e2"
     },
     {
-      "name": "GitGood Hack 2026 by ASMI & Microsoft: maraton de ...",
-      "organizer": "unibuc.ro",
-      "url": "https://unibuc.ro/gitgood-hack-2026-by-asmi-microsoft-maraton-de-coding-pentru-studentii-universitatii-din-bucuresti/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c9c58d7eed479b21"
-    },
-    {
-      "name": "Google Launches 2026 Hackathon in Pakistan for ...",
-      "organizer": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/gdgocpafiast_googlefordevelopers-hackathon2026-innovation-activity-7455492103008210944-VrgS",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:bc589b89dad86f79"
-    },
-    {
       "name": "GPT-5.2 Review: The Ultimate AI Hackathon Tool for Deep ...",
       "organizer": "lablab.ai",
       "url": "https://lablab.ai/ai-articles/gpt-52-review-ai-hackathon",
@@ -1329,66 +1016,6 @@
         "apify"
       ],
       "uid": "hk:b735407969e98580"
-    },
-    {
-      "name": "Hackathon Bucharest 2026",
-      "organizer": "instagram.com",
-      "url": "https://www.instagram.com/popular/hackathon-bucharest-2026/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:952d038b92acb6a5"
-    },
-    {
-      "name": "Hackathon european pentru tehnologii dual-use, organizat ...",
-      "organizer": "bucurestifm.ro",
-      "url": "https://www.bucurestifm.ro/2026/03/24/hackathon-european-pentru-tehnologii-dual-use-organizat-la-bucuresti-intre-26-si-28-martie/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:d928dea638160bf4"
-    },
-    {
-      "name": "Hackathon pentru studenți români, susținut de Microsoft",
-      "organizer": "startupcafe.ro",
-      "url": "https://startupcafe.ro/inscrieri-hackathon-studenti-romani-microsoft-98357",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:735bb1c98f2fedcb"
-    },
-    {
-      "name": "Hackathons and IT Meetups in Romania in 2026",
-      "organizer": "devjob.ro",
-      "url": "https://devjob.ro/en/events",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:73e95f6c5ce6ca57"
     },
     {
       "name": "Hackathons by City",
@@ -1466,51 +1093,6 @@
       "uid": "hk:d789050acbc7b9f2"
     },
     {
-      "name": "Innovation Labs 2026 Q&A | Notion",
-      "organizer": "innovation-labs-2026.notion.site",
-      "url": "https://innovation-labs-2026.notion.site/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:836c661cd419def4"
-    },
-    {
-      "name": "Innovation Labs 2026: Demo Day",
-      "organizer": "orangefab.ro",
-      "url": "https://www.orangefab.ro/innovation-labs-2026-demo-day/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:1f10ba727179c6d4"
-    },
-    {
-      "name": "Innovation Labs Hackathon 2026",
-      "organizer": "facebook.com",
-      "url": "https://www.facebook.com/events/facultatea-de-electronic%C4%83-telecomunica%C8%9Bii-%C8%99i-tehnologia-informa%C8%9Biei/innovation-labs-hackathon-2026/1180820253936593/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:07d64994f1fe44e3"
-    },
-    {
       "name": "Innovation Labs Hackathon 2026 | DAY 1 | Pitch Room A101",
       "organizer": "flickr.com",
       "url": "https://www.flickr.com/photos/innovationlabs/albums/72177720332700275/",
@@ -1526,21 +1108,6 @@
       "uid": "hk:141da812a52cb5fd"
     },
     {
-      "name": "Innovation Labs Romania's Post",
-      "organizer": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/ilabsro_innovation-labs-2026-s-au-deschis-%C3%AEnscrierile-activity-7434560595590504448-mLJ4",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:b4524b586e023305"
-    },
-    {
       "name": "Lendi Group Hackathon Builds Agents in Hours",
       "organizer": "linkedin.com",
       "url": "https://www.linkedin.com/posts/lendi-group_hackathon-at-lendi-group-activity-7462336276893958144-J4ld",
@@ -1554,51 +1121,6 @@
         "apify"
       ],
       "uid": "hk:bef4cc38b8a0971f"
-    },
-    {
-      "name": "List of hackathons in Bucharest, Romania in 2026",
-      "organizer": "hackathon.com",
-      "url": "https://www.hackathon.com/city/romania/bucharest/2026",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:5db5b828751e60a1"
-    },
-    {
-      "name": "List of hackathons in Bucuresti, Romania in 2026",
-      "organizer": "hackathon.com",
-      "url": "https://www.hackathon.com/city/romania/bucuresti/2026",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:6697ef575b549bd4"
-    },
-    {
-      "name": "Main Challenge - EESTEC Olympics 10 - EESTEC București",
-      "organizer": "olympics10.eestec.ro",
-      "url": "https://olympics10.eestec.ro/challenges",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:acec45a2af53376b"
     },
     {
       "name": "NASA International Space Apps Challenge - Team Lucerne",
@@ -1618,7 +1140,7 @@
     {
       "name": "NASA Space Apps Challenge",
       "organizer": "spaceappschallenge.org",
-      "url": "https://www.spaceappschallenge.org/",
+      "url": "https://www.spaceappschallenge.org/2026/",
       "source": "apify",
       "location": "",
       "format": "in_person",
@@ -1628,82 +1150,7 @@
       "tags": [
         "apify"
       ],
-      "uid": "hk:5a40e9e33561b4ed"
-    },
-    {
-      "name": "NASA Space Apps Challenge (@SpaceApps) / X",
-      "organizer": "x.com",
-      "url": "https://x.com/SpaceApps?lang=en",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:7cd1ab95726ecda5"
-    },
-    {
-      "name": "NASA Space Apps Challenge - ETTI",
-      "organizer": "etti.utcluj.ro",
-      "url": "https://etti.utcluj.ro/anunt/nasa-space-apps-challenge.html",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:98eaa1aa5e544d76"
-    },
-    {
-      "name": "NASA Space Apps Challenge 2026 in Bucharest and Cluj- ...",
-      "organizer": "facebook.com",
-      "url": "https://www.facebook.com/SpaceAppsRomania/posts/the-next-frontier-is-waiting-for-your-ideas-registrations-are-now-open-for-the-s/1479079564252511/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:38f42062c7b12da7"
-    },
-    {
-      "name": "NASA Space Apps Challenge a selectat cele 3 proiecte ...",
-      "organizer": "jurnaldesustenabilitate.ro",
-      "url": "https://jurnaldesustenabilitate.ro/nasa-space-apps-challenge-a-selectat-cele-3-proiecte-castigatoare-din-romania/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:37821c87fcd7b1e6"
-    },
-    {
-      "name": "NASA Space Apps Challenge opens registration for ...",
-      "organizer": "romania-insider.com",
-      "url": "https://www.romania-insider.com/nasa-space-apps-challenge-registrations-romania-2026",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:0a45fcd51ea71ae2"
+      "uid": "hk:8f2ba262cec9507d"
     },
     {
       "name": "NASA Space Apps Challenge registrations open",
@@ -1719,21 +1166,6 @@
         "apify"
       ],
       "uid": "hk:0aff578db72b631c"
-    },
-    {
-      "name": "NASA Space Apps Challenge Romania",
-      "organizer": "facebook.com",
-      "url": "https://www.facebook.com/SpaceAppsRomania/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:efe93c04d7c7ef61"
     },
     {
       "name": "OFFICIAL - Bestem Aerial PhantomPak Case, Full Review",
@@ -1869,51 +1301,6 @@
       "uid": "hk:44fadb32e688b3da"
     },
     {
-      "name": "Resources | The Bucharest Hackathon 2026",
-      "organizer": "thebucharesthackathon.com",
-      "url": "https://thebucharesthackathon.com/resources.html",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c4e0cd3d097752c8"
-    },
-    {
-      "name": "Restaurant of Tomorrow - Coding Challenge",
-      "organizer": "hackathon.com",
-      "url": "https://www.hackathon.com/event/restaurant-of-tomorrow---coding-challenge-90172433175",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:7f02d9da3014c6b4"
-    },
-    {
-      "name": "Schedule | The Bucharest Hackathon 2026",
-      "organizer": "thebucharesthackathon.com",
-      "url": "https://thebucharesthackathon.com/schedule",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:5d8afb3e4892b446"
-    },
-    {
       "name": "SmartHack (@smarthack.project)",
       "organizer": "facebook.com",
       "url": "https://www.facebook.com/smarthack.project/",
@@ -1944,66 +1331,6 @@
       "uid": "hk:09168dd644e1db6a"
     },
     {
-      "name": "Smarthack - Înscrie-te acum",
-      "organizer": "dezvoltarea-carierei.com",
-      "url": "https://www.dezvoltarea-carierei.com/smarthack",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:0ef6239e361b9a34"
-    },
-    {
-      "name": "Smarthack, 11-12 noiembrie - hackathonul organizat de ...",
-      "organizer": "start-up.ro",
-      "url": "https://start-up.ro/smarthack-11-12-noiembrie-hackathonul-organizat-de-studentii-la-matematica/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:63057af1c42c8ae5"
-    },
-    {
-      "name": "Studenți ai Universității din Oradea la Hackathon ...",
-      "organizer": "uoradea.ro",
-      "url": "https://www.uoradea.ro/studenti-ai-universitatii-din-oradea-la-hackathon-innovation-labs-bucuresti/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:67665bad6c401a11"
-    },
-    {
-      "name": "Tender are invited for the smarthack Tender, ID 8043779",
-      "organizer": "romaniatenders.com",
-      "url": "https://www.romaniatenders.com/tender/tender-are-invited-smarthack-7abd03.php",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c11040233b67fc30"
-    },
-    {
       "name": "That's a Wrap on the EESTEC Olympics Hackathon! From ...",
       "organizer": "facebook.com",
       "url": "https://www.facebook.com/EESTEC.Olympics/videos/-thats-a-wrap-on-the-eestec-olympics-hackathon-from-intense-coding-sessions-to-u/1723520504871247/",
@@ -2019,21 +1346,6 @@
       "uid": "hk:a426017f07ba2c90"
     },
     {
-      "name": "The Bucharest Hackathon",
-      "organizer": "softlead.ro",
-      "url": "https://softlead.ro/evenimente-it-c/the-bucharest-hackathon.html",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:6e3ec9c8c02d3769"
-    },
-    {
       "name": "The Rise of AI Agents Hackathon",
       "organizer": "lablab.ai",
       "url": "https://lablab.ai/ai-hackathons/ai-agents-ai-week-hackathon",
@@ -2047,36 +1359,6 @@
         "apify"
       ],
       "uid": "hk:a80f552e5e5b77ec"
-    },
-    {
-      "name": "What about Innovation Labs Hackathon 2026?",
-      "organizer": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/ilabsro_what-about-innovation-labs-hackathon-2026-activity-7436772848700121088-11m7",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:f81a1241c6be2d04"
-    },
-    {
-      "name": "when the idea is still being built. 🚀 NASA Space Apps ...",
-      "organizer": "instagram.com",
-      "url": "https://www.instagram.com/p/Dci67c4js92/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:3acb15305290f356"
     }
   ]
 }

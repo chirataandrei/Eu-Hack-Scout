@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:36:10.240916+00:00",
+  "updated_at": "2026-08-31T13:59:36.845858+00:00",
   "hackathons": [
     {
       "name": "305 HackFiesta Miami Edition August 2026",
@@ -483,6 +483,19 @@
       "uid": "hk:3088cd8be0c1309d"
     },
     {
+      "name": "TechSprint",
+      "organizer": "MKSSS's Cummins College of Engineering for Women (CCOEW), Pune",
+      "url": "https://unstop.com/hackathons/techsprint-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-1746971",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-15",
+      "registration_deadline": "2026-09-15",
+      "tags": [],
+      "uid": "hk:a90ca625ffbd9f86"
+    },
+    {
       "name": "ETHOnline 2026",
       "organizer": "ETHGlobal",
       "url": "https://ethglobal.com/events/ethonline2026",
@@ -711,19 +724,6 @@
         "IoT"
       ],
       "uid": "hk:52689d28df0b0b61"
-    },
-    {
-      "name": "VibeCraft",
-      "organizer": "SRM Institute of Science & Technology, Trichy",
-      "url": "https://unstop.com/hackathons/vibecraft-yuva-srm-institute-of-science-technology-trichy-1746700",
-      "source": "unstop",
-      "location": "Tiruchirappalli",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-24",
-      "registration_deadline": "2026-09-24",
-      "tags": [],
-      "uid": "hk:1b18665167a19340"
     },
     {
       "name": "Enigma 5.0 - Genesis: Beyond The Future",
@@ -967,6 +967,21 @@
         "Open Ended"
       ],
       "uid": "hk:1c77ff7d528950eb"
+    },
+    {
+      "name": "NASA Space Apps Challenge kicks off registrations",
+      "organizer": "rotsa.ro",
+      "url": "https://rotsa.ro/en/news-en/nasa-space-apps-challenge-the-largest-global-hackathon-in-the-world-which-is-at-its-tenth-edition-globally-and-the-sixth-in-romania-kicks-off-registrations/",
+      "source": "apify",
+      "location": "",
+      "format": "online",
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-03",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:203e17f6d7352e80"
     },
     {
       "name": "CSC Back-to-School Hackathon",
@@ -1605,21 +1620,6 @@
       "uid": "hk:cf4546c173d23d83"
     },
     {
-      "name": "EthBolivia2025",
-      "organizer": "ETH Bolivia",
-      "url": "https://taikai.network/hackathons/EthBolivia2025",
-      "source": "taikai",
-      "location": "Online",
-      "format": "online",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "taikai"
-      ],
-      "uid": "hk:9e89a3f183eadb5c"
-    },
-    {
       "name": "Ethereum Argentina Hackathon Tierra de Buidlers",
       "organizer": "Ethereum Argentina",
       "url": "https://taikai.network/hackathons/tierra-de-buidlers-2025",
@@ -2008,21 +2008,6 @@
         "taikai"
       ],
       "uid": "hk:cd0e747fed72af3d"
-    },
-    {
-      "name": "NASA Space Apps Challenge kicks off registrations",
-      "organizer": "rotsa.ro",
-      "url": "https://rotsa.ro/en/news-en/nasa-space-apps-challenge-the-largest-global-hackathon-in-the-world-which-is-at-its-tenth-edition-globally-and-the-sixth-in-romania-kicks-off-registrations/",
-      "source": "apify",
-      "location": "",
-      "format": "online",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:203e17f6d7352e80"
     },
     {
       "name": "Parallel Society by Logos - Hacker Portal",
