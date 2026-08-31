@@ -1,0 +1,130 @@
+{
+  "updated_at": "2026-08-31T13:02:31.069707+00:00",
+  "hackathons": [
+    {
+      "name": "EESTEC București",
+      "organizer": "EESTEC LC Bucharest",
+      "url": "https://eestec.ro/",
+      "source": "eestec",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:6949e29eb8aff4e3"
+    },
+    {
+      "name": "EUDIS Space & Defence Hackathon",
+      "organizer": "Politehnica București",
+      "url": "https://upb.ro/eudis-space-defence-hackathon/",
+      "source": "upb",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "romania"
+      ],
+      "uid": "hk:e149b07eea599dff"
+    },
+    {
+      "name": "Ești student în domeniul IT? ASMI îți propune 24 de ore de inovație și creativitate la Smarthack",
+      "organizer": "Universitatea din București",
+      "url": "https://unibuc.ro/esti-student-in-domeniul-it-asmi-iti-propune-24-de-ore-de-inovatie-si-creativitate-la-smarthack/",
+      "source": "unibuc",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "romania"
+      ],
+      "uid": "hk:29c8d4c3ef4abb57"
+    },
+    {
+      "name": "GitGood Hack 2026 by ASMI & Microsoft: maraton de coding pentru studenții Universității din București",
+      "organizer": "Universitatea din București",
+      "url": "https://unibuc.ro/gitgood-hack-2026-by-asmi-microsoft-maraton-de-coding-pentru-studentii-universitatii-din-bucuresti/",
+      "source": "unibuc",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "romania"
+      ],
+      "uid": "hk:dc97665d591fe3c0"
+    },
+    {
+      "name": "HackITall",
+      "organizer": "LSAC București",
+      "url": "https://hack.lsacbucuresti.ro/",
+      "source": "lsac",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:e96b69e0ea988d16"
+    },
+    {
+      "name": "Innovation Labs 2026",
+      "organizer": "Innovation Labs",
+      "url": "https://www.innovationlabs.ro/",
+      "source": "innovationlabs",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:e908f30dfb189532"
+    },
+    {
+      "name": "Space Apps Challenge",
+      "organizer": "NASA Space Apps Bucharest",
+      "url": "https://www.spaceappschallenge.org/2026/locations/bucharest/",
+      "source": "nasa",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:8042a6d2b32dc804"
+    },
+    {
+      "name": "The Bucharest Hackathon | Bucharest Romania",
+      "organizer": "The Bucharest Hackathon",
+      "url": "https://thebucharesthackathon.com/",
+      "source": "tbh",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:510733d4beb0a9cd"
+    },
+    {
+      "name": "UEFISCDI organizează ediția locală a competiției europene EU Sparks for Climate – Citizens Hackaton Championship",
+      "organizer": "Universitatea din București",
+      "url": "https://unibuc.ro/uefiscdi-organizeaza-editia-locala-a-competitiei-europene-eu-sparks-for-climate-citizens-hackaton-championship/",
+      "source": "unibuc",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "romania"
+      ],
+      "uid": "hk:77f5d1d77eee671d"
+    }
+  ]
+}

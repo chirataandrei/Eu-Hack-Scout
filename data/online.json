@@ -1,0 +1,2158 @@
+{
+  "updated_at": "2026-08-31T13:02:31.069707+00:00",
+  "hackathons": [
+    {
+      "name": "305 HackFiesta Miami Edition August 2026",
+      "organizer": "GOOGLE DEVELOPER GROUP AT FIU",
+      "url": "https://305hackfiestamiamiaug2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-31",
+      "registration_deadline": "2026-08-31",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Lifehacks"
+      ],
+      "uid": "hk:a393d1c4bac470f4"
+    },
+    {
+      "name": "3D Websites Hackathon",
+      "organizer": "Tanishq Kumar",
+      "url": "https://3d-websites-hackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-06-22",
+      "end_date": "2026-08-31",
+      "registration_deadline": "2026-08-31",
+      "tags": [
+        "Design",
+        "Web",
+        "Beginner Friendly"
+      ],
+      "uid": "hk:63ddd9e5a38fca66"
+    },
+    {
+      "name": "All Things Agentic Hackathon",
+      "organizer": "Google",
+      "url": "https://allthingsagentichackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-04",
+      "end_date": "2026-08-31",
+      "registration_deadline": "2026-08-31",
+      "tags": [
+        "Enterprise",
+        "Machine Learning/AI",
+        "Productivity"
+      ],
+      "uid": "hk:8ca919a121c2c813"
+    },
+    {
+      "name": "Graphiques Innovation Challenge",
+      "organizer": "Hack Club",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-31",
+      "registration_deadline": "2026-08-31",
+      "tags": [
+        "Enterprise",
+        "Fintech",
+        "Productivity"
+      ],
+      "uid": "hk:d0b57ad2c7fcbf89"
+    },
+    {
+      "name": "Hacksocial 2026",
+      "organizer": "Hacksocial",
+      "url": "https://hacksocial2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-31",
+      "registration_deadline": "2026-08-31",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
+        "Social Good"
+      ],
+      "uid": "hk:9c689a582e4fedb7"
+    },
+    {
+      "name": "AI YES :International Youth AI Competition",
+      "organizer": "International AI Youth Education Society",
+      "url": "https://ai-yes-competition-30441.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-06-17",
+      "end_date": "2026-09-01",
+      "registration_deadline": "2026-09-01",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:2e5423b9e5170507"
+    },
+    {
+      "name": "Hack the Habitat",
+      "organizer": "Hack the Habitat",
+      "url": "https://hack-the-habitat-2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-07",
+      "end_date": "2026-09-01",
+      "registration_deadline": "2026-09-01",
+      "tags": [
+        "IoT",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "uid": "hk:918795b055e6ac48"
+    },
+    {
+      "name": "TikTok TechJam 2026",
+      "organizer": "TikTok",
+      "url": "https://tiktoktechjam2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-29",
+      "end_date": "2026-09-01",
+      "registration_deadline": "2026-09-01",
+      "tags": [
+        "Machine Learning/AI",
+        "Cybersecurity",
+        "E-commerce/Retail"
+      ],
+      "uid": "hk:f788c33053ae0469"
+    },
+    {
+      "name": "Hack The Weather",
+      "organizer": "JHUB Africa",
+      "url": "https://hack-the-weather.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-03",
+      "registration_deadline": "2026-09-03",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
+        "Web"
+      ],
+      "uid": "hk:dec657bd87b188a4"
+    },
+    {
+      "name": "SPEED August AI Challenge",
+      "organizer": "SPEED",
+      "url": "https://august-ai-challenge-31059.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-18",
+      "end_date": "2026-09-03",
+      "registration_deadline": "2026-09-03",
+      "tags": [
+        "Beginner Friendly",
+        "Design",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:0af7ef34d6199a46"
+    },
+    {
+      "name": "TechX Rwanda Hackathon",
+      "organizer": "IEEE CMU Africa",
+      "url": "https://techx-rwanda-hackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-27",
+      "end_date": "2026-09-03",
+      "registration_deadline": "2026-09-03",
+      "tags": [
+        "Cybersecurity",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "uid": "hk:dec1710fd0394898"
+    },
+    {
+      "name": "The WebMCP Challenge",
+      "organizer": "OpenAI",
+      "url": "https://webmcp.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-25",
+      "end_date": "2026-09-03",
+      "registration_deadline": "2026-09-03",
+      "tags": [
+        "Machine Learning/AI",
+        "E-commerce/Retail",
+        "Web"
+      ],
+      "uid": "hk:c11db330ccfba296"
+    },
+    {
+      "name": "Hack for Humanity | Summer 2026 (+13 non-cash prizes)",
+      "organizer": "Hack for Humanity",
+      "url": "https://hack-for-humanity-summer-26.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-07",
+      "end_date": "2026-09-04",
+      "registration_deadline": "2026-09-04",
+      "tags": [
+        "Beginner Friendly",
+        "Health",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:b43791fa4228cc81"
+    },
+    {
+      "name": "Syntax Summit",
+      "organizer": "Student Organization",
+      "url": "https://syntax-summit.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-07-18",
+      "end_date": "2026-09-05",
+      "registration_deadline": "2026-09-05",
+      "tags": [
+        "DevOps",
+        "Machine Learning/AI",
+        "Robotic Process Automation"
+      ],
+      "uid": "hk:4eafec371c9e4f1b"
+    },
+    {
+      "name": "VoltHacks",
+      "organizer": "Dialogate",
+      "url": "https://volthacks.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-05-22",
+      "end_date": "2026-09-05",
+      "registration_deadline": "2026-09-05",
+      "tags": [
+        "IoT",
+        "Machine Learning/AI",
+        "Beginner Friendly"
+      ],
+      "uid": "hk:944c6974a6e3db93"
+    },
+    {
+      "name": "Coppell hackathon 1",
+      "organizer": "shrimat koti",
+      "url": "https://fintech-hackothon-1.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-06",
+      "registration_deadline": "2026-09-06",
+      "tags": [
+        "Fintech"
+      ],
+      "uid": "hk:e2a457abee146b1e"
+    },
+    {
+      "name": "Agentic Cinema: The Blockbuster Hackathon",
+      "organizer": "Google",
+      "url": "https://agentic-cinema.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-07-27",
+      "end_date": "2026-09-09",
+      "registration_deadline": "2026-09-09",
+      "tags": [
+        "Databases",
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "uid": "hk:9dda4096937fda81"
+    },
+    {
+      "name": "Hack2Heal 2.0 - Global Healthcare Innovation Hackathon",
+      "organizer": "Institute of Engineering & Management",
+      "url": "https://hack2heal.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-25",
+      "end_date": "2026-09-10",
+      "registration_deadline": "2026-09-10",
+      "tags": [
+        "Health",
+        "Machine Learning/AI",
+        "Beginner Friendly"
+      ],
+      "uid": "hk:dc4d85c68b021164"
+    },
+    {
+      "name": "Unfoldd CTF 2026",
+      "organizer": "Unfoldd Technologies",
+      "url": "https://unstop.com/hackathons/unfoldd-ctf-2026-unfoldd-technologies-1745588",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-10",
+      "registration_deadline": "2026-09-10",
+      "tags": [],
+      "uid": "hk:a21e51c82b12647b"
+    },
+    {
+      "name": "CSH Social Impact Ideathon",
+      "organizer": "CyberSyntax Hub",
+      "url": "https://csh-social-impact-ideathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-11",
+      "registration_deadline": "2026-09-11",
+      "tags": [
+        "Low/No Code",
+        "Open Ended",
+        "Social Good"
+      ],
+      "uid": "hk:9aa0a452d94e469b"
+    },
+    {
+      "name": "AnimalHack 2026",
+      "organizer": "Binnovative",
+      "url": "https://animalhack2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-06-14",
+      "end_date": "2026-09-12",
+      "registration_deadline": "2026-09-12",
+      "tags": [
+        "Beginner Friendly",
+        "Open Ended",
+        "Social Good"
+      ],
+      "uid": "hk:11a856c8cc066bdc"
+    },
+    {
+      "name": "Music from BeatMind",
+      "organizer": "SPA Bhopal",
+      "url": "https://music-from-beatmind.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-27",
+      "end_date": "2026-09-12",
+      "registration_deadline": "2026-09-12",
+      "tags": [
+        "Music/Art"
+      ],
+      "uid": "hk:8b3b7d0607a35fe7"
+    },
+    {
+      "name": "Animal Hack",
+      "organizer": "Hack Club",
+      "url": "https://animalhack.org",
+      "source": "hackclub",
+      "location": "",
+      "format": "online",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:eba9efb79c13e34d"
+    },
+    {
+      "name": "NextStep Hacks 2026",
+      "organizer": "HackAlphaX",
+      "url": "https://nextstep2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-21",
+      "end_date": "2026-09-13",
+      "registration_deadline": "2026-09-13",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "uid": "hk:b0db17a9db09b07a"
+    },
+    {
+      "name": "VentureFix",
+      "organizer": "PropNote AI",
+      "url": "https://venturefix.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-30",
+      "end_date": "2026-09-13",
+      "registration_deadline": "2026-09-13",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:6ed47b1d096e64fc"
+    },
+    {
+      "name": "Agents for Humans Hackathon",
+      "organizer": "Amazon",
+      "url": "https://agentsforhumans.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-10",
+      "end_date": "2026-09-14",
+      "registration_deadline": "2026-09-14",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "uid": "hk:cad3ba2108d88182"
+    },
+    {
+      "name": "CALL-E: Your Code Is Calling",
+      "organizer": "CALL-E",
+      "url": "https://call-e.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-07-23",
+      "end_date": "2026-09-14",
+      "registration_deadline": "2026-09-14",
+      "tags": [
+        "Communication",
+        "Enterprise",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:edd5923f9886f3de"
+    },
+    {
+      "name": "Hyperbloom September - AI/ML",
+      "organizer": "hyperbloom hacks",
+      "url": "https://hyperbloom-september.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-25",
+      "end_date": "2026-09-14",
+      "registration_deadline": "2026-09-14",
+      "tags": [
+        "IoT",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "uid": "hk:5d1b7f5939299977"
+    },
+    {
+      "name": "AI Builders Hackathon",
+      "organizer": "OSC",
+      "url": "https://ai-builders-hackathon-2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-21",
+      "end_date": "2026-09-15",
+      "registration_deadline": "2026-09-15",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
+        "Beginner Friendly"
+      ],
+      "uid": "hk:3088cd8be0c1309d"
+    },
+    {
+      "name": "Code Kitchen",
+      "organizer": "HackerEarth",
+      "url": "https://www.hackerearth.com/challenges/hackathon/code-kitchen/",
+      "source": "hackerearth",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-24",
+      "end_date": "2026-09-15",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:b8202493fd259d05"
+    },
+    {
+      "name": "ETHOnline 2026",
+      "organizer": "ETHGlobal",
+      "url": "https://ethglobal.com/events/ethonline2026",
+      "source": "ethglobal",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-16",
+      "registration_deadline": null,
+      "tags": [
+        "web3"
+      ],
+      "uid": "hk:2701deb6fcd2e640"
+    },
+    {
+      "name": "GatewayGS Hackathon 2",
+      "organizer": "GatewayGS",
+      "url": "https://gatewaygs-hackathon-2.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-16",
+      "registration_deadline": "2026-09-16",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "uid": "hk:58438b48eaf4534c"
+    },
+    {
+      "name": "COMPSPHERE 12",
+      "organizer": "President University",
+      "url": "https://compsphere12.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-03",
+      "end_date": "2026-09-17",
+      "registration_deadline": "2026-09-17",
+      "tags": [
+        "Blockchain",
+        "Machine Learning/AI",
+        "Cybersecurity"
+      ],
+      "uid": "hk:e7c08ad427f871b2"
+    },
+    {
+      "name": "Global Hack Week: Data",
+      "organizer": "MLH",
+      "url": "https://events.mlh.io/events/14416-global-hack-week-data",
+      "source": "mlh",
+      "location": "Everywhere, Worldwide",
+      "format": "online",
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-17",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:c616fd1ece3a5e58"
+    },
+    {
+      "name": "The Rice University Urban Sustainability Hackathon",
+      "organizer": "Rice University",
+      "url": "https://rice-urban-sustainability.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-06-23",
+      "end_date": "2026-09-18",
+      "registration_deadline": "2026-09-18",
+      "tags": [
+        "Design",
+        "Social Good",
+        "Databases"
+      ],
+      "uid": "hk:df819361fed71ef0"
+    },
+    {
+      "name": "SHPE Jr. Designathon",
+      "organizer": "SHPE UF",
+      "url": "https://shpe-jr-designathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "registration_deadline": "2026-09-19",
+      "tags": [
+        "Beginner Friendly"
+      ],
+      "uid": "hk:cbc06d457865714a"
+    },
+    {
+      "name": "SPEED Virgo Challenge",
+      "organizer": "Prometheus",
+      "url": "https://virgo.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-19",
+      "registration_deadline": "2026-09-19",
+      "tags": [
+        "Beginner Friendly",
+        "Design",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:45b5ede17a98991d"
+    },
+    {
+      "name": "Evorozen Apex: NextGen AI Buildathon",
+      "organizer": "Evorozen ",
+      "url": "https://evorozen-apex.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-07-17",
+      "end_date": "2026-09-20",
+      "registration_deadline": "2026-09-20",
+      "tags": [
+        "Databases",
+        "Machine Learning/AI",
+        "Web"
+      ],
+      "uid": "hk:a00ce934a8315aca"
+    },
+    {
+      "name": "GitHub Repo Value Check",
+      "organizer": "HackerEarth",
+      "url": "https://www.hackerearth.com/challenges/hackathon/github-repo-value-check/",
+      "source": "hackerearth",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-14",
+      "end_date": "2026-09-20",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:3addbcecf64d0525"
+    },
+    {
+      "name": "SPEED September AI Challenge",
+      "organizer": "SPEED",
+      "url": "https://prometheus-sept-ai-classic.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-19",
+      "end_date": "2026-09-20",
+      "registration_deadline": "2026-09-20",
+      "tags": [
+        "Beginner Friendly",
+        "Design",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:38a17ebc46a84eee"
+    },
+    {
+      "name": "TLN Hackathon 2026",
+      "organizer": "Tech Literacy Network",
+      "url": "https://tln-cybersecurity-challenge.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "registration_deadline": "2026-09-20",
+      "tags": [
+        "Beginner Friendly",
+        "Cybersecurity",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:a99e6c2ac6ce984b"
+    },
+    {
+      "name": "Global Innovation Build Challenge V2",
+      "organizer": "Kang Chiao International School Student ",
+      "url": "https://gibc-v2.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-07-11",
+      "end_date": "2026-09-21",
+      "registration_deadline": "2026-09-21",
+      "tags": [
+        "Machine Learning/AI",
+        "Social Good",
+        "Beginner Friendly"
+      ],
+      "uid": "hk:f82ea86dc9d4ca50"
+    },
+    {
+      "name": "BunnieX Hackathon",
+      "organizer": "TechieBunnies team",
+      "url": "https://buuniex-hackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-06-22",
+      "end_date": "2026-09-22",
+      "registration_deadline": "2026-09-22",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
+        "Productivity"
+      ],
+      "uid": "hk:e8c304e0a502262b"
+    },
+    {
+      "name": "Hyperbloom September - Beginer Freindly",
+      "organizer": "hyperbloom hacks",
+      "url": "https://hyperbloom-september2.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-23",
+      "registration_deadline": "2026-09-23",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Low/No Code"
+      ],
+      "uid": "hk:662c700df86e9b01"
+    },
+    {
+      "name": "NeuroHack - 1.0",
+      "organizer": "Axonic",
+      "url": "https://neurohack-1-0-by-axonic.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-16",
+      "end_date": "2026-09-24",
+      "registration_deadline": "2026-09-24",
+      "tags": [
+        "Beginner Friendly",
+        "Health",
+        "IoT"
+      ],
+      "uid": "hk:52689d28df0b0b61"
+    },
+    {
+      "name": "VibeCraft",
+      "organizer": "SRM Institute of Science & Technology, Trichy",
+      "url": "https://unstop.com/hackathons/vibecraft-yuva-srm-institute-of-science-technology-trichy-1746700",
+      "source": "unstop",
+      "location": "Tiruchirappalli",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-24",
+      "registration_deadline": "2026-09-24",
+      "tags": [],
+      "uid": "hk:1b18665167a19340"
+    },
+    {
+      "name": "Enigma 5.0 - Genesis: Beyond The Future",
+      "organizer": "SIES Graduate School of Technology, Navi Mumbai, Maharashtra",
+      "url": "https://unstop.com/hackathons/enigma-50-genesis-beyond-the-future-sies-graduate-school-of-technology-navi-mumbai-maharashtra-1739658",
+      "source": "unstop",
+      "location": "Mumbai",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-26",
+      "registration_deadline": "2026-09-26",
+      "tags": [],
+      "uid": "hk:611f6e8eefcad5ea"
+    },
+    {
+      "name": "SPEED Fall Classic",
+      "organizer": "Prometheus CS",
+      "url": "https://prometheus-fall-classic.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-26",
+      "registration_deadline": "2026-09-26",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:ad097cd2cc43978c"
+    },
+    {
+      "name": "Zero Origin",
+      "organizer": "RotaractClub of SNSCollege of Technology",
+      "url": "https://zero-origin.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-27",
+      "end_date": "2026-09-26",
+      "registration_deadline": "2026-09-26",
+      "tags": [
+        "Fintech",
+        "Machine Learning/AI",
+        "Beginner Friendly"
+      ],
+      "uid": "hk:de5c807682429c98"
+    },
+    {
+      "name": "3rd-Web-Hack",
+      "organizer": "TechZap Club",
+      "url": "https://3rd-web-hack.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-22",
+      "end_date": "2026-09-27",
+      "registration_deadline": "2026-09-27",
+      "tags": [
+        "Blockchain",
+        "Open Ended",
+        "Web"
+      ],
+      "uid": "hk:67c2e49301936de7"
+    },
+    {
+      "name": "HackCelestial 3.0",
+      "organizer": "Pillai University, Navi Mumbai",
+      "url": "https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808",
+      "source": "unstop",
+      "location": "Navi Mumbai",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-27",
+      "registration_deadline": "2026-09-27",
+      "tags": [],
+      "uid": "hk:4d39e9f6081dba40"
+    },
+    {
+      "name": "Lake Oswego Hacks",
+      "organizer": "Lake Monsters Robotics (frc2635)",
+      "url": "https://lake-oswego-hacks.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "registration_deadline": "2026-09-27",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Social Good"
+      ],
+      "uid": "hk:053ccb84a40b4b25"
+    },
+    {
+      "name": "LexHack 2026",
+      "organizer": "Lexhack",
+      "url": "https://lexhack-2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-27",
+      "registration_deadline": "2026-09-27",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Social Good"
+      ],
+      "uid": "hk:87d4a156c97acc08"
+    },
+    {
+      "name": "Prometheus September AI Challenge (Hybrid)",
+      "organizer": "Prometheus CS",
+      "url": "https://prometheus-aug-ml-hackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-30",
+      "end_date": "2026-09-27",
+      "registration_deadline": "2026-09-27",
+      "tags": [
+        "Machine Learning/AI",
+        "Productivity",
+        "Health"
+      ],
+      "uid": "hk:1bb097d681bdcca8"
+    },
+    {
+      "name": "LUMA Hackathon (September 20th - 28th)",
+      "organizer": "LUMA",
+      "url": "https://luma-hackathon-fall.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-06-26",
+      "end_date": "2026-09-28",
+      "registration_deadline": "2026-09-28",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "uid": "hk:4846b198f5317fe3"
+    },
+    {
+      "name": "Beginner's Paradise - FirstCommit",
+      "organizer": "FirstCommit",
+      "url": "https://firstcommit.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-21",
+      "end_date": "2026-09-30",
+      "registration_deadline": "2026-09-30",
+      "tags": [
+        "Beginner Friendly",
+        "Mobile",
+        "Web"
+      ],
+      "uid": "hk:ec35393ce94fe6ae"
+    },
+    {
+      "name": "ML Empowerment Build Challenge 3.0",
+      "organizer": "ML Empowerment Foundation",
+      "url": "https://ml--build-challenge-3-0.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-30",
+      "end_date": "2026-10-01",
+      "registration_deadline": "2026-10-01",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "uid": "hk:7f2b0d344f6b87c8"
+    },
+    {
+      "name": "OneAquaHealth IEEE Global Hackathon",
+      "organizer": "OneAquaHealth",
+      "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-14",
+      "end_date": "2026-10-01",
+      "registration_deadline": "2026-10-01",
+      "tags": [
+        "Health",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "uid": "hk:a6dac7a0a26d944a"
+    },
+    {
+      "name": "QuHack Hackathon",
+      "organizer": "Rajiv Gandhi University of Knowledge Technologies (RGUKT), Nuzvid",
+      "url": "https://unstop.com/hackathons/quhack-hackathon-rajiv-gandhi-university-of-knowledge-technologies-rgukt-nuzvid-1746545",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-01",
+      "registration_deadline": "2026-10-01",
+      "tags": [],
+      "uid": "hk:40c12ac4402258b6"
+    },
+    {
+      "name": "RevenueCat Shipaton 2026",
+      "organizer": "RevenueCat",
+      "url": "https://revenuecat-shipaton-2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-07-31",
+      "end_date": "2026-10-01",
+      "registration_deadline": "2026-10-01",
+      "tags": [
+        "Design",
+        "Gaming",
+        "Mobile"
+      ],
+      "uid": "hk:44725448b10301eb"
+    },
+    {
+      "name": "GatewayHacks 2026 | Software & AI",
+      "organizer": "GatewayGS",
+      "url": "https://gatewayhacks-2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-01",
+      "end_date": "2026-10-02",
+      "registration_deadline": "2026-10-02",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "uid": "hk:1c77ff7d528950eb"
+    },
+    {
+      "name": "Yuva Yodha Energy Tech Hackathon",
+      "organizer": "HackerEarth",
+      "url": "https://www.hackerearth.com/challenges/hackathon/yuva-yodha-energy-tech-hackathon/",
+      "source": "hackerearth",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-16",
+      "end_date": "2026-10-04",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:13d394a42b5df487"
+    },
+    {
+      "name": "CSC Back-to-School Hackathon",
+      "organizer": "The Webb Schools CSC",
+      "url": "https://csc-back-to-school.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-04",
+      "end_date": "2026-10-05",
+      "registration_deadline": "2026-10-05",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Social Good"
+      ],
+      "uid": "hk:8ef8e5812661775f"
+    },
+    {
+      "name": "UnivaBio",
+      "organizer": "BioCataalysis",
+      "url": "https://univabio.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-07",
+      "end_date": "2026-10-06",
+      "registration_deadline": "2026-10-06",
+      "tags": [
+        "Beginner Friendly",
+        "Health",
+        "Social Good"
+      ],
+      "uid": "hk:6fc271e944e129b4"
+    },
+    {
+      "name": "ForgeHacks Online 2026",
+      "organizer": "ForgeHacks",
+      "url": "https://forgehacks-2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-10",
+      "registration_deadline": "2026-10-10",
+      "tags": [
+        "Beginner Friendly",
+        "Lifehacks",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:49cfcf26bfaa6f4f"
+    },
+    {
+      "name": "Banana Hacks",
+      "organizer": "n/a",
+      "url": "https://banana-hacks-1111.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-12",
+      "registration_deadline": "2026-10-12",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Web"
+      ],
+      "uid": "hk:b062464845159a28"
+    },
+    {
+      "name": "Hyperbloom October- UI/UX and Web Design",
+      "organizer": "hyperbloom hacks",
+      "url": "https://hyperbloom-october.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-12",
+      "registration_deadline": "2026-10-12",
+      "tags": [
+        "Design",
+        "Productivity",
+        "Web"
+      ],
+      "uid": "hk:a85428398d3b2977"
+    },
+    {
+      "name": "United Hackathons V1",
+      "organizer": "United Hackathons",
+      "url": "https://devonomicsv1.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-06",
+      "end_date": "2026-10-12",
+      "registration_deadline": "2026-10-12",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
+        "Social Good"
+      ],
+      "uid": "hk:ba251b6556de0dc1"
+    },
+    {
+      "name": "SPEED October AI Challenge",
+      "organizer": "SPEED",
+      "url": "https://prometheus-september-ai-2.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-19",
+      "end_date": "2026-10-14",
+      "registration_deadline": "2026-10-14",
+      "tags": [
+        "Machine Learning/AI",
+        "Beginner Friendly",
+        "Design"
+      ],
+      "uid": "hk:63a4633aac3816e7"
+    },
+    {
+      "name": "HACK47: OFFGRID",
+      "organizer": "Hack47",
+      "url": "https://hack47-offgrid.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-15",
+      "end_date": "2026-10-15",
+      "registration_deadline": "2026-10-15",
+      "tags": [
+        "Enterprise",
+        "Open Ended",
+        "Robotic Process Automation"
+      ],
+      "uid": "hk:4065835de3dfdda2"
+    },
+    {
+      "name": "Next Founders Hackathon",
+      "organizer": "Student Organization",
+      "url": "https://next-founders.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-16",
+      "end_date": "2026-10-15",
+      "registration_deadline": "2026-10-15",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Open Ended"
+      ],
+      "uid": "hk:36cd12e4f2c995ef"
+    },
+    {
+      "name": "MLAI Hackathon",
+      "organizer": "Mạng Lưới AI",
+      "url": "https://mlai-hackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-18",
+      "end_date": "2026-10-16",
+      "registration_deadline": "2026-10-16",
+      "tags": [
+        "Databases",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:9fc29dcba288b65e"
+    },
+    {
+      "name": "Neighborhood Hacks",
+      "organizer": "Student Organization",
+      "url": "https://neighborhood-hacks-2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-24",
+      "registration_deadline": "2026-10-24",
+      "tags": [
+        "Beginner Friendly",
+        "Social Good"
+      ],
+      "uid": "hk:de635fea596d4c71"
+    },
+    {
+      "name": "IEEE ClimateChain Global Hackathon",
+      "organizer": "IEEE Turkey",
+      "url": "https://ieee-climatechain-hack.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-25",
+      "registration_deadline": "2026-10-25",
+      "tags": [
+        "Blockchain",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "uid": "hk:6b90618a61d26918"
+    },
+    {
+      "name": "OpenCV AI Competition 2026, powered by AWS",
+      "organizer": "OpenCV",
+      "url": "https://opencv26.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-26",
+      "end_date": "2026-10-27",
+      "registration_deadline": "2026-10-27",
+      "tags": [
+        "IoT",
+        "Machine Learning/AI",
+        "Serverless"
+      ],
+      "uid": "hk:3d28e21632ef8a2d"
+    },
+    {
+      "name": "Nebius x NVIDIA Global AI Hackathon",
+      "organizer": "nebius",
+      "url": "https://nebiusglobalaihackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-26",
+      "end_date": "2026-10-30",
+      "registration_deadline": "2026-10-30",
+      "tags": [
+        "Machine Learning/AI",
+        "Beginner Friendly",
+        "Robotic Process Automation"
+      ],
+      "uid": "hk:a4302cb3db0c2a3d"
+    },
+    {
+      "name": "Galuxium Nexus V2",
+      "organizer": "Galuxium",
+      "url": "https://galuxium-nexus-v2-29411.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-07-15",
+      "end_date": "2026-10-31",
+      "registration_deadline": "2026-10-31",
+      "tags": [
+        "Enterprise",
+        "Machine Learning/AI",
+        "Productivity"
+      ],
+      "uid": "hk:92354790b10b1158"
+    },
+    {
+      "name": "Hacknexus",
+      "organizer": "MASTERMIND RESEARCH TECHNOLOGIES",
+      "url": "https://unstop.com/hackathons/hacknexus-mastermind-research-technologies-1746846",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-31",
+      "registration_deadline": "2026-10-31",
+      "tags": [],
+      "uid": "hk:6e681ad064c2947d"
+    },
+    {
+      "name": "DSH Hacks V2",
+      "organizer": "STEMise",
+      "url": "https://dsh-hacks-v2.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-06-24",
+      "end_date": "2026-11-08",
+      "registration_deadline": "2026-11-08",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Open Ended"
+      ],
+      "uid": "hk:7334efda85e8abad"
+    },
+    {
+      "name": "Bridge The Gap Hacks",
+      "organizer": "Bridge The Gap Hacks",
+      "url": "https://sq-hacks.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-21",
+      "registration_deadline": "2026-11-21",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "uid": "hk:b22cd0552059e903"
+    },
+    {
+      "name": "SourceHacks V1",
+      "organizer": "SourceHacks",
+      "url": "https://sourcehacksv1.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-12-11",
+      "end_date": "2026-12-12",
+      "registration_deadline": "2026-12-12",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Social Good"
+      ],
+      "uid": "hk:ca18b53808a444a9"
+    },
+    {
+      "name": "LaunchHacks V",
+      "organizer": "LaunchHacks",
+      "url": "https://launchhacks-v.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-12-11",
+      "end_date": "2026-12-15",
+      "registration_deadline": "2026-12-15",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:22f59d7dcacb38cd"
+    },
+    {
+      "name": "Arbiter Hacks V1",
+      "organizer": "Arbiter ",
+      "url": "https://arbiter-hacks-v1.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-20",
+      "end_date": "2026-12-21",
+      "registration_deadline": "2026-12-21",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "uid": "hk:846f35f3315f61dd"
+    },
+    {
+      "name": "MCA 2026 projects",
+      "organizer": "Mizzou Computing Association",
+      "url": "https://mca-2026-projects.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-02-27",
+      "end_date": "2026-12-25",
+      "registration_deadline": "2026-12-25",
+      "tags": [
+        "Beginner Friendly"
+      ],
+      "uid": "hk:2b057abf14f143d6"
+    },
+    {
+      "name": "evensonarisnord",
+      "organizer": "HoustonHacks2026",
+      "url": "https://evensonarisnord.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-12-31",
+      "end_date": "2026-12-31",
+      "registration_deadline": "2026-12-31",
+      "tags": [
+        "Communication",
+        "Databases"
+      ],
+      "uid": "hk:39aad5c43db52955"
+    },
+    {
+      "name": "United Hacks V8",
+      "organizer": "Hack United",
+      "url": "https://unitedhacksv8.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2027-01-08",
+      "end_date": "2027-01-10",
+      "registration_deadline": "2027-01-10",
+      "tags": [
+        "Beginner Friendly",
+        "Design",
+        "Education"
+      ],
+      "uid": "hk:d615579c3ed126a4"
+    },
+    {
+      "name": "HackTitan",
+      "organizer": "IWU",
+      "url": "https://hacktitan.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2027-02-02",
+      "end_date": "2027-02-04",
+      "registration_deadline": "2027-02-04",
+      "tags": [
+        "Beginner Friendly",
+        "Databases",
+        "DevOps"
+      ],
+      "uid": "hk:87583afa40a34856"
+    },
+    {
+      "name": "DeveloperWeek 2027 Hackathon",
+      "organizer": "DevNetwork",
+      "url": "https://developerweek-2027-hackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Santa Clara Convention Center + Online",
+      "format": "online",
+      "start_date": "2027-01-25",
+      "end_date": "2027-02-11",
+      "registration_deadline": "2027-02-11",
+      "tags": [
+        "Enterprise",
+        "IoT",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:47e6942d02572ebb"
+    },
+    {
+      "name": "N/A",
+      "organizer": "NA",
+      "url": "https://ai-content-engine-hackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2027-02-02",
+      "end_date": "2027-04-06",
+      "registration_deadline": "2027-04-06",
+      "tags": [
+        "COVID-19",
+        "Design",
+        "Gaming"
+      ],
+      "uid": "hk:4e47a8e0baef1db6"
+    },
+    {
+      "name": "EurekaDev 2026",
+      "organizer": "Eureka Institute and UnivaDev",
+      "url": "https://eurekadev.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2027-08-27",
+      "end_date": "2027-10-20",
+      "registration_deadline": "2027-10-20",
+      "tags": [
+        "Beginner Friendly",
+        "Open Ended",
+        "Social Good"
+      ],
+      "uid": "hk:f6642b9d10e5eef8"
+    },
+    {
+      "name": "Brewing Codes 4.0",
+      "organizer": "HARD MODE",
+      "url": "https://brewing-codes-4-0.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2028-03-12",
+      "end_date": "2028-03-27",
+      "registration_deadline": "2028-03-27",
+      "tags": [
+        "Low/No Code",
+        "Machine Learning/AI",
+        "Web"
+      ],
+      "uid": "hk:793ed1af737e818c"
+    },
+    {
+      "name": "Agents Day Braga 2026",
+      "organizer": "LayerX",
+      "url": "https://taikai.network/hackathons/agents-day-braga-2026",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:9711e7e319385588"
+    },
+    {
+      "name": "AI Agent Hackathon - The Squad Graph",
+      "organizer": "LayerX",
+      "url": "https://taikai.network/hackathons/the-squad-graph",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:e6ea2a2d969a2252"
+    },
+    {
+      "name": "AI Hacker House Solstice Edition",
+      "organizer": "LayerX",
+      "url": "https://taikai.network/hackathons/ai-hacker-house-solstice-edition",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:2dd8ae62b8daf0e3"
+    },
+    {
+      "name": "Amadeus Genesis Hack",
+      "organizer": "Amadeus",
+      "url": "https://taikai.network/hackathons/amadeus",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:055e19ced059e0de"
+    },
+    {
+      "name": "Amazon kdd cup 23 multilingual recommendation challenge",
+      "organizer": "AIcrowd",
+      "url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge",
+      "source": "aicrowd",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "ai",
+        "datathon"
+      ],
+      "uid": "hk:d5b3900a653fbeaa"
+    },
+    {
+      "name": "Arc white box estimation challenge 2026",
+      "organizer": "AIcrowd",
+      "url": "https://www.aicrowd.com/challenges/arc-white-box-estimation-challenge-2026",
+      "source": "aicrowd",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "ai",
+        "datathon"
+      ],
+      "uid": "hk:4749407fa0d2f4e9"
+    },
+    {
+      "name": "Common S3nse",
+      "organizer": "CryptoCanal",
+      "url": "https://taikai.network/hackathons/commons3nse",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:d7e4f573069d2a92"
+    },
+    {
+      "name": "CopernicusLAC Panamá Hackathon 2026 - Seguridad alimentaria",
+      "organizer": " Centro CopernicusLAC Panamá",
+      "url": "https://taikai.network/hackathons/seguridad-alimentaria-2026",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:00d5d7d40340f41b"
+    },
+    {
+      "name": "Ctrl Shift Hackathon 2026",
+      "organizer": "NapulETH",
+      "url": "https://taikai.network/hackathons/ctrl-shift-2026",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:a785352627d2bd63"
+    },
+    {
+      "name": "DeSci Builders",
+      "organizer": "Infinita City",
+      "url": "https://taikai.network/hackathons/desci-builders",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:cf4546c173d23d83"
+    },
+    {
+      "name": "EthBolivia2025",
+      "organizer": "ETH Bolivia",
+      "url": "https://taikai.network/hackathons/EthBolivia2025",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:9e89a3f183eadb5c"
+    },
+    {
+      "name": "Ethereum Argentina Hackathon Tierra de Buidlers",
+      "organizer": "Ethereum Argentina",
+      "url": "https://taikai.network/hackathons/tierra-de-buidlers-2025",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:0bd44d752d064938"
+    },
+    {
+      "name": "ETHIstanbul",
+      "organizer": "ETH Istanbul",
+      "url": "https://taikai.network/hackathons/ethistanbul-2025",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:ac86f8e32adc1730"
+    },
+    {
+      "name": "EUDIS Defence Hackathon and Mentoring - CZECH REPUBLIC Autumn",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - Prague Innovation Institute",
+      "url": "https://taikai.network/hackathons/czechrepublic",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:91acd7c091edf4fe"
+    },
+    {
+      "name": "EUDIS Defence Hackathon and Mentoring - POLAND Autumn",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - Blue Dot Solutions",
+      "url": "https://taikai.network/hackathons/poland",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:3da90e11722baf1c"
+    },
+    {
+      "name": "EUDIS Defence Hackathon and Mentoring - PORTUGAL Autumn",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - Productized",
+      "url": "https://taikai.network/hackathons/portugal",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:e20c71634205db6d"
+    },
+    {
+      "name": "EUDIS Defence Hackathon and Mentoring Spring 2026 - CZECH REPUBLIC",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - University of Defence & JIC",
+      "url": "https://taikai.network/hackathons/2026spring",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:ee7a5f1c78654023"
+    },
+    {
+      "name": "EUDIS Defence Hackathon and Mentoring Spring 2026 - FRANCE",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - Starburst Accelerator",
+      "url": "https://taikai.network/hackathons/2026spring",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:f27c2cf6983d2b6a"
+    },
+    {
+      "name": "EUDIS Defence Hackathon and Mentoring Spring 2026 - NORWAY",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - NORDSEC",
+      "url": "https://taikai.network/hackathons/2026spring",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:c3ff2c20dac1b110"
+    },
+    {
+      "name": "EUDIS Defence Hackathon and Mentoring Spring 2026 - POLAND",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - Krakow Technology Park",
+      "url": "https://taikai.network/hackathons/EUDIS-POLAND-1",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:9adfe9604fbc1300"
+    },
+    {
+      "name": "EUDIS Defence Hackathon and Mentoring Spring 2026 - PORTUGAL",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - Productized",
+      "url": "https://taikai.network/hackathons/2026spring",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:489b0a2a0b4ec47c"
+    },
+    {
+      "name": "EUDIS Defence Hackathon and Mentoring Spring 2026 - Romania",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - Romanian Tech Startups Association",
+      "url": "https://taikai.network/hackathons/2026spring",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:7ef3ca742b7b7544"
+    },
+    {
+      "name": "EUDIS Defence Hackathon and Mentoring Spring 2026 - SPAIN",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - Arribes Enlightment",
+      "url": "https://taikai.network/hackathons/2026spring",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:dcafdefe4eb15bd6"
+    },
+    {
+      "name": "EUDIS Defence Hackathon and Mentoring Spring 2026 - THE NETHERLANDS",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - Stiching Dotspace",
+      "url": "https://taikai.network/hackathons/2026spring",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:c83e0f57a2fc02ce"
+    },
+    {
+      "name": "EUDIS Hackathon and Mentorship - GERMANY Autumn",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - Bayern Innovativ GmbH",
+      "url": "https://taikai.network/hackathons/germany",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:e119e8c67a39bb32"
+    },
+    {
+      "name": "EUDIS Hackathon and Mentorship - ITALY Autumn",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - Fondazione E. Amaldi",
+      "url": "https://taikai.network/hackathons/italy",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:de60b132c02b7ab6"
+    },
+    {
+      "name": "EUDIS Hackathon and Mentorship - NETHERLANDS Autumn",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - dotSPACE",
+      "url": "https://taikai.network/hackathons/netherlands",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:49ba3cf1f7c08c7e"
+    },
+    {
+      "name": "EUDIS Hackathon and Mentorship - ROMANIA Autumn",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - Romanian Tech Startups Association",
+      "url": "https://taikai.network/hackathons/romania",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:702e76f90aa6f0c0"
+    },
+    {
+      "name": "EUDIS Hackathon and Mentorship - SPAIN Autumn",
+      "organizer": "EUDIS Defence Hackathon & Mentoring - Arribes Enlightment",
+      "url": "https://taikai.network/hackathons/SPAIN",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:493527594d4e7f18"
+    },
+    {
+      "name": "Fixathon",
+      "organizer": "Impact Hub Porto",
+      "url": "https://taikai.network/hackathons/fixathon",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:5d6c72283c7b8ec4"
+    },
+    {
+      "name": "Hackanation 2026",
+      "organizer": "TokenNation",
+      "url": "https://taikai.network/hackathons/Hackanation2026",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:9301b80c6ec48729"
+    },
+    {
+      "name": "Hackathon BugsByte 2026",
+      "organizer": "CeSIUM",
+      "url": "https://taikai.network/hackathons/bugsbyte26",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:ac6832d28d080da9"
+    },
+    {
+      "name": "Hyperliquid Community Hackathon",
+      "organizer": "HL Hackathon Organizers",
+      "url": "https://taikai.network/hackathons/hl-hackathon",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:ef5767f282b04d45"
+    },
+    {
+      "name": "Integrate Civic Auth",
+      "organizer": "Civic",
+      "url": "https://taikai.network/hackathons/civicauth",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:b5162f8418898a0c"
+    },
+    {
+      "name": "Kraken Forge - Build the tools beneath the surface",
+      "organizer": "Kraken",
+      "url": "https://taikai.network/hackathons/kraken-forge",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:ce67a5f3c5d87ee2"
+    },
+    {
+      "name": "Maritime Security Hackathon",
+      "organizer": "Talent Garden",
+      "url": "https://taikai.network/hackathons/maritime-security-challenge",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:cd0e747fed72af3d"
+    },
+    {
+      "name": "Parallel Society by Logos - Hacker Portal",
+      "organizer": "Logos @PS",
+      "url": "https://taikai.network/hackathons/logos",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:f9629bdf9ff49256"
+    },
+    {
+      "name": "Porto Hack Santos 2026",
+      "organizer": "Instituto Amigu",
+      "url": "https://taikai.network/hackathons/porto-hack-santos-2026",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:ce06c3d12ed55ddc"
+    },
+    {
+      "name": "REcity Hackathon",
+      "organizer": "[RE]city",
+      "url": "https://taikai.network/hackathons/recity25",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:0e6cb51217b4c152"
+    },
+    {
+      "name": "Shift APPens 2026",
+      "organizer": "Shift APPens",
+      "url": "https://taikai.network/hackathons/shift-appens-2026",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:8e5f66430fe765b7"
+    },
+    {
+      "name": "Spotify million playlist dataset challenge",
+      "organizer": "AIcrowd",
+      "url": "https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge",
+      "source": "aicrowd",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "ai",
+        "datathon"
+      ],
+      "uid": "hk:2b5ceb5445ae3066"
+    },
+    {
+      "name": "v0 Prompt to Production",
+      "organizer": "LayerX",
+      "url": "https://taikai.network/hackathons/v0-prompt-to-production",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:840cace17c1082f0"
+    },
+    {
+      "name": "Web3 Marketing Hackathon",
+      "organizer": "Out of Ordinary",
+      "url": "https://taikai.network/hackathons/web3mkthack",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:041c7d7701d498b2"
+    },
+    {
+      "name": "WiTH Africa Hackathon",
+      "organizer": "Nova SBE WiTH Africa",
+      "url": "https://taikai.network/hackathons/withafrica-data-challenge",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:ecb6c9499d85afa3"
+    }
+  ]
+}

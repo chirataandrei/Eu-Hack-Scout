@@ -1,0 +1,20 @@
+{
+  "data": {
+    "challenges": [
+      {
+        "id": "1",
+        "name": "CASSINI Hackathons - Space for Peace and Resilience",
+        "slug": "space-for-peace-resilience",
+        "organization": {"name": "CASSINI Hackathons & Mentoring"},
+        "currentStep": {"name": "Registrations open soon", "startDate": "2026-08-03T11:41:00.000Z"}
+      },
+      {
+        "id": "2",
+        "name": "AI Agent Hackathon - The Squad Graph",
+        "slug": "the-squad-graph",
+        "organization": {"name": "LayerX"},
+        "currentStep": {"name": "Submissions", "startDate": "2026-09-01T00:00:00.000Z"}
+      }
+    ]
+  }
+}

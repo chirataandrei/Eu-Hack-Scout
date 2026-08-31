@@ -1,0 +1,120 @@
+{
+  "orgs": [
+    {
+      "name": "LSAC București",
+      "source": "lsac",
+      "engine": "wordpress",
+      "homepage": "https://lsacbucuresti.ro",
+      "event_urls": ["https://hack.lsacbucuresti.ro/"],
+      "search": "hack",
+      "assume_bucharest": true
+    },
+    {
+      "name": "BEST Bucharest",
+      "source": "best",
+      "engine": "wordpress",
+      "homepage": "https://bestbucharest.ro",
+      "event_urls": ["https://bestbucharest.ro/bestem/"],
+      "search": "hack",
+      "assume_bucharest": true
+    },
+    {
+      "name": "Universitatea din București",
+      "source": "unibuc",
+      "engine": "wordpress",
+      "homepage": "https://unibuc.ro",
+      "search": "hackathon",
+      "assume_bucharest": true
+    },
+    {
+      "name": "Politehnica București",
+      "source": "upb",
+      "engine": "wordpress",
+      "homepage": "https://upb.ro",
+      "search": "hackathon",
+      "assume_bucharest": true
+    },
+    {
+      "name": "ASMI",
+      "source": "asmi",
+      "engine": "html",
+      "homepage": "https://asmi.ro/",
+      "event_urls": ["https://asmi.ro/Articole/google-hackaton"],
+      "assume_bucharest": true
+    },
+    {
+      "name": "Liga Studenților Electroniști",
+      "source": "lse",
+      "engine": "html",
+      "homepage": "https://lsebucuresti.org/",
+      "assume_bucharest": true
+    },
+    {
+      "name": "EESTEC LC Bucharest",
+      "source": "eestec",
+      "engine": "html",
+      "homepage": "https://eestec.ro/",
+      "assume_bucharest": true
+    },
+    {
+      "name": "Innovation Labs",
+      "source": "innovationlabs",
+      "engine": "html",
+      "homepage": "https://www.innovationlabs.ro/",
+      "assume_bucharest": true
+    },
+    {
+      "name": "The Bucharest Hackathon",
+      "source": "tbh",
+      "engine": "html",
+      "homepage": "https://thebucharesthackathon.com/",
+      "assume_bucharest": true
+    },
+    {
+      "name": "NASA Space Apps Bucharest",
+      "source": "nasa",
+      "engine": "html",
+      "homepage": "https://www.spaceappschallenge.org/2026/",
+      "event_urls": [
+        "https://www.spaceappschallenge.org/2026/locations/bucharest/"
+      ],
+      "assume_bucharest": true
+    },
+    {
+      "name": "OSFIIR",
+      "source": "osfiir",
+      "engine": "html",
+      "homepage": "",
+      "assume_bucharest": true
+    },
+    {
+      "name": "PoliHack OSUT Cluj",
+      "source": "polihack",
+      "engine": "html",
+      "homepage": "https://polihack.osut.org/",
+      "assume_bucharest": false,
+      "location": "Cluj-Napoca, Romania"
+    },
+    {
+      "name": "StartupCafe",
+      "source": "startupcafe",
+      "engine": "rss",
+      "homepage": "https://startupcafe.ro/feed/",
+      "assume_bucharest": true
+    },
+    {
+      "name": "start-up.ro",
+      "source": "startupro",
+      "engine": "rss",
+      "homepage": "https://start-up.ro/feed/",
+      "assume_bucharest": true
+    },
+    {
+      "name": "TechRider",
+      "source": "techrider",
+      "engine": "rss",
+      "homepage": "https://techrider.ro/feed/",
+      "assume_bucharest": true
+    }
+  ]
+}
