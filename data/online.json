@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:02:31.069707+00:00",
+  "updated_at": "2026-08-31T13:36:10.240916+00:00",
   "hackathons": [
     {
       "name": "305 HackFiesta Miami Edition August 2026",
@@ -483,19 +483,6 @@
       "uid": "hk:3088cd8be0c1309d"
     },
     {
-      "name": "Code Kitchen",
-      "organizer": "HackerEarth",
-      "url": "https://www.hackerearth.com/challenges/hackathon/code-kitchen/",
-      "source": "hackerearth",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-24",
-      "end_date": "2026-09-15",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:b8202493fd259d05"
-    },
-    {
       "name": "ETHOnline 2026",
       "organizer": "ETHGlobal",
       "url": "https://ethglobal.com/events/ethonline2026",
@@ -622,19 +609,6 @@
         "Web"
       ],
       "uid": "hk:a00ce934a8315aca"
-    },
-    {
-      "name": "GitHub Repo Value Check",
-      "organizer": "HackerEarth",
-      "url": "https://www.hackerearth.com/challenges/hackathon/github-repo-value-check/",
-      "source": "hackerearth",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-14",
-      "end_date": "2026-09-20",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:3addbcecf64d0525"
     },
     {
       "name": "SPEED September AI Challenge",
@@ -993,19 +967,6 @@
         "Open Ended"
       ],
       "uid": "hk:1c77ff7d528950eb"
-    },
-    {
-      "name": "Yuva Yodha Energy Tech Hackathon",
-      "organizer": "HackerEarth",
-      "url": "https://www.hackerearth.com/challenges/hackathon/yuva-yodha-energy-tech-hackathon/",
-      "source": "hackerearth",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-16",
-      "end_date": "2026-10-04",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:13d394a42b5df487"
     },
     {
       "name": "CSC Back-to-School Hackathon",
@@ -1989,6 +1950,21 @@
       "uid": "hk:ef5767f282b04d45"
     },
     {
+      "name": "IBM Bob 2.0 hackathon",
+      "organizer": "lablab.ai",
+      "url": "https://lablab.ai/ai-hackathons/ibm-bob-2-hackathon",
+      "source": "apify",
+      "location": "",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:d4e3a71c2456fe1b"
+    },
+    {
       "name": "Integrate Civic Auth",
       "organizer": "Civic",
       "url": "https://taikai.network/hackathons/civicauth",
@@ -2032,6 +2008,21 @@
         "taikai"
       ],
       "uid": "hk:cd0e747fed72af3d"
+    },
+    {
+      "name": "NASA Space Apps Challenge kicks off registrations",
+      "organizer": "rotsa.ro",
+      "url": "https://rotsa.ro/en/news-en/nasa-space-apps-challenge-the-largest-global-hackathon-in-the-world-which-is-at-its-tenth-edition-globally-and-the-sixth-in-romania-kicks-off-registrations/",
+      "source": "apify",
+      "location": "",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:203e17f6d7352e80"
     },
     {
       "name": "Parallel Society by Logos - Hacker Portal",
