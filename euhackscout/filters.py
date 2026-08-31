@@ -161,7 +161,7 @@ def is_hackathon(name: str, extra: str = "") -> bool:
 def is_stale_edition(name: str, today: date | None = None) -> bool:
     """Drop 'HackITAll 2024' retrospectives when the title year is already past."""
     today = today or date.today()
-    years = [int(y) for y in re.findall(r"\b(20\d{2})\b", name or "")]
+    years = [int(y) for y in re.findall(r"(?<!\d)(20\d{2})\b", name or "")]
     return bool(years) and max(years) < today.year
 
 

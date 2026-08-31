@@ -7,8 +7,9 @@ from typing import Any
 from urllib.parse import urlparse
 
 from euhackscout.config import APIFY_CACHE_PATH
+from euhackscout.filters import is_bucharest
 from euhackscout.http import HttpClient
-from euhackscout.models import Format, Hackathon, parse_date
+from euhackscout.models import Format, Hackathon, parse_date, parse_date_range
 from euhackscout.models import fold
 
 
@@ -35,11 +36,19 @@ def item_to_hackathon(item: dict[str, Any]) -> Hackathon | None:
     if not name or not url or not url.startswith("http"):
         return None
     snippet = str(item.get("description") or item.get("snippet") or item.get("text") or "")
+    blob = f"{name} {snippet}"
     loc = str(item.get("location") or "")
     query = fold(str(item.get("query_id") or item.get("query") or ""))
-    if not loc and ("bucuresti" in query or "bucharest" in query or "romania" in query):
+    if not loc and is_bucharest(blob):
         loc = "Bucharest, Romania"
-    fmt = Format.ONLINE if "online" in fold(f"{name} {snippet} {loc}") else Format.IN_PERSON
+    elif not loc and ("bucuresti" in query or "bucharest" in query or "romania" in query):
+        loc = "Bucharest, Romania"
+    fmt = Format.ONLINE if "online" in fold(f"{blob} {loc}") else Format.IN_PERSON
+    start = parse_date(item.get("start_date") or item.get("date"))
+    deadline = parse_date(item.get("deadline"))
+    end = None
+    if not (start or deadline):
+        start, end = parse_date_range(blob)
     return Hackathon(
         name=name,
         organizer=_organizer_from_url(url),
@@ -47,8 +56,9 @@ def item_to_hackathon(item: dict[str, Any]) -> Hackathon | None:
         source="apify",
         location=loc,
         format=fmt,
-        start_date=parse_date(item.get("start_date") or item.get("date")),
-        registration_deadline=parse_date(item.get("deadline")),
+        start_date=start,
+        end_date=end,
+        registration_deadline=deadline,
         tags=("apify",),
     )
 
