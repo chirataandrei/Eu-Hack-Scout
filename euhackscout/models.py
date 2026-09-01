@@ -33,8 +33,8 @@ _MONTHS = {
 
 _RANGE_RE = re.compile(
     r"""
-    (?P<d1>\d{1,2})
-    (?:\s*[-–—]\s*(?P<d2>\d{1,2}))?
+    (?P<d1>\d{1,2})(?:st|nd|rd|th)?
+    (?:\s*[-–—]\s*(?P<d2>\d{1,2})(?:st|nd|rd|th)?)?
     \s+
     (?P<m>[A-Za-zăâîșț]+)
     (?:\s+(?P<y>\d{4}))?
@@ -56,7 +56,11 @@ _YEAR_RE = re.compile(r"\b(20\d{2})\b")
 
 
 def _plausible_year(value: int) -> bool:
-    return 2020 <= value <= 2035
+    # Lower bound intentionally reaches well into the past: apify recap/news
+    # articles legitimately reference already-finished events (e.g. 2019), and
+    # those explicit years must be trusted rather than replaced with "today",
+    # or stale content quietly looks like a fresh upcoming hackathon.
+    return 2015 <= value <= 2035
 
 
 def _year_near(text: str, start: int, end: int, explicit: str | None = None) -> int:

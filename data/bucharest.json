@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T09:49:10.143031+00:00",
+  "updated_at": "2026-09-01T11:28:54.016136+00:00",
   "hackathons": [
     {
       "name": "NASA Space Apps Challenge 2026 in Bucharest and Cluj- ...",
@@ -15,21 +15,6 @@
         "apify"
       ],
       "uid": "hk:38f42062c7b12da7"
-    },
-    {
-      "name": "Discover Hackathon Events & Activities in Romania",
-      "organizer": "eventbrite.com",
-      "url": "https://www.eventbrite.com/d/romania/hackathon/",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:87afb45634b1f62c"
     },
     {
       "name": "NASA Space Apps Challenge opens registration for ...",
@@ -90,21 +75,6 @@
         "apify"
       ],
       "uid": "hk:5bb7a507be60fd82"
-    },
-    {
-      "name": "Colliers Hackathon",
-      "organizer": "hackathon.com",
-      "url": "https://www.hackathon.com/event/colliers-hackathon-5dd6b71880665b001bc3d28d",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:5ccb5e8d423b6e46"
     },
     {
       "name": "EESTEC București",
@@ -178,21 +148,6 @@
         "romania"
       ],
       "uid": "hk:29c8d4c3ef4abb57"
-    },
-    {
-      "name": "Find & Organize Hackathons in Bucharest, Romania",
-      "organizer": "hackathon.com",
-      "url": "https://www.hackathon.com/city/romania/bucharest",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:a802b723e623d091"
     },
     {
       "name": "FinTech Hackathon - Bucharest",
@@ -281,21 +236,6 @@
       "uid": "hk:e908f30dfb189532"
     },
     {
-      "name": "List of hackathons in Bucharest, Romania in 2026",
-      "organizer": "hackathon.com",
-      "url": "https://www.hackathon.com/city/romania/bucharest/2026",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:5db5b828751e60a1"
-    },
-    {
       "name": "NASA Space Apps Challenge Romania",
       "organizer": "facebook.com",
       "url": "https://www.facebook.com/SpaceAppsRomania/",
@@ -339,21 +279,6 @@
         "apify"
       ],
       "uid": "hk:c4e0cd3d097752c8"
-    },
-    {
-      "name": "Restaurant of Tomorrow - Coding Challenge",
-      "organizer": "hackathon.com",
-      "url": "https://www.hackathon.com/event/restaurant-of-tomorrow---coding-challenge-90172433175",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:7f02d9da3014c6b4"
     },
     {
       "name": "Schedule | The Bucharest Hackathon 2026",
@@ -414,21 +339,6 @@
       "uid": "hk:8042a6d2b32dc804"
     },
     {
-      "name": "Tender are invited for the smarthack Tender, ID 8043779",
-      "organizer": "romaniatenders.com",
-      "url": "https://www.romaniatenders.com/tender/tender-are-invited-smarthack-7abd03.php",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c11040233b67fc30"
-    },
-    {
       "name": "The Bucharest Hackathon | Bucharest Romania",
       "organizer": "The Bucharest Hackathon",
       "url": "https://thebucharesthackathon.com/",
@@ -455,21 +365,6 @@
         "romania"
       ],
       "uid": "hk:77f5d1d77eee671d"
-    },
-    {
-      "name": "Winners of the National SUJ Hackathon in Bucharest",
-      "organizer": "vodafone.al",
-      "url": "https://www.vodafone.al/en/fondacioni/vodafone-distinction-bursary-fund",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:4ef2ccb35ff67590"
     }
   ]
 }

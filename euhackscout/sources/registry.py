@@ -41,5 +41,5 @@ SOURCES: list[SourceSpec] = [
     SourceSpec("Superteam", "superteam", superteam.fetch, require_keyword=True),
     SourceSpec("AIcrowd", "aicrowd", aicrowd.fetch),
     SourceSpec("RSS RO", "rss_ro", ro_orgs.fetch_press, assume_bucharest=True, require_keyword=True),
-    SourceSpec("Apify cache", "apify", apify_scout.fetch, assume_bucharest=True, require_keyword=True),
+    SourceSpec("Apify cache", "apify", apify_scout.fetch, require_keyword=True),
 ]

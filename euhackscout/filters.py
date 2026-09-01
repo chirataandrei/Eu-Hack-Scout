@@ -82,6 +82,29 @@ EUROPE_RE = re.compile(
     _IX,
 )
 
+NON_EVENT_RE = re.compile(
+    r"""
+    \b(
+        recap
+        | wrap
+        | winners?
+        | highlights
+        | overview
+        | review
+        | companies\s+house
+        | tender
+        | s-a\s+(?:înc(?:heiat|eput)|terminat)
+        | a\s+selectat
+        | articole\s+despre
+        | list\s+of\s+hackathons
+        | find\s*&?\s*organize\s+hackathons
+        | discover\s+hackathon
+        | hackathons?\s+by\s+city
+    )\b
+    """,
+    _IX,
+)
+
 NON_EUROPE_RE = re.compile(
     r"""
     \b(
@@ -158,6 +181,13 @@ def is_hackathon(name: str, extra: str = "") -> bool:
     return bool(HACKATHON_RE.search(blob) or HACKATHON_RE.search(fold(blob)))
 
 
+def is_non_event(name: str) -> bool:
+    """Apify's broad web search surfaces recap articles, listicles, and unrelated
+    pages (e.g. company registries) that merely mention a hackathon keyword."""
+    blob = name or ""
+    return bool(NON_EVENT_RE.search(blob) or NON_EVENT_RE.search(fold(blob)))
+
+
 def is_stale_edition(name: str, today: date | None = None) -> bool:
     """Drop 'HackITAll 2024' retrospectives when the title year is already past."""
     today = today or date.today()
@@ -175,6 +205,8 @@ def keep_hackathon(
     if not is_active(hackathon, today):
         return False
     if is_stale_edition(hackathon.name, today):
+        return False
+    if hackathon.source == "apify" and is_non_event(hackathon.name):
         return False
     if require_keyword and not is_hackathon(hackathon.name, f"{hackathon.organizer} {hackathon.location}"):
         return False

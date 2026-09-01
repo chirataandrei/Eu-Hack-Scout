@@ -104,19 +104,31 @@ def crawler_input() -> dict[str, Any]:
     }
 
 
-def _urls_from_serp_item(item: dict[str, Any]) -> list[dict[str, Any]]:
+def _query_term(item: dict[str, Any]) -> str:
+    """The actor batches all GOOGLE_QUERIES into one run; searchQuery.term is the
+    only way to know which literal query string produced a given result row."""
+    search_query = item.get("searchQuery")
+    if isinstance(search_query, dict):
+        term = search_query.get("term")
+        if isinstance(term, str) and term.strip():
+            return term
+    return "google"
+
+
+def _urls_from_serp_item(item: dict[str, Any], query_id: str | None = None) -> list[dict[str, Any]]:
     rows: list[dict[str, Any]] = []
+    query_id = query_id or _query_term(item)
     title = str(item.get("title") or item.get("organicTitle") or "")
     snippet = str(item.get("description") or item.get("snippet") or "")
     for key in ("url", "link", "organicUrl", "displayedUrl"):
         value = item.get(key)
         if isinstance(value, str) and value.startswith("http"):
-            rows.append({"title": title, "url": value, "description": snippet, "query_id": "google"})
+            rows.append({"title": title, "url": value, "description": snippet, "query_id": query_id})
     organic = item.get("organicResults") or item.get("organic") or []
     if isinstance(organic, list):
         for row in organic:
             if isinstance(row, dict):
-                rows.extend(_urls_from_serp_item(row))
+                rows.extend(_urls_from_serp_item(row, query_id=query_id))
     return rows
 
 
@@ -156,7 +168,7 @@ def run_google(*, dry_run: bool = False, client: ApifyClient | None = None, chec
         rows.extend(_urls_from_serp_item(item))
         if item.get("url") or item.get("title"):
             row = dict(item)
-            row["query_id"] = "google"
+            row["query_id"] = _query_term(item)
             rows.append(row)
     cache = _cache_payload(rows, "google")
     APIFY_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
