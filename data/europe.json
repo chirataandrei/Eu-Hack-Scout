@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:59:36.845858+00:00",
+  "updated_at": "2026-09-01T09:49:10.143031+00:00",
   "hackathons": [
     {
       "name": "Fuckup Nights London #10: Hackathon",
@@ -108,7 +108,7 @@
       "uid": "hk:e3fef3e7150a1fe1"
     },
     {
-      "name": "Cursor Serbia Hackathon",
+      "name": "Grok Bot Serbia Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/ghvnbjlx",
       "source": "luma",
@@ -118,7 +118,7 @@
       "end_date": "2026-09-12",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:61370207a2b15fc7"
+      "uid": "hk:d2a70f13d56f57b7"
     },
     {
       "name": "WORLDS | LONDON Hackathon",
@@ -199,6 +199,21 @@
       "uid": "hk:d45d645c6655c5fe"
     },
     {
+      "name": "AI Infra Summit Hackathon",
+      "organizer": "lablab.ai",
+      "url": "https://lablab.ai/ai-hackathons/ai-infra-summit-hackathon",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-17",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:71d0f6388da73741"
+    },
+    {
       "name": "Hackathon: How to build a profitable e-commerce business with AI",
       "organizer": "Luma",
       "url": "https://lu.ma/mcmd0xjv",
@@ -223,6 +238,32 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:1b0248d8668c3727"
+    },
+    {
+      "name": "Customer Onboarding Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/vpjma1oe",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:82ce137bd76ab4fb"
+    },
+    {
+      "name": "AaltoAI Hackathon: Data Sovereignty & Responsible AI",
+      "organizer": "Luma",
+      "url": "https://lu.ma/heyq2zch",
+      "source": "luma",
+      "location": "Espoo, Espoo, Finland, Finland",
+      "format": "in_person",
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-20",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:e5c6c2184bdbb5d0"
     },
     {
       "name": "AISB Hackathon 2026",
@@ -305,6 +346,21 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:e528159d572da74f"
+    },
+    {
+      "name": "AssemblyAI - Voice Agent Hackathon",
+      "organizer": "lablab.ai",
+      "url": "https://lablab.ai/ai-hackathons/assemblyai-voice-agent-hackathon",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:b60b4e497e51f3f7"
     },
     {
       "name": "Bradford Agentic AI Hackathon",
@@ -430,21 +486,6 @@
       "uid": "hk:7cd1ab95726ecda5"
     },
     {
-      "name": "when the idea is still being built. 🚀 NASA Space Apps ...",
-      "organizer": "instagram.com",
-      "url": "https://www.instagram.com/p/Dci67c4js92/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:3acb15305290f356"
-    },
-    {
       "name": "Leukerbad Hackathon 2026 (Robotics, XR, and AI)",
       "organizer": "Luma",
       "url": "https://lu.ma/vj13ns00",
@@ -487,6 +528,21 @@
       "uid": "hk:928397c8e18cd480"
     },
     {
+      "name": "2026 Google Student AI Hackathon - Withgoogle.com",
+      "organizer": "rsvp.withgoogle.com",
+      "url": "https://rsvp.withgoogle.com/events/2026-ro-student-ai-hackathon/resources",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:cce67d6f7c51cce4"
+    },
+    {
       "name": "24 Hours of Google - Hackathon",
       "organizer": "asmi.ro",
       "url": "https://www.asmi.ro/articole/google-hackaton",
@@ -502,9 +558,9 @@
       "uid": "hk:8bfc2f1916356fa6"
     },
     {
-      "name": "24 Hours of Google Hackathon | Tudor Vișan",
+      "name": "5G Innovation Hackathon 2026 by DoT India",
       "organizer": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/tudor-vi%C8%99an-4849588_24-hours-of-google-hackathon-activity-7318263852670902274-2wgC",
+      "url": "https://www.linkedin.com/posts/nagaraj-varatharaj_5ghackathon2026-5ginnovation-dotindia-activity-7447612154347773952-toLp",
       "source": "apify",
       "location": "",
       "format": "in_person",
@@ -514,7 +570,7 @@
       "tags": [
         "apify"
       ],
-      "uid": "hk:b4d6c12f29718b58"
+      "uid": "hk:7f20e603cfede792"
     },
     {
       "name": "[Recap] Agentic Commerce on Arc",
@@ -532,9 +588,9 @@
       "uid": "hk:e9b64ffe0418af92"
     },
     {
-      "name": "[Recap] Band of Agents Hackathon",
+      "name": "[Recap] AI21 Labs Hackathon #2",
       "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-hackathons/band-of-agents-hackathon",
+      "url": "https://lablab.ai/ai-hackathons/ai21-labs-hackathon-2",
       "source": "apify",
       "location": "",
       "format": "in_person",
@@ -544,37 +600,7 @@
       "tags": [
         "apify"
       ],
-      "uid": "hk:0ef0bd28492b896e"
-    },
-    {
-      "name": "[Recap] Eleven Labs AI Hackathon",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-hackathons/eleven-labs-ai-hackathon",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:64a83affc96509c2"
-    },
-    {
-      "name": "[Recap] Gemini AI Hackathon",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-hackathons/gemini-ai-hackathon",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:e33a4b2858d823eb"
+      "uid": "hk:2d2049394788d9ed"
     },
     {
       "name": "[Recap] Multimodal Hackathon",
@@ -592,6 +618,21 @@
       "uid": "hk:117de3bcbb531400"
     },
     {
+      "name": "[Recap] Transforming Enterprise Through AI",
+      "organizer": "lablab.ai › ai-hackathons › techex-intelligent-ent...",
+      "url": "https://lablab.ai › ai-hackathons › techex-intelligent-ent...",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:a6a30b09e8e823b3"
+    },
+    {
       "name": "AGENT47MARINE/HackItAll",
       "organizer": "github.com",
       "url": "https://github.com/AGENT47MARINE/HackItAll",
@@ -607,21 +648,6 @@
       "uid": "hk:1056c55b4c93b31f"
     },
     {
-      "name": "AI Article: DOGE Hackathon Summary",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-articles/doge-hack-summary",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:cf59e9f2646f2abe"
-    },
-    {
       "name": "Ai auzit de Hackathon, dar știi ce este un CADathon? 📐🏃‍ ...",
       "organizer": "instagram.com",
       "url": "https://www.instagram.com/p/DThnONuiO41/",
@@ -635,21 +661,6 @@
         "apify"
       ],
       "uid": "hk:1f052f5fb0a5ed29"
-    },
-    {
-      "name": "AI Hackathon Project Ideas",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/guide/ai-hackathon-project-ideas",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:59cda164f383c907"
     },
     {
       "name": "AI Hackathons",
@@ -697,6 +708,36 @@
       "uid": "hk:f9b2724cfb267ec4"
     },
     {
+      "name": "Bestem Carbon",
+      "organizer": "s1000rrforum.com",
+      "url": "https://www.s1000rrforum.com/threads/bestem-carbon.215385/",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:5f6dc5abadba27e3"
+    },
+    {
+      "name": "Bestem LGHO-GL18H-TPL Black Top Trunk Liner for ...",
+      "organizer": "amazon.ie",
+      "url": "https://www.amazon.ie/Bestem-LGHO-GL18H-TPL-Black-Trunk-GL1800/dp/B005RA6XZ4",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:5f93fd1c6619316a"
+    },
+    {
       "name": "BESTEM LIMITED overview - Companies House - GOV.UK",
       "organizer": "find-and-update.company-information.service.gov.uk",
       "url": "https://find-and-update.company-information.service.gov.uk/company/08960638",
@@ -712,36 +753,6 @@
       "uid": "hk:3a6b0402d5d450b4"
     },
     {
-      "name": "Bestem USA | Motorcycle Carbon Fiber Parts — BMW, Ducati ...",
-      "organizer": "bestemusa.com",
-      "url": "https://www.bestemusa.com/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:0be620533192953d"
-    },
-    {
-      "name": "Bestem Winter Motorcycle Knee Pad Guards Fur Chaps Warmer",
-      "organizer": "amazon.com",
-      "url": "https://www.amazon.com/Bestem-Winter-Motorcycle-Guards-Warmer/dp/B0DN38BN2D",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:2eb0c3dc3c1ad30a"
-    },
-    {
       "name": "BESTEMv14",
       "organizer": "bestbucharest.ro › bestem",
       "url": "https://bestbucharest.ro › bestem",
@@ -755,21 +766,6 @@
         "apify"
       ],
       "uid": "hk:48da3caad3ab74f2"
-    },
-    {
-      "name": "Build fast Ship fast with Replit & Cursor: Hackathon Summary",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-articles/build-fast-ship-fast-hack-summary",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:f780abe077675b29"
     },
     {
       "name": "CASSINI Hackathons - EU Space for Consumer Experience",
@@ -823,6 +819,21 @@
       "uid": "hk:40ed36b6661e16f3"
     },
     {
+      "name": "Cluj Hackathon 2026 — Digital Romania",
+      "organizer": "clujhackathon.ro",
+      "url": "https://clujhackathon.ro/",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:58401105fa3bdc22"
+    },
+    {
       "name": "Daniel Chis - 24 Hours of Google Hackathon",
       "organizer": "linkedin.com",
       "url": "https://www.linkedin.com/posts/daniel-chis-8a3aa5106_24-hours-of-google-hackathon-activity-7313274160783278081-FCyS",
@@ -851,6 +862,21 @@
         "apify"
       ],
       "uid": "hk:aa4d339023f13fc2"
+    },
+    {
+      "name": "Digital Innovation Labs",
+      "organizer": "persistent.com",
+      "url": "https://www.persistent.com/services/digital-strategy-and-design/digital-innovation-labs/",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:d77ad9c1c2d27187"
     },
     {
       "name": "EESTEC Olympics",
@@ -913,6 +939,21 @@
       "uid": "hk:c34396c527c16e74"
     },
     {
+      "name": "ENGAGE.EU Open Innovation Labs",
+      "organizer": "engageuniversity.eu",
+      "url": "https://www.engageuniversity.eu/for-society/",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:8f3b7becfeafe926"
+    },
+    {
       "name": "Epoxy Die Bonder BESTEM-D310/D311plus",
       "organizer": "machinery.canon",
       "url": "https://machinery.canon/en/about/products/semiconductor/8inch/bestem-d310/index.html",
@@ -928,9 +969,9 @@
       "uid": "hk:06cbdb2bc5ba0c32"
     },
     {
-      "name": "Europe Defense Tech Hackathons 2026",
-      "organizer": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/hackathon-hub_%F0%9D%97%AA%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%B8%F0%9D%97%B9%F0%9D%98%86-%F0%9D%97%9B%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B8%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%97%A6%F0%9D%97%BD%F0%9D%97%BC-activity-7495026810049499154-kE0B",
+      "name": "Epoxy Flip Chip Bonder BESTEM‐D511f plus",
+      "organizer": "machinery.canon",
+      "url": "https://machinery.canon/en/about/products/semiconductor/12inch/bestem-d511fplus/index.html",
       "source": "apify",
       "location": "",
       "format": "in_person",
@@ -940,7 +981,22 @@
       "tags": [
         "apify"
       ],
-      "uid": "hk:438ae5d48f7f8d6a"
+      "uid": "hk:1141dc9608d31621"
+    },
+    {
+      "name": "EUDIS Defence Hackathon and Mentoring Spring 2026",
+      "organizer": "taikai.network",
+      "url": "https://taikai.network/en/eudisROMANIA/hackathons/2026spring/overview",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:3f9bd4852896d50f"
     },
     {
       "name": "Find & Organize Hackathons in Timisoara, Romania",
@@ -958,21 +1014,6 @@
       "uid": "hk:494aa813ecbf6e11"
     },
     {
-      "name": "Gemini Ultra 1.0 Hackathon team: JAMS",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-hackathons/gemini-ultra-hackathon/jams",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:5b5dd97d07db772b"
-    },
-    {
       "name": "GitGood Hack (@gitgoodhack_asmi)",
       "organizer": "instagram.com",
       "url": "https://www.instagram.com/gitgoodhack_asmi/",
@@ -986,21 +1027,6 @@
         "apify"
       ],
       "uid": "hk:aa6a0b2f2521b2e2"
-    },
-    {
-      "name": "GPT-5.2 Review: The Ultimate AI Hackathon Tool for Deep ...",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-articles/gpt-52-review-ai-hackathon",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:5f2cf8580a5ea2ed"
     },
     {
       "name": "Hackathon",
@@ -1033,6 +1059,36 @@
       "uid": "hk:6b314d96536012c1"
     },
     {
+      "name": "Hackathons by Country",
+      "organizer": "hackathon.com",
+      "url": "https://www.hackathon.com/country",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:a80258aa96684bcf"
+    },
+    {
+      "name": "Hackathons may lead to 17Tech Oy defence accelerator ...",
+      "organizer": "linkedin.com",
+      "url": "https://www.linkedin.com/posts/17tech-oy_hackathons-may-lead-to-17tech-oy-defence-activity-7492960613296517120-1d_W",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:9b70f7de93b5f95e"
+    },
+    {
       "name": "HackITall - T&T",
       "organizer": "ttonline.ro",
       "url": "https://ttonline.ro/evenimente/hackitall",
@@ -1048,9 +1104,9 @@
       "uid": "hk:d78196c7a2cfb67f"
     },
     {
-      "name": "HackITall s-a încheiat, dar amintirile și energia acelor zile ...",
+      "name": "HackITall LSAC (@hackitall.lsacbucuresti)",
       "organizer": "instagram.com",
-      "url": "https://www.instagram.com/reel/DaS3EXssxX9/",
+      "url": "https://www.instagram.com/hackitall.lsacbucuresti/?hl=en",
       "source": "apify",
       "location": "",
       "format": "in_person",
@@ -1060,7 +1116,7 @@
       "tags": [
         "apify"
       ],
-      "uid": "hk:e81d45dbb32eae83"
+      "uid": "hk:d0b6ae3e45a0bfe0"
     },
     {
       "name": "How a Virtual AI Hackathon Addresses Global Problems",
@@ -1093,6 +1149,21 @@
       "uid": "hk:d789050acbc7b9f2"
     },
     {
+      "name": "Innovation Labs da V8.Tech abre inscrições para hackathon",
+      "organizer": "startupi.com.br",
+      "url": "https://startupi.com.br/innovation-labs-abre-inscricoes-para-hackathon/",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:2fa2556013c21c69"
+    },
+    {
       "name": "Innovation Labs Hackathon 2026 | DAY 1 | Pitch Room A101",
       "organizer": "flickr.com",
       "url": "https://www.flickr.com/photos/innovationlabs/albums/72177720332700275/",
@@ -1108,9 +1179,9 @@
       "uid": "hk:141da812a52cb5fd"
     },
     {
-      "name": "Lendi Group Hackathon Builds Agents in Hours",
-      "organizer": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/lendi-group_hackathon-at-lendi-group-activity-7462336276893958144-J4ld",
+      "name": "NASA International Space Apps Challenge",
+      "organizer": "agerpres.ro",
+      "url": "https://agerpres.ro/comunicate/2026/08/27/comunicat-de-presa---nasa-international-space-apps-challenge--1588390",
       "source": "apify",
       "location": "",
       "format": "in_person",
@@ -1120,7 +1191,7 @@
       "tags": [
         "apify"
       ],
-      "uid": "hk:bef4cc38b8a0971f"
+      "uid": "hk:5c301d53b1e09286"
     },
     {
       "name": "NASA International Space Apps Challenge - Team Lucerne",
@@ -1138,6 +1209,36 @@
       "uid": "hk:061867c00259bcf5"
     },
     {
+      "name": "NASA International Space Apps Challenge | Abu Dhabi Edition",
+      "organizer": "nasaspaceappsuae.com",
+      "url": "https://www.nasaspaceappsuae.com/",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:336db9a8d8c434e6"
+    },
+    {
+      "name": "NASA Space Apps Cairo",
+      "organizer": "spaceappscairo.com",
+      "url": "https://spaceappscairo.com/",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:72505bf457324824"
+    },
+    {
       "name": "NASA Space Apps Challenge",
       "organizer": "spaceappschallenge.org",
       "url": "https://www.spaceappschallenge.org/2026/",
@@ -1153,9 +1254,9 @@
       "uid": "hk:8f2ba262cec9507d"
     },
     {
-      "name": "NASA Space Apps Challenge registrations open",
-      "organizer": "romaniajournal.ro",
-      "url": "https://www.romaniajournal.ro/business/hundreds-of-romanian-innovators-will-compete-in-the-nasa-space-apps-challenge/",
+      "name": "NASA Space Apps Challenge at TRU | Students Solving Real- ...",
+      "organizer": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=gGF-osht3Ww",
       "source": "apify",
       "location": "",
       "format": "in_person",
@@ -1165,12 +1266,12 @@
       "tags": [
         "apify"
       ],
-      "uid": "hk:0aff578db72b631c"
+      "uid": "hk:1abcdf34c9a369ae"
     },
     {
-      "name": "OFFICIAL - Bestem Aerial PhantomPak Case, Full Review",
-      "organizer": "youtube.com",
-      "url": "https://www.youtube.com/watch?v=J8FNeXuBaEA",
+      "name": "NASA Space Apps Challenge Hà Nội 2026",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/nasaspaceappsvn/",
       "source": "apify",
       "location": "",
       "format": "in_person",
@@ -1180,7 +1281,7 @@
       "tags": [
         "apify"
       ],
-      "uid": "hk:b0a4dbce577679ab"
+      "uid": "hk:fb860e715d6fe4f0"
     },
     {
       "name": "Origin Research & Innovation Labs",
@@ -1256,21 +1357,6 @@
       "uid": "hk:cfbe781958ac76b2"
     },
     {
-      "name": "Prompt to Product Hackathon",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-hackathons/prompt-to-product-hackathon",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:fa929c8e6f90bd79"
-    },
-    {
       "name": "Recent AI Hackathons Winners",
       "organizer": "lablab.ai",
       "url": "https://lablab.ai/apps/recent-winners",
@@ -1284,21 +1370,6 @@
         "apify"
       ],
       "uid": "hk:77df2a15f99e90c5"
-    },
-    {
-      "name": "Registrations are now open for the NASA Space Apps ...",
-      "organizer": "facebook.com",
-      "url": "https://www.facebook.com/australianspaceagency/posts/registrations-are-now-open-for-the-nasa-space-apps-challenge-2026-global-hackath/1517470313758568/",
-      "source": "apify",
-      "location": "",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:44fadb32e688b3da"
     },
     {
       "name": "SmartHack (@smarthack.project)",
@@ -1329,6 +1400,21 @@
         "apify"
       ],
       "uid": "hk:09168dd644e1db6a"
+    },
+    {
+      "name": "Sute de inovatori români vor concura la NASA Space Apps ...",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/p/DcnzCJLguQP/",
+      "source": "apify",
+      "location": "",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:f64724f1233e5193"
     },
     {
       "name": "That's a Wrap on the EESTEC Olympics Hackathon! From ...",

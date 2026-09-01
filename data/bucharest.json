@@ -1,21 +1,6 @@
 {
-  "updated_at": "2026-08-31T13:59:36.845858+00:00",
+  "updated_at": "2026-09-01T09:49:10.143031+00:00",
   "hackathons": [
-    {
-      "name": "NASA Space Apps Challenge - ETTI",
-      "organizer": "etti.utcluj.ro",
-      "url": "https://etti.utcluj.ro/anunt/nasa-space-apps-challenge.html",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-10-07",
-      "end_date": "2026-10-08",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:98eaa1aa5e544d76"
-    },
     {
       "name": "NASA Space Apps Challenge 2026 in Bucharest and Cluj- ...",
       "organizer": "facebook.com",
@@ -45,21 +30,6 @@
         "apify"
       ],
       "uid": "hk:87afb45634b1f62c"
-    },
-    {
-      "name": "Smarthack, 11-12 noiembrie - hackathonul organizat de ...",
-      "organizer": "start-up.ro",
-      "url": "https://start-up.ro/smarthack-11-12-noiembrie-hackathonul-organizat-de-studentii-la-matematica/",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-11-11",
-      "end_date": "2026-11-12",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:63057af1c42c8ae5"
     },
     {
       "name": "NASA Space Apps Challenge opens registration for ...",
@@ -107,9 +77,9 @@
       "uid": "hk:09003ec2a65a79c6"
     },
     {
-      "name": "Amplix Foundataion AI Bhabarta Hackathon 2026 India",
+      "name": "24-Hour Robotics Hackathon: Catapult Challenge",
       "organizer": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/amplinxtfoundation_%F0%9D%90%80%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%8D%F0%9D%90%B1%F0%9D%90%AD-%F0%9D%90%85%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7-is-activity-7454430820083122176-CI5r",
+      "url": "https://www.linkedin.com/posts/aditya-mishra-a8250027b_hackathon-robotics-mechatronics-activity-7441535929351204865-tCeE",
       "source": "apify",
       "location": "Bucharest, Romania",
       "format": "in_person",
@@ -119,22 +89,7 @@
       "tags": [
         "apify"
       ],
-      "uid": "hk:aa15ca485279302e"
-    },
-    {
-      "name": "Articole despre nasa space apps challenge",
-      "organizer": "romania-actualitati.ro",
-      "url": "https://www.romania-actualitati.ro/articole-despre/nasa+space+apps+challenge/",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:4ef76908cd37fde9"
+      "uid": "hk:5bb7a507be60fd82"
     },
     {
       "name": "Colliers Hackathon",
@@ -163,21 +118,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:6949e29eb8aff4e3"
-    },
-    {
-      "name": "EUDIS Defence Hackathon and Mentoring Spring 2026",
-      "organizer": "taikai.network",
-      "url": "https://taikai.network/en/eudisROMANIA/hackathons/2026spring/overview",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:3f9bd4852896d50f"
     },
     {
       "name": "EUDIS Space & Defence Hackathon",
@@ -300,21 +240,6 @@
       "uid": "hk:dc97665d591fe3c0"
     },
     {
-      "name": "Hackathon Bucharest 2026",
-      "organizer": "instagram.com",
-      "url": "https://www.instagram.com/popular/hackathon-bucharest-2026/",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:952d038b92acb6a5"
-    },
-    {
       "name": "HackITall",
       "organizer": "LSAC București",
       "url": "https://hack.lsacbucuresti.ro/",
@@ -326,6 +251,21 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:e96b69e0ea988d16"
+    },
+    {
+      "name": "HackITall - București",
+      "organizer": "hack.lsacbucuresti.ro",
+      "url": "https://hack.lsacbucuresti.ro/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:e1c8c8bd7176bd04"
     },
     {
       "name": "Innovation Labs 2026",
@@ -356,36 +296,6 @@
       "uid": "hk:5db5b828751e60a1"
     },
     {
-      "name": "List of hackathons in Bucuresti, Romania in 2026",
-      "organizer": "hackathon.com",
-      "url": "https://www.hackathon.com/city/romania/bucuresti/2026",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:6697ef575b549bd4"
-    },
-    {
-      "name": "NASA Space Apps Challenge a selectat cele 3 proiecte ...",
-      "organizer": "jurnaldesustenabilitate.ro",
-      "url": "https://jurnaldesustenabilitate.ro/nasa-space-apps-challenge-a-selectat-cele-3-proiecte-castigatoare-din-romania/",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:37821c87fcd7b1e6"
-    },
-    {
       "name": "NASA Space Apps Challenge Romania",
       "organizer": "facebook.com",
       "url": "https://www.facebook.com/SpaceAppsRomania/",
@@ -399,6 +309,21 @@
         "apify"
       ],
       "uid": "hk:efe93c04d7c7ef61"
+    },
+    {
+      "name": "NVIDIA GTC and CAD&Craft: Next Gen Engineers Rise",
+      "organizer": "linkedin.com",
+      "url": "https://www.linkedin.com/posts/cornel-manole_engineering-robotics-nvidiagtc-activity-7441581937007276032-YQ-7",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:c1038bd9e851d496"
     },
     {
       "name": "Resources | The Bucharest Hackathon 2026",
@@ -444,6 +369,21 @@
         "apify"
       ],
       "uid": "hk:5d8afb3e4892b446"
+    },
+    {
+      "name": "Smart Horizon 2026: National Ministries Backed Hackathon",
+      "organizer": "linkedin.com",
+      "url": "https://www.linkedin.com/posts/nhceofficial_smart-horizon-2026-meet-our-technical-partners-activity-7493633543919583233-ODQ7",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:25ee90c7bc96fe58"
     },
     {
       "name": "Smarthack - Înscrie-te acum",
@@ -515,6 +455,21 @@
         "romania"
       ],
       "uid": "hk:77f5d1d77eee671d"
+    },
+    {
+      "name": "Winners of the National SUJ Hackathon in Bucharest",
+      "organizer": "vodafone.al",
+      "url": "https://www.vodafone.al/en/fondacioni/vodafone-distinction-bursary-fund",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:4ef2ccb35ff67590"
     }
   ]
 }
