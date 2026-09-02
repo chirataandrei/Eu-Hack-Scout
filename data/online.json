@@ -1,74 +1,6 @@
 {
-  "updated_at": "2026-09-01T11:28:54.016136+00:00",
+  "updated_at": "2026-09-02T09:21:49.884653+00:00",
   "hackathons": [
-    {
-      "name": "AI YES :International Youth AI Competition",
-      "organizer": "International AI Youth Education Society",
-      "url": "https://ai-yes-competition-30441.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-06-17",
-      "end_date": "2026-09-01",
-      "registration_deadline": "2026-09-01",
-      "tags": [
-        "Beginner Friendly",
-        "Education",
-        "Machine Learning/AI"
-      ],
-      "uid": "hk:2e5423b9e5170507"
-    },
-    {
-      "name": "Graphiques Innovation Challenge",
-      "organizer": "Hack Club",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-21",
-      "end_date": "2026-09-01",
-      "registration_deadline": "2026-09-01",
-      "tags": [
-        "Enterprise",
-        "Fintech",
-        "Productivity"
-      ],
-      "uid": "hk:d0b57ad2c7fcbf89"
-    },
-    {
-      "name": "3D Websites Hackathon",
-      "organizer": "Tanishq Kumar",
-      "url": "https://3d-websites-hackathon.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-06-22",
-      "end_date": "2026-09-02",
-      "registration_deadline": "2026-09-02",
-      "tags": [
-        "Design",
-        "Web",
-        "Beginner Friendly"
-      ],
-      "uid": "hk:63ddd9e5a38fca66"
-    },
-    {
-      "name": "Hack The Weather",
-      "organizer": "JHUB Africa",
-      "url": "https://hack-the-weather.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-03",
-      "registration_deadline": "2026-09-03",
-      "tags": [
-        "Machine Learning/AI",
-        "Open Ended",
-        "Social Good"
-      ],
-      "uid": "hk:dec657bd87b188a4"
-    },
     {
       "name": "SPEED August AI Challenge",
       "organizer": "SPEED",
@@ -204,6 +136,23 @@
       "uid": "hk:9dda4096937fda81"
     },
     {
+      "name": "Hack The Weather",
+      "organizer": "JHUB Africa",
+      "url": "https://hack-the-weather.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-09",
+      "registration_deadline": "2026-09-09",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
+        "Social Good"
+      ],
+      "uid": "hk:dec657bd87b188a4"
+    },
+    {
       "name": "Hack2Heal 2.0 - Global Healthcare Innovation Hackathon",
       "organizer": "Institute of Engineering & Management",
       "url": "https://hack2heal.devpost.com/",
@@ -236,19 +185,6 @@
         "Social Good"
       ],
       "uid": "hk:9aa0a452d94e469b"
-    },
-    {
-      "name": "Megathon'26 – Fusion For Future",
-      "organizer": "Saveetha Engineering College (SEC), Chennai",
-      "url": "https://unstop.com/hackathons/megathon26-fusion-for-future-drestein-26-saveetha-engineering-college-sec-chennai-1743412",
-      "source": "unstop",
-      "location": "Chennai",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-11",
-      "registration_deadline": "2026-09-11",
-      "tags": [],
-      "uid": "hk:bf41798653fe9c82"
     },
     {
       "name": "AnimalHack 2026",
@@ -294,19 +230,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:eba9efb79c13e34d"
-    },
-    {
-      "name": "Glimpse Trading Hackathon 2026",
-      "organizer": "Glimpse Trading",
-      "url": "https://unstop.com/hackathons/glimpse-trading-hackathon-2026-glimpse-prediction-markets-hackathon-glimpse-trading-1745661",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-13",
-      "registration_deadline": "2026-09-13",
-      "tags": [],
-      "uid": "hk:dcfc22d749328329"
     },
     {
       "name": "NextStep Hacks 2026",
@@ -424,17 +347,21 @@
       "uid": "hk:b8202493fd259d05"
     },
     {
-      "name": "Technical Team Online Assessment",
-      "organizer": "MKSSS's Cummins College of Engineering for Women (CCOEW), Pune",
-      "url": "https://unstop.com/hackathons/technical-team-online-assessment-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-1747088",
-      "source": "unstop",
-      "location": "online",
+      "name": "Acodemic X G.I.R.L.S. Global SDG Hackathon",
+      "organizer": "Hack Club",
+      "url": "https://acodemic-hackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
       "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-15",
-      "registration_deadline": "2026-09-15",
-      "tags": [],
-      "uid": "hk:25c48140fe1dcd14"
+      "start_date": "2026-09-06",
+      "end_date": "2026-09-16",
+      "registration_deadline": "2026-09-16",
+      "tags": [
+        "Education",
+        "Social Good",
+        "Beginner Friendly"
+      ],
+      "uid": "hk:60f95765cfd940a1"
     },
     {
       "name": "ETHOnline 2026",
@@ -516,6 +443,51 @@
       "uid": "hk:df819361fed71ef0"
     },
     {
+      "name": "WeAreDevelopers Hackathon",
+      "organizer": "lablab.ai",
+      "url": "https://lablab.ai/ai-hackathons/wearedevelopers-hackathon",
+      "source": "apify",
+      "location": "",
+      "format": "online",
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:36447681aa77fa0c"
+    },
+    {
+      "name": "Hackosquad Cyber Week 2026: Learn, Hack & Compete in 7 Days",
+      "organizer": "hackosquadCTF",
+      "url": "https://unstop.com/hackathons/hackosquad-cyber-week-2026-learn-hack-compete-in-7-days-hacksquad-cyber-week-2026-learn-hack-compete-in-7-day-1747788",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-19",
+      "registration_deadline": "2026-09-19",
+      "tags": [],
+      "uid": "hk:f1573f400c75d6ca"
+    },
+    {
+      "name": "Prom Virgo Challenge",
+      "organizer": "Prometheus",
+      "url": "https://virgo.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-19",
+      "registration_deadline": "2026-09-19",
+      "tags": [
+        "Beginner Friendly",
+        "Design",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:dd2d05d318718a1a"
+    },
+    {
       "name": "SHPE Jr. Designathon",
       "organizer": "SHPE UF",
       "url": "https://shpe-jr-designathon.devpost.com/",
@@ -531,21 +503,19 @@
       "uid": "hk:cbc06d457865714a"
     },
     {
-      "name": "SPEED Virgo Challenge",
-      "organizer": "Prometheus",
-      "url": "https://virgo.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
+      "name": "Avalon OpenHack",
+      "organizer": "Devfolio",
+      "url": "https://devfolio.co/hackathons/avalon-openhack",
+      "source": "devfolio",
+      "location": "",
       "format": "online",
-      "start_date": "2026-08-31",
-      "end_date": "2026-09-19",
-      "registration_deadline": "2026-09-19",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-20",
+      "registration_deadline": null,
       "tags": [
-        "Beginner Friendly",
-        "Design",
-        "Machine Learning/AI"
+        "No Restrictions"
       ],
-      "uid": "hk:45b5ede17a98991d"
+      "uid": "hk:32cfe62e608b73dd"
     },
     {
       "name": "Evorozen Apex: NextGen AI Buildathon",
@@ -646,6 +616,19 @@
       "uid": "hk:e8c304e0a502262b"
     },
     {
+      "name": "Hack With Vizag 4.0",
+      "organizer": "Nadimpalli Satyanarayana Raju Institute of Technology (NSRIT), Andhra Pradesh",
+      "url": "https://unstop.com/hackathons/hack-with-vizag-40-nadimpalli-satyanarayana-raju-institute-of-technology-nsrit-andhra-pradesh-1746827",
+      "source": "unstop",
+      "location": "Visakhapatnam",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-22",
+      "registration_deadline": "2026-09-22",
+      "tags": [],
+      "uid": "hk:bc28299ab0244ef6"
+    },
+    {
       "name": "Hyperbloom September - Beginer Freindly",
       "organizer": "hyperbloom hacks",
       "url": "https://hyperbloom-september2.devpost.com/",
@@ -680,7 +663,20 @@
       "uid": "hk:52689d28df0b0b61"
     },
     {
-      "name": "SPEED Fall Classic",
+      "name": "ML Hackathon: Polymer Property Prediction",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "url": "https://unstop.com/hackathons/ml-hackathon-polymer-property-prediction-amalgam-2026-iit-madras-1745060",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-26",
+      "registration_deadline": "2026-09-26",
+      "tags": [],
+      "uid": "hk:5b733b354d89c12c"
+    },
+    {
+      "name": "Prom Fall Classic",
       "organizer": "Prometheus CS",
       "url": "https://prometheus-fall-classic.devpost.com/",
       "source": "devpost",
@@ -694,7 +690,7 @@
         "Education",
         "Machine Learning/AI"
       ],
-      "uid": "hk:ad097cd2cc43978c"
+      "uid": "hk:a56943eb27a014ba"
     },
     {
       "name": "Zero Origin",
@@ -729,6 +725,19 @@
         "Web"
       ],
       "uid": "hk:67c2e49301936de7"
+    },
+    {
+      "name": "ABB Accelerator 2026",
+      "organizer": "HackerEarth",
+      "url": "https://www.hackerearth.com/challenges/hackathon/abb-accelerator-2026-2/",
+      "source": "hackerearth",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-11",
+      "end_date": "2026-09-27",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:c698c9eff3a66465"
     },
     {
       "name": "HackCelestial 3.0",
@@ -914,17 +923,19 @@
       "uid": "hk:1c77ff7d528950eb"
     },
     {
-      "name": "Hack It On'26",
-      "organizer": "KPR Institute of Engineering and Technology (KPRIET), Coimbatore",
-      "url": "https://unstop.com/hackathons/hackiton26-kpr-institute-of-engineering-and-technology-kpriet-coimbatore-1746214",
-      "source": "unstop",
-      "location": "Sulur",
+      "name": "NASA Space Apps Challenge kicks off registrations",
+      "organizer": "rotsa.ro",
+      "url": "https://rotsa.ro/en/news-en/nasa-space-apps-challenge-the-largest-global-hackathon-in-the-world-which-is-at-its-tenth-edition-globally-and-the-sixth-in-romania-kicks-off-registrations/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
       "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-04",
-      "registration_deadline": "2026-10-04",
-      "tags": [],
-      "uid": "hk:e05193060342a733"
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-03",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:203e17f6d7352e80"
     },
     {
       "name": "Yuva Yodha Energy Tech Hackathon",
@@ -972,6 +983,19 @@
         "Social Good"
       ],
       "uid": "hk:6fc271e944e129b4"
+    },
+    {
+      "name": "The Black-Box Protocol: Stage 03 - System Convergence",
+      "organizer": "TECHhelp4U",
+      "url": "https://unstop.com/hackathons/the-black-box-protocol-stage-03-system-convergence-techhelp4u-1745778",
+      "source": "unstop",
+      "location": "Kurukshetra",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-07",
+      "registration_deadline": "2026-10-07",
+      "tags": [],
+      "uid": "hk:c6e8df18f12b08eb"
     },
     {
       "name": "ForgeHacks Online 2026",
@@ -1126,19 +1150,6 @@
       "uid": "hk:2994e33d91ff7c75"
     },
     {
-      "name": "Hack-O-Octo 4.0",
-      "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
-      "url": "https://unstop.com/hackathons/hack-o-octo-40-chandigarh-university-cu-ajitgarh-punjab-1747159",
-      "source": "unstop",
-      "location": "Ajitgarh",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-24",
-      "registration_deadline": "2026-10-24",
-      "tags": [],
-      "uid": "hk:a1242ed052351caf"
-    },
-    {
       "name": "Neighborhood Hacks",
       "organizer": "Student Organization",
       "url": "https://neighborhood-hacks-2026.devpost.com/",
@@ -1289,6 +1300,19 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:22f59d7dcacb38cd"
+    },
+    {
+      "name": "Samadhan 2026( National Social Innovation Challenge)",
+      "organizer": "UPAY (Underprivileged Advancements by Youth)",
+      "url": "https://unstop.com/hackathons/samadhan-2026-national-social-innovation-challenge-upay-underprivileged-advancements-by-youth-1724048",
+      "source": "unstop",
+      "location": "Delhi",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-15",
+      "registration_deadline": "2026-12-15",
+      "tags": [],
+      "uid": "hk:b748117afaf032de"
     },
     {
       "name": "Arbiter Hacks V1",
@@ -1531,6 +1555,21 @@
         "datathon"
       ],
       "uid": "hk:4749407fa0d2f4e9"
+    },
+    {
+      "name": "Bestem: Car & Motorbike",
+      "organizer": "amazon.in",
+      "url": "https://www.amazon.in/Car-Motorbike-Bestem/s?rh=n%3A4772060031%2Cp_4%3ABestem",
+      "source": "apify",
+      "location": "",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:6418d69601e4c18f"
     },
     {
       "name": "Common S3nse",
@@ -1938,21 +1977,6 @@
       "uid": "hk:d4e3a71c2456fe1b"
     },
     {
-      "name": "Integrate Civic Auth",
-      "organizer": "Civic",
-      "url": "https://taikai.network/hackathons/civicauth",
-      "source": "taikai",
-      "location": "Online",
-      "format": "online",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "taikai"
-      ],
-      "uid": "hk:b5162f8418898a0c"
-    },
-    {
       "name": "Kraken Forge - Build the tools beneath the surface",
       "organizer": "Kraken",
       "url": "https://taikai.network/hackathons/kraken-forge",
@@ -2072,6 +2096,21 @@
         "taikai"
       ],
       "uid": "hk:840cace17c1082f0"
+    },
+    {
+      "name": "Veles Hack 2026",
+      "organizer": "Eclipse Foundation",
+      "url": "https://taikai.network/hackathons/veles-hack-2026",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:a72d56d76bcc7f05"
     },
     {
       "name": "Web3 Marketing Hackathon",
