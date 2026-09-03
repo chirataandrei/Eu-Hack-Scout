@@ -1,44 +1,18 @@
 {
-  "updated_at": "2026-09-02T09:21:49.884653+00:00",
+  "updated_at": "2026-09-03T09:31:25.232726+00:00",
   "hackathons": [
     {
-      "name": "Fuckup Nights London #10: Hackathon",
+      "name": "Common S3nse - Conference & Hackathon",
       "organizer": "Luma",
-      "url": "https://lu.ma/u9mewkje",
+      "url": "https://lu.ma/commons3nse",
       "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
+      "location": "Amsterdam, Amsterdam, Noord-Holland, Netherlands",
       "format": "in_person",
-      "start_date": "2026-09-02",
-      "end_date": "2026-09-02",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-05",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:59f81478eb46cf7a"
-    },
-    {
-      "name": "HackNight NeuroTechX Paris (hybride)",
-      "organizer": "CogLab, NeuroTechX Paris",
-      "url": "https://www.meetup.com/coglab/events/316370653/",
-      "source": "meetup",
-      "location": "Paris, Makerlab Paris, fr",
-      "format": "in_person",
-      "start_date": "2026-09-02",
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:28476c0ea6572cd5"
-    },
-    {
-      "name": "Rebuild Private Markets: The Ylookup x Encode AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/encode-7hd7",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-06",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:a6e76519760a69de"
+      "uid": "hk:106401f4917970d4"
     },
     {
       "name": "Campaign Lab Summer Hack Night!",
@@ -357,6 +331,45 @@
       "uid": "hk:b5dcb12bd4764214"
     },
     {
+      "name": "Cambridge × Arcade AI Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/2wuf8ns8",
+      "source": "luma",
+      "location": "Cambridge, Cambridge, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:b18c2fb57d3cc735"
+    },
+    {
+      "name": "Bazel Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/9dm41b1h",
+      "source": "luma",
+      "location": "Amsterdam, Amsterdam, Netherlands, Netherlands",
+      "format": "in_person",
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:7a4e2d7cc25bddf1"
+    },
+    {
+      "name": "Chat Hackers - Hack Day",
+      "organizer": "Luma",
+      "url": "https://lu.ma/campaign-nz6y",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:8a833bf427ce2399"
+    },
+    {
       "name": "VibeDays : Hackathon AI Safety",
       "organizer": "Luma",
       "url": "https://lu.ma/9rkl3mrp",
@@ -368,6 +381,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:895550a194d90d68"
+    },
+    {
+      "name": "IKU Womxn in STEM Hackathon",
+      "organizer": "MLH",
+      "url": "https://ikuwomxninstemhackathon.co.uk/",
+      "source": "mlh",
+      "location": "London, London, London, GB",
+      "format": "in_person",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:f1b1ce0c71458510"
     },
     {
       "name": "TUM Blockchain Conference 26 + Hackathon",
@@ -394,19 +420,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:171ae7a98e42a7d4"
-    },
-    {
-      "name": "Leukerbad Hackathon 2026 (Robotics, XR, and AI)",
-      "organizer": "Luma",
-      "url": "https://lu.ma/vj13ns00",
-      "source": "luma",
-      "location": "Leukerbad, Leukerbad, Switzerland, Switzerland",
-      "format": "in_person",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-16",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:3112f9331ffaf902"
     },
     {
       "name": "ENERGY data visualisation Hackathon",

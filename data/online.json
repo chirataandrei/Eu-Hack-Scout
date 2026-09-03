@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T09:21:49.884653+00:00",
+  "updated_at": "2026-09-03T09:31:25.232726+00:00",
   "hackathons": [
     {
       "name": "SPEED August AI Challenge",
@@ -100,6 +100,19 @@
         "Fintech"
       ],
       "uid": "hk:e2a457abee146b1e"
+    },
+    {
+      "name": "Data Analytics Challenge",
+      "organizer": "Indian Institute of Technology (IIT), Kharagpur",
+      "url": "https://unstop.com/hackathons/data-analytics-challenge-national-students-space-challenge-2026-iit-kharagpur-1747275",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-07",
+      "registration_deadline": "2026-09-07",
+      "tags": [],
+      "uid": "hk:00cc219f7e73a960"
     },
     {
       "name": "AI Content Engine Hackathon",
@@ -317,6 +330,19 @@
       "uid": "hk:5d1b7f5939299977"
     },
     {
+      "name": "Redefine",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "url": "https://unstop.com/hackathons/redefine-gravitas26-vit-vellore-1748546",
+      "source": "unstop",
+      "location": "Vellore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-14",
+      "registration_deadline": "2026-09-14",
+      "tags": [],
+      "uid": "hk:70ff6358905fe6d4"
+    },
+    {
       "name": "AI Builders Hackathon",
       "organizer": "OSC",
       "url": "https://ai-builders-hackathon-2026.devpost.com/",
@@ -332,19 +358,6 @@
         "Beginner Friendly"
       ],
       "uid": "hk:3088cd8be0c1309d"
-    },
-    {
-      "name": "Code Kitchen",
-      "organizer": "HackerEarth",
-      "url": "https://www.hackerearth.com/challenges/hackathon/code-kitchen/",
-      "source": "hackerearth",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-24",
-      "end_date": "2026-09-15",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:b8202493fd259d05"
     },
     {
       "name": "Acodemic X G.I.R.L.S. Global SDG Hackathon",
@@ -458,19 +471,6 @@
       "uid": "hk:36447681aa77fa0c"
     },
     {
-      "name": "Hackosquad Cyber Week 2026: Learn, Hack & Compete in 7 Days",
-      "organizer": "hackosquadCTF",
-      "url": "https://unstop.com/hackathons/hackosquad-cyber-week-2026-learn-hack-compete-in-7-days-hacksquad-cyber-week-2026-learn-hack-compete-in-7-day-1747788",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-19",
-      "registration_deadline": "2026-09-19",
-      "tags": [],
-      "uid": "hk:f1573f400c75d6ca"
-    },
-    {
       "name": "Prom Virgo Challenge",
       "organizer": "Prometheus",
       "url": "https://virgo.devpost.com/",
@@ -535,19 +535,6 @@
       "uid": "hk:a00ce934a8315aca"
     },
     {
-      "name": "GitHub Repo Value Check",
-      "organizer": "HackerEarth",
-      "url": "https://www.hackerearth.com/challenges/hackathon/github-repo-value-check/",
-      "source": "hackerearth",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-14",
-      "end_date": "2026-09-20",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:3addbcecf64d0525"
-    },
-    {
       "name": "SPEED September AI Challenge",
       "organizer": "SPEED",
       "url": "https://prometheus-sept-ai-classic.devpost.com/",
@@ -599,6 +586,19 @@
       "uid": "hk:f82ea86dc9d4ca50"
     },
     {
+      "name": "The Pareidolia Paradox",
+      "organizer": "SIES GST Nerul",
+      "url": "https://unstop.com/hackathons/the-pareidolia-paradox-sies-gst-nerul-1743714",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-21",
+      "registration_deadline": "2026-09-21",
+      "tags": [],
+      "uid": "hk:202a452d454064a9"
+    },
+    {
       "name": "BunnieX Hackathon",
       "organizer": "TechieBunnies team",
       "url": "https://buuniex-hackathon.devpost.com/",
@@ -614,19 +614,6 @@
         "Productivity"
       ],
       "uid": "hk:e8c304e0a502262b"
-    },
-    {
-      "name": "Hack With Vizag 4.0",
-      "organizer": "Nadimpalli Satyanarayana Raju Institute of Technology (NSRIT), Andhra Pradesh",
-      "url": "https://unstop.com/hackathons/hack-with-vizag-40-nadimpalli-satyanarayana-raju-institute-of-technology-nsrit-andhra-pradesh-1746827",
-      "source": "unstop",
-      "location": "Visakhapatnam",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-22",
-      "registration_deadline": "2026-09-22",
-      "tags": [],
-      "uid": "hk:bc28299ab0244ef6"
     },
     {
       "name": "Hyperbloom September - Beginer Freindly",
@@ -663,17 +650,17 @@
       "uid": "hk:52689d28df0b0b61"
     },
     {
-      "name": "ML Hackathon: Polymer Property Prediction",
-      "organizer": "Indian Institute of Technology (IIT), Madras",
-      "url": "https://unstop.com/hackathons/ml-hackathon-polymer-property-prediction-amalgam-2026-iit-madras-1745060",
+      "name": "Vibeathon 2026",
+      "organizer": "A.C. Patil College of Engineering Department of Information Technology",
+      "url": "https://unstop.com/hackathons/vibeathon-2026-ac-patil-college-of-engineering-department-of-information-technology-1747384",
       "source": "unstop",
-      "location": "online",
+      "location": "Kharghar",
       "format": "online",
       "start_date": null,
-      "end_date": "2026-09-26",
-      "registration_deadline": "2026-09-26",
+      "end_date": "2026-09-25",
+      "registration_deadline": "2026-09-25",
       "tags": [],
-      "uid": "hk:5b733b354d89c12c"
+      "uid": "hk:8ef1851f6fa356ff"
     },
     {
       "name": "Prom Fall Classic",
@@ -725,19 +712,6 @@
         "Web"
       ],
       "uid": "hk:67c2e49301936de7"
-    },
-    {
-      "name": "ABB Accelerator 2026",
-      "organizer": "HackerEarth",
-      "url": "https://www.hackerearth.com/challenges/hackathon/abb-accelerator-2026-2/",
-      "source": "hackerearth",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-11",
-      "end_date": "2026-09-27",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:c698c9eff3a66465"
     },
     {
       "name": "HackCelestial 3.0",
@@ -938,19 +912,6 @@
       "uid": "hk:203e17f6d7352e80"
     },
     {
-      "name": "Yuva Yodha Energy Tech Hackathon",
-      "organizer": "HackerEarth",
-      "url": "https://www.hackerearth.com/challenges/hackathon/yuva-yodha-energy-tech-hackathon/",
-      "source": "hackerearth",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-16",
-      "end_date": "2026-10-04",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:13d394a42b5df487"
-    },
-    {
       "name": "CSC Back-to-School Hackathon",
       "organizer": "The Webb Schools CSC",
       "url": "https://csc-back-to-school.devpost.com/",
@@ -983,19 +944,6 @@
         "Social Good"
       ],
       "uid": "hk:6fc271e944e129b4"
-    },
-    {
-      "name": "The Black-Box Protocol: Stage 03 - System Convergence",
-      "organizer": "TECHhelp4U",
-      "url": "https://unstop.com/hackathons/the-black-box-protocol-stage-03-system-convergence-techhelp4u-1745778",
-      "source": "unstop",
-      "location": "Kurukshetra",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-07",
-      "registration_deadline": "2026-10-07",
-      "tags": [],
-      "uid": "hk:c6e8df18f12b08eb"
     },
     {
       "name": "ForgeHacks Online 2026",
@@ -1268,6 +1216,19 @@
       "uid": "hk:b22cd0552059e903"
     },
     {
+      "name": "Seize da Flaq",
+      "organizer": "Cyberonites Club",
+      "url": "https://unstop.com/hackathons/seize-da-flaq-cyberonites-club-1724723",
+      "source": "unstop",
+      "location": "Mathura",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-22",
+      "registration_deadline": "2026-11-22",
+      "tags": [],
+      "uid": "hk:a10acc2386c24dc4"
+    },
+    {
       "name": "SourceHacks V1",
       "organizer": "SourceHacks",
       "url": "https://sourcehacksv1.devpost.com/",
@@ -1300,19 +1261,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:22f59d7dcacb38cd"
-    },
-    {
-      "name": "Samadhan 2026( National Social Innovation Challenge)",
-      "organizer": "UPAY (Underprivileged Advancements by Youth)",
-      "url": "https://unstop.com/hackathons/samadhan-2026-national-social-innovation-challenge-upay-underprivileged-advancements-by-youth-1724048",
-      "source": "unstop",
-      "location": "Delhi",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-12-15",
-      "registration_deadline": "2026-12-15",
-      "tags": [],
-      "uid": "hk:b748117afaf032de"
     },
     {
       "name": "Arbiter Hacks V1",
@@ -1495,6 +1443,21 @@
       "uid": "hk:e6ea2a2d969a2252"
     },
     {
+      "name": "AI GENESIS AI Hackathon",
+      "organizer": "lablab.ai",
+      "url": "https://lablab.ai/ai-hackathons/ai-genesis-2026",
+      "source": "apify",
+      "location": "",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:888a95c2541a083e"
+    },
+    {
       "name": "AI Hacker House Solstice Edition",
       "organizer": "LayerX",
       "url": "https://taikai.network/hackathons/ai-hacker-house-solstice-edition",
@@ -1555,6 +1518,21 @@
         "datathon"
       ],
       "uid": "hk:4749407fa0d2f4e9"
+    },
+    {
+      "name": "Bestem - Motorbike Accessories & Parts: Automotive",
+      "organizer": "amazon.co.uk",
+      "url": "https://www.amazon.co.uk/Motorbike-Accessories-Parts-Bestem-Automotive/s?rh=n%3A301311031%2Cp_4%3ABestem",
+      "source": "apify",
+      "location": "",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:29438538d63a5022"
     },
     {
       "name": "Bestem: Car & Motorbike",
