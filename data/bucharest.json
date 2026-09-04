@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T09:31:25.232726+00:00",
+  "updated_at": "2026-09-04T09:23:06.023575+00:00",
   "hackathons": [
     {
       "name": "NASA Space Apps Challenge - ETTI",
@@ -45,6 +45,21 @@
         "apify"
       ],
       "uid": "hk:0a99a7f391071358"
+    },
+    {
+      "name": "Alba Iulia to also host NASA Space Apps Challenge for first ...",
+      "organizer": "romania-insider.com",
+      "url": "https://www.romania-insider.com/nasa-space-apps-challenge-alba-iulia-2026",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:e9f4083a6072e96c"
     },
     {
       "name": "NASA Space Apps Challenge",
@@ -270,6 +285,21 @@
         "apify"
       ],
       "uid": "hk:48da3caad3ab74f2"
+    },
+    {
+      "name": "Cluj Hackathon 2026 — Digital Romania",
+      "organizer": "clujhackathon.ro",
+      "url": "https://clujhackathon.ro/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:58401105fa3bdc22"
     },
     {
       "name": "Daniel Chis - 24 Hours of Google Hackathon",
@@ -626,6 +656,21 @@
       "uid": "hk:ea132b137ece158b"
     },
     {
+      "name": "mihainsto/Smarthack-Hackathon: Our application for ...",
+      "organizer": "github.com",
+      "url": "https://github.com/mihainsto/Smarthack-Hackathon",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:8b349703e76be54e"
+    },
+    {
       "name": "NASA International Space Apps Challenge",
       "organizer": "agerpres.ro",
       "url": "https://agerpres.ro/comunicate/2026/08/27/comunicat-de-presa---nasa-international-space-apps-challenge--1588390",
@@ -671,6 +716,21 @@
       "uid": "hk:016bb81d40fe3107"
     },
     {
+      "name": "NASA Space Apps Cairo",
+      "organizer": "spaceappscairo.com",
+      "url": "https://spaceappscairo.com/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:72505bf457324824"
+    },
+    {
       "name": "NASA Space Apps Challenge",
       "organizer": "youtube.com",
       "url": "https://www.youtube.com/c/NASASpaceAppsChallenge",
@@ -684,6 +744,21 @@
         "apify"
       ],
       "uid": "hk:5ff9660eb10265dc"
+    },
+    {
+      "name": "NASA Space Apps Challenge at TRU | Students Solving Real- ...",
+      "organizer": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=gGF-osht3Ww",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:1abcdf34c9a369ae"
     },
     {
       "name": "NASA Space Apps Challenge registrations open",
@@ -746,6 +821,21 @@
       "uid": "hk:eaf6e1b8447ecbdd"
     },
     {
+      "name": "Previous Editions | The Bucharest Hackathon",
+      "organizer": "thebucharesthackathon.com",
+      "url": "https://thebucharesthackathon.com/previous-editions.html",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:c444c469814ab071"
+    },
+    {
       "name": "Registrations are now open for the NASA Space Apps ...",
       "organizer": "facebook.com",
       "url": "https://www.facebook.com/australianspaceagency/posts/registrations-are-now-open-for-the-nasa-space-apps-challenge-2026-global-hackath/1517470313758568/",
@@ -759,6 +849,21 @@
         "apify"
       ],
       "uid": "hk:44fadb32e688b3da"
+    },
+    {
+      "name": "Resources | The Bucharest Hackathon 2026",
+      "organizer": "thebucharesthackathon.com",
+      "url": "https://thebucharesthackathon.com/resources.html",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:c4e0cd3d097752c8"
     },
     {
       "name": "Restaurant of Tomorrow - Coding Challenge",
@@ -789,6 +894,21 @@
         "apify"
       ],
       "uid": "hk:5d8afb3e4892b446"
+    },
+    {
+      "name": "smarthack",
+      "organizer": "start-up.ro",
+      "url": "https://start-up.ro/subiecte/smarthack/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:00cf6c595b920ce7"
     },
     {
       "name": "SmartHack (@smarthack.project)",
@@ -892,6 +1012,21 @@
         "apify"
       ],
       "uid": "hk:ffd31dc663612d5f"
+    },
+    {
+      "name": "The Bucharest Hackathon - analiza \"proiect\" castigatori",
+      "organizer": "reddit.com",
+      "url": "https://www.reddit.com/r/programare/comments/1c4p5go/the_bucharest_hackathon_analiza_proiect/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:7ad5ef746eddb16b"
     },
     {
       "name": "The Bucharest Hackathon | Bucharest Romania",

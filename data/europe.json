@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T09:31:25.232726+00:00",
+  "updated_at": "2026-09-04T09:23:06.023575+00:00",
   "hackathons": [
     {
       "name": "Common S3nse - Conference & Hackathon",
@@ -15,6 +15,19 @@
       "uid": "hk:106401f4917970d4"
     },
     {
+      "name": "Rebuild Private Markets: The Ylookup x Encode AI Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/encode-7hd7",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:a6e76519760a69de"
+    },
+    {
       "name": "Campaign Lab Summer Hack Night!",
       "organizer": "Luma",
       "url": "https://lu.ma/e0gtnzhq",
@@ -26,6 +39,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:d0e133e905bc9c38"
+    },
+    {
+      "name": "From Spreadsheet Chaos to One Source of Truth: AI Hackathon for VCSE & SME Leaders",
+      "organizer": "Luma",
+      "url": "https://lu.ma/softr-zs3l",
+      "source": "luma",
+      "location": "Birmingham, Birmingham, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:fdd7822605069676"
     },
     {
       "name": "AI Hackathon | START Stuttgart",
@@ -130,6 +156,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:b20fc4214041982e"
+    },
+    {
+      "name": "HPE & NVIDIA Agentic AI Hackathon for Enterprises @HPE Geneva Customer Innovation Center",
+      "organizer": "Luma",
+      "url": "https://lu.ma/hack-geneva-14Sep26",
+      "source": "luma",
+      "location": "Meyrin, Meyrin, Switzerland, Switzerland",
+      "format": "in_person",
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-14",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:0438a3b523c55126"
     },
     {
       "name": "Light x Lovable x KPMG Finance Hackathon",
@@ -292,6 +331,19 @@
       "uid": "hk:187394e75654f374"
     },
     {
+      "name": "HACK_002: 24h AI Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/1ka4b1nm",
+      "source": "luma",
+      "location": "Wien, Wien, Austria, Austria",
+      "format": "in_person",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:1a81564df7b5d79c"
+    },
+    {
       "name": "Lock in & Build Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/b3o95mtn",
@@ -303,6 +355,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:cd479875a520e6a0"
+    },
+    {
+      "name": "Prompt Hackathon 03",
+      "organizer": "Luma",
+      "url": "https://lu.ma/aaltoes-ose3",
+      "source": "luma",
+      "location": "Espoo, Espoo, Finland, Finland",
+      "format": "in_person",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:83b4465ffa1d839c"
     },
     {
       "name": "YFN x EU Energy Hackathon",
@@ -355,19 +420,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:7a4e2d7cc25bddf1"
-    },
-    {
-      "name": "Chat Hackers - Hack Day",
-      "organizer": "Luma",
-      "url": "https://lu.ma/campaign-nz6y",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-17",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:8a833bf427ce2399"
     },
     {
       "name": "VibeDays : Hackathon AI Safety",

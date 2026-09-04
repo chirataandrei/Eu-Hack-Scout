@@ -1,57 +1,6 @@
 {
-  "updated_at": "2026-09-03T09:31:25.232726+00:00",
+  "updated_at": "2026-09-04T09:23:06.023575+00:00",
   "hackathons": [
-    {
-      "name": "SPEED August AI Challenge",
-      "organizer": "SPEED",
-      "url": "https://august-ai-challenge-31059.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-18",
-      "end_date": "2026-09-03",
-      "registration_deadline": "2026-09-03",
-      "tags": [
-        "Beginner Friendly",
-        "Design",
-        "Machine Learning/AI"
-      ],
-      "uid": "hk:0af7ef34d6199a46"
-    },
-    {
-      "name": "TechX Rwanda Hackathon",
-      "organizer": "IEEE CMU Africa",
-      "url": "https://techx-rwanda-hackathon.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-27",
-      "end_date": "2026-09-03",
-      "registration_deadline": "2026-09-03",
-      "tags": [
-        "Cybersecurity",
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "uid": "hk:dec1710fd0394898"
-    },
-    {
-      "name": "The WebMCP Challenge",
-      "organizer": "OpenAI",
-      "url": "https://webmcp.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-25",
-      "end_date": "2026-09-03",
-      "registration_deadline": "2026-09-03",
-      "tags": [
-        "Machine Learning/AI",
-        "E-commerce/Retail",
-        "Web"
-      ],
-      "uid": "hk:c11db330ccfba296"
-    },
     {
       "name": "Hack for Humanity | Summer 2026 (+13 non-cash prizes)",
       "organizer": "Hack for Humanity",
@@ -87,6 +36,23 @@
       "uid": "hk:944c6974a6e3db93"
     },
     {
+      "name": "Code to Connect: Women in Tech Hackathon 2026",
+      "organizer": "Women in Tech Unimelb",
+      "url": "https://code-to-connect-wit.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-06",
+      "registration_deadline": "2026-09-06",
+      "tags": [
+        "Beginner Friendly",
+        "Communication",
+        "Gaming"
+      ],
+      "uid": "hk:f4d3b29780034bd8"
+    },
+    {
       "name": "Coppell hackathon 1",
       "organizer": "shrimat koti",
       "url": "https://fintech-hackothon-1.devpost.com/",
@@ -102,17 +68,21 @@
       "uid": "hk:e2a457abee146b1e"
     },
     {
-      "name": "Data Analytics Challenge",
-      "organizer": "Indian Institute of Technology (IIT), Kharagpur",
-      "url": "https://unstop.com/hackathons/data-analytics-challenge-national-students-space-challenge-2026-iit-kharagpur-1747275",
-      "source": "unstop",
-      "location": "online",
+      "name": "Syndicate by Maximor",
+      "organizer": "agent orchestrator",
+      "url": "https://syndicate-by-maximor.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
       "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-07",
-      "registration_deadline": "2026-09-07",
-      "tags": [],
-      "uid": "hk:00cc219f7e73a960"
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06",
+      "registration_deadline": "2026-09-06",
+      "tags": [
+        "Beginner Friendly",
+        "Fintech",
+        "Open Ended"
+      ],
+      "uid": "hk:6272eba1af5b7011"
     },
     {
       "name": "AI Content Engine Hackathon",
@@ -181,6 +151,19 @@
         "Beginner Friendly"
       ],
       "uid": "hk:dc4d85c68b021164"
+    },
+    {
+      "name": "StatNova – Minecraft AI Vibe Coding Challenge!",
+      "organizer": "VIT Bhopal University (VIT), Bhopal",
+      "url": "https://unstop.com/hackathons/statnova-minecraft-ai-vibe-coding-challenge-vit-bhopal-university-vit-bhopal-1731974",
+      "source": "unstop",
+      "location": "Sehore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-10",
+      "registration_deadline": "2026-09-10",
+      "tags": [],
+      "uid": "hk:319e454d716cf803"
     },
     {
       "name": "CSH Social Impact Ideathon",
@@ -330,19 +313,6 @@
       "uid": "hk:5d1b7f5939299977"
     },
     {
-      "name": "Redefine",
-      "organizer": "Vellore Institute of Technology (VIT), Vellore",
-      "url": "https://unstop.com/hackathons/redefine-gravitas26-vit-vellore-1748546",
-      "source": "unstop",
-      "location": "Vellore",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-14",
-      "registration_deadline": "2026-09-14",
-      "tags": [],
-      "uid": "hk:70ff6358905fe6d4"
-    },
-    {
       "name": "AI Builders Hackathon",
       "organizer": "OSC",
       "url": "https://ai-builders-hackathon-2026.devpost.com/",
@@ -360,6 +330,19 @@
       "uid": "hk:3088cd8be0c1309d"
     },
     {
+      "name": "Innovators Day 2026",
+      "organizer": "Sri Manakula Vinayagar Engineering College (SMVEC), Puducherry",
+      "url": "https://unstop.com/hackathons/innovators-day-2026-sri-manakula-vinayagar-engineering-college-smvec-puducherry-1748928",
+      "source": "unstop",
+      "location": "Puducherry",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-15",
+      "registration_deadline": "2026-09-15",
+      "tags": [],
+      "uid": "hk:ddea45aadbe3e11e"
+    },
+    {
       "name": "Acodemic X G.I.R.L.S. Global SDG Hackathon",
       "organizer": "Hack Club",
       "url": "https://acodemic-hackathon.devpost.com/",
@@ -375,6 +358,19 @@
         "Beginner Friendly"
       ],
       "uid": "hk:60f95765cfd940a1"
+    },
+    {
+      "name": "Code Cortex 3.0",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "url": "https://unstop.com/hackathons/code-cortex-30-gravitas26-vit-vellore-1748822",
+      "source": "unstop",
+      "location": "Vellore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-16",
+      "registration_deadline": "2026-09-16",
+      "tags": [],
+      "uid": "hk:3dfc1d9cd9068aa5"
     },
     {
       "name": "ETHOnline 2026",
@@ -503,21 +499,6 @@
       "uid": "hk:cbc06d457865714a"
     },
     {
-      "name": "Avalon OpenHack",
-      "organizer": "Devfolio",
-      "url": "https://devfolio.co/hackathons/avalon-openhack",
-      "source": "devfolio",
-      "location": "",
-      "format": "online",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-20",
-      "registration_deadline": null,
-      "tags": [
-        "No Restrictions"
-      ],
-      "uid": "hk:32cfe62e608b73dd"
-    },
-    {
       "name": "Evorozen Apex: NextGen AI Buildathon",
       "organizer": "Evorozen ",
       "url": "https://evorozen-apex.devpost.com/",
@@ -586,19 +567,6 @@
       "uid": "hk:f82ea86dc9d4ca50"
     },
     {
-      "name": "The Pareidolia Paradox",
-      "organizer": "SIES GST Nerul",
-      "url": "https://unstop.com/hackathons/the-pareidolia-paradox-sies-gst-nerul-1743714",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-21",
-      "registration_deadline": "2026-09-21",
-      "tags": [],
-      "uid": "hk:202a452d454064a9"
-    },
-    {
       "name": "BunnieX Hackathon",
       "organizer": "TechieBunnies team",
       "url": "https://buuniex-hackathon.devpost.com/",
@@ -650,17 +618,34 @@
       "uid": "hk:52689d28df0b0b61"
     },
     {
-      "name": "Vibeathon 2026",
-      "organizer": "A.C. Patil College of Engineering Department of Information Technology",
-      "url": "https://unstop.com/hackathons/vibeathon-2026-ac-patil-college-of-engineering-department-of-information-technology-1747384",
+      "name": "Dogfood | 72-Hour Hackathon",
+      "organizer": "Hackathon Raptors",
+      "url": "https://unstop.com/hackathons/dogfood-72-hour-hackathon-hackathon-raptors-1748391",
       "source": "unstop",
-      "location": "Kharghar",
+      "location": "online",
       "format": "online",
       "start_date": null,
       "end_date": "2026-09-25",
       "registration_deadline": "2026-09-25",
       "tags": [],
-      "uid": "hk:8ef1851f6fa356ff"
+      "uid": "hk:871596fcc340fc60"
+    },
+    {
+      "name": "Practice to Create [Feedback To All Projects!]",
+      "organizer": "Jitjai Organization",
+      "url": "https://practicetocreate.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-03",
+      "end_date": "2026-09-25",
+      "registration_deadline": "2026-09-25",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Open Ended"
+      ],
+      "uid": "hk:0302bdb50c3c94c5"
     },
     {
       "name": "Prom Fall Classic",
@@ -678,6 +663,19 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:a56943eb27a014ba"
+    },
+    {
+      "name": "SIT Flagship Hackathon 2026 | 8-Hour AI Hackathon",
+      "organizer": "Symbiosis Institute of Technology (SIT), Pune",
+      "url": "https://unstop.com/hackathons/sit-flagship-hackathon-2026-8-hour-ai-hackathon-symbiosis-institute-of-technology-sit-pune-1746836",
+      "source": "unstop",
+      "location": "Pune",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-26",
+      "registration_deadline": "2026-09-26",
+      "tags": [],
+      "uid": "hk:0da84e555904a567"
     },
     {
       "name": "Zero Origin",
@@ -829,23 +827,6 @@
       "uid": "hk:ec35393ce94fe6ae"
     },
     {
-      "name": "ML Empowerment Build Challenge 3.0",
-      "organizer": "ML Empowerment Foundation",
-      "url": "https://ml--build-challenge-3-0.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-30",
-      "end_date": "2026-10-01",
-      "registration_deadline": "2026-10-01",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "uid": "hk:7f2b0d344f6b87c8"
-    },
-    {
       "name": "OneAquaHealth IEEE Global Hackathon",
       "organizer": "OneAquaHealth",
       "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
@@ -944,6 +925,23 @@
         "Social Good"
       ],
       "uid": "hk:6fc271e944e129b4"
+    },
+    {
+      "name": "ImpactHack 2026",
+      "organizer": "GIS Engineering Club",
+      "url": "https://impacthack26.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-08",
+      "registration_deadline": "2026-10-08",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Social Good"
+      ],
+      "uid": "hk:456d51f6228e315f"
     },
     {
       "name": "ForgeHacks Online 2026",
@@ -1216,19 +1214,6 @@
       "uid": "hk:b22cd0552059e903"
     },
     {
-      "name": "Seize da Flaq",
-      "organizer": "Cyberonites Club",
-      "url": "https://unstop.com/hackathons/seize-da-flaq-cyberonites-club-1724723",
-      "source": "unstop",
-      "location": "Mathura",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-22",
-      "registration_deadline": "2026-11-22",
-      "tags": [],
-      "uid": "hk:a10acc2386c24dc4"
-    },
-    {
       "name": "SourceHacks V1",
       "organizer": "SourceHacks",
       "url": "https://sourcehacksv1.devpost.com/",
@@ -1311,6 +1296,23 @@
       "uid": "hk:39aad5c43db52955"
     },
     {
+      "name": "checkpoint 1 — games for good",
+      "organizer": "Checkpoint",
+      "url": "https://checkpoint-1.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2027-01-08",
+      "end_date": "2027-01-10",
+      "registration_deadline": "2027-01-10",
+      "tags": [
+        "Gaming",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "uid": "hk:e0e83cb5ec1441b7"
+    },
+    {
       "name": "United Hacks V8",
       "organizer": "Hack United",
       "url": "https://unitedhacksv8.devpost.com/",
@@ -1326,6 +1328,19 @@
         "Education"
       ],
       "uid": "hk:d615579c3ed126a4"
+    },
+    {
+      "name": "Build for Earth",
+      "organizer": "Hack Club",
+      "url": "https://earth.firstcommit.xyz",
+      "source": "hackclub",
+      "location": "",
+      "format": "online",
+      "start_date": "2026-11-08",
+      "end_date": "2027-01-16",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:e1811d46dbe8f4b5"
     },
     {
       "name": "HackTitan",
