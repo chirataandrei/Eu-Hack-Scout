@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T08:52:20.557160+00:00",
+  "updated_at": "2026-09-06T09:12:11.679136+00:00",
   "hackathons": [
     {
       "name": "NASA Space Apps Challenge - ETTI",
@@ -30,6 +30,21 @@
         "apify"
       ],
       "uid": "hk:38f42062c7b12da7"
+    },
+    {
+      "name": "This could be YOU at the NASA Space Apps Challenge ...",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/SpaceAppsRomania/videos/this-could-be-you-at-the-nasa-space-apps-challenge-romania-get-ready-to-innovate/30798073749807228/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-10-07",
+      "end_date": "2026-10-08",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:82645c810d464eb7"
     },
     {
       "name": "Smarthack, 11-12 noiembrie - hackathonul organizat de ...",
@@ -332,6 +347,21 @@
       "uid": "hk:48da3caad3ab74f2"
     },
     {
+      "name": "Cluj Hackathon (@clujhackathon)",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/clujhackathon/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:e3e513131265aad2"
+    },
+    {
       "name": "Cluj Hackathon 2026 — Digital Romania",
       "organizer": "clujhackathon.ro",
       "url": "https://clujhackathon.ro/",
@@ -628,6 +658,21 @@
         "apify"
       ],
       "uid": "hk:a80258aa96684bcf"
+    },
+    {
+      "name": "Hackathons in București : r/programare",
+      "organizer": "reddit.com",
+      "url": "https://www.reddit.com/r/programare/comments/xj268x/hackathons_in_bucure%C8%99ti/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:ebc2c21a5e82e63b"
     },
     {
       "name": "HackITall",
@@ -939,6 +984,21 @@
         "apify"
       ],
       "uid": "hk:44fadb32e688b3da"
+    },
+    {
+      "name": "Resources | The Bucharest Hackathon 2026",
+      "organizer": "thebucharesthackathon.com",
+      "url": "https://thebucharesthackathon.com/resources.html",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:c4e0cd3d097752c8"
     },
     {
       "name": "Restaurant of Tomorrow - Coding Challenge",

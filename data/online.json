@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-09-05T08:52:20.557160+00:00",
+  "updated_at": "2026-09-06T09:12:11.679136+00:00",
   "hackathons": [
-    {
-      "name": "Graphiques Innovation Challenge",
-      "organizer": "Hack Club",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-21",
-      "end_date": "2026-09-05",
-      "registration_deadline": "2026-09-05",
-      "tags": [
-        "Enterprise",
-        "Fintech",
-        "Productivity"
-      ],
-      "uid": "hk:d0b57ad2c7fcbf89"
-    },
-    {
-      "name": "VoltHacks",
-      "organizer": "Dialogate",
-      "url": "https://volthacks.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-05-22",
-      "end_date": "2026-09-05",
-      "registration_deadline": "2026-09-05",
-      "tags": [
-        "IoT",
-        "Machine Learning/AI",
-        "Beginner Friendly"
-      ],
-      "uid": "hk:944c6974a6e3db93"
-    },
     {
       "name": "Code to Connect: Women in Tech Hackathon 2026",
       "organizer": "Women in Tech Unimelb",
@@ -66,6 +32,23 @@
         "Fintech"
       ],
       "uid": "hk:e2a457abee146b1e"
+    },
+    {
+      "name": "Graphiques Innovation Challenge",
+      "organizer": "Hack Club",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-21",
+      "end_date": "2026-09-06",
+      "registration_deadline": "2026-09-06",
+      "tags": [
+        "Enterprise",
+        "Fintech",
+        "Productivity"
+      ],
+      "uid": "hk:d0b57ad2c7fcbf89"
     },
     {
       "name": "Syndicate by Maximor",
@@ -119,21 +102,21 @@
       "uid": "hk:9dda4096937fda81"
     },
     {
-      "name": "Hack The Weather",
-      "organizer": "JHUB Africa",
-      "url": "https://hack-the-weather.devpost.com/",
+      "name": "Codebox Hacks Makeup",
+      "organizer": "CodeBox",
+      "url": "https://codebox-hacks-makeup.devpost.com/",
       "source": "devpost",
       "location": "Online",
       "format": "online",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-09",
-      "registration_deadline": "2026-09-09",
+      "start_date": "2026-09-07",
+      "end_date": "2026-09-10",
+      "registration_deadline": "2026-09-10",
       "tags": [
-        "Machine Learning/AI",
-        "Open Ended",
-        "Social Good"
+        "Design",
+        "Education",
+        "Machine Learning/AI"
       ],
-      "uid": "hk:dec657bd87b188a4"
+      "uid": "hk:024360cb3328785e"
     },
     {
       "name": "Hack2Heal 2.0 - Global Healthcare Innovation Hackathon",
@@ -170,17 +153,21 @@
       "uid": "hk:9aa0a452d94e469b"
     },
     {
-      "name": "IndustrySolve Idea-Thon & Product-a-Thon 2026",
-      "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
-      "url": "https://unstop.com/hackathons/industrysolve-idea-thon-product-a-thon-2026-indraprastha-institute-of-information-technology-iiit-delhi-1749452",
-      "source": "unstop",
-      "location": "New Delhi",
+      "name": "Shared OS Hackathon",
+      "organizer": "Systemind, Inc",
+      "url": "https://shared-os-hackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
       "format": "online",
-      "start_date": null,
+      "start_date": "2026-09-09",
       "end_date": "2026-09-11",
       "registration_deadline": "2026-09-11",
-      "tags": [],
-      "uid": "hk:4fb21353059f5b7a"
+      "tags": [
+        "DevOps",
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "uid": "hk:94c11354e799382a"
     },
     {
       "name": "AnimalHack 2026",
@@ -198,19 +185,6 @@
         "Social Good"
       ],
       "uid": "hk:11a856c8cc066bdc"
-    },
-    {
-      "name": "Constructathon — Online Robotics Build Challenge",
-      "organizer": "AtumX",
-      "url": "https://unstop.com/hackathons/constructathon-online-robotics-build-challenge-atumx-1749130",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-12",
-      "registration_deadline": "2026-09-12",
-      "tags": [],
-      "uid": "hk:697f95598cc1cb34"
     },
     {
       "name": "Music from BeatMind",
@@ -275,6 +249,23 @@
       "uid": "hk:6ed47b1d096e64fc"
     },
     {
+      "name": "VoltHacks",
+      "organizer": "Dialogate",
+      "url": "https://volthacks.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-05-22",
+      "end_date": "2026-09-13",
+      "registration_deadline": "2026-09-13",
+      "tags": [
+        "IoT",
+        "Machine Learning/AI",
+        "Beginner Friendly"
+      ],
+      "uid": "hk:944c6974a6e3db93"
+    },
+    {
       "name": "Agents for Humans Hackathon",
       "organizer": "Amazon",
       "url": "https://agentsforhumans.devpost.com/",
@@ -290,6 +281,19 @@
         "Open Ended"
       ],
       "uid": "hk:cad3ba2108d88182"
+    },
+    {
+      "name": "Buildonomics",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "url": "https://unstop.com/hackathons/buildonomics-gravitas26-vit-vellore-1749938",
+      "source": "unstop",
+      "location": "Vellore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-14",
+      "registration_deadline": "2026-09-14",
+      "tags": [],
+      "uid": "hk:9005616315a6ee48"
     },
     {
       "name": "CALL-E: Your Code Is Calling",
@@ -324,19 +328,6 @@
         "Social Good"
       ],
       "uid": "hk:5d1b7f5939299977"
-    },
-    {
-      "name": "Sensora 2.0",
-      "organizer": "Vellore Institute of Technology (VIT), Vellore",
-      "url": "https://unstop.com/hackathons/sensora-20-vit-vellore-1746206",
-      "source": "unstop",
-      "location": "Vellore",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-14",
-      "registration_deadline": "2026-09-14",
-      "tags": [],
-      "uid": "hk:4df874e91f0ea2b7"
     },
     {
       "name": "AI Builders Hackathon",
@@ -388,6 +379,19 @@
       "uid": "hk:58438b48eaf4534c"
     },
     {
+      "name": "Startup Street 11",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "url": "https://unstop.com/hackathons/startup-street-11-gravitas26-vit-vellore-1749969",
+      "source": "unstop",
+      "location": "Vellore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-16",
+      "registration_deadline": "2026-09-16",
+      "tags": [],
+      "uid": "hk:e1f32002304e98a5"
+    },
+    {
       "name": "COMPSPHERE 12",
       "organizer": "President University",
       "url": "https://compsphere12.devpost.com/",
@@ -416,6 +420,23 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:c616fd1ece3a5e58"
+    },
+    {
+      "name": "Hack The Weather",
+      "organizer": "JHUB Africa",
+      "url": "https://hack-the-weather.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-16",
+      "end_date": "2026-09-18",
+      "registration_deadline": "2026-09-18",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
+        "Social Good"
+      ],
+      "uid": "hk:dec657bd87b188a4"
     },
     {
       "name": "The Rice University Urban Sustainability Hackathon",
@@ -463,19 +484,6 @@
         "Beginner Friendly"
       ],
       "uid": "hk:cbc06d457865714a"
-    },
-    {
-      "name": "Zinnovatio 4.0",
-      "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
-      "url": "https://unstop.com/hackathons/zinnovatio-40-chandigarh-university-cu-ajitgarh-punjab-1749579",
-      "source": "unstop",
-      "location": "Mohali",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-19",
-      "registration_deadline": "2026-09-19",
-      "tags": [],
-      "uid": "hk:6dcb1cd38f4e77aa"
     },
     {
       "name": "Evorozen Apex: NextGen AI Buildathon",
@@ -580,6 +588,19 @@
       "uid": "hk:52689d28df0b0b61"
     },
     {
+      "name": "Code Clash",
+      "organizer": "RV UNIVERSITY",
+      "url": "https://unstop.com/hackathons/code-clash-rv-university-1749224",
+      "source": "unstop",
+      "location": "Bangalore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-25",
+      "registration_deadline": "2026-09-25",
+      "tags": [],
+      "uid": "hk:3f9e4bfc86206748"
+    },
+    {
       "name": "Practice to Create [Feedback To All Projects!]",
       "organizer": "Jitjai Organization",
       "url": "https://practicetocreate.devpost.com/",
@@ -597,17 +618,17 @@
       "uid": "hk:0302bdb50c3c94c5"
     },
     {
-      "name": "Hack The Future 3.0 – National Hackathon | Tula’s University",
-      "organizer": "Tulas university ",
-      "url": "https://unstop.com/hackathons/hack-the-future-3o-tulas-university-1748989",
+      "name": "Argonyx‘26",
+      "organizer": "RV UNIVERSITY",
+      "url": "https://unstop.com/hackathons/argonyx26-rv-university-1748836",
       "source": "unstop",
-      "location": "Dehradun",
+      "location": "Bangalore",
       "format": "online",
       "start_date": null,
       "end_date": "2026-09-26",
       "registration_deadline": "2026-09-26",
       "tags": [],
-      "uid": "hk:9cadb5fc44b2e4f1"
+      "uid": "hk:11edddade9068ba6"
     },
     {
       "name": "Zero Origin",
@@ -742,6 +763,19 @@
       "uid": "hk:4846b198f5317fe3"
     },
     {
+      "name": "Udbhav'26 – Idea. Build. Pitch.",
+      "organizer": "Pimpri Chinchwad College Of Engineering & Research",
+      "url": "https://unstop.com/hackathons/udbhav26-idea-build-pitch-pimpri-chinchwad-college-of-engineering-research-1749090",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-29",
+      "registration_deadline": "2026-09-29",
+      "tags": [],
+      "uid": "hk:c6495f2adc39c56e"
+    },
+    {
       "name": "Beginner's Paradise - FirstCommit",
       "organizer": "FirstCommit",
       "url": "https://firstcommit.devpost.com/",
@@ -757,6 +791,23 @@
         "Web"
       ],
       "uid": "hk:ec35393ce94fe6ae"
+    },
+    {
+      "name": "Next Byte Hacks: V4",
+      "organizer": "Next Byte Hacks",
+      "url": "https://next-byte-hacks-v4.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-30",
+      "registration_deadline": "2026-09-30",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:87ee64f9c7dc9e2c"
     },
     {
       "name": "OneAquaHealth IEEE Global Hackathon",
@@ -855,6 +906,23 @@
         "Social Good"
       ],
       "uid": "hk:8ef8e5812661775f"
+    },
+    {
+      "name": "ML Empowerment Build Challenge 3.0",
+      "organizer": "ML Empowerment Foundation",
+      "url": "https://ml-build-challenge-3.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-05",
+      "end_date": "2026-10-05",
+      "registration_deadline": "2026-10-05",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "uid": "hk:a0db455698b85a3c"
     },
     {
       "name": "UnivaBio",

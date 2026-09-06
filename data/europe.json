@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T08:52:20.557160+00:00",
+  "updated_at": "2026-09-06T09:12:11.679136+00:00",
   "hackathons": [
     {
       "name": "Campaign Lab Summer Hack Night!",
@@ -13,6 +13,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:d0e133e905bc9c38"
+    },
+    {
+      "name": "Unimicro Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/hn9t4bpv",
+      "source": "luma",
+      "location": "Bergen, Bergen, Norway, Norway",
+      "format": "in_person",
+      "start_date": "2026-09-07",
+      "end_date": "2026-09-07",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:62f634ff953db5b7"
     },
     {
       "name": "From Spreadsheet Chaos to One Source of Truth: AI Hackathon for VCSE & SME Leaders",
@@ -132,6 +145,19 @@
       "uid": "hk:b20fc4214041982e"
     },
     {
+      "name": "XRPL Lending Protocol Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/t4ttb973",
+      "source": "luma",
+      "location": "Nanterre, Nanterre, France, France",
+      "format": "in_person",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:ea428bcd3db8e5e1"
+    },
+    {
       "name": "Light x Lovable x KPMG Finance Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/Sthlmfinhack",
@@ -156,19 +182,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:c0fa7e7356447328"
-    },
-    {
-      "name": "Public AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/ai388m8c",
-      "source": "luma",
-      "location": "Antwerpen, Antwerpen, Belgium, Belgium",
-      "format": "in_person",
-      "start_date": "2026-09-16",
-      "end_date": "2026-09-16",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:d45d645c6655c5fe"
     },
     {
       "name": "Hackathon: How to build a profitable e-commerce business with AI",
@@ -329,6 +342,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:b5dcb12bd4764214"
+    },
+    {
+      "name": "Cambridge × Arcade AI Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/2wuf8ns8",
+      "source": "luma",
+      "location": "Cambridge, Cambridge, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:b18c2fb57d3cc735"
     },
     {
       "name": "Bazel Hackathon",
