@@ -1,38 +1,6 @@
 {
-  "updated_at": "2026-09-06T09:12:11.679136+00:00",
+  "updated_at": "2026-09-07T10:00:10.721894+00:00",
   "hackathons": [
-    {
-      "name": "Code to Connect: Women in Tech Hackathon 2026",
-      "organizer": "Women in Tech Unimelb",
-      "url": "https://code-to-connect-wit.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-06",
-      "registration_deadline": "2026-09-06",
-      "tags": [
-        "Beginner Friendly",
-        "Communication",
-        "Gaming"
-      ],
-      "uid": "hk:f4d3b29780034bd8"
-    },
-    {
-      "name": "Coppell hackathon 1",
-      "organizer": "shrimat koti",
-      "url": "https://fintech-hackothon-1.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-06",
-      "registration_deadline": "2026-09-06",
-      "tags": [
-        "Fintech"
-      ],
-      "uid": "hk:e2a457abee146b1e"
-    },
     {
       "name": "Graphiques Innovation Challenge",
       "organizer": "Hack Club",
@@ -41,31 +9,14 @@
       "location": "Online",
       "format": "online",
       "start_date": "2026-08-21",
-      "end_date": "2026-09-06",
-      "registration_deadline": "2026-09-06",
+      "end_date": "2026-09-07",
+      "registration_deadline": "2026-09-07",
       "tags": [
         "Enterprise",
         "Fintech",
         "Productivity"
       ],
       "uid": "hk:d0b57ad2c7fcbf89"
-    },
-    {
-      "name": "Syndicate by Maximor",
-      "organizer": "agent orchestrator",
-      "url": "https://syndicate-by-maximor.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-06",
-      "registration_deadline": "2026-09-06",
-      "tags": [
-        "Beginner Friendly",
-        "Fintech",
-        "Open Ended"
-      ],
-      "uid": "hk:6272eba1af5b7011"
     },
     {
       "name": "AI Content Engine Hackathon",
@@ -109,8 +60,8 @@
       "location": "Online",
       "format": "online",
       "start_date": "2026-09-07",
-      "end_date": "2026-09-10",
-      "registration_deadline": "2026-09-10",
+      "end_date": "2026-09-09",
+      "registration_deadline": "2026-09-09",
       "tags": [
         "Design",
         "Education",
@@ -283,19 +234,6 @@
       "uid": "hk:cad3ba2108d88182"
     },
     {
-      "name": "Buildonomics",
-      "organizer": "Vellore Institute of Technology (VIT), Vellore",
-      "url": "https://unstop.com/hackathons/buildonomics-gravitas26-vit-vellore-1749938",
-      "source": "unstop",
-      "location": "Vellore",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-14",
-      "registration_deadline": "2026-09-14",
-      "tags": [],
-      "uid": "hk:9005616315a6ee48"
-    },
-    {
       "name": "CALL-E: Your Code Is Calling",
       "organizer": "CALL-E",
       "url": "https://call-e.devpost.com/",
@@ -379,19 +317,6 @@
       "uid": "hk:58438b48eaf4534c"
     },
     {
-      "name": "Startup Street 11",
-      "organizer": "Vellore Institute of Technology (VIT), Vellore",
-      "url": "https://unstop.com/hackathons/startup-street-11-gravitas26-vit-vellore-1749969",
-      "source": "unstop",
-      "location": "Vellore",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-16",
-      "registration_deadline": "2026-09-16",
-      "tags": [],
-      "uid": "hk:e1f32002304e98a5"
-    },
-    {
       "name": "COMPSPHERE 12",
       "organizer": "President University",
       "url": "https://compsphere12.devpost.com/",
@@ -420,6 +345,23 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:c616fd1ece3a5e58"
+    },
+    {
+      "name": "TechCommons Hacks V2 - Hacks to Inspire",
+      "organizer": "TechCommons",
+      "url": "https://techcommons-hacks-v2.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-17",
+      "registration_deadline": "2026-09-17",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "uid": "hk:c471db2bdee02ad1"
     },
     {
       "name": "Hack The Weather",
@@ -471,6 +413,19 @@
       "uid": "hk:36447681aa77fa0c"
     },
     {
+      "name": "Convergence 2K26 Software Hackathon",
+      "organizer": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana",
+      "url": "https://unstop.com/hackathons/convergence-2k26-software-hackathon-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-techno-1750228",
+      "source": "unstop",
+      "location": "Hyderabad",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-19",
+      "registration_deadline": "2026-09-19",
+      "tags": [],
+      "uid": "hk:d07f6d27476a7693"
+    },
+    {
       "name": "SHPE Jr. Designathon",
       "organizer": "SHPE UF",
       "url": "https://shpe-jr-designathon.devpost.com/",
@@ -484,6 +439,23 @@
         "Beginner Friendly"
       ],
       "uid": "hk:cbc06d457865714a"
+    },
+    {
+      "name": "STEMinate Wildcard Hack",
+      "organizer": "STEMinate Texas",
+      "url": "https://steminate-texas-wildcard-hack.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-19",
+      "registration_deadline": "2026-09-19",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "uid": "hk:3883f4257bd29750"
     },
     {
       "name": "Evorozen Apex: NextGen AI Buildathon",
@@ -501,6 +473,19 @@
         "Web"
       ],
       "uid": "hk:a00ce934a8315aca"
+    },
+    {
+      "name": "Hack Devengers 2.0",
+      "organizer": "Devengers",
+      "url": "https://unstop.com/hackathons/hack-devengers-20-devengers-1749441",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-20",
+      "registration_deadline": "2026-09-20",
+      "tags": [],
+      "uid": "hk:223e6528cb270194"
     },
     {
       "name": "TLN Hackathon 2026",
@@ -535,6 +520,19 @@
         "Beginner Friendly"
       ],
       "uid": "hk:f82ea86dc9d4ca50"
+    },
+    {
+      "name": "Seattle GiveCamp 2026",
+      "organizer": "Seattle GiveCamp",
+      "url": "https://unstop.com/hackathons/seattle-givecamp-2026-seattle-givecamp-1750430",
+      "source": "unstop",
+      "location": "Redmond",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-21",
+      "registration_deadline": "2026-09-21",
+      "tags": [],
+      "uid": "hk:5e37ddd3d86d6ef1"
     },
     {
       "name": "BunnieX Hackathon",
@@ -588,19 +586,6 @@
       "uid": "hk:52689d28df0b0b61"
     },
     {
-      "name": "Code Clash",
-      "organizer": "RV UNIVERSITY",
-      "url": "https://unstop.com/hackathons/code-clash-rv-university-1749224",
-      "source": "unstop",
-      "location": "Bangalore",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-25",
-      "registration_deadline": "2026-09-25",
-      "tags": [],
-      "uid": "hk:3f9e4bfc86206748"
-    },
-    {
       "name": "Practice to Create [Feedback To All Projects!]",
       "organizer": "Jitjai Organization",
       "url": "https://practicetocreate.devpost.com/",
@@ -616,19 +601,6 @@
         "Open Ended"
       ],
       "uid": "hk:0302bdb50c3c94c5"
-    },
-    {
-      "name": "Argonyx‘26",
-      "organizer": "RV UNIVERSITY",
-      "url": "https://unstop.com/hackathons/argonyx26-rv-university-1748836",
-      "source": "unstop",
-      "location": "Bangalore",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-26",
-      "registration_deadline": "2026-09-26",
-      "tags": [],
-      "uid": "hk:11edddade9068ba6"
     },
     {
       "name": "Zero Origin",
@@ -763,19 +735,6 @@
       "uid": "hk:4846b198f5317fe3"
     },
     {
-      "name": "Udbhav'26 – Idea. Build. Pitch.",
-      "organizer": "Pimpri Chinchwad College Of Engineering & Research",
-      "url": "https://unstop.com/hackathons/udbhav26-idea-build-pitch-pimpri-chinchwad-college-of-engineering-research-1749090",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-29",
-      "registration_deadline": "2026-09-29",
-      "tags": [],
-      "uid": "hk:c6495f2adc39c56e"
-    },
-    {
       "name": "Beginner's Paradise - FirstCommit",
       "organizer": "FirstCommit",
       "url": "https://firstcommit.devpost.com/",
@@ -808,6 +767,19 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:87ee64f9c7dc9e2c"
+    },
+    {
+      "name": "Code Clash",
+      "organizer": "Deenbandhu Chhotu Ram University Of Science And Technology (DCRUST), Murthal, Haryana",
+      "url": "https://unstop.com/hackathons/code-clash-deenbandhu-chhotu-ram-university-of-science-and-technology-dcrust-murthal-haryana-1750453",
+      "source": "unstop",
+      "location": "Sonipat",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-01",
+      "registration_deadline": "2026-10-01",
+      "tags": [],
+      "uid": "hk:bea75b7abb696d62"
     },
     {
       "name": "OneAquaHealth IEEE Global Hackathon",
@@ -1061,7 +1033,7 @@
       "uid": "hk:36cd12e4f2c995ef"
     },
     {
-      "name": "MLAI Hackathon",
+      "name": "MLAI Hackathon 2026",
       "organizer": "Mạng Lưới AI",
       "url": "https://mlai-hackathon.devpost.com/",
       "source": "devpost",
@@ -1074,7 +1046,24 @@
         "Databases",
         "Machine Learning/AI"
       ],
-      "uid": "hk:9fc29dcba288b65e"
+      "uid": "hk:668e1c011abee4e8"
+    },
+    {
+      "name": "EurekaDev 2026",
+      "organizer": "Eureka Institute and UnivaDev",
+      "url": "https://eurekadev.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-27",
+      "end_date": "2026-10-20",
+      "registration_deadline": "2026-10-20",
+      "tags": [
+        "Beginner Friendly",
+        "Open Ended",
+        "Social Good"
+      ],
+      "uid": "hk:f6642b9d10e5eef8"
     },
     {
       "name": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -1125,6 +1114,19 @@
         "Social Good"
       ],
       "uid": "hk:6b90618a61d26918"
+    },
+    {
+      "name": "Hackwave 3.0",
+      "organizer": "Chameli Devi Group of Institutions",
+      "url": "https://unstop.com/hackathons/hackwave-30-chameli-devi-group-of-institutions-1750278",
+      "source": "unstop",
+      "location": "Indore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-26",
+      "registration_deadline": "2026-10-26",
+      "tags": [],
+      "uid": "hk:4e84bc9ae6941337"
     },
     {
       "name": "OpenCV AI Competition 2026, powered by AWS",
@@ -1392,23 +1394,6 @@
       "uid": "hk:4e47a8e0baef1db6"
     },
     {
-      "name": "EurekaDev 2026",
-      "organizer": "Eureka Institute and UnivaDev",
-      "url": "https://eurekadev.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2027-08-27",
-      "end_date": "2027-10-20",
-      "registration_deadline": "2027-10-20",
-      "tags": [
-        "Beginner Friendly",
-        "Open Ended",
-        "Social Good"
-      ],
-      "uid": "hk:f6642b9d10e5eef8"
-    },
-    {
       "name": "Brewing Codes 4.0",
       "organizer": "HARD MODE",
       "url": "https://brewing-codes-4-0.devpost.com/",
@@ -1546,6 +1531,21 @@
         "apify"
       ],
       "uid": "hk:29438538d63a5022"
+    },
+    {
+      "name": "Bestem Carbon Fiber Heat Shield Fairing for Harley ...",
+      "organizer": "blairimage.com",
+      "url": "https://blairimage.com/listing/bestem-carbon-fiber-heat-shield-fairing-for-harley-davidson?srsltid=211746835",
+      "source": "apify",
+      "location": "",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:5b230076f68af259"
     },
     {
       "name": "Bestem: Car & Motorbike",

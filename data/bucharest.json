@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T09:12:11.679136+00:00",
+  "updated_at": "2026-09-07T10:00:10.721894+00:00",
   "hackathons": [
     {
       "name": "NASA Space Apps Challenge - ETTI",
@@ -30,6 +30,21 @@
         "apify"
       ],
       "uid": "hk:38f42062c7b12da7"
+    },
+    {
+      "name": "NASA Space Apps Challenge Romania",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/SpaceAppsRomania/posts/before-we-meet-again-in-november-lets-rewind-to-the-2025-edition-of-nasa-space-a/1482490137244787/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-10-07",
+      "end_date": "2026-10-08",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:bcd4ce32b26a1a68"
     },
     {
       "name": "This could be YOU at the NASA Space Apps Challenge ...",
@@ -180,6 +195,21 @@
         "apify"
       ],
       "uid": "hk:7a8d9c154542b603"
+    },
+    {
+      "name": "1st Place — Electron Hackathon",
+      "organizer": "cristimiloiu.com",
+      "url": "https://cristimiloiu.com/awards/electron-hackathon",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:9e57dec79c917b74"
     },
     {
       "name": "2026 Google Student AI Hackathon - Withgoogle.com",
@@ -1220,6 +1250,21 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:510733d4beb0a9cd"
+    },
+    {
+      "name": "Tradiția înseamna eeStec Olympics 6!",
+      "organizer": "stiintasitehnica.com",
+      "url": "https://stiintasitehnica.com/tradi-ia-inseamna-eestec-olympics-6/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:941e8fdd5e1da850"
     },
     {
       "name": "UEFISCDI organizează ediția locală a competiției europene EU Sparks for Climate – Citizens Hackaton Championship",

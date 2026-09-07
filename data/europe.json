@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T09:12:11.679136+00:00",
+  "updated_at": "2026-09-07T10:00:10.721894+00:00",
   "hackathons": [
     {
       "name": "Campaign Lab Summer Hack Night!",
@@ -119,6 +119,19 @@
       "uid": "hk:08d1a658f971f193"
     },
     {
+      "name": "📍London 🌀 Generalist World Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/vpro1xsy",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:4b685455690eee1c"
+    },
+    {
       "name": "AI.WOMEN Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/zh2gkqd0",
@@ -143,19 +156,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:b20fc4214041982e"
-    },
-    {
-      "name": "XRPL Lending Protocol Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/t4ttb973",
-      "source": "luma",
-      "location": "Nanterre, Nanterre, France, France",
-      "format": "in_person",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-13",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:ea428bcd3db8e5e1"
     },
     {
       "name": "Light x Lovable x KPMG Finance Hackathon",
@@ -210,19 +210,6 @@
       "uid": "hk:1b0248d8668c3727"
     },
     {
-      "name": "Customer Onboarding Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/vpjma1oe",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:82ce137bd76ab4fb"
-    },
-    {
       "name": "AaltoAI Hackathon: Data Sovereignty & Responsible AI",
       "organizer": "Luma",
       "url": "https://lu.ma/heyq2zch",
@@ -266,6 +253,19 @@
       "uid": "hk:0739bb4c157aa371"
     },
     {
+      "name": "Legal Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/hack-kloten-23Sep26",
+      "source": "luma",
+      "location": "Zürich, Zürich, Switzerland, Switzerland",
+      "format": "in_person",
+      "start_date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:ed90de47d79d1c57"
+    },
+    {
       "name": "Velory × 46elks × IkonAI Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/o2z4bjfy",
@@ -290,6 +290,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:b096e1a6dc0287c7"
+    },
+    {
+      "name": "Zurich Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/hack-zurich-24Sep26",
+      "source": "luma",
+      "location": "Zürich, Zürich, Switzerland, Switzerland",
+      "format": "in_person",
+      "start_date": "2026-09-24",
+      "end_date": "2026-09-25",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:5dc5dae10741fd94"
     },
     {
       "name": "House London #2 | Data Hackathon",
@@ -318,6 +331,19 @@
       "uid": "hk:cd479875a520e6a0"
     },
     {
+      "name": "Prompt Marketing Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/aaltoes-ose3",
+      "source": "luma",
+      "location": "Espoo, Espoo, Finland, Finland",
+      "format": "in_person",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:b013cfcbd2f7b2de"
+    },
+    {
       "name": "YFN x EU Energy Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/75cqklfc",
@@ -331,32 +357,6 @@
       "uid": "hk:e528159d572da74f"
     },
     {
-      "name": "Bradford Agentic AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/d3jrbl89",
-      "source": "luma",
-      "location": "Bradford, Bradford, England, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:b5dcb12bd4764214"
-    },
-    {
-      "name": "Cambridge × Arcade AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/2wuf8ns8",
-      "source": "luma",
-      "location": "Cambridge, Cambridge, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:b18c2fb57d3cc735"
-    },
-    {
       "name": "Bazel Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/9dm41b1h",
@@ -368,6 +368,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:7a4e2d7cc25bddf1"
+    },
+    {
+      "name": "Chat Hackers - Hack Day",
+      "organizer": "Luma",
+      "url": "https://lu.ma/campaign-nz6y",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:8a833bf427ce2399"
     },
     {
       "name": "VibeDays : Hackathon AI Safety",
