@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T10:00:10.721894+00:00",
+  "updated_at": "2026-09-08T09:25:51.862970+00:00",
   "hackathons": [
     {
       "name": "NASA Space Apps Challenge - ETTI",
@@ -450,6 +450,21 @@
       "uid": "hk:6949e29eb8aff4e3"
     },
     {
+      "name": "EESTEC LC Bucharest's Post",
+      "organizer": "linkedin.com",
+      "url": "https://www.linkedin.com/posts/eestec-bucharest_eestec-uipath-futureforwardhackathon-activity-7393318469712216064-QsZg",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:d18910fbdb5dabe6"
+    },
+    {
       "name": "EESTEC Olympics 10",
       "organizer": "olympics10.eestec.ro",
       "url": "https://olympics10.eestec.ro/",
@@ -733,6 +748,21 @@
       "uid": "hk:e1c8c8bd7176bd04"
     },
     {
+      "name": "Host a NASA Space Apps Local Event!",
+      "organizer": "spaceappschallenge.org",
+      "url": "https://www.spaceappschallenge.org/host-an-event/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:5c8034ea4a0fe037"
+    },
+    {
       "name": "How a Virtual AI Hackathon Addresses Global Problems",
       "organizer": "tips.hackathon.com",
       "url": "https://tips.hackathon.com/article/how-a-virtual-ai-hackathon-addresses-global-problems",
@@ -896,6 +926,21 @@
       "uid": "hk:5ff9660eb10265dc"
     },
     {
+      "name": "NASA Space Apps Challenge 2026: hackathonul revine în ...",
+      "organizer": "cafemedia.ro",
+      "url": "https://cafemedia.ro/nasa-space-apps-challenge-2026-bucuresti-cluj/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:087fa162255b4fac"
+    },
+    {
       "name": "NASA Space Apps Challenge at TRU | Students Solving Real- ...",
       "organizer": "youtube.com",
       "url": "https://www.youtube.com/watch?v=gGF-osht3Ww",
@@ -909,6 +954,21 @@
         "apify"
       ],
       "uid": "hk:1abcdf34c9a369ae"
+    },
+    {
+      "name": "NASA Space Apps Challenge India",
+      "organizer": "nasaspaceappsindia.com",
+      "url": "https://www.nasaspaceappsindia.com/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:35a6b6e95e96609a"
     },
     {
       "name": "NASA Space Apps Challenge registrations open",
@@ -1014,21 +1074,6 @@
         "apify"
       ],
       "uid": "hk:44fadb32e688b3da"
-    },
-    {
-      "name": "Resources | The Bucharest Hackathon 2026",
-      "organizer": "thebucharesthackathon.com",
-      "url": "https://thebucharesthackathon.com/resources.html",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c4e0cd3d097752c8"
     },
     {
       "name": "Restaurant of Tomorrow - Coding Challenge",
@@ -1280,6 +1325,21 @@
         "romania"
       ],
       "uid": "hk:77f5d1d77eee671d"
+    },
+    {
+      "name": "What is the NASA Space Apps Challenge?",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/groups/295576861632825/posts/495571254966717/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:72a242cd691796b4"
     }
   ]
 }
