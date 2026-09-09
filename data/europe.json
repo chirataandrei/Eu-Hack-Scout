@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T09:25:51.862970+00:00",
+  "updated_at": "2026-09-09T09:27:17.397044+00:00",
   "hackathons": [
     {
       "name": "From Spreadsheet Chaos to One Source of Truth: AI Hackathon for VCSE & SME Leaders",
@@ -13,6 +13,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:fdd7822605069676"
+    },
+    {
+      "name": "HackNight NeuroTechX Paris (hybride)",
+      "organizer": "CogLab, NeuroTechX Paris",
+      "url": "https://www.meetup.com/coglab/events/316472356/",
+      "source": "meetup",
+      "location": "Paris, Makerlab Paris, fr",
+      "format": "in_person",
+      "start_date": "2026-09-09",
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:e943c0aa6bd7888a"
     },
     {
       "name": "Agents & Jazz Hackathon",
@@ -39,19 +52,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:64be3af39a92d1d4"
-    },
-    {
-      "name": "AI Healthcare Hackathon with Anima x OpenAI",
-      "organizer": "Luma",
-      "url": "https://lu.ma/animaxopenai",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:c929d1bc11735aa6"
     },
     {
       "name": "Community Tooling Hack Day #2",
@@ -130,6 +130,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:ea428bcd3db8e5e1"
+    },
+    {
+      "name": "HPE & NVIDIA Agentic AI Hackathon for Enterprises @HPE Geneva Customer Innovation Center",
+      "organizer": "Luma",
+      "url": "https://lu.ma/hack-geneva-14Sep26",
+      "source": "luma",
+      "location": "Meyrin, Meyrin, Switzerland, Switzerland",
+      "format": "in_person",
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-14",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:0438a3b523c55126"
     },
     {
       "name": "Light x Lovable x KPMG Finance Hackathon",
@@ -292,32 +305,6 @@
       "uid": "hk:187394e75654f374"
     },
     {
-      "name": "Lisbon AI Week Vibe Coding Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/djo6h43d",
-      "source": "luma",
-      "location": "Carcavelos, Carcavelos, Portugal, Portugal",
-      "format": "in_person",
-      "start_date": "2026-09-25",
-      "end_date": "2026-09-26",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:810d40d0b5f369d7"
-    },
-    {
-      "name": "HACK_002: 24h AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/1ka4b1nm",
-      "source": "luma",
-      "location": "Wien, Wien, Austria, Austria",
-      "format": "in_person",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-27",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:1a81564df7b5d79c"
-    },
-    {
       "name": "Lock in & Build Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/b3o95mtn",
@@ -355,6 +342,32 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:e528159d572da74f"
+    },
+    {
+      "name": "Stockholm Hub - 7th Hack-Nation Global AI Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/305qlysu",
+      "source": "luma",
+      "location": "Huddinge, Huddinge, Sweden, Sweden",
+      "format": "in_person",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:725e26feb8f6af64"
+    },
+    {
+      "name": "Stripe x Briefcase: AI FinTech London Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/3k1pazop",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:0e9e0c9d4bf3eb2d"
     },
     {
       "name": "VibeDays : Hackathon AI Safety",

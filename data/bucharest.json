@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T09:25:51.862970+00:00",
+  "updated_at": "2026-09-09T09:27:17.397044+00:00",
   "hackathons": [
     {
       "name": "NASA Space Apps Challenge - ETTI",
@@ -360,6 +360,21 @@
         "apify"
       ],
       "uid": "hk:f9b2724cfb267ec4"
+    },
+    {
+      "name": "AWS CendekiAwan 2026 Energy Nexus AI Hackathon ...",
+      "organizer": "linkedin.com",
+      "url": "https://www.linkedin.com/posts/qurat-ul-ain-zam-zam-m-7693a7183_awscendekiawan-generativeai-cloudcomputing-activity-7476525383820025857-oLiC",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:6c94dcc4890b5d9c"
     },
     {
       "name": "BESTEMv14",
@@ -1076,6 +1091,21 @@
       "uid": "hk:44fadb32e688b3da"
     },
     {
+      "name": "Resources | The Bucharest Hackathon 2026",
+      "organizer": "thebucharesthackathon.com",
+      "url": "https://thebucharesthackathon.com/resources.html",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:c4e0cd3d097752c8"
+    },
+    {
       "name": "Restaurant of Tomorrow - Coding Challenge",
       "organizer": "hackathon.com",
       "url": "https://www.hackathon.com/event/restaurant-of-tomorrow---coding-challenge-90172433175",
@@ -1295,6 +1325,21 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:510733d4beb0a9cd"
+    },
+    {
+      "name": "The Ultimate RoboCode Tournament by METRO - Bucharest",
+      "organizer": "hackathon.com",
+      "url": "http://www.hackathon.com/event/the-ultimate-robocode-tournament-by-metro---bucharest-38656980068",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:d41857b69348c89d"
     },
     {
       "name": "Tradiția înseamna eeStec Olympics 6!",
