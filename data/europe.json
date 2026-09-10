@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-09-09T09:27:17.397044+00:00",
+  "updated_at": "2026-09-10T09:26:04.754853+00:00",
   "hackathons": [
-    {
-      "name": "From Spreadsheet Chaos to One Source of Truth: AI Hackathon for VCSE & SME Leaders",
-      "organizer": "Luma",
-      "url": "https://lu.ma/softr-zs3l",
-      "source": "luma",
-      "location": "Birmingham, Birmingham, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-09-09",
-      "end_date": "2026-09-09",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:fdd7822605069676"
-    },
-    {
-      "name": "HackNight NeuroTechX Paris (hybride)",
-      "organizer": "CogLab, NeuroTechX Paris",
-      "url": "https://www.meetup.com/coglab/events/316472356/",
-      "source": "meetup",
-      "location": "Paris, Makerlab Paris, fr",
-      "format": "in_person",
-      "start_date": "2026-09-09",
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:e943c0aa6bd7888a"
-    },
     {
       "name": "Agents & Jazz Hackathon",
       "organizer": "Luma",
@@ -158,6 +132,19 @@
       "uid": "hk:af212c4105ddc5fa"
     },
     {
+      "name": "MCP, AI & Workflows: The Softr x Make Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/softr-make-berlin-ai",
+      "source": "luma",
+      "location": "Berlin, Berlin, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-14",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:5941ed4efd3a2ace"
+    },
+    {
       "name": "GirlsWhoML & PhysicsX Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/cvpxxlpq",
@@ -182,6 +169,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:72fe184e55f61deb"
+    },
+    {
+      "name": "Public AI Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/ai388m8c",
+      "source": "luma",
+      "location": "Antwerpen, Antwerpen, Belgium, Belgium",
+      "format": "in_person",
+      "start_date": "2026-09-16",
+      "end_date": "2026-09-16",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:d45d645c6655c5fe"
     },
     {
       "name": "Lenzburg Hackathon @Finnova",
@@ -344,17 +344,30 @@
       "uid": "hk:e528159d572da74f"
     },
     {
-      "name": "Stockholm Hub - 7th Hack-Nation Global AI Hackathon",
+      "name": "Cursor Hackathon Prague: Forge the Stack",
       "organizer": "Luma",
-      "url": "https://lu.ma/305qlysu",
+      "url": "https://lu.ma/cursor-mljb",
       "source": "luma",
-      "location": "Huddinge, Huddinge, Sweden, Sweden",
+      "location": "Hlavní město Praha, Hlavní město Praha, Czechia, Czechia",
       "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
+      "start_date": "2026-09-30",
+      "end_date": "2026-09-30",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:725e26feb8f6af64"
+      "uid": "hk:174e5a225baae398"
+    },
+    {
+      "name": "Bradford Agentic AI Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/d3jrbl89",
+      "source": "luma",
+      "location": "Bradford, Bradford, England, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:b5dcb12bd4764214"
     },
     {
       "name": "Stripe x Briefcase: AI FinTech London Hackathon",
@@ -370,19 +383,6 @@
       "uid": "hk:0e9e0c9d4bf3eb2d"
     },
     {
-      "name": "VibeDays : Hackathon AI Safety",
-      "organizer": "Luma",
-      "url": "https://lu.ma/9rkl3mrp",
-      "source": "luma",
-      "location": "Puteaux, Puteaux, France, France",
-      "format": "in_person",
-      "start_date": "2026-10-16",
-      "end_date": "2026-10-17",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:895550a194d90d68"
-    },
-    {
       "name": "IKU Womxn in STEM Hackathon",
       "organizer": "MLH",
       "url": "https://ikuwomxninstemhackathon.co.uk/",
@@ -394,6 +394,32 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:f1b1ce0c71458510"
+    },
+    {
+      "name": "Encode London Hackathon and Conference",
+      "organizer": "Luma",
+      "url": "https://lu.ma/encode-london-2026",
+      "source": "luma",
+      "location": "London, London, England, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-25",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:35dd77388c9f2041"
+    },
+    {
+      "name": "VibeDays : Hackathon AI Safety",
+      "organizer": "Luma",
+      "url": "https://lu.ma/9rkl3mrp",
+      "source": "luma",
+      "location": "Puteaux, Puteaux, France, France",
+      "format": "in_person",
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:895550a194d90d68"
     },
     {
       "name": "TUM Blockchain Conference 26 + Hackathon",

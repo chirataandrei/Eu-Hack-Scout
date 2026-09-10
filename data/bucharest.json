@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T09:27:17.397044+00:00",
+  "updated_at": "2026-09-10T09:26:04.754853+00:00",
   "hackathons": [
     {
       "name": "NASA Space Apps Challenge - ETTI",
@@ -30,6 +30,21 @@
         "apify"
       ],
       "uid": "hk:38f42062c7b12da7"
+    },
+    {
+      "name": "NASA Space Apps Challenge returns to Bucharest and ...",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/SpaceAppsRomania/posts/nasa-space-apps-returned-to-bucharest-and-cluj-napoca-in-2023-with-both-cities-h/1489388853221582/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-10-07",
+      "end_date": "2026-10-08",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:dc4b087333526bdb"
     },
     {
       "name": "NASA Space Apps Challenge Romania",
@@ -120,6 +135,21 @@
         "apify"
       ],
       "uid": "hk:5a40e9e33561b4ed"
+    },
+    {
+      "name": "NASA Space Apps Challenge (@SpaceApps) ...",
+      "organizer": "x.com",
+      "url": "https://x.com/SpaceApps?lang=en",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:8a4d31291cfd5036"
     },
     {
       "name": "NASA Space Apps Challenge (@SpaceApps) / X",
@@ -437,6 +467,21 @@
       "uid": "hk:46d06e8486c63006"
     },
     {
+      "name": "Day 1 at Cluj Hackathon 2026",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/reel/DYpblc8gmnE/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:2daa625e838e14a4"
+    },
+    {
       "name": "DevHacks CLUJ powered by MassMutual Romania",
       "organizer": "hackathon.com",
       "url": "https://www.hackathon.com/event/devhacks-cluj-powered-by-massmutual-romania-471083682977",
@@ -690,6 +735,21 @@
       "uid": "hk:dc97665d591fe3c0"
     },
     {
+      "name": "Google Student AI Hackathon - Bucharest - Withgoogle.com",
+      "organizer": "rsvp.withgoogle.com",
+      "url": "https://rsvp.withgoogle.com/events/ro-ai-student-hackathon",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:2f6f4ddf558c3811"
+    },
+    {
       "name": "Hackathon Bucharest 2026",
       "organizer": "instagram.com",
       "url": "https://www.instagram.com/popular/hackathon-bucharest-2026/",
@@ -804,6 +864,21 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:e908f30dfb189532"
+    },
+    {
+      "name": "Innovation Labs 2026 - 41 startup-uri după hackathonul ...",
+      "organizer": "thewoman.ro",
+      "url": "https://www.thewoman.ro/innovation-labs-2026-41-startupuri-hackathon-bucuresti/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:5bf80112dbda0562"
     },
     {
       "name": "Lendi Group Hackathon Builds Agents in Hours",
@@ -939,6 +1014,21 @@
         "apify"
       ],
       "uid": "hk:5ff9660eb10265dc"
+    },
+    {
+      "name": "NASA Space Apps Challenge 2026 | Free Global Hackathon",
+      "organizer": "opportunitiescorners.com",
+      "url": "https://opportunitiescorners.com/nasa-space-apps-challenge-2026/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:8d40123008bce92d"
     },
     {
       "name": "NASA Space Apps Challenge 2026: hackathonul revine în ...",
