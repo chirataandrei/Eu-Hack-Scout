@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T09:26:04.754853+00:00",
+  "updated_at": "2026-09-11T09:24:50.873422+00:00",
   "hackathons": [
     {
       "name": "NASA Space Apps Challenge - ETTI",
@@ -270,21 +270,6 @@
         "apify"
       ],
       "uid": "hk:8bfc2f1916356fa6"
-    },
-    {
-      "name": "24 Hours of Google - Hackathon - ASMI",
-      "organizer": "asmi.ro",
-      "url": "https://asmi.ro/Articole/google-hackaton",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:903915de1b52bc64"
     },
     {
       "name": "24 Hours of Google Hackathon 2026 | Eduard Olteanu",
@@ -881,6 +866,21 @@
       "uid": "hk:5bf80112dbda0562"
     },
     {
+      "name": "LC Bucharest",
+      "organizer": "eestec.net",
+      "url": "https://eestec.net/cities/bucharest",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:788ca887b840f9cb"
+    },
+    {
       "name": "Lendi Group Hackathon Builds Agents in Hours",
       "organizer": "linkedin.com",
       "url": "https://www.linkedin.com/posts/lendi-group_hackathon-at-lendi-group-activity-7462336276893958144-J4ld",
@@ -1149,6 +1149,21 @@
         "apify"
       ],
       "uid": "hk:eaf6e1b8447ecbdd"
+    },
+    {
+      "name": "Previous Editions | The Bucharest Hackathon",
+      "organizer": "thebucharesthackathon.com",
+      "url": "https://thebucharesthackathon.com/previous-editions.html",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:c444c469814ab071"
     },
     {
       "name": "Reddit Mod Tools Hackathon on Devvit Developer Platform",
