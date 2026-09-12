@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-09-11T09:24:50.873422+00:00",
+  "updated_at": "2026-09-12T09:05:07.444849+00:00",
   "hackathons": [
-    {
-      "name": "Agents & Jazz Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/uquy1psx",
-      "source": "luma",
-      "location": "Stockholm, Stockholm, Sweden, Sweden",
-      "format": "in_person",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:62daff8febff5205"
-    },
     {
       "name": "AI Hackathon | START Stuttgart",
       "organizer": "Luma",
@@ -65,6 +52,23 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:f5526a4347d31418"
+    },
+    {
+      "name": "WORLDS London",
+      "organizer": "Multic",
+      "url": "https://worlds.devpost.com/",
+      "source": "devpost",
+      "location": "London, Waterloo",
+      "format": "in_person",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "registration_deadline": "2026-09-12",
+      "tags": [
+        "Gaming",
+        "Machine Learning/AI",
+        "AR/VR"
+      ],
+      "uid": "hk:2b5d6f7ab955d8f0"
     },
     {
       "name": "WORLDS | LONDON Hackathon",
@@ -119,6 +123,19 @@
       "uid": "hk:ea428bcd3db8e5e1"
     },
     {
+      "name": "HPE & NVIDIA Agentic AI Hackathon for Enterprises @HPE Geneva Customer Innovation Center",
+      "organizer": "Luma",
+      "url": "https://lu.ma/hack-geneva-14Sep26",
+      "source": "luma",
+      "location": "Meyrin, Meyrin, Switzerland, Switzerland",
+      "format": "in_person",
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-14",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:0438a3b523c55126"
+    },
+    {
       "name": "Light x Lovable x KPMG Finance Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/Sthlmfinhack",
@@ -132,19 +149,6 @@
       "uid": "hk:af212c4105ddc5fa"
     },
     {
-      "name": "MCP, AI & Workflows: The Softr x Make Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/softr-make-berlin-ai",
-      "source": "luma",
-      "location": "Berlin, Berlin, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-09-14",
-      "end_date": "2026-09-14",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:5941ed4efd3a2ace"
-    },
-    {
       "name": "Collaborative Agent Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/98drmtu1",
@@ -156,6 +160,36 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:72fe184e55f61deb"
+    },
+    {
+      "name": "Public AI Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/ai388m8c",
+      "source": "luma",
+      "location": "Antwerpen, Antwerpen, Belgium, Belgium",
+      "format": "in_person",
+      "start_date": "2026-09-16",
+      "end_date": "2026-09-16",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:d45d645c6655c5fe"
+    },
+    {
+      "name": "Poly.Tech mini hackathon",
+      "organizer": "None",
+      "url": "https://poly-tech-mini-hackathon-31322.devpost.com/",
+      "source": "devpost",
+      "location": "Baltimore, MD, USA",
+      "format": "in_person",
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-17",
+      "registration_deadline": "2026-09-17",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Gaming"
+      ],
+      "uid": "hk:6d774c9841734a87"
     },
     {
       "name": "Lenzburg Hackathon @Finnova",
@@ -240,6 +274,19 @@
       "uid": "hk:ed90de47d79d1c57"
     },
     {
+      "name": "Solana Hack Day Munich: Road to TUM Blockchain Conference",
+      "organizer": "Luma",
+      "url": "https://lu.ma/Solanahackdaymunich",
+      "source": "luma",
+      "location": "München, München, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:fc0b86496ac078e8"
+    },
+    {
       "name": "Velory × 46elks × IkonAI Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/o2z4bjfy",
@@ -318,19 +365,6 @@
       "uid": "hk:174e5a225baae398"
     },
     {
-      "name": "Bradford Agentic AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/d3jrbl89",
-      "source": "luma",
-      "location": "Bradford, Bradford, England, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:b5dcb12bd4764214"
-    },
-    {
       "name": "Stockholm Hub - 7th Hack-Nation Global AI Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/305qlysu",
@@ -342,6 +376,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:725e26feb8f6af64"
+    },
+    {
+      "name": "Future States: Hackathon at No 10",
+      "organizer": "Luma",
+      "url": "https://lu.ma/9vr0zktj",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-06",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:7987a5a271d8caa8"
     },
     {
       "name": "Stripe x Briefcase: AI FinTech London Hackathon",

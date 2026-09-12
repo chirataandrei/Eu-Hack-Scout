@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-09-11T09:24:50.873422+00:00",
+  "updated_at": "2026-09-12T09:05:07.444849+00:00",
   "hackathons": [
-    {
-      "name": "CSH Social Impact Ideathon",
-      "organizer": "CyberSyntax Hub",
-      "url": "https://csh-social-impact-ideathon.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-31",
-      "end_date": "2026-09-11",
-      "registration_deadline": "2026-09-11",
-      "tags": [
-        "Low/No Code",
-        "Open Ended",
-        "Social Good"
-      ],
-      "uid": "hk:9aa0a452d94e469b"
-    },
     {
       "name": "AnimalHack 2026",
       "organizer": "Binnovative",
@@ -68,21 +51,6 @@
         "Productivity"
       ],
       "uid": "hk:d0b57ad2c7fcbf89"
-    },
-    {
-      "name": "Music from BeatMind",
-      "organizer": "SPA Bhopal",
-      "url": "https://music-from-beatmind.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-27",
-      "end_date": "2026-09-12",
-      "registration_deadline": "2026-09-12",
-      "tags": [
-        "Music/Art"
-      ],
-      "uid": "hk:8b3b7d0607a35fe7"
     },
     {
       "name": "Animal Hack",
@@ -200,6 +168,19 @@
       "uid": "hk:5d1b7f5939299977"
     },
     {
+      "name": "PARANOVA",
+      "organizer": "College of Engineering Kidangoor",
+      "url": "https://unstop.com/hackathons/paranova-college-of-engineering-kidangoor-1750908",
+      "source": "unstop",
+      "location": "Kottayam",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-14",
+      "registration_deadline": "2026-09-14",
+      "tags": [],
+      "uid": "hk:f3ca539201ac9ac7"
+    },
+    {
       "name": "AI Builders Hackathon",
       "organizer": "OSC",
       "url": "https://ai-builders-hackathon-2026.devpost.com/",
@@ -215,34 +196,6 @@
         "Beginner Friendly"
       ],
       "uid": "hk:3088cd8be0c1309d"
-    },
-    {
-      "name": "AstroBit: Computational Astronomy Hackathon",
-      "organizer": "Indian Institute of Technology (IIT), Tirupati",
-      "url": "https://unstop.com/hackathons/astrobit-computational-astronomy-hackathon-indian-institute-of-technology-iit-tirupati-1752655",
-      "source": "unstop",
-      "location": "Tirupati",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-15",
-      "registration_deadline": "2026-09-15",
-      "tags": [],
-      "uid": "hk:ad192c0289bcf448"
-    },
-    {
-      "name": "AI Infra Summit Hackathon AI Hackathon | lablab.ai",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-hackathons/ai-infra-summit-hackathon",
-      "source": "apify",
-      "location": "",
-      "format": "online",
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-16",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:5f512c6c92a3da91"
     },
     {
       "name": "ETHOnline 2026",
@@ -416,8 +369,8 @@
       "registration_deadline": "2026-09-19",
       "tags": [
         "Beginner Friendly",
-        "Machine Learning/AI",
-        "Social Good"
+        "Design",
+        "Open Ended"
       ],
       "uid": "hk:3883f4257bd29750"
     },
@@ -473,6 +426,19 @@
       "uid": "hk:a99e6c2ac6ce984b"
     },
     {
+      "name": "Agenticthon 2026 – AI & Agentic Technology Hackathon",
+      "organizer": "Mahendra Engineering College (MEC), Namakkal",
+      "url": "https://unstop.com/hackathons/agenticthon-2026-ai-agentic-technology-hackathon-mahendra-engineering-college-mec-namakkal-1754530",
+      "source": "unstop",
+      "location": "Mallasamudram",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-22",
+      "registration_deadline": "2026-09-22",
+      "tags": [],
+      "uid": "hk:d1493ec38c07ce68"
+    },
+    {
       "name": "BunnieX Hackathon",
       "organizer": "TechieBunnies team",
       "url": "https://buuniex-hackathon.devpost.com/",
@@ -507,36 +473,17 @@
       "uid": "hk:662c700df86e9b01"
     },
     {
-      "name": "NeuroHack - 1.0",
-      "organizer": "Axonic",
-      "url": "https://neurohack-1-0-by-axonic.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
+      "name": "Build for Billions",
+      "organizer": "National Institute of Technology Karnataka (NITK), Surathkal",
+      "url": "https://unstop.com/hackathons/build-for-billions-nitk-surathkal-1754386",
+      "source": "unstop",
+      "location": "Mangaluru",
       "format": "online",
-      "start_date": "2026-09-16",
+      "start_date": null,
       "end_date": "2026-09-24",
       "registration_deadline": "2026-09-24",
-      "tags": [
-        "Beginner Friendly",
-        "Health",
-        "IoT"
-      ],
-      "uid": "hk:52689d28df0b0b61"
-    },
-    {
-      "name": "WeAreDevelopers Hackathon AI Hackathon | lablab.ai",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-hackathons/wearedevelopers-hackathon",
-      "source": "apify",
-      "location": "",
-      "format": "online",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-24",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:e09cb3f369acc3d3"
+      "tags": [],
+      "uid": "hk:fc00ecfda64677cb"
     },
     {
       "name": "InfinityX Global Hackathon 2K26",
@@ -554,19 +501,6 @@
         "Web"
       ],
       "uid": "hk:f6a164f0dc1bfea7"
-    },
-    {
-      "name": "National Level Hackathon",
-      "organizer": "Shivalik College of Engineering (SCE), Dehradun",
-      "url": "https://unstop.com/hackathons/national-level-hackathon-shivalik-college-of-engineering-sce-dehradun-1753896",
-      "source": "unstop",
-      "location": "Dehradun",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-25",
-      "registration_deadline": "2026-09-25",
-      "tags": [],
-      "uid": "hk:88e351a14ea5ee3d"
     },
     {
       "name": "Practice to Create [Feedback To All Projects!]",
@@ -635,6 +569,19 @@
         "Beginner Friendly"
       ],
       "uid": "hk:60f95765cfd940a1"
+    },
+    {
+      "name": "Data Analytics Hackathon",
+      "organizer": "Gradient Learnings",
+      "url": "https://unstop.com/hackathons/data-analytics-hackathon-gradient-learnings-1754636",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-27",
+      "registration_deadline": "2026-09-27",
+      "tags": [],
+      "uid": "hk:00969fd2a4137a9b"
     },
     {
       "name": "HackCelestial 3.0",
@@ -718,21 +665,6 @@
       "uid": "hk:4846b198f5317fe3"
     },
     {
-      "name": "AssemblyAI - Voice Agent Hackathon AI Hackathon | lablab.ai",
-      "organizer": "lablab.ai",
-      "url": "https://lablab.ai/ai-hackathons/assemblyai-voice-agent-hackathon",
-      "source": "apify",
-      "location": "",
-      "format": "online",
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-30",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:d6328edc858c3be9"
-    },
-    {
       "name": "Beginner's Paradise - FirstCommit",
       "organizer": "FirstCommit",
       "url": "https://firstcommit.devpost.com/",
@@ -748,32 +680,6 @@
         "Web"
       ],
       "uid": "hk:ec35393ce94fe6ae"
-    },
-    {
-      "name": "Hack in Hills ’26",
-      "organizer": "Galgotias University (GU), Greater Noida",
-      "url": "https://unstop.com/hackathons/hack-in-hills-26-galgotias-university-gu-greater-noida-1752595",
-      "source": "unstop",
-      "location": "Manali",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-30",
-      "registration_deadline": "2026-09-30",
-      "tags": [],
-      "uid": "hk:f280434ac12707ff"
-    },
-    {
-      "name": "HerSpark Ideathon 2026",
-      "organizer": "Thakur College of Engineering and Technology (TCET), Mumbai",
-      "url": "https://unstop.com/hackathons/herspark-ideathon-2026-thakur-college-of-engineering-and-technology-tcet-mumbai-1752642",
-      "source": "unstop",
-      "location": "Mumbai",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-30",
-      "registration_deadline": "2026-09-30",
-      "tags": [],
-      "uid": "hk:4e26961cbac03136"
     },
     {
       "name": "Next Byte Hacks: V4",
@@ -844,23 +750,6 @@
       "uid": "hk:44725448b10301eb"
     },
     {
-      "name": "GatewayHacks 2026 | Software & AI",
-      "organizer": "GatewayGS",
-      "url": "https://gatewayhacks-2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-01",
-      "end_date": "2026-10-02",
-      "registration_deadline": "2026-10-02",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Open Ended"
-      ],
-      "uid": "hk:1c77ff7d528950eb"
-    },
-    {
       "name": "NASA Space Apps Challenge kicks off registrations",
       "organizer": "rotsa.ro",
       "url": "https://rotsa.ro/en/news-en/nasa-space-apps-challenge-the-largest-global-hackathon-in-the-world-which-is-at-its-tenth-edition-globally-and-the-sixth-in-romania-kicks-off-registrations/",
@@ -923,6 +812,19 @@
         "Social Good"
       ],
       "uid": "hk:a0db455698b85a3c"
+    },
+    {
+      "name": "36-Hour Hackathon",
+      "organizer": "GL Bajaj Institute of Management and Research",
+      "url": "https://unstop.com/hackathons/36-hour-hackathon-vibrant-2026-gl-bajaj-institute-of-management-and-research-1754364",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-06",
+      "registration_deadline": "2026-10-06",
+      "tags": [],
+      "uid": "hk:c748e1bfaa30fbb6"
     },
     {
       "name": "UnivaBio",
@@ -1076,19 +978,6 @@
         "Open Ended"
       ],
       "uid": "hk:36cd12e4f2c995ef"
-    },
-    {
-      "name": "VJ Hackathon 2026",
-      "organizer": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana",
-      "url": "https://unstop.com/hackathons/vj-hackathon-2026-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-technology-telangana-1750281",
-      "source": "unstop",
-      "location": "Hyderabad",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-15",
-      "registration_deadline": "2026-10-15",
-      "tags": [],
-      "uid": "hk:fc872d66b8ca46a7"
     },
     {
       "name": "MLAI Hackathon 2026",
@@ -2073,6 +1962,36 @@
         "taikai"
       ],
       "uid": "hk:ce67a5f3c5d87ee2"
+    },
+    {
+      "name": "Lablaber | Hackathon Competitor Profile",
+      "organizer": "lablab.ai",
+      "url": "https://lablab.ai/u/@Lablaber",
+      "source": "apify",
+      "location": "",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:b2c276b93eec4770"
+    },
+    {
+      "name": "Laiba Mirza@Laba - Hackathon Competitor Profile",
+      "organizer": "lablab.ai",
+      "url": "https://lablab.ai/u/@Laba",
+      "source": "apify",
+      "location": "",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:4d9b25a45ff614d9"
     },
     {
       "name": "Maritime Security Hackathon",
