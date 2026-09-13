@@ -1,57 +1,6 @@
 {
-  "updated_at": "2026-09-12T09:05:07.444849+00:00",
+  "updated_at": "2026-09-13T10:03:29.659037+00:00",
   "hackathons": [
-    {
-      "name": "AnimalHack 2026",
-      "organizer": "Binnovative",
-      "url": "https://animalhack2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-06-14",
-      "end_date": "2026-09-12",
-      "registration_deadline": "2026-09-12",
-      "tags": [
-        "Beginner Friendly",
-        "Open Ended",
-        "Social Good"
-      ],
-      "uid": "hk:11a856c8cc066bdc"
-    },
-    {
-      "name": "Frontier Cascadia",
-      "organizer": "frontiercascadia.org",
-      "url": "https://frontier-cascadia-2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "registration_deadline": "2026-09-12",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Open Ended"
-      ],
-      "uid": "hk:34e72f0076c08242"
-    },
-    {
-      "name": "Graphiques Innovation Challenge",
-      "organizer": "Hack Club",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-21",
-      "end_date": "2026-09-12",
-      "registration_deadline": "2026-09-12",
-      "tags": [
-        "Enterprise",
-        "Fintech",
-        "Productivity"
-      ],
-      "uid": "hk:d0b57ad2c7fcbf89"
-    },
     {
       "name": "Animal Hack",
       "organizer": "Hack Club",
@@ -64,6 +13,23 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:eba9efb79c13e34d"
+    },
+    {
+      "name": "Graphiques Innovation Challenge",
+      "organizer": "Hack Club",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-21",
+      "end_date": "2026-09-13",
+      "registration_deadline": "2026-09-13",
+      "tags": [
+        "Enterprise",
+        "Fintech",
+        "Productivity"
+      ],
+      "uid": "hk:d0b57ad2c7fcbf89"
     },
     {
       "name": "Shared OS Hackathon",
@@ -166,19 +132,6 @@
         "Social Good"
       ],
       "uid": "hk:5d1b7f5939299977"
-    },
-    {
-      "name": "PARANOVA",
-      "organizer": "College of Engineering Kidangoor",
-      "url": "https://unstop.com/hackathons/paranova-college-of-engineering-kidangoor-1750908",
-      "source": "unstop",
-      "location": "Kottayam",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-14",
-      "registration_deadline": "2026-09-14",
-      "tags": [],
-      "uid": "hk:f3ca539201ac9ac7"
     },
     {
       "name": "AI Builders Hackathon",
@@ -358,6 +311,19 @@
       "uid": "hk:fbd2acee2ba5c70d"
     },
     {
+      "name": "Software Hackathon Convergence 2k26",
+      "organizer": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana",
+      "url": "https://unstop.com/hackathons/software-hackathon-convergence-2k26-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-techno-1750788",
+      "source": "unstop",
+      "location": "Hyderabad",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-19",
+      "registration_deadline": "2026-09-19",
+      "tags": [],
+      "uid": "hk:7d429b705d578c27"
+    },
+    {
       "name": "STEMinate Wildcard Hack",
       "organizer": "STEMinate Texas",
       "url": "https://steminate-texas-wildcard-hack.devpost.com/",
@@ -373,6 +339,22 @@
         "Open Ended"
       ],
       "uid": "hk:3883f4257bd29750"
+    },
+    {
+      "name": "ACM Marketsphere 2026",
+      "organizer": "R.V. College Of Engineering",
+      "url": "https://acm-marketsphere-2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-20",
+      "registration_deadline": "2026-09-20",
+      "tags": [
+        "Enterprise",
+        "Fintech"
+      ],
+      "uid": "hk:6958f06b3694256b"
     },
     {
       "name": "Evorozen Apex: NextGen AI Buildathon",
@@ -426,19 +408,6 @@
       "uid": "hk:a99e6c2ac6ce984b"
     },
     {
-      "name": "Agenticthon 2026 – AI & Agentic Technology Hackathon",
-      "organizer": "Mahendra Engineering College (MEC), Namakkal",
-      "url": "https://unstop.com/hackathons/agenticthon-2026-ai-agentic-technology-hackathon-mahendra-engineering-college-mec-namakkal-1754530",
-      "source": "unstop",
-      "location": "Mallasamudram",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-22",
-      "registration_deadline": "2026-09-22",
-      "tags": [],
-      "uid": "hk:d1493ec38c07ce68"
-    },
-    {
       "name": "BunnieX Hackathon",
       "organizer": "TechieBunnies team",
       "url": "https://buuniex-hackathon.devpost.com/",
@@ -471,19 +440,6 @@
         "Low/No Code"
       ],
       "uid": "hk:662c700df86e9b01"
-    },
-    {
-      "name": "Build for Billions",
-      "organizer": "National Institute of Technology Karnataka (NITK), Surathkal",
-      "url": "https://unstop.com/hackathons/build-for-billions-nitk-surathkal-1754386",
-      "source": "unstop",
-      "location": "Mangaluru",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-24",
-      "registration_deadline": "2026-09-24",
-      "tags": [],
-      "uid": "hk:fc00ecfda64677cb"
     },
     {
       "name": "InfinityX Global Hackathon 2K26",
@@ -571,19 +527,6 @@
       "uid": "hk:60f95765cfd940a1"
     },
     {
-      "name": "Data Analytics Hackathon",
-      "organizer": "Gradient Learnings",
-      "url": "https://unstop.com/hackathons/data-analytics-hackathon-gradient-learnings-1754636",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-27",
-      "registration_deadline": "2026-09-27",
-      "tags": [],
-      "uid": "hk:00969fd2a4137a9b"
-    },
-    {
       "name": "HackCelestial 3.0",
       "organizer": "Pillai University, Navi Mumbai",
       "url": "https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808",
@@ -646,6 +589,19 @@
         "Social Good"
       ],
       "uid": "hk:bf08dbba5c31bcd7"
+    },
+    {
+      "name": "WCPC 2K26",
+      "organizer": "CodeChef WCE Chapter",
+      "url": "https://unstop.com/hackathons/wcpc-2k26-codechef-wce-chapter-1750817",
+      "source": "unstop",
+      "location": "Sangli",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-27",
+      "registration_deadline": "2026-09-27",
+      "tags": [],
+      "uid": "hk:a873695a5eb88878"
     },
     {
       "name": "LUMA Hackathon (September 20th - 28th)",
@@ -780,6 +736,23 @@
       "uid": "hk:350a508925422cf9"
     },
     {
+      "name": "Financial Cybersecurity Challenge",
+      "organizer": "EconExplorers",
+      "url": "https://financecybersecuritychallenge.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "registration_deadline": "2026-10-04",
+      "tags": [
+        "Cybersecurity",
+        "Fintech",
+        "Beginner Friendly"
+      ],
+      "uid": "hk:6ecd5699239694e6"
+    },
+    {
       "name": "CSC Back-to-School Hackathon",
       "organizer": "The Webb Schools CSC",
       "url": "https://csc-back-to-school.devpost.com/",
@@ -812,19 +785,6 @@
         "Social Good"
       ],
       "uid": "hk:a0db455698b85a3c"
-    },
-    {
-      "name": "36-Hour Hackathon",
-      "organizer": "GL Bajaj Institute of Management and Research",
-      "url": "https://unstop.com/hackathons/36-hour-hackathon-vibrant-2026-gl-bajaj-institute-of-management-and-research-1754364",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-06",
-      "registration_deadline": "2026-10-06",
-      "tags": [],
-      "uid": "hk:c748e1bfaa30fbb6"
     },
     {
       "name": "UnivaBio",
@@ -876,6 +836,19 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:49cfcf26bfaa6f4f"
+    },
+    {
+      "name": "Jugaad",
+      "organizer": "Sant Longowal Institute of Engineering and Technology, Longowal, Punjab",
+      "url": "https://unstop.com/hackathons/jugaad-techfest26-annual-technical-festival-of-sliet-sant-longowal-institute-of-engineering-and-technology-lo-1742433",
+      "source": "unstop",
+      "location": "Laungowal",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-10",
+      "registration_deadline": "2026-10-10",
+      "tags": [],
+      "uid": "hk:aa27351b0765cec3"
     },
     {
       "name": "Banana Hacks",
@@ -996,6 +969,19 @@
       "uid": "hk:668e1c011abee4e8"
     },
     {
+      "name": "Signalpost: Build An Agent That Finds Company Information",
+      "organizer": "builderr.ai",
+      "url": "https://unstop.com/hackathons/signalpost-build-an-agent-that-finds-company-information-builderrai-1754883",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-17",
+      "registration_deadline": "2026-10-17",
+      "tags": [],
+      "uid": "hk:50f6f88eab2b4544"
+    },
+    {
       "name": "EurekaDev 2026",
       "organizer": "Eureka Institute and UnivaDev",
       "url": "https://eurekadev.devpost.com/",
@@ -1076,6 +1062,19 @@
         "Social Good"
       ],
       "uid": "hk:6b90618a61d26918"
+    },
+    {
+      "name": "VIT CODE APEX 3.0",
+      "organizer": "Vishwakarma Institute of Technology, Pune, Maharashtra",
+      "url": "https://unstop.com/hackathons/vit-code-apex-30-vishwakarma-institute-of-technology-pune-maharashtra-1751374",
+      "source": "unstop",
+      "location": "Pune",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-25",
+      "registration_deadline": "2026-10-25",
+      "tags": [],
+      "uid": "hk:003575a392cca480"
     },
     {
       "name": "OpenCV AI Competition 2026, powered by AWS",

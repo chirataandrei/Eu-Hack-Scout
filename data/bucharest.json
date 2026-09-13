@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T09:05:07.444849+00:00",
+  "updated_at": "2026-09-13T10:03:29.659037+00:00",
   "hackathons": [
     {
       "name": "NASA Space Apps Challenge - ETTI",
@@ -1151,6 +1151,21 @@
       "uid": "hk:efe93c04d7c7ef61"
     },
     {
+      "name": "NASA Space Apps Challenge, around the corner",
+      "organizer": "romaniajournal.ro",
+      "url": "https://www.romaniajournal.ro/society-people/science/nasa-space-apps-challenge-has-announced-the-challenges-for-the-2025-edition/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:028cde3ce65d46f8"
+    },
+    {
       "name": "NASA Space Apps Challenge, the largest hackathon in ...",
       "organizer": "romaniajournal.ro",
       "url": "https://www.romaniajournal.ro/business/nasa-space-apps-challenge-the-largest-hackathon-in-the-world-has-opened-registrations-for-the-events-in-bucharest-cluj-napoca-timisoara-iasi-and-oradea/",
@@ -1520,6 +1535,21 @@
         "romania"
       ],
       "uid": "hk:77f5d1d77eee671d"
+    },
+    {
+      "name": "Vrei să câștigi un premiu marca CAD&CRAFT ... - Instagram",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/p/DVJZlUriIyo/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:663daf775b02c102"
     },
     {
       "name": "What is the NASA Space Apps Challenge?",
