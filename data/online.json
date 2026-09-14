@@ -1,87 +1,6 @@
 {
-  "updated_at": "2026-09-13T10:03:29.659037+00:00",
+  "updated_at": "2026-09-14T10:23:25.096467+00:00",
   "hackathons": [
-    {
-      "name": "Animal Hack",
-      "organizer": "Hack Club",
-      "url": "https://animalhack.org",
-      "source": "hackclub",
-      "location": "",
-      "format": "online",
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:eba9efb79c13e34d"
-    },
-    {
-      "name": "Graphiques Innovation Challenge",
-      "organizer": "Hack Club",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-21",
-      "end_date": "2026-09-13",
-      "registration_deadline": "2026-09-13",
-      "tags": [
-        "Enterprise",
-        "Fintech",
-        "Productivity"
-      ],
-      "uid": "hk:d0b57ad2c7fcbf89"
-    },
-    {
-      "name": "Shared OS Hackathon",
-      "organizer": "Systemind, Inc",
-      "url": "https://shared-os-hackathon.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-13",
-      "registration_deadline": "2026-09-13",
-      "tags": [
-        "DevOps",
-        "Machine Learning/AI",
-        "Open Ended"
-      ],
-      "uid": "hk:94c11354e799382a"
-    },
-    {
-      "name": "VentureFix",
-      "organizer": "PropNote AI",
-      "url": "https://venturefix.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-30",
-      "end_date": "2026-09-13",
-      "registration_deadline": "2026-09-13",
-      "tags": [
-        "Beginner Friendly",
-        "Low/No Code",
-        "Machine Learning/AI"
-      ],
-      "uid": "hk:6ed47b1d096e64fc"
-    },
-    {
-      "name": "VoltHacks",
-      "organizer": "Dialogate",
-      "url": "https://volthacks.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-05-22",
-      "end_date": "2026-09-13",
-      "registration_deadline": "2026-09-13",
-      "tags": [
-        "IoT",
-        "Machine Learning/AI",
-        "Beginner Friendly"
-      ],
-      "uid": "hk:944c6974a6e3db93"
-    },
     {
       "name": "Agents for Humans Hackathon",
       "organizer": "Amazon",
@@ -115,6 +34,23 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:edd5923f9886f3de"
+    },
+    {
+      "name": "Graphiques Innovation Challenge",
+      "organizer": "Hack Club",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-21",
+      "end_date": "2026-09-14",
+      "registration_deadline": "2026-09-14",
+      "tags": [
+        "Enterprise",
+        "Fintech",
+        "Productivity"
+      ],
+      "uid": "hk:d0b57ad2c7fcbf89"
     },
     {
       "name": "Hyperbloom September - AI/ML",
@@ -181,6 +117,19 @@
         "Open Ended"
       ],
       "uid": "hk:58438b48eaf4534c"
+    },
+    {
+      "name": "Hack'em Hex",
+      "organizer": "Galgotias University (GU), Greater Noida",
+      "url": "https://unstop.com/hackathons/hackem-hex-galgotias-university-gu-greater-noida-1755121",
+      "source": "unstop",
+      "location": "Greater Noida",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-16",
+      "registration_deadline": "2026-09-16",
+      "tags": [],
+      "uid": "hk:466dd0aceccbce05"
     },
     {
       "name": "COMPSPHERE 12",
@@ -309,19 +258,6 @@
         "Design"
       ],
       "uid": "hk:fbd2acee2ba5c70d"
-    },
-    {
-      "name": "Software Hackathon Convergence 2k26",
-      "organizer": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana",
-      "url": "https://unstop.com/hackathons/software-hackathon-convergence-2k26-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-techno-1750788",
-      "source": "unstop",
-      "location": "Hyderabad",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-19",
-      "registration_deadline": "2026-09-19",
-      "tags": [],
-      "uid": "hk:7d429b705d578c27"
     },
     {
       "name": "STEMinate Wildcard Hack",
@@ -591,19 +527,6 @@
       "uid": "hk:bf08dbba5c31bcd7"
     },
     {
-      "name": "WCPC 2K26",
-      "organizer": "CodeChef WCE Chapter",
-      "url": "https://unstop.com/hackathons/wcpc-2k26-codechef-wce-chapter-1750817",
-      "source": "unstop",
-      "location": "Sangli",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-27",
-      "registration_deadline": "2026-09-27",
-      "tags": [],
-      "uid": "hk:a873695a5eb88878"
-    },
-    {
       "name": "LUMA Hackathon (September 20th - 28th)",
       "organizer": "LUMA",
       "url": "https://luma-hackathon-fall.devpost.com/",
@@ -736,23 +659,6 @@
       "uid": "hk:350a508925422cf9"
     },
     {
-      "name": "Financial Cybersecurity Challenge",
-      "organizer": "EconExplorers",
-      "url": "https://financecybersecuritychallenge.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
-      "registration_deadline": "2026-10-04",
-      "tags": [
-        "Cybersecurity",
-        "Fintech",
-        "Beginner Friendly"
-      ],
-      "uid": "hk:6ecd5699239694e6"
-    },
-    {
       "name": "CSC Back-to-School Hackathon",
       "organizer": "The Webb Schools CSC",
       "url": "https://csc-back-to-school.devpost.com/",
@@ -838,19 +744,6 @@
       "uid": "hk:49cfcf26bfaa6f4f"
     },
     {
-      "name": "Jugaad",
-      "organizer": "Sant Longowal Institute of Engineering and Technology, Longowal, Punjab",
-      "url": "https://unstop.com/hackathons/jugaad-techfest26-annual-technical-festival-of-sliet-sant-longowal-institute-of-engineering-and-technology-lo-1742433",
-      "source": "unstop",
-      "location": "Laungowal",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-10",
-      "registration_deadline": "2026-10-10",
-      "tags": [],
-      "uid": "hk:aa27351b0765cec3"
-    },
-    {
       "name": "Banana Hacks",
       "organizer": "n/a",
       "url": "https://banana-hacks-1111.devpost.com/",
@@ -900,6 +793,19 @@
         "Social Good"
       ],
       "uid": "hk:ba251b6556de0dc1"
+    },
+    {
+      "name": "Hack Era 1.0",
+      "organizer": "Erazone",
+      "url": "https://unstop.com/hackathons/hack-era-10-erazone-1755150",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-13",
+      "registration_deadline": "2026-10-13",
+      "tags": [],
+      "uid": "hk:3c647253abbbd530"
     },
     {
       "name": "WarriorHacks 2.0",
@@ -953,6 +859,19 @@
       "uid": "hk:36cd12e4f2c995ef"
     },
     {
+      "name": "DataHeist",
+      "organizer": "Delhi Technological University (DTU), New Delhi",
+      "url": "https://unstop.com/hackathons/dataheist-ieee-day-2026-dtu-new-delhi-1755310",
+      "source": "unstop",
+      "location": "Delhi",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-16",
+      "registration_deadline": "2026-10-16",
+      "tags": [],
+      "uid": "hk:d5e034db7ff260a7"
+    },
+    {
       "name": "MLAI Hackathon 2026",
       "organizer": "Mạng Lưới AI",
       "url": "https://mlai-hackathon.devpost.com/",
@@ -967,19 +886,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:668e1c011abee4e8"
-    },
-    {
-      "name": "Signalpost: Build An Agent That Finds Company Information",
-      "organizer": "builderr.ai",
-      "url": "https://unstop.com/hackathons/signalpost-build-an-agent-that-finds-company-information-builderrai-1754883",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-17",
-      "registration_deadline": "2026-10-17",
-      "tags": [],
-      "uid": "hk:50f6f88eab2b4544"
     },
     {
       "name": "EurekaDev 2026",
@@ -1064,19 +970,6 @@
       "uid": "hk:6b90618a61d26918"
     },
     {
-      "name": "VIT CODE APEX 3.0",
-      "organizer": "Vishwakarma Institute of Technology, Pune, Maharashtra",
-      "url": "https://unstop.com/hackathons/vit-code-apex-30-vishwakarma-institute-of-technology-pune-maharashtra-1751374",
-      "source": "unstop",
-      "location": "Pune",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-25",
-      "registration_deadline": "2026-10-25",
-      "tags": [],
-      "uid": "hk:003575a392cca480"
-    },
-    {
       "name": "OpenCV AI Competition 2026, powered by AWS",
       "organizer": "OpenCV",
       "url": "https://opencv26.devpost.com/",
@@ -1143,6 +1036,32 @@
         "Social Good"
       ],
       "uid": "hk:07065e31ae3ccd22"
+    },
+    {
+      "name": "EPINOIA : The Hackathon Event",
+      "organizer": "Indian Institute of Management (IIM), Indore",
+      "url": "https://unstop.com/hackathons/epinoia-the-hackathon-event-atharv-ranbhoomi-2026-iim-indore-1755375",
+      "source": "unstop",
+      "location": "Indore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-01",
+      "registration_deadline": "2026-11-01",
+      "tags": [],
+      "uid": "hk:ea56a8ba9324d0bf"
+    },
+    {
+      "name": "SecLeaf Q4 CTF 2026",
+      "organizer": "SecLeaf",
+      "url": "https://unstop.com/hackathons/secleaf-q4-ctf-2026-secleaf-1755320",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-01",
+      "registration_deadline": "2026-11-01",
+      "tags": [],
+      "uid": "hk:9298995d005f12be"
     },
     {
       "name": "DSH Hacks V2",

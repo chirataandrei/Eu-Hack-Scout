@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-09-13T10:03:29.659037+00:00",
+  "updated_at": "2026-09-14T10:23:25.096467+00:00",
   "hackathons": [
-    {
-      "name": "Light x Lovable x KPMG Finance Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/Sthlmfinhack",
-      "source": "luma",
-      "location": "Stockholm, Stockholm, Sweden, Sweden",
-      "format": "in_person",
-      "start_date": "2026-09-14",
-      "end_date": "2026-09-14",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:af212c4105ddc5fa"
-    },
     {
       "name": "Collaborative Agent Hackathon",
       "organizer": "Luma",
@@ -192,6 +179,32 @@
       "uid": "hk:187394e75654f374"
     },
     {
+      "name": "Monad Blitz Berlin Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/blitz-berlin-sep-2026",
+      "source": "luma",
+      "location": "Berlin, Berlin, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:42ef0eb5f2d31bff"
+    },
+    {
+      "name": "HACK_002: 24h AI Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/1ka4b1nm",
+      "source": "luma",
+      "location": "Wien, Wien, Austria, Austria",
+      "format": "in_person",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:1a81564df7b5d79c"
+    },
+    {
       "name": "Lock in & Build Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/b3o95mtn",
@@ -203,19 +216,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:cd479875a520e6a0"
-    },
-    {
-      "name": "Prompt Marketing Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/aaltoes-ose3",
-      "source": "luma",
-      "location": "Espoo, Espoo, Finland, Finland",
-      "format": "in_person",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-27",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:b013cfcbd2f7b2de"
     },
     {
       "name": "YFN x EU Energy Hackathon",
@@ -242,6 +242,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:174e5a225baae398"
+    },
+    {
+      "name": "London AI x Science Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/3iipivod",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:d326f9b2c6607385"
     },
     {
       "name": "Stockholm Hub - 7th Hack-Nation Global AI Hackathon",
@@ -281,6 +294,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:0e9e0c9d4bf3eb2d"
+    },
+    {
+      "name": "Bazel Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/9dm41b1h",
+      "source": "luma",
+      "location": "Amsterdam, Amsterdam, Netherlands, Netherlands",
+      "format": "in_person",
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:7a4e2d7cc25bddf1"
     },
     {
       "name": "IKU Womxn in STEM Hackathon",

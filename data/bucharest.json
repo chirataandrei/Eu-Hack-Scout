@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T10:03:29.659037+00:00",
+  "updated_at": "2026-09-14T10:23:25.096467+00:00",
   "hackathons": [
     {
       "name": "NASA Space Apps Challenge - ETTI",
@@ -345,6 +345,21 @@
         "apify"
       ],
       "uid": "hk:5bb7a507be60fd82"
+    },
+    {
+      "name": "48 Avira HackITAll hackathon ideas",
+      "organizer": "pinterest.com",
+      "url": "https://www.pinterest.com/avira/avira-hackitall-hackathon/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:57df2916e3145e44"
     },
     {
       "name": "5G Innovation Hackathon 2026 by DoT India",
@@ -808,6 +823,21 @@
         "apify"
       ],
       "uid": "hk:ebc2c21a5e82e63b"
+    },
+    {
+      "name": "Hackathons may lead to 17Tech Oy defence accelerator ...",
+      "organizer": "linkedin.com",
+      "url": "https://www.linkedin.com/posts/17tech-oy_hackathons-may-lead-to-17tech-oy-defence-activity-7492960613296517120-1d_W",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:9b70f7de93b5f95e"
     },
     {
       "name": "HackITall",
