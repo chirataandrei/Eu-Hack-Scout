@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-09-14T10:23:25.096467+00:00",
+  "updated_at": "2026-09-15T09:49:43.151221+00:00",
   "hackathons": [
-    {
-      "name": "Collaborative Agent Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/98drmtu1",
-      "source": "luma",
-      "location": "Berlin, Berlin, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-09-16",
-      "end_date": "2026-09-16",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:72fe184e55f61deb"
-    },
     {
       "name": "Public AI Hackathon",
       "organizer": "Luma",
@@ -26,6 +13,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:d45d645c6655c5fe"
+    },
+    {
+      "name": "Cursor Hackathon Berlin @taxfix",
+      "organizer": "Luma",
+      "url": "https://lu.ma/1lg1a8v3",
+      "source": "luma",
+      "location": "Berlin, Berlin, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-17",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:14487194d8cf9a00"
     },
     {
       "name": "Poly.Tech mini hackathon",
@@ -192,17 +192,17 @@
       "uid": "hk:42ef0eb5f2d31bff"
     },
     {
-      "name": "HACK_002: 24h AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/1ka4b1nm",
-      "source": "luma",
-      "location": "Wien, Wien, Austria, Austria",
+      "name": "September Mini Game Jam 2026 (starting 11:45 at SAE)",
+      "organizer": "Game Developers Berlin",
+      "url": "https://www.meetup.com/game-developers-berlin/events/316389894/",
+      "source": "meetup",
+      "location": "Berlin, Sae Institute, de",
       "format": "in_person",
       "start_date": "2026-09-26",
-      "end_date": "2026-09-27",
+      "end_date": null,
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:1a81564df7b5d79c"
+      "uid": "hk:e0f793d5fef9a50e"
     },
     {
       "name": "Lock in & Build Hackathon",
@@ -218,30 +218,43 @@
       "uid": "hk:cd479875a520e6a0"
     },
     {
-      "name": "YFN x EU Energy Hackathon",
+      "name": "Prompt Marketing Hackathon",
       "organizer": "Luma",
-      "url": "https://lu.ma/75cqklfc",
+      "url": "https://lu.ma/aaltoes-ose3",
       "source": "luma",
-      "location": "München, München, Germany, Germany",
+      "location": "Espoo, Espoo, Finland, Finland",
       "format": "in_person",
-      "start_date": "2026-09-27",
+      "start_date": "2026-09-26",
       "end_date": "2026-09-27",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:e528159d572da74f"
+      "uid": "hk:b013cfcbd2f7b2de"
     },
     {
-      "name": "Cursor Hackathon Prague: Forge the Stack",
+      "name": "Bradford Agentic AI Hackathon",
       "organizer": "Luma",
-      "url": "https://lu.ma/cursor-mljb",
+      "url": "https://lu.ma/d3jrbl89",
       "source": "luma",
-      "location": "Hlavní město Praha, Hlavní město Praha, Czechia, Czechia",
+      "location": "Bradford, Bradford, England, United Kingdom",
       "format": "in_person",
-      "start_date": "2026-09-30",
-      "end_date": "2026-09-30",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:174e5a225baae398"
+      "uid": "hk:b5dcb12bd4764214"
+    },
+    {
+      "name": "EAT_HACK - the world's first AI & eating hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/hdf7uc43",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:8637027298bda0ec"
     },
     {
       "name": "London AI x Science Hackathon",
@@ -296,19 +309,6 @@
       "uid": "hk:0e9e0c9d4bf3eb2d"
     },
     {
-      "name": "Bazel Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/9dm41b1h",
-      "source": "luma",
-      "location": "Amsterdam, Amsterdam, Netherlands, Netherlands",
-      "format": "in_person",
-      "start_date": "2026-10-16",
-      "end_date": "2026-10-16",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:7a4e2d7cc25bddf1"
-    },
-    {
       "name": "IKU Womxn in STEM Hackathon",
       "organizer": "MLH",
       "url": "https://ikuwomxninstemhackathon.co.uk/",
@@ -320,6 +320,32 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:f1b1ce0c71458510"
+    },
+    {
+      "name": "Encode London Hackathon and Conference",
+      "organizer": "Luma",
+      "url": "https://lu.ma/encode-london-2026",
+      "source": "luma",
+      "location": "London, London, England, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-25",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:35dd77388c9f2041"
+    },
+    {
+      "name": "OxHack '26",
+      "organizer": "MLH",
+      "url": "https://26.oxhack.net/",
+      "source": "mlh",
+      "location": "Oxford, England, Oxford, GB",
+      "format": "in_person",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:a084c83e71c2d72b"
     },
     {
       "name": "VIBENIGHT #2 : Hackathon AI Safety",

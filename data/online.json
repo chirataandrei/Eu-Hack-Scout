@@ -1,74 +1,6 @@
 {
-  "updated_at": "2026-09-14T10:23:25.096467+00:00",
+  "updated_at": "2026-09-15T09:49:43.151221+00:00",
   "hackathons": [
-    {
-      "name": "Agents for Humans Hackathon",
-      "organizer": "Amazon",
-      "url": "https://agentsforhumans.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-10",
-      "end_date": "2026-09-14",
-      "registration_deadline": "2026-09-14",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Open Ended"
-      ],
-      "uid": "hk:cad3ba2108d88182"
-    },
-    {
-      "name": "CALL-E: Your Code Is Calling",
-      "organizer": "CALL-E",
-      "url": "https://call-e.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-07-23",
-      "end_date": "2026-09-14",
-      "registration_deadline": "2026-09-14",
-      "tags": [
-        "Communication",
-        "Enterprise",
-        "Machine Learning/AI"
-      ],
-      "uid": "hk:edd5923f9886f3de"
-    },
-    {
-      "name": "Graphiques Innovation Challenge",
-      "organizer": "Hack Club",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-21",
-      "end_date": "2026-09-14",
-      "registration_deadline": "2026-09-14",
-      "tags": [
-        "Enterprise",
-        "Fintech",
-        "Productivity"
-      ],
-      "uid": "hk:d0b57ad2c7fcbf89"
-    },
-    {
-      "name": "Hyperbloom September - AI/ML",
-      "organizer": "hyperbloom hacks",
-      "url": "https://hyperbloom-september.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-25",
-      "end_date": "2026-09-14",
-      "registration_deadline": "2026-09-14",
-      "tags": [
-        "IoT",
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "uid": "hk:5d1b7f5939299977"
-    },
     {
       "name": "AI Builders Hackathon",
       "organizer": "OSC",
@@ -119,17 +51,21 @@
       "uid": "hk:58438b48eaf4534c"
     },
     {
-      "name": "Hack'em Hex",
-      "organizer": "Galgotias University (GU), Greater Noida",
-      "url": "https://unstop.com/hackathons/hackem-hex-galgotias-university-gu-greater-noida-1755121",
-      "source": "unstop",
-      "location": "Greater Noida",
+      "name": "Graphiques Innovation Challenge",
+      "organizer": "Hack Club",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
       "format": "online",
-      "start_date": null,
+      "start_date": "2026-08-21",
       "end_date": "2026-09-16",
       "registration_deadline": "2026-09-16",
-      "tags": [],
-      "uid": "hk:466dd0aceccbce05"
+      "tags": [
+        "Enterprise",
+        "Fintech",
+        "Productivity"
+      ],
+      "uid": "hk:d0b57ad2c7fcbf89"
     },
     {
       "name": "COMPSPHERE 12",
@@ -561,6 +497,19 @@
       "uid": "hk:ec35393ce94fe6ae"
     },
     {
+      "name": "BioBridge – Bio Innovation Hackathon 2026",
+      "organizer": "K.S. Rangasamy College Of Technology (KSRCT), Namakkal",
+      "url": "https://unstop.com/hackathons/biobridge-bio-innovation-hackathon-2026-ks-rangasamy-college-of-technology-ksrct-namakkal-1755864",
+      "source": "unstop",
+      "location": "Tiruchengode",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-30",
+      "registration_deadline": "2026-09-30",
+      "tags": [],
+      "uid": "hk:9dcd492e78aeaa42"
+    },
+    {
       "name": "Next Byte Hacks: V4",
       "organizer": "Next Byte Hacks",
       "url": "https://next-byte-hacks-v4.devpost.com/",
@@ -629,6 +578,19 @@
       "uid": "hk:44725448b10301eb"
     },
     {
+      "name": "Bug Bounty",
+      "organizer": "SRM University, Ramapuram, Chennai",
+      "url": "https://unstop.com/hackathons/bug-bounty-cyber-carnival-srm-university-ramapuram-chennai-1755028",
+      "source": "unstop",
+      "location": "Chennai",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-03",
+      "registration_deadline": "2026-10-03",
+      "tags": [],
+      "uid": "hk:3bb43be1abda8fd9"
+    },
+    {
       "name": "NASA Space Apps Challenge kicks off registrations",
       "organizer": "rotsa.ro",
       "url": "https://rotsa.ro/en/news-en/nasa-space-apps-challenge-the-largest-global-hackathon-in-the-world-which-is-at-its-tenth-edition-globally-and-the-sixth-in-romania-kicks-off-registrations/",
@@ -657,6 +619,23 @@
         "apify"
       ],
       "uid": "hk:350a508925422cf9"
+    },
+    {
+      "name": "LovHack Season 3",
+      "organizer": "Lovhack",
+      "url": "https://lovhack-season-3.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-26",
+      "end_date": "2026-10-04",
+      "registration_deadline": "2026-10-04",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "uid": "hk:63b60e0b828da253"
     },
     {
       "name": "CSC Back-to-School Hackathon",
@@ -795,19 +774,6 @@
       "uid": "hk:ba251b6556de0dc1"
     },
     {
-      "name": "Hack Era 1.0",
-      "organizer": "Erazone",
-      "url": "https://unstop.com/hackathons/hack-era-10-erazone-1755150",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-13",
-      "registration_deadline": "2026-10-13",
-      "tags": [],
-      "uid": "hk:3c647253abbbd530"
-    },
-    {
       "name": "WarriorHacks 2.0",
       "organizer": "Westwood Computer Science Club",
       "url": "https://warriorhacks-2-0.devpost.com/",
@@ -857,19 +823,6 @@
         "Open Ended"
       ],
       "uid": "hk:36cd12e4f2c995ef"
-    },
-    {
-      "name": "DataHeist",
-      "organizer": "Delhi Technological University (DTU), New Delhi",
-      "url": "https://unstop.com/hackathons/dataheist-ieee-day-2026-dtu-new-delhi-1755310",
-      "source": "unstop",
-      "location": "Delhi",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-16",
-      "registration_deadline": "2026-10-16",
-      "tags": [],
-      "uid": "hk:d5e034db7ff260a7"
     },
     {
       "name": "MLAI Hackathon 2026",
@@ -987,6 +940,23 @@
       "uid": "hk:3d28e21632ef8a2d"
     },
     {
+      "name": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+      "organizer": "AWS",
+      "url": "https://aws-cds-partner.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-14",
+      "end_date": "2026-10-28",
+      "registration_deadline": "2026-10-28",
+      "tags": [
+        "Communication",
+        "Mobile",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:f6ad0187c55d683c"
+    },
+    {
       "name": "Nebius x NVIDIA Global AI Hackathon",
       "organizer": "nebius",
       "url": "https://nebiusglobalaihackathon.devpost.com/",
@@ -1038,30 +1008,30 @@
       "uid": "hk:07065e31ae3ccd22"
     },
     {
-      "name": "EPINOIA : The Hackathon Event",
-      "organizer": "Indian Institute of Management (IIM), Indore",
-      "url": "https://unstop.com/hackathons/epinoia-the-hackathon-event-atharv-ranbhoomi-2026-iim-indore-1755375",
+      "name": "Tech Eximius 2.0",
+      "organizer": "Tech Circle",
+      "url": "https://unstop.com/hackathons/tech-eximius-20-tech-circle-1755763",
       "source": "unstop",
-      "location": "Indore",
+      "location": "Delhi",
       "format": "online",
       "start_date": null,
-      "end_date": "2026-11-01",
-      "registration_deadline": "2026-11-01",
+      "end_date": "2026-10-31",
+      "registration_deadline": "2026-10-31",
       "tags": [],
-      "uid": "hk:ea56a8ba9324d0bf"
+      "uid": "hk:5b103061c213ac99"
     },
     {
-      "name": "SecLeaf Q4 CTF 2026",
-      "organizer": "SecLeaf",
-      "url": "https://unstop.com/hackathons/secleaf-q4-ctf-2026-secleaf-1755320",
+      "name": "Ride Hack-26",
+      "organizer": "Jaypee Institute of Information Technology (JIIT), Noida",
+      "url": "https://unstop.com/hackathons/ride-hack-26-jaypee-institute-of-information-technology-jiit-noida-1755652",
       "source": "unstop",
-      "location": "online",
+      "location": "Noida",
       "format": "online",
       "start_date": null,
       "end_date": "2026-11-01",
       "registration_deadline": "2026-11-01",
       "tags": [],
-      "uid": "hk:9298995d005f12be"
+      "uid": "hk:42e050165a839296"
     },
     {
       "name": "DSH Hacks V2",
@@ -1132,6 +1102,19 @@
       "uid": "hk:22f59d7dcacb38cd"
     },
     {
+      "name": "Singularity 2.0",
+      "organizer": "KC College of Engineering and Management Studies and Research",
+      "url": "https://unstop.com/hackathons/singularity-20-kc-college-of-engineering-and-management-studies-and-research-1755564",
+      "source": "unstop",
+      "location": "Thane",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-20",
+      "registration_deadline": "2026-12-20",
+      "tags": [],
+      "uid": "hk:bff41e4e017f8f19"
+    },
+    {
       "name": "Arbiter Hacks V1",
       "organizer": "Arbiter ",
       "url": "https://arbiter-hacks-v1.devpost.com/",
@@ -1147,6 +1130,23 @@
         "Open Ended"
       ],
       "uid": "hk:846f35f3315f61dd"
+    },
+    {
+      "name": "Cosmo Hacks",
+      "organizer": "Cosmo Hacks",
+      "url": "https://cosmohacks.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-12-18",
+      "end_date": "2026-12-21",
+      "registration_deadline": "2026-12-21",
+      "tags": [
+        "Beginner Friendly",
+        "Open Ended",
+        "Web"
+      ],
+      "uid": "hk:9f77373370e3baf5"
     },
     {
       "name": "MCA 2026 projects",
@@ -1925,6 +1925,21 @@
         "taikai"
       ],
       "uid": "hk:cd0e747fed72af3d"
+    },
+    {
+      "name": "Masterclass Hackathon",
+      "organizer": "masterclass.hackathon.com",
+      "url": "https://masterclass.hackathon.com/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:e600553ae8a29156"
     },
     {
       "name": "Parallel Society by Logos - Hacker Portal",

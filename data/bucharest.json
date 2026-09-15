@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T10:23:25.096467+00:00",
+  "updated_at": "2026-09-15T09:49:43.151221+00:00",
   "hackathons": [
     {
       "name": "NASA Space Apps Challenge - ETTI",
@@ -512,6 +512,21 @@
       "uid": "hk:2daa625e838e14a4"
     },
     {
+      "name": "De grootste hackathon organisator",
+      "organizer": "corporate.hackathon.com",
+      "url": "https://corporate.hackathon.com/nl",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:5072169efca1c1a1"
+    },
+    {
       "name": "DevHacks CLUJ powered by MassMutual Romania",
       "organizer": "hackathon.com",
       "url": "https://www.hackathon.com/event/devhacks-cluj-powered-by-massmutual-romania-471083682977",
@@ -720,6 +735,21 @@
       "uid": "hk:c7ea7d9f9df17f5c"
     },
     {
+      "name": "Genius hands-free umbrella hack! ☂️🤯 #smarthack #diyhack",
+      "organizer": "www-dc3-migration.dailymotion.com",
+      "url": "https://www-dc3-migration.dailymotion.com/video/x9sl67q",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:18bdcc191e32b8da"
+    },
+    {
       "name": "GitGood Hack (@gitgoodhack_asmi)",
       "organizer": "instagram.com",
       "url": "https://www.instagram.com/gitgoodhack_asmi/",
@@ -780,6 +810,21 @@
       "uid": "hk:2f6f4ddf558c3811"
     },
     {
+      "name": "Hack3rs Home",
+      "organizer": "hack3rs.hackathon.com",
+      "url": "https://hack3rs.hackathon.com/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:0051d2ed669e1383"
+    },
+    {
       "name": "Hackathon Bucharest 2026",
       "organizer": "instagram.com",
       "url": "https://www.instagram.com/popular/hackathon-bucharest-2026/",
@@ -793,6 +838,66 @@
         "apify"
       ],
       "uid": "hk:952d038b92acb6a5"
+    },
+    {
+      "name": "Hackathon Format: MVP Hackathon",
+      "organizer": "tips.hackathon.com",
+      "url": "https://tips.hackathon.com/videos/hackathon-format-mvp-hackathon",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:7964cea51e20ea2f"
+    },
+    {
+      "name": "Hackathon.com | Organise Your Corporate Hackathon",
+      "organizer": "corporate.hackathon.com",
+      "url": "https://corporate.hackathon.com/uk",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:c8c1cf7e2deb202a"
+    },
+    {
+      "name": "Hackathon.com | Organisez Votre Hackathon d'Entreprise",
+      "organizer": "corporate.hackathon.com",
+      "url": "https://corporate.hackathon.com/fr",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:1a4afb87a6bcbd3b"
+    },
+    {
+      "name": "Hackathon.com | Organize Your Corporate Hackathon",
+      "organizer": "corporate.hackathon.com",
+      "url": "https://corporate.hackathon.com/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:e2faffcca1870ada"
     },
     {
       "name": "Hackathons by Country",
@@ -898,6 +1003,21 @@
       "uid": "hk:d74f132717bb9c45"
     },
     {
+      "name": "How to Build Your Team of Judges",
+      "organizer": "masterclass.hackathon.com",
+      "url": "https://masterclass.hackathon.com/how-to-build-your-team-of-judges.html",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:e09d389ccb76cecc"
+    },
+    {
       "name": "IDEA 3.0",
       "organizer": "idea.eestec.ro",
       "url": "https://idea.eestec.ro/",
@@ -941,6 +1061,21 @@
       "uid": "hk:5bf80112dbda0562"
     },
     {
+      "name": "Internal Hackathon Process",
+      "organizer": "tips.hackathon.com",
+      "url": "https://tips.hackathon.com/videos/hackathon-tips-internal-hackathon-process",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:b5e1a55f36fd958b"
+    },
+    {
       "name": "LC Bucharest",
       "organizer": "eestec.net",
       "url": "https://eestec.net/cities/bucharest",
@@ -969,6 +1104,21 @@
         "apify"
       ],
       "uid": "hk:bef4cc38b8a0971f"
+    },
+    {
+      "name": "Lendi Group Hackathon Builds Agents in Hours | Lendi Group ...",
+      "organizer": "linkedin.com",
+      "url": "https://www.linkedin.com/posts/lendi-group_hackathon-at-lendi-group-activity-7462336276893958144-J4ld",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:7a955fa110eee500"
     },
     {
       "name": "Let's SmartHack! 💙 | Asociația Studenților la Matematică și ...",
@@ -1014,6 +1164,21 @@
         "apify"
       ],
       "uid": "hk:8b349703e76be54e"
+    },
+    {
+      "name": "MVP Hackathon Process",
+      "organizer": "tips.hackathon.com",
+      "url": "https://tips.hackathon.com/videos/mvp-hackathon-process",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:2bf240011dd9ae16"
     },
     {
       "name": "NASA International Space Apps Challenge",
@@ -1271,6 +1436,21 @@
       "uid": "hk:e7e8852c6bd6d1aa"
     },
     {
+      "name": "Registration for the 2026 NASA #SpaceApps Challenge is now ...",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/spaceappschallenge/posts/registration-for-the-2026-nasa-spaceapps-challenge-is-now-open-be-a-part-of-the-/1541334788023384/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:c362570ea1c27bce"
+    },
+    {
       "name": "Registrations are now open for the NASA Space Apps ...",
       "organizer": "facebook.com",
       "url": "https://www.facebook.com/australianspaceagency/posts/registrations-are-now-open-for-the-nasa-space-apps-challenge-2026-global-hackath/1517470313758568/",
@@ -1331,6 +1511,21 @@
       "uid": "hk:5d8afb3e4892b446"
     },
     {
+      "name": "Silicon Spill Stopper #smarthack #kitchen #idea #gadget ...",
+      "organizer": "youtube.com",
+      "url": "https://www.youtube.com/shorts/CO740dKxba8",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:3e9e52a73ad9f9cb"
+    },
+    {
       "name": "Smart Horizon 2026: National Ministries Backed Hackathon",
       "organizer": "linkedin.com",
       "url": "https://www.linkedin.com/posts/nhceofficial_smart-horizon-2026-meet-our-technical-partners-activity-7493633543919583233-ODQ7",
@@ -1344,6 +1539,21 @@
         "apify"
       ],
       "uid": "hk:25ee90c7bc96fe58"
+    },
+    {
+      "name": "Smart mom hack for busy days! 👩‍🍳👶 #momlife #smarthack",
+      "organizer": "dailymotion.com",
+      "url": "https://www.dailymotion.com/video/xa73kvy",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:d19d463dc26ab5f7"
     },
     {
       "name": "smarthack",
