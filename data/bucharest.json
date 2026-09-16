@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-15T09:49:43.151221+00:00",
+  "updated_at": "2026-09-16T09:44:59.436381+00:00",
   "hackathons": [
+    {
+      "name": "VNU '26 - Connect The Dots",
+      "organizer": "Hack Club",
+      "url": "https://vnuhack.com/",
+      "source": "hackclub",
+      "location": "București, Romania",
+      "format": "in_person",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-05",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:e55411d5921aba24"
+    },
     {
       "name": "NASA Space Apps Challenge - ETTI",
       "organizer": "etti.utcluj.ro",
@@ -75,6 +88,21 @@
         "apify"
       ],
       "uid": "hk:82645c810d464eb7"
+    },
+    {
+      "name": "EELISA Student-Led Bootcamp 2026 – Hackathon for a ...",
+      "organizer": "international.upb.ro",
+      "url": "https://www.international.upb.ro/education/explore-and-connect/view/event/en-eelisa-student-led-bootcamp-2026-u2013-hackathon-for-a-circular-campus",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-10",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:2dc4b3bf18c9be51"
     },
     {
       "name": "Smarthack, 11-12 noiembrie - hackathonul organizat de ...",
@@ -270,21 +298,6 @@
         "apify"
       ],
       "uid": "hk:8bfc2f1916356fa6"
-    },
-    {
-      "name": "24 Hours of Google - Hackathon - ASMI",
-      "organizer": "asmi.ro",
-      "url": "https://asmi.ro/Articole/google-hackaton",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:903915de1b52bc64"
     },
     {
       "name": "24 Hours of Google Hackathon 2026 | Eduard Olteanu",
@@ -1466,21 +1479,6 @@
       "uid": "hk:44fadb32e688b3da"
     },
     {
-      "name": "Resources | The Bucharest Hackathon 2026",
-      "organizer": "thebucharesthackathon.com",
-      "url": "https://thebucharesthackathon.com/resources.html",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c4e0cd3d097752c8"
-    },
-    {
       "name": "Restaurant of Tomorrow - Coding Challenge",
       "organizer": "hackathon.com",
       "url": "https://www.hackathon.com/event/restaurant-of-tomorrow---coding-challenge-90172433175",
@@ -1599,6 +1597,21 @@
         "apify"
       ],
       "uid": "hk:09168dd644e1db6a"
+    },
+    {
+      "name": "SmartHack - Primul hackaton organizat de ASMI",
+      "organizer": "romaniapozitiva.ro",
+      "url": "http://www.romaniapozitiva.ro/bucuresti/smarthack-primul-hackaton-organizat-de-asmi/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:37c3d6850bc96dde"
     },
     {
       "name": "Smarthack - Înscrie-te acum",

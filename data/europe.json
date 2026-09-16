@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-15T09:49:43.151221+00:00",
+  "updated_at": "2026-09-16T09:44:59.436381+00:00",
   "hackathons": [
+    {
+      "name": "Build with Gemma Hackathon",
+      "organizer": "GDG Basilicata",
+      "url": "https://gdg.community.dev/events/details/google-gdg-basilicata-presents-build-with-gemma-hackathon/",
+      "source": "gdg",
+      "location": "Potenza, Italy",
+      "format": "in_person",
+      "start_date": "2026-09-16",
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:8c9432bcb252933f"
+    },
+    {
+      "name": "HackNight NeuroTechX Paris (hybride)",
+      "organizer": "CogLab, NeuroTechX Paris",
+      "url": "https://www.meetup.com/coglab/events/316570466/",
+      "source": "meetup",
+      "location": "Paris, Makerlab Paris, fr",
+      "format": "in_person",
+      "start_date": "2026-09-16",
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:9e45945b784d7bc0"
+    },
     {
       "name": "Public AI Hackathon",
       "organizer": "Luma",
@@ -45,19 +71,6 @@
       "uid": "hk:6d774c9841734a87"
     },
     {
-      "name": "Lenzburg Hackathon @Finnova",
-      "organizer": "Luma",
-      "url": "https://lu.ma/hack-lenzburg-18Sep26",
-      "source": "luma",
-      "location": "Lenzburg, Lenzburg, Aargau, Switzerland",
-      "format": "in_person",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:1b0248d8668c3727"
-    },
-    {
       "name": "Customer Onboarding Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/vpjma1oe",
@@ -69,6 +82,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:82ce137bd76ab4fb"
+    },
+    {
+      "name": "Devin Hackathon Budapest | Cognition.ai",
+      "organizer": "Luma",
+      "url": "https://lu.ma/4015b3gu",
+      "source": "luma",
+      "location": "Budapest, Budapest, Hungary, Hungary",
+      "format": "in_person",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:3c1e6612c7cecd18"
     },
     {
       "name": "AaltoAI Hackathon: Data Sovereignty & Responsible AI",
@@ -231,19 +257,6 @@
       "uid": "hk:b013cfcbd2f7b2de"
     },
     {
-      "name": "Bradford Agentic AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/d3jrbl89",
-      "source": "luma",
-      "location": "Bradford, Bradford, England, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:b5dcb12bd4764214"
-    },
-    {
       "name": "EAT_HACK - the world's first AI & eating hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/hdf7uc43",
@@ -257,17 +270,30 @@
       "uid": "hk:8637027298bda0ec"
     },
     {
-      "name": "London AI x Science Hackathon",
+      "name": "La Machine: Robotics Hackathon by Tech Makers",
       "organizer": "Luma",
-      "url": "https://lu.ma/3iipivod",
+      "url": "https://lu.ma/ni360mav",
       "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
+      "location": "Amsterdam, Amsterdam, Netherlands, Netherlands",
       "format": "in_person",
-      "start_date": "2026-10-03",
+      "start_date": "2026-10-02",
       "end_date": "2026-10-04",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:d326f9b2c6607385"
+      "uid": "hk:c2942e3b5740d000"
+    },
+    {
+      "name": "Madrid | 48-hour Claude Code Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/claude-dyek",
+      "source": "luma",
+      "location": "Madrid, Madrid, Spain, Spain",
+      "format": "in_person",
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-04",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:55b0fca9fea4ce48"
     },
     {
       "name": "Stockholm Hub - 7th Hack-Nation Global AI Hackathon",
@@ -294,19 +320,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:7987a5a271d8caa8"
-    },
-    {
-      "name": "Stripe x Briefcase: AI FinTech London Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/3k1pazop",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-15",
-      "end_date": "2026-10-15",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:0e9e0c9d4bf3eb2d"
     },
     {
       "name": "IKU Womxn in STEM Hackathon",
