@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-09-16T09:44:59.436381+00:00",
+  "updated_at": "2026-09-17T09:52:47.576050+00:00",
   "hackathons": [
-    {
-      "name": "Build with Gemma Hackathon",
-      "organizer": "GDG Basilicata",
-      "url": "https://gdg.community.dev/events/details/google-gdg-basilicata-presents-build-with-gemma-hackathon/",
-      "source": "gdg",
-      "location": "Potenza, Italy",
-      "format": "in_person",
-      "start_date": "2026-09-16",
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:8c9432bcb252933f"
-    },
-    {
-      "name": "HackNight NeuroTechX Paris (hybride)",
-      "organizer": "CogLab, NeuroTechX Paris",
-      "url": "https://www.meetup.com/coglab/events/316570466/",
-      "source": "meetup",
-      "location": "Paris, Makerlab Paris, fr",
-      "format": "in_person",
-      "start_date": "2026-09-16",
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:9e45945b784d7bc0"
-    },
-    {
-      "name": "Public AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/ai388m8c",
-      "source": "luma",
-      "location": "Antwerpen, Antwerpen, Belgium, Belgium",
-      "format": "in_person",
-      "start_date": "2026-09-16",
-      "end_date": "2026-09-16",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:d45d645c6655c5fe"
-    },
     {
       "name": "Cursor Hackathon Berlin @taxfix",
       "organizer": "Luma",
@@ -69,6 +30,19 @@
         "Gaming"
       ],
       "uid": "hk:6d774c9841734a87"
+    },
+    {
+      "name": "Lenzburg Hackathon @Finnova",
+      "organizer": "Luma",
+      "url": "https://lu.ma/hack-lenzburg-18Sep26",
+      "source": "luma",
+      "location": "Lenzburg, Lenzburg, Aargau, Switzerland",
+      "format": "in_person",
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:1b0248d8668c3727"
     },
     {
       "name": "Customer Onboarding Hackathon",
@@ -166,6 +140,19 @@
       "uid": "hk:fc0b86496ac078e8"
     },
     {
+      "name": "The FIRST Running Hackathon in Barcelona",
+      "organizer": "Luma",
+      "url": "https://lu.ma/z09iauls",
+      "source": "luma",
+      "location": "Barcelona, Barcelona, Spain, Spain",
+      "format": "in_person",
+      "start_date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:fa02e3a65b1404d0"
+    },
+    {
       "name": "Velory × 46elks × IkonAI Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/o2z4bjfy",
@@ -218,19 +205,6 @@
       "uid": "hk:42ef0eb5f2d31bff"
     },
     {
-      "name": "September Mini Game Jam 2026 (starting 11:45 at SAE)",
-      "organizer": "Game Developers Berlin",
-      "url": "https://www.meetup.com/game-developers-berlin/events/316389894/",
-      "source": "meetup",
-      "location": "Berlin, Sae Institute, de",
-      "format": "in_person",
-      "start_date": "2026-09-26",
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:e0f793d5fef9a50e"
-    },
-    {
       "name": "Lock in & Build Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/b3o95mtn",
@@ -257,20 +231,20 @@
       "uid": "hk:b013cfcbd2f7b2de"
     },
     {
-      "name": "EAT_HACK - the world's first AI & eating hackathon",
+      "name": "Cursor Hackathon Prague: Forge the Stack",
       "organizer": "Luma",
-      "url": "https://lu.ma/hdf7uc43",
+      "url": "https://lu.ma/cursor-mljb",
       "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
+      "location": "Hlavní město Praha, Hlavní město Praha, Czechia, Czechia",
       "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
+      "start_date": "2026-09-30",
+      "end_date": "2026-09-30",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:8637027298bda0ec"
+      "uid": "hk:174e5a225baae398"
     },
     {
-      "name": "La Machine: Robotics Hackathon by Tech Makers",
+      "name": "La Machine: a robotics hackathon by Tech Makers",
       "organizer": "Luma",
       "url": "https://lu.ma/ni360mav",
       "source": "luma",
@@ -280,20 +254,7 @@
       "end_date": "2026-10-04",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:c2942e3b5740d000"
-    },
-    {
-      "name": "Madrid | 48-hour Claude Code Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/claude-dyek",
-      "source": "luma",
-      "location": "Madrid, Madrid, Spain, Spain",
-      "format": "in_person",
-      "start_date": "2026-10-02",
-      "end_date": "2026-10-04",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:55b0fca9fea4ce48"
+      "uid": "hk:e1f707b29e955d7c"
     },
     {
       "name": "Stockholm Hub - 7th Hack-Nation Global AI Hackathon",
@@ -372,6 +333,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:8b4a2c0dda9acd5e"
+    },
+    {
+      "name": "Hackathon Explore",
+      "organizer": "Luma",
+      "url": "https://lu.ma/mczagntt",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:a6a9435f158f8c59"
     },
     {
       "name": "TUM Blockchain Conference 26 + Hackathon",
@@ -478,19 +452,6 @@
         "space"
       ],
       "uid": "hk:40ed36b6661e16f3"
-    },
-    {
-      "name": "PoliHack",
-      "organizer": "PoliHack OSUT Cluj",
-      "url": "https://polihack.osut.org/",
-      "source": "polihack",
-      "location": "Cluj-Napoca, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:5449b4f5b63958d9"
     }
   ]
 }
