@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T09:52:47.576050+00:00",
+  "updated_at": "2026-09-18T09:28:27.490415+00:00",
   "hackathons": [
     {
       "name": "VNU '26 - Connect The Dots",
@@ -1642,19 +1642,6 @@
         "apify"
       ],
       "uid": "hk:c9b4ed84116240ed"
-    },
-    {
-      "name": "Space Apps Challenge",
-      "organizer": "NASA Space Apps Bucharest",
-      "url": "https://www.spaceappschallenge.org/2026/locations/bucharest/",
-      "source": "nasa",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:8042a6d2b32dc804"
     },
     {
       "name": "Stefan Tutuianu - 24 Hours of Google Hackathon",

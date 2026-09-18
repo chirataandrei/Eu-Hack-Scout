@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-09-17T09:52:47.576050+00:00",
+  "updated_at": "2026-09-18T09:28:27.490415+00:00",
   "hackathons": [
-    {
-      "name": "Cursor Hackathon Berlin @taxfix",
-      "organizer": "Luma",
-      "url": "https://lu.ma/1lg1a8v3",
-      "source": "luma",
-      "location": "Berlin, Berlin, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-09-17",
-      "end_date": "2026-09-17",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:14487194d8cf9a00"
-    },
-    {
-      "name": "Poly.Tech mini hackathon",
-      "organizer": "None",
-      "url": "https://poly-tech-mini-hackathon-31322.devpost.com/",
-      "source": "devpost",
-      "location": "Baltimore, MD, USA",
-      "format": "in_person",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-17",
-      "registration_deadline": "2026-09-17",
-      "tags": [
-        "Beginner Friendly",
-        "Education",
-        "Gaming"
-      ],
-      "uid": "hk:6d774c9841734a87"
-    },
     {
       "name": "Lenzburg Hackathon @Finnova",
       "organizer": "Luma",
@@ -43,19 +13,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:1b0248d8668c3727"
-    },
-    {
-      "name": "Customer Onboarding Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/vpjma1oe",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:82ce137bd76ab4fb"
     },
     {
       "name": "Devin Hackathon Budapest | Cognition.ai",
@@ -125,6 +82,23 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:ed90de47d79d1c57"
+    },
+    {
+      "name": "Poly.Tech mini hackathon",
+      "organizer": "None",
+      "url": "https://poly-tech-mini-hackathon-31322.devpost.com/",
+      "source": "devpost",
+      "location": "Baltimore, MD, USA",
+      "format": "in_person",
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-24",
+      "registration_deadline": "2026-09-24",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Gaming"
+      ],
+      "uid": "hk:6d774c9841734a87"
     },
     {
       "name": "Solana Hack Day Munich: Road to TUM Blockchain Conference",
@@ -205,6 +179,32 @@
       "uid": "hk:42ef0eb5f2d31bff"
     },
     {
+      "name": "September Mini Game Jam 2026 (starting 11:45 at SAE)",
+      "organizer": "Game Developers Berlin",
+      "url": "https://www.meetup.com/game-developers-berlin/events/316389894/",
+      "source": "meetup",
+      "location": "Berlin, Sae Institute, de",
+      "format": "in_person",
+      "start_date": "2026-09-26",
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:e0f793d5fef9a50e"
+    },
+    {
+      "name": "HACK_002: 24h AI Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/1ka4b1nm",
+      "source": "luma",
+      "location": "Wien, Wien, Austria, Austria",
+      "format": "in_person",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:1a81564df7b5d79c"
+    },
+    {
       "name": "Lock in & Build Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/b3o95mtn",
@@ -244,17 +244,30 @@
       "uid": "hk:174e5a225baae398"
     },
     {
-      "name": "La Machine: a robotics hackathon by Tech Makers",
+      "name": "Dealroom API Hackathon",
       "organizer": "Luma",
-      "url": "https://lu.ma/ni360mav",
+      "url": "https://lu.ma/u3mhdld7",
       "source": "luma",
-      "location": "Amsterdam, Amsterdam, Netherlands, Netherlands",
+      "location": "London, London, United Kingdom, United Kingdom",
       "format": "in_person",
-      "start_date": "2026-10-02",
-      "end_date": "2026-10-04",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-01",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:e1f707b29e955d7c"
+      "uid": "hk:ec5c85437ee127f5"
+    },
+    {
+      "name": "Metropolis Hackathon Builder Day: London | $250,000 in prizes",
+      "organizer": "Luma",
+      "url": "https://lu.ma/metropolis-lon-oct-2026",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:9a9a1723a8562c46"
     },
     {
       "name": "Stockholm Hub - 7th Hack-Nation Global AI Hackathon",
@@ -294,19 +307,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:f1b1ce0c71458510"
-    },
-    {
-      "name": "Encode London Hackathon and Conference",
-      "organizer": "Luma",
-      "url": "https://lu.ma/encode-london-2026",
-      "source": "luma",
-      "location": "London, London, England, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-25",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:35dd77388c9f2041"
     },
     {
       "name": "OxHack '26",

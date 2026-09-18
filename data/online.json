@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T09:52:47.576050+00:00",
+  "updated_at": "2026-09-18T09:28:27.490415+00:00",
   "hackathons": [
     {
       "name": "COMPSPHERE 12",
@@ -9,27 +9,14 @@
       "location": "Online",
       "format": "online",
       "start_date": "2026-08-03",
-      "end_date": "2026-09-17",
-      "registration_deadline": "2026-09-17",
+      "end_date": "2026-09-18",
+      "registration_deadline": "2026-09-18",
       "tags": [
         "Blockchain",
         "Machine Learning/AI",
         "Cybersecurity"
       ],
       "uid": "hk:e7c08ad427f871b2"
-    },
-    {
-      "name": "Global Hack Week: Data",
-      "organizer": "MLH",
-      "url": "https://events.mlh.io/events/14416-global-hack-week-data",
-      "source": "mlh",
-      "location": "Everywhere, Worldwide",
-      "format": "online",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-17",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:c616fd1ece3a5e58"
     },
     {
       "name": "Graphiques Innovation Challenge",
@@ -83,23 +70,6 @@
       "uid": "hk:c471db2bdee02ad1"
     },
     {
-      "name": "The Rice University Urban Sustainability Hackathon",
-      "organizer": "Rice University",
-      "url": "https://rice-urban-sustainability.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-06-23",
-      "end_date": "2026-09-18",
-      "registration_deadline": "2026-09-18",
-      "tags": [
-        "Design",
-        "Social Good",
-        "Databases"
-      ],
-      "uid": "hk:df819361fed71ef0"
-    },
-    {
       "name": "WeAreDevelopers Hackathon",
       "organizer": "lablab.ai",
       "url": "https://lablab.ai/ai-hackathons/wearedevelopers-hackathon",
@@ -144,6 +114,23 @@
         "Fintech"
       ],
       "uid": "hk:6958f06b3694256b"
+    },
+    {
+      "name": "Demo Student Hackathon 2026",
+      "organizer": "IUH",
+      "url": "https://demo-student-hackathon-2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-20",
+      "registration_deadline": "2026-09-20",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:5e59819f52ae6a53"
     },
     {
       "name": "Evorozen Apex: NextGen AI Buildathon",
@@ -299,9 +286,9 @@
       "uid": "hk:0302bdb50c3c94c5"
     },
     {
-      "name": "ELUCode-4",
-      "organizer": "EduLinkUp",
-      "url": "https://unstop.com/hackathons/elucode-4-edulinkup-1757082",
+      "name": "EVOX 1.0",
+      "organizer": "DETOX",
+      "url": "https://unstop.com/hackathons/evox-10-detox-1757577",
       "source": "unstop",
       "location": "online",
       "format": "online",
@@ -309,7 +296,7 @@
       "end_date": "2026-09-26",
       "registration_deadline": "2026-09-26",
       "tags": [],
-      "uid": "hk:d1a0bd9d56f19089"
+      "uid": "hk:50157d842c14e245"
     },
     {
       "name": "Zero Origin",
@@ -361,6 +348,19 @@
         "Beginner Friendly"
       ],
       "uid": "hk:60f95765cfd940a1"
+    },
+    {
+      "name": "Build Your Fest Stall: Brand It, Pitch It, Launch It",
+      "organizer": "SkyThink Tech",
+      "url": "https://unstop.com/hackathons/build-your-fest-stall-brand-it-pitch-it-launch-it-skythink-tech-1757410",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-27",
+      "registration_deadline": "2026-09-27",
+      "tags": [],
+      "uid": "hk:b47559b7ffe9697b"
     },
     {
       "name": "HackCelestial 3.0",
@@ -495,32 +495,6 @@
       "uid": "hk:87ee64f9c7dc9e2c"
     },
     {
-      "name": "YUVA Megathon 2026",
-      "organizer": "SRM Institute of Science & Technology, Trichy",
-      "url": "https://unstop.com/hackathons/yuva-megathon-2026-yuva-srm-institute-of-science-technology-trichy-1754766",
-      "source": "unstop",
-      "location": "Tiruchirappalli",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-30",
-      "registration_deadline": "2026-09-30",
-      "tags": [],
-      "uid": "hk:49938cd09cc98e37"
-    },
-    {
-      "name": "Cerebro Hackathon",
-      "organizer": "Institute of Engineering and Management",
-      "url": "https://unstop.com/hackathons/cerebro-hackathon-institute-of-engineering-and-management-1757094",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-01",
-      "registration_deadline": "2026-10-01",
-      "tags": [],
-      "uid": "hk:3d29a3da6bc18f82"
-    },
-    {
       "name": "Global Innovation Build Challenge V2",
       "organizer": "Kang Chiao International School Student ",
       "url": "https://gibc-v2.devpost.com/",
@@ -570,6 +544,23 @@
         "Mobile"
       ],
       "uid": "hk:44725448b10301eb"
+    },
+    {
+      "name": "Kurukshetra CTF",
+      "organizer": "pimpri chinchwad college of engineering",
+      "url": "https://kurukshetractf.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "registration_deadline": "2026-10-03",
+      "tags": [
+        "Beginner Friendly",
+        "Cybersecurity",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:ec73cb26c1ed3587"
     },
     {
       "name": "NASA Space Apps Challenge kicks off registrations",
@@ -702,19 +693,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:49cfcf26bfaa6f4f"
-    },
-    {
-      "name": "HAQATHON 2.0 – Hack the Next Quantum Decade",
-      "organizer": "Rajiv Gandhi University of Knowledge Technologies (RGUKT) - IIIT Srikakulam",
-      "url": "https://unstop.com/hackathons/quan-10-hack-the-next-quantum-decade-rajiv-gandhi-university-of-knowledge-technologies-rgukt-iiit-srikakulam-1757023",
-      "source": "unstop",
-      "location": "Srikakulam",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-10",
-      "registration_deadline": "2026-10-10",
-      "tags": [],
-      "uid": "hk:4cfecc13f894a084"
     },
     {
       "name": "Banana Hacks",
@@ -869,6 +847,19 @@
       "uid": "hk:2994e33d91ff7c75"
     },
     {
+      "name": "Game Jam - TantraFiesta 2026",
+      "organizer": "Indian Institute of Information Technology (IIIT), Nagpur",
+      "url": "https://unstop.com/hackathons/game-jam-tantrafiesta-2026-iiitn-1756367",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-24",
+      "registration_deadline": "2026-10-24",
+      "tags": [],
+      "uid": "hk:4d1a986cebfb0e9f"
+    },
+    {
       "name": "Neighborhood Hacks",
       "organizer": "Student Organization",
       "url": "https://neighborhood-hacks-2026.devpost.com/",
@@ -968,6 +959,19 @@
       "uid": "hk:a4302cb3db0c2a3d"
     },
     {
+      "name": "The Coding Challenge 2026",
+      "organizer": "Sagar Group Of Institutions (SISTec), Bhopal",
+      "url": "https://unstop.com/hackathons/the-coding-challenge-2026-sagar-group-of-institutions-sistec-bhopal-1757461",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-30",
+      "registration_deadline": "2026-10-30",
+      "tags": [],
+      "uid": "hk:ea80476913df07ae"
+    },
+    {
       "name": "Galuxium Nexus V2",
       "organizer": "Galuxium",
       "url": "https://galuxium-nexus-v2-29411.devpost.com/",
@@ -1019,19 +1023,6 @@
       "uid": "hk:7334efda85e8abad"
     },
     {
-      "name": "Students of Global Impact",
-      "organizer": "International Foundation for Sustainable Peace and Development",
-      "url": "https://unstop.com/hackathons/students-of-global-impact-international-foundation-for-sustainable-peace-and-development-1751032",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-15",
-      "registration_deadline": "2026-11-15",
-      "tags": [],
-      "uid": "hk:7a0772b0930b1b6b"
-    },
-    {
       "name": "Bridge The Gap Hacks",
       "organizer": "Bridge The Gap Hacks",
       "url": "https://sq-hacks.devpost.com/",
@@ -1047,6 +1038,19 @@
         "Social Good"
       ],
       "uid": "hk:b22cd0552059e903"
+    },
+    {
+      "name": "Solve - a - Thon | National Hackathon",
+      "organizer": "Swami Rama Himalayan University (SRHU), Baksar Wala, Uttarakhand",
+      "url": "https://unstop.com/hackathons/solve-a-thon-national-hackathon-swami-rama-himalayan-university-srhu-baksar-wala-uttarakhand-1755466",
+      "source": "unstop",
+      "location": "Dehradun",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-28",
+      "registration_deadline": "2026-11-28",
+      "tags": [],
+      "uid": "hk:d76606422aba25f9"
     },
     {
       "name": "SourceHacks V1",
