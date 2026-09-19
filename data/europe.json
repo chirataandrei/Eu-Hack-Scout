@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-09-18T09:28:27.490415+00:00",
+  "updated_at": "2026-09-19T09:15:32.543818+00:00",
   "hackathons": [
     {
-      "name": "Lenzburg Hackathon @Finnova",
-      "organizer": "Luma",
-      "url": "https://lu.ma/hack-lenzburg-18Sep26",
-      "source": "luma",
-      "location": "Lenzburg, Lenzburg, Aargau, Switzerland",
+      "name": "Creative Code Jam @ xHain",
+      "organizer": "Creative Code Berlin",
+      "url": "https://www.meetup.com/creativecodeberlin/events/316608391/",
+      "source": "meetup",
+      "location": "Berlin, Grünberger Str. 16, de",
       "format": "in_person",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
+      "start_date": "2026-09-19",
+      "end_date": null,
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:1b0248d8668c3727"
+      "uid": "hk:3969a6fdc000b92f"
+    },
+    {
+      "name": "Customer Onboarding Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/vpjma1oe",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:82ce137bd76ab4fb"
     },
     {
       "name": "Devin Hackathon Budapest | Cognition.ai",
@@ -71,6 +84,19 @@
       "uid": "hk:0739bb4c157aa371"
     },
     {
+      "name": "Campaign Lab Autumn Hack Night!",
+      "organizer": "Luma",
+      "url": "https://lu.ma/1zkaev1n",
+      "source": "luma",
+      "location": "London, London, England, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-21",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:8cbe7eaea3f7fc02"
+    },
+    {
       "name": "Legal Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/hack-kloten-23Sep26",
@@ -82,6 +108,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:ed90de47d79d1c57"
+    },
+    {
+      "name": "Introduction to Hackathons and LauzHack",
+      "organizer": "Luma",
+      "url": "https://lu.ma/fvuyymqy",
+      "source": "luma",
+      "location": "Ecublens, Ecublens, Switzerland, Switzerland",
+      "format": "in_person",
+      "start_date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:d0dfe24c96b6df7a"
     },
     {
       "name": "Poly.Tech mini hackathon",
@@ -151,6 +190,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:5dc5dae10741fd94"
+    },
+    {
+      "name": "HACKATHON WINNERS’ ULTIMATE HACKATHON",
+      "organizer": "Luma",
+      "url": "https://lu.ma/x2mzs03p",
+      "source": "luma",
+      "location": "Malmö, Malmö, Sweden, Sweden",
+      "format": "in_person",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:b55db76d6294f7ed"
     },
     {
       "name": "House London #2 | Data Hackathon",
@@ -257,17 +309,17 @@
       "uid": "hk:ec5c85437ee127f5"
     },
     {
-      "name": "Metropolis Hackathon Builder Day: London | $250,000 in prizes",
+      "name": "London AI x Science Hackathon",
       "organizer": "Luma",
-      "url": "https://lu.ma/metropolis-lon-oct-2026",
+      "url": "https://lu.ma/3iipivod",
       "source": "luma",
       "location": "London, London, United Kingdom, United Kingdom",
       "format": "in_person",
-      "start_date": "2026-10-02",
-      "end_date": "2026-10-02",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-04",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:9a9a1723a8562c46"
+      "uid": "hk:d326f9b2c6607385"
     },
     {
       "name": "Stockholm Hub - 7th Hack-Nation Global AI Hackathon",
@@ -294,6 +346,34 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:7987a5a271d8caa8"
+    },
+    {
+      "name": "HackUCD x Stripe",
+      "organizer": "HackUCD",
+      "url": "https://hackucd.devpost.com/",
+      "source": "devpost",
+      "location": "Ireland",
+      "format": "in_person",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-09",
+      "registration_deadline": "2026-10-09",
+      "tags": [
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:7c4d571b88e83f52"
+    },
+    {
+      "name": "European Defense Tech Hackathon - Bucharest",
+      "organizer": "Luma",
+      "url": "https://lu.ma/rems9wdc",
+      "source": "luma",
+      "location": "Hamburg, Hamburg, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-11",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:577f958d55cd9576"
     },
     {
       "name": "IKU Womxn in STEM Hackathon",
