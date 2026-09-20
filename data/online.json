@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-09-19T09:15:32.543818+00:00",
+  "updated_at": "2026-09-20T09:38:46.508046+00:00",
   "hackathons": [
-    {
-      "name": "Expand your Agents' Horizons - Build with K2 Horizon",
-      "organizer": "IFM x Michigan Data Science",
-      "url": "https://mdshacks.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-19",
-      "registration_deadline": "2026-09-19",
-      "tags": [
-        "Education",
-        "Machine Learning/AI"
-      ],
-      "uid": "hk:adc3cb0a08d337de"
-    },
     {
       "name": "ACM Marketsphere 2026",
       "organizer": "R.V. College Of Engineering",
@@ -32,23 +16,6 @@
         "Fintech"
       ],
       "uid": "hk:6958f06b3694256b"
-    },
-    {
-      "name": "Databricks Hackathon @ Queens College 2026",
-      "organizer": "Self",
-      "url": "https://databricks-hackathon-2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-20",
-      "registration_deadline": "2026-09-20",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "uid": "hk:93e750d95e036947"
     },
     {
       "name": "Graphiques Innovation Challenge",
@@ -202,17 +169,17 @@
       "uid": "hk:662c700df86e9b01"
     },
     {
-      "name": "Free Full Stack Python with Gen-AI Demo",
-      "organizer": "Quality Thought Info Systems",
-      "url": "https://unstop.com/hackathons/free-full-stack-python-with-gen-ai-demo-quality-thought-info-systems-1758360",
+      "name": "Robo Race",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "url": "https://unstop.com/hackathons/robo-race-techtrix26-navrachna-foundation-for-entrepreneurship-development-1752017",
       "source": "unstop",
-      "location": "online",
+      "location": "Greater Noida",
       "format": "online",
       "start_date": null,
       "end_date": "2026-09-24",
       "registration_deadline": "2026-09-24",
       "tags": [],
-      "uid": "hk:00b859e0912b535a"
+      "uid": "hk:4b4e9b4500e170af"
     },
     {
       "name": "InfinityX Global Hackathon 2K26",
@@ -300,6 +267,23 @@
       "uid": "hk:60f95765cfd940a1"
     },
     {
+      "name": "Hack Atlantic",
+      "organizer": "Hack Atlantic",
+      "url": "https://hack-atlantic1.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "registration_deadline": "2026-09-27",
+      "tags": [
+        "Design",
+        "Education",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:45923eb16b902a2b"
+    },
+    {
       "name": "HackCelestial 3.0",
       "organizer": "Pillai University, Navi Mumbai",
       "url": "https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808",
@@ -345,19 +329,6 @@
         "Social Good"
       ],
       "uid": "hk:87d4a156c97acc08"
-    },
-    {
-      "name": "Python Web Scraper Challenge",
-      "organizer": "Adoraxe",
-      "url": "https://unstop.com/hackathons/python-web-scraper-challenge-adoraxe-1758087",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-27",
-      "registration_deadline": "2026-09-27",
-      "tags": [],
-      "uid": "hk:0c6b280ff424f7cc"
     },
     {
       "name": "TigerHacks 2026",
@@ -547,19 +518,6 @@
       "uid": "hk:44725448b10301eb"
     },
     {
-      "name": "Q Hackathon",
-      "organizer": "Quantum University, Roorkee",
-      "url": "https://unstop.com/hackathons/q-hackathon-quantum-university-roorkee-1757858",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-02",
-      "registration_deadline": "2026-10-02",
-      "tags": [],
-      "uid": "hk:872c08a8df172392"
-    },
-    {
       "name": "Kurukshetra CTF",
       "organizer": "pimpri chinchwad college of engineering",
       "url": "https://kurukshetractf.devpost.com/",
@@ -673,6 +631,23 @@
         "Social Good"
       ],
       "uid": "hk:456d51f6228e315f"
+    },
+    {
+      "name": "Creator Colosseum: The Startup Showdown",
+      "organizer": "Creator Colosseum",
+      "url": "https://creatorcolosseumshowdown.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-20",
+      "end_date": "2026-10-10",
+      "registration_deadline": "2026-10-10",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Social Good"
+      ],
+      "uid": "hk:06f9f851c776a5dd"
     },
     {
       "name": "ForgeHacks Online 2026",
@@ -810,6 +785,45 @@
       "uid": "hk:668e1c011abee4e8"
     },
     {
+      "name": "PROJECT : ECLIPSE - AI & Automation Hackathon",
+      "organizer": "Agni College of Technology (ACT), Chennai",
+      "url": "https://unstop.com/hackathons/project-eclipse-ai-automation-hackathon-agni-college-of-technology-act-chennai-1758549",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-16",
+      "registration_deadline": "2026-10-16",
+      "tags": [],
+      "uid": "hk:961d599709d6ecf5"
+    },
+    {
+      "name": "Baby's First Website Hackathon",
+      "organizer": "haX baby",
+      "url": "https://unstop.com/hackathons/babys-first-website-hackathon-hax-baby-1758510",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-19",
+      "registration_deadline": "2026-10-19",
+      "tags": [],
+      "uid": "hk:8d7efafab50e3d40"
+    },
+    {
+      "name": "Business Plan Competition – From Idea to Market",
+      "organizer": "Navrachna Foundation For Entrepreneurship Development",
+      "url": "https://unstop.com/hackathons/business-plan-competition-from-idea-to-market-techtrix26-navrachna-foundation-for-entrepreneurship-developmen-1749781",
+      "source": "unstop",
+      "location": "Greater Noida",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-19",
+      "registration_deadline": "2026-10-19",
+      "tags": [],
+      "uid": "hk:e02a22064b9c0816"
+    },
+    {
       "name": "EurekaDev 2026",
       "organizer": "Eureka Institute and UnivaDev",
       "url": "https://eurekadev.devpost.com/",
@@ -890,19 +904,6 @@
         "Social Good"
       ],
       "uid": "hk:6b90618a61d26918"
-    },
-    {
-      "name": "Next Station 2026",
-      "organizer": "Frontend Arena",
-      "url": "https://unstop.com/hackathons/next-station-2026-frontend-arena-1758217",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-27",
-      "registration_deadline": "2026-10-27",
-      "tags": [],
-      "uid": "hk:dbd3909fad66ae7f"
     },
     {
       "name": "OpenCV AI Competition 2026, powered by AWS",
@@ -1007,17 +1008,17 @@
       "uid": "hk:32b7991081dd3f39"
     },
     {
-      "name": "Digital Twin Challenge 2026",
-      "organizer": "Happiest Health",
-      "url": "https://unstop.com/hackathons/crp-digital-twin-challenge-2026-happiest-health-1757873",
+      "name": "NASA Space Apps Challenge 2026",
+      "organizer": "Chandigarh University ",
+      "url": "https://unstop.com/hackathons/nasa-space-apps-challenge-2026-chandigarh-university-1758769",
       "source": "unstop",
-      "location": "online",
+      "location": "Mohali",
       "format": "online",
       "start_date": null,
-      "end_date": "2026-11-20",
-      "registration_deadline": "2026-11-20",
+      "end_date": "2026-11-14",
+      "registration_deadline": "2026-11-14",
       "tags": [],
-      "uid": "hk:f13ce49844b04286"
+      "uid": "hk:4a8cd893d4778685"
     },
     {
       "name": "Bridge The Gap Hacks",

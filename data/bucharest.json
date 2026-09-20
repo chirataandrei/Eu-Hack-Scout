@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T09:15:32.543818+00:00",
+  "updated_at": "2026-09-20T09:38:46.508046+00:00",
   "hackathons": [
     {
       "name": "VNU '26 - Connect The Dots",
@@ -1252,21 +1252,6 @@
         "apify"
       ],
       "uid": "hk:72505bf457324824"
-    },
-    {
-      "name": "NASA Space Apps Challenge",
-      "organizer": "youtube.com",
-      "url": "https://www.youtube.com/c/NASASpaceAppsChallenge",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:5ff9660eb10265dc"
     },
     {
       "name": "NASA Space Apps Challenge 2026 | Free Global Hackathon",
