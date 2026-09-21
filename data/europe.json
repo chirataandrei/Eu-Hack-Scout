@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-09-20T09:38:46.508046+00:00",
+  "updated_at": "2026-09-21T10:28:34.983621+00:00",
   "hackathons": [
-    {
-      "name": "MunichTech EXPO",
-      "organizer": "MunichTecg EXPO",
-      "url": "https://munichtech-expo.devpost.com/",
-      "source": "devpost",
-      "location": "Munich, Germany",
-      "format": "in_person",
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-20",
-      "registration_deadline": "2026-09-20",
-      "tags": [
-        "Low/No Code",
-        "Machine Learning/AI",
-        "Productivity"
-      ],
-      "uid": "hk:0739bb4c157aa371"
-    },
     {
       "name": "Campaign Lab Autumn Hack Night!",
       "organizer": "Luma",
@@ -205,6 +188,19 @@
       "uid": "hk:b013cfcbd2f7b2de"
     },
     {
+      "name": "Physical AI Hackathon — DARE Campus Zurich",
+      "organizer": "Luma",
+      "url": "https://lu.ma/builde-xkyq",
+      "source": "luma",
+      "location": "Schlieren, Schlieren, Switzerland, Switzerland",
+      "format": "in_person",
+      "start_date": "2026-09-29",
+      "end_date": "2026-09-29",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:49bcd240e08e6506"
+    },
+    {
       "name": "Cursor Hackathon Prague: Forge the Stack",
       "organizer": "Luma",
       "url": "https://lu.ma/cursor-mljb",
@@ -229,19 +225,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:ec5c85437ee127f5"
-    },
-    {
-      "name": "La Machine: a robotics hackathon by Tech Makers",
-      "organizer": "Luma",
-      "url": "https://lu.ma/ni360mav",
-      "source": "luma",
-      "location": "Amsterdam, Amsterdam, Netherlands, Netherlands",
-      "format": "in_person",
-      "start_date": "2026-10-02",
-      "end_date": "2026-10-04",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:e1f707b29e955d7c"
     },
     {
       "name": "London AI x Science Hackathon",
@@ -311,43 +294,30 @@
       "uid": "hk:7c4d571b88e83f52"
     },
     {
-      "name": "European Defense Tech Hackathon - Bucharest",
+      "name": "Commit Athens: a free afternoon hackathon",
       "organizer": "Luma",
-      "url": "https://lu.ma/rems9wdc",
+      "url": "https://lu.ma/9x8yo5do",
       "source": "luma",
-      "location": "Hamburg, Hamburg, Germany, Germany",
+      "location": "Galatsi, Galatsi, Greece, Greece",
       "format": "in_person",
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-11",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-10",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:577f958d55cd9576"
-    },
-    {
-      "name": "Bazel Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/9dm41b1h",
-      "source": "luma",
-      "location": "Amsterdam, Amsterdam, Netherlands, Netherlands",
-      "format": "in_person",
-      "start_date": "2026-10-16",
-      "end_date": "2026-10-16",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:7a4e2d7cc25bddf1"
+      "uid": "hk:12b5bf67c985c4d6"
     },
     {
       "name": "IKU Womxn in STEM Hackathon",
-      "organizer": "MLH",
-      "url": "https://ikuwomxninstemhackathon.co.uk/",
-      "source": "mlh",
-      "location": "London, London, London, GB",
+      "organizer": "Luma",
+      "url": "https://lu.ma/zo6qsl13",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
       "format": "in_person",
       "start_date": "2026-10-17",
       "end_date": "2026-10-18",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:f1b1ce0c71458510"
+      "uid": "hk:2b4a38e8af8d42ac"
     },
     {
       "name": "OxHack '26",

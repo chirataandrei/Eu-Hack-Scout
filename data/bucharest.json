@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T09:38:46.508046+00:00",
+  "updated_at": "2026-09-21T10:28:34.983621+00:00",
   "hackathons": [
     {
       "name": "VNU '26 - Connect The Dots",
@@ -88,6 +88,19 @@
         "apify"
       ],
       "uid": "hk:82645c810d464eb7"
+    },
+    {
+      "name": "European Defense Tech Hackathon - Bucharest",
+      "organizer": "Luma",
+      "url": "https://lu.ma/rems9wdc",
+      "source": "luma",
+      "location": "Bucharest, Bucharest, Romania, Romania",
+      "format": "in_person",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-11",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:577f958d55cd9576"
     },
     {
       "name": "EELISA Student-Led Bootcamp 2026 – Hackathon for a ...",
@@ -1252,6 +1265,21 @@
         "apify"
       ],
       "uid": "hk:72505bf457324824"
+    },
+    {
+      "name": "NASA Space Apps Challenge",
+      "organizer": "youtube.com",
+      "url": "https://www.youtube.com/c/NASASpaceAppsChallenge",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:5ff9660eb10265dc"
     },
     {
       "name": "NASA Space Apps Challenge 2026 | Free Global Hackathon",
