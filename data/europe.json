@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-09-21T10:28:34.983621+00:00",
+  "updated_at": "2026-09-22T09:41:15.177099+00:00",
   "hackathons": [
-    {
-      "name": "Campaign Lab Autumn Hack Night!",
-      "organizer": "Luma",
-      "url": "https://lu.ma/1zkaev1n",
-      "source": "luma",
-      "location": "London, London, England, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-09-21",
-      "end_date": "2026-09-21",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:8cbe7eaea3f7fc02"
-    },
     {
       "name": "Legal Hackathon",
       "organizer": "Luma",
@@ -227,6 +214,19 @@
       "uid": "hk:ec5c85437ee127f5"
     },
     {
+      "name": "Lightning Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/2zvd5zmc",
+      "source": "luma",
+      "location": "Oradea, Oradea, Romania, Romania",
+      "format": "in_person",
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:79af9fcc1f4ee267"
+    },
+    {
       "name": "London AI x Science Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/3iipivod",
@@ -238,6 +238,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:d326f9b2c6607385"
+    },
+    {
+      "name": "Madrid | 48-hour Claude Code Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/claude-dyek",
+      "source": "luma",
+      "location": "Madrid, Madrid, Spain, Spain",
+      "format": "in_person",
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-04",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:55b0fca9fea4ce48"
     },
     {
       "name": "Stockholm Hub - 7th Hack-Nation Global AI Hackathon",
@@ -294,6 +307,19 @@
       "uid": "hk:7c4d571b88e83f52"
     },
     {
+      "name": "Barcelona AI Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/m0byiqzd",
+      "source": "luma",
+      "location": "Barcelona, Barcelona, Spain, Spain",
+      "format": "in_person",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-10",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:db5e17d664c3b086"
+    },
+    {
       "name": "Commit Athens: a free afternoon hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/9x8yo5do",
@@ -307,6 +333,19 @@
       "uid": "hk:12b5bf67c985c4d6"
     },
     {
+      "name": "London AI Hackathon: AI Transformation of Services",
+      "organizer": "Luma",
+      "url": "https://lu.ma/ja5x0m76",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:a9c11f9445f68f64"
+    },
+    {
       "name": "IKU Womxn in STEM Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/zo6qsl13",
@@ -318,6 +357,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:2b4a38e8af8d42ac"
+    },
+    {
+      "name": "Encode London Hackathon and Conference",
+      "organizer": "Luma",
+      "url": "https://lu.ma/encode-london-2026",
+      "source": "luma",
+      "location": "London, London, England, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-25",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:35dd77388c9f2041"
     },
     {
       "name": "OxHack '26",
@@ -463,6 +515,19 @@
         "space"
       ],
       "uid": "hk:40ed36b6661e16f3"
+    },
+    {
+      "name": "PoliHack",
+      "organizer": "PoliHack OSUT Cluj",
+      "url": "https://polihack.osut.org/",
+      "source": "polihack",
+      "location": "Cluj-Napoca, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:5449b4f5b63958d9"
     }
   ]
 }
