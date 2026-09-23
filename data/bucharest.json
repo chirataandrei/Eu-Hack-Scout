@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T09:41:15.177099+00:00",
+  "updated_at": "2026-09-23T09:48:28.000489+00:00",
   "hackathons": [
     {
       "name": "VNU '26 - Connect The Dots",
@@ -92,7 +92,7 @@
     {
       "name": "European Defense Tech Hackathon - Bucharest",
       "organizer": "Luma",
-      "url": "https://lu.ma/rems9wdc",
+      "url": "https://lu.ma/edth-bucharest-2026",
       "source": "luma",
       "location": "Bucharest, Bucharest, Romania, Romania",
       "format": "in_person",
@@ -100,7 +100,7 @@
       "end_date": "2026-10-11",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:577f958d55cd9576"
+      "uid": "hk:269d3be65f03003e"
     },
     {
       "name": "EELISA Student-Led Bootcamp 2026 – Hackathon for a ...",
