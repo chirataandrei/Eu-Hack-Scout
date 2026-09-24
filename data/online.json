@@ -1,57 +1,6 @@
 {
-  "updated_at": "2026-09-23T09:48:28.000489+00:00",
+  "updated_at": "2026-09-24T09:45:26.185544+00:00",
   "hackathons": [
-    {
-      "name": "BunnieX Hackathon",
-      "organizer": "TechieBunnies team",
-      "url": "https://buuniex-hackathon.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-06-22",
-      "end_date": "2026-09-23",
-      "registration_deadline": "2026-09-23",
-      "tags": [
-        "Machine Learning/AI",
-        "Open Ended",
-        "Productivity"
-      ],
-      "uid": "hk:e8c304e0a502262b"
-    },
-    {
-      "name": "Graphiques Innovation Challenge",
-      "organizer": "Hack Club",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-21",
-      "end_date": "2026-09-23",
-      "registration_deadline": "2026-09-23",
-      "tags": [
-        "Enterprise",
-        "Fintech",
-        "Productivity"
-      ],
-      "uid": "hk:d0b57ad2c7fcbf89"
-    },
-    {
-      "name": "Hyperbloom September - Beginer Freindly",
-      "organizer": "hyperbloom hacks",
-      "url": "https://hyperbloom-september2.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-14",
-      "end_date": "2026-09-23",
-      "registration_deadline": "2026-09-23",
-      "tags": [
-        "Beginner Friendly",
-        "Education",
-        "Low/No Code"
-      ],
-      "uid": "hk:662c700df86e9b01"
-    },
     {
       "name": "Hack The Weather",
       "organizer": "JHUB Africa",
@@ -372,6 +321,23 @@
       "uid": "hk:dc4d85c68b021164"
     },
     {
+      "name": "Hyperbloom September - Beginer Freindly",
+      "organizer": "hyperbloom hacks",
+      "url": "https://hyperbloom-september2.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-30",
+      "registration_deadline": "2026-09-30",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Low/No Code"
+      ],
+      "uid": "hk:662c700df86e9b01"
+    },
+    {
       "name": "Next Byte Hacks: V4",
       "organizer": "Next Byte Hacks",
       "url": "https://next-byte-hacks-v4.devpost.com/",
@@ -438,6 +404,19 @@
         "Mobile"
       ],
       "uid": "hk:44725448b10301eb"
+    },
+    {
+      "name": "Capture The Flag",
+      "organizer": "Symbiosis Center for Information Technology (SCIT), Pune",
+      "url": "https://unstop.com/hackathons/capture-the-flag-cyberon-2026-symbiosis-center-for-information-technology-scit-pune-1760810",
+      "source": "unstop",
+      "location": "Pune",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-03",
+      "registration_deadline": "2026-10-03",
+      "tags": [],
+      "uid": "hk:e465cd0eb9ea8c13"
     },
     {
       "name": "Kurukshetra CTF",
@@ -521,19 +500,6 @@
       "uid": "hk:cf3509834f8eec9c"
     },
     {
-      "name": "Hackathon Phase 1",
-      "organizer": "SRM University - AP",
-      "url": "https://unstop.com/hackathons/hackathon-phase-1-qiskit-fall-fest-2026-srm-university-ap-1758795",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-04",
-      "registration_deadline": "2026-10-04",
-      "tags": [],
-      "uid": "hk:467dfc3ee7a34c88"
-    },
-    {
       "name": "LovHack Season 3",
       "organizer": "Lovhack",
       "url": "https://lovhack-season-3.devpost.com/",
@@ -551,9 +517,9 @@
       "uid": "hk:63b60e0b828da253"
     },
     {
-      "name": "ML Competition",
-      "organizer": "SRM University - AP",
-      "url": "https://unstop.com/hackathons/ml-competition-qiskit-fall-fest-2026-srm-university-ap-1758822",
+      "name": "Prompt Run 2026",
+      "organizer": "Frontend Arena",
+      "url": "https://unstop.com/hackathons/prompt-run-2026-frontend-arena-1760943",
       "source": "unstop",
       "location": "online",
       "format": "online",
@@ -561,33 +527,7 @@
       "end_date": "2026-10-04",
       "registration_deadline": "2026-10-04",
       "tags": [],
-      "uid": "hk:041a8690acbc22f2"
-    },
-    {
-      "name": "QISKIT 102 – Implementation Track",
-      "organizer": "SRM University - AP",
-      "url": "https://unstop.com/hackathons/qiskit-102-implementation-track-srm-university-ap-1758492",
-      "source": "unstop",
-      "location": "Guntur",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-04",
-      "registration_deadline": "2026-10-04",
-      "tags": [],
-      "uid": "hk:2b25a62625196135"
-    },
-    {
-      "name": "Tech Marathon",
-      "organizer": "SRM University - AP",
-      "url": "https://unstop.com/hackathons/tech-marathon-qiskit-fall-fest-2026-srm-university-ap-1758481",
-      "source": "unstop",
-      "location": "Guntur",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-04",
-      "registration_deadline": "2026-10-04",
-      "tags": [],
-      "uid": "hk:115fc309894992f8"
+      "uid": "hk:3972800083e4068a"
     },
     {
       "name": "CSC Back-to-School Hackathon",
@@ -607,7 +547,7 @@
       "uid": "hk:8ef8e5812661775f"
     },
     {
-      "name": "ML Empowerment Build Challenge 3.0 - FREE Prizes for EVERYONE",
+      "name": "ML Empowerment Build Challenge 3.0 - (55k in prizes!)",
       "organizer": "ML Empowerment Foundation",
       "url": "https://ml-build-challenge-3.devpost.com/",
       "source": "devpost",
@@ -621,7 +561,7 @@
         "Machine Learning/AI",
         "Social Good"
       ],
-      "uid": "hk:7629a8a8420a899d"
+      "uid": "hk:4a64572280477b9d"
     },
     {
       "name": "UnivaBio ($40,000 in prizes)",
@@ -658,6 +598,19 @@
       "uid": "hk:456d51f6228e315f"
     },
     {
+      "name": "Drishti",
+      "organizer": "Vidyalankar Institute of Technology (VIT), Mumbai",
+      "url": "https://unstop.com/hackathons/drishti-vidyalankar-institute-of-technology-vit-mumbai-1755397",
+      "source": "unstop",
+      "location": "Wadala",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-09",
+      "registration_deadline": "2026-10-09",
+      "tags": [],
+      "uid": "hk:20ed27813c5734d8"
+    },
+    {
       "name": "Creator Colosseum: The Startup Showdown",
       "organizer": "Creator Colosseum",
       "url": "https://creatorcolosseumshowdown.devpost.com/",
@@ -690,6 +643,19 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:49cfcf26bfaa6f4f"
+    },
+    {
+      "name": "HackRobo 2.0",
+      "organizer": "Pillai University, Navi Mumbai",
+      "url": "https://unstop.com/hackathons/hackrobo-20-pillai-university-navi-mumbai-1760313",
+      "source": "unstop",
+      "location": "Panvel",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-11",
+      "registration_deadline": "2026-10-11",
+      "tags": [],
+      "uid": "hk:31f67fc62b02ce7a"
     },
     {
       "name": "Banana Hacks",
@@ -857,6 +823,19 @@
       "uid": "hk:f6642b9d10e5eef8"
     },
     {
+      "name": "Reality vs Code",
+      "organizer": "Punjab Engineering College (PEC), Chandigarh",
+      "url": "https://unstop.com/hackathons/reality-vs-code-punjab-engineering-college-pec-chandigarh-1760950",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-22",
+      "registration_deadline": "2026-10-22",
+      "tags": [],
+      "uid": "hk:e2f9eedcf1bbe233"
+    },
+    {
       "name": "Build, Ship, Shape: Amazon Developer Hackathon",
       "organizer": "Amazon",
       "url": "https://amazonappdev2026.devpost.com/",
@@ -937,19 +916,6 @@
         "Education"
       ],
       "uid": "hk:8a1ab47839d787da"
-    },
-    {
-      "name": "Codestar 30 — National-Level Hackathon",
-      "organizer": "WeCodeCoders",
-      "url": "https://unstop.com/hackathons/codestar-30-national-level-hackathon-wecodecoders-1760472",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-26",
-      "registration_deadline": "2026-10-26",
-      "tags": [],
-      "uid": "hk:732133d78df3ae88"
     },
     {
       "name": "OpenCV AI Competition 2026, powered by AWS",
@@ -1823,6 +1789,21 @@
         "taikai"
       ],
       "uid": "hk:5d6c72283c7b8ec4"
+    },
+    {
+      "name": "Hack4Guimarães 2035",
+      "organizer": "CM Guimarães",
+      "url": "https://taikai.network/hackathons/hack4guimaraes2035",
+      "source": "taikai",
+      "location": "Online",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "taikai"
+      ],
+      "uid": "hk:679db9a565bfe7ac"
     },
     {
       "name": "Hackanation 2026",
