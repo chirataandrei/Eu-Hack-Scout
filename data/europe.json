@@ -1,75 +1,6 @@
 {
-  "updated_at": "2026-09-24T09:45:26.185544+00:00",
+  "updated_at": "2026-09-25T10:03:33.367279+00:00",
   "hackathons": [
-    {
-      "name": "Introduction to Hackathons and LauzHack",
-      "organizer": "Luma",
-      "url": "https://lu.ma/fvuyymqy",
-      "source": "luma",
-      "location": "Ecublens, Ecublens, Switzerland, Switzerland",
-      "format": "in_person",
-      "start_date": "2026-09-24",
-      "end_date": "2026-09-24",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:d0dfe24c96b6df7a"
-    },
-    {
-      "name": "Poly.Tech mini hackathon",
-      "organizer": "None",
-      "url": "https://poly-tech-mini-hackathon-31322.devpost.com/",
-      "source": "devpost",
-      "location": "Baltimore, MD, USA",
-      "format": "in_person",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-24",
-      "registration_deadline": "2026-09-24",
-      "tags": [
-        "Beginner Friendly",
-        "Education",
-        "Gaming"
-      ],
-      "uid": "hk:6d774c9841734a87"
-    },
-    {
-      "name": "The FIRST Running Hackathon in Barcelona",
-      "organizer": "Luma",
-      "url": "https://lu.ma/z09iauls",
-      "source": "luma",
-      "location": "Barcelona, Barcelona, Spain, Spain",
-      "format": "in_person",
-      "start_date": "2026-09-24",
-      "end_date": "2026-09-24",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:fa02e3a65b1404d0"
-    },
-    {
-      "name": "Velory × 46elks × IkonAI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/o2z4bjfy",
-      "source": "luma",
-      "location": "Stockholm, Stockholm, Sweden, Sweden",
-      "format": "in_person",
-      "start_date": "2026-09-24",
-      "end_date": "2026-09-24",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:0f91553c2ad9988c"
-    },
-    {
-      "name": "Zurich Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/hack-zurich-24Sep26",
-      "source": "luma",
-      "location": "Zürich, Zürich, Switzerland, Switzerland",
-      "format": "in_person",
-      "start_date": "2026-09-24",
-      "end_date": "2026-09-25",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:5dc5dae10741fd94"
-    },
     {
       "name": "Grok Bot Commerce London Hackathon",
       "organizer": "Luma",
@@ -162,17 +93,17 @@
       "uid": "hk:cd479875a520e6a0"
     },
     {
-      "name": "Prompt Marketing Hackathon",
+      "name": "Hack Night",
       "organizer": "Luma",
-      "url": "https://lu.ma/aaltoes-ose3",
+      "url": "https://lu.ma/z7l0pl55",
       "source": "luma",
-      "location": "Espoo, Espoo, Finland, Finland",
+      "location": "St. Gallen, St. Gallen, Switzerland, Switzerland",
       "format": "in_person",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-27",
+      "start_date": "2026-09-29",
+      "end_date": "2026-09-29",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:b013cfcbd2f7b2de"
+      "uid": "hk:c0f34c5cf660a3e8"
     },
     {
       "name": "Physical AI Hackathon — DARE Campus Zurich",
@@ -253,17 +184,17 @@
       "uid": "hk:f2073b65d6bf69f6"
     },
     {
-      "name": "London AI x Science Hackathon",
+      "name": "Munich Hub - 7th Hack-Nation Global AI Hackathon",
       "organizer": "Luma",
-      "url": "https://lu.ma/3iipivod",
+      "url": "https://lu.ma/emilftsx",
       "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
+      "location": "München, München, Germany, Germany",
       "format": "in_person",
       "start_date": "2026-10-03",
       "end_date": "2026-10-04",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:d326f9b2c6607385"
+      "uid": "hk:fe069e39dee70ffa"
     },
     {
       "name": "Stockholm Hub - 7th Hack-Nation Global AI Hackathon",
@@ -333,6 +264,32 @@
       "uid": "hk:12b5bf67c985c4d6"
     },
     {
+      "name": "Digital Hackathon",
+      "organizer": "Village.Berlin",
+      "url": "https://www.meetup.com/village-berlin/events/316706331/",
+      "source": "meetup",
+      "location": "Berlin, Village Berlin, de",
+      "format": "in_person",
+      "start_date": "2026-10-10",
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:a911151b30350cc8"
+    },
+    {
+      "name": "B.A.L.L.S. hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/8vc4qm6x",
+      "source": "luma",
+      "location": "Lahti, Lahti, Finland, Finland",
+      "format": "in_person",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-15",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:287290ed8b92d521"
+    },
+    {
       "name": "IKU Womxn in STEM Hackathon",
       "organizer": "MLH",
       "url": "https://ikuwomxninstemhackathon.co.uk/",
@@ -383,6 +340,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:a6a9435f158f8c59"
+    },
+    {
+      "name": "TUM Blockchain Conference 26 + Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/tbc26",
+      "source": "luma",
+      "location": "München, München, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-31",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:632dfbc14809b364"
     },
     {
       "name": "DurHack",
