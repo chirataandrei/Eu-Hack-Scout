@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T10:24:34.139487+00:00",
+  "updated_at": "2026-09-28T11:31:49.720102+00:00",
   "hackathons": [
     {
       "name": "Graphiques Innovation Challenge",
@@ -9,78 +9,14 @@
       "location": "Online",
       "format": "online",
       "start_date": "2026-08-21",
-      "end_date": "2026-09-27",
-      "registration_deadline": "2026-09-27",
+      "end_date": "2026-09-28",
+      "registration_deadline": "2026-09-28",
       "tags": [
         "Enterprise",
         "Fintech",
         "Productivity"
       ],
       "uid": "hk:d0b57ad2c7fcbf89"
-    },
-    {
-      "name": "Hack Atlantic",
-      "organizer": "Hack Atlantic",
-      "url": "https://hack-atlantic1.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-27",
-      "registration_deadline": "2026-09-27",
-      "tags": [
-        "Design",
-        "Education",
-        "Machine Learning/AI"
-      ],
-      "uid": "hk:45923eb16b902a2b"
-    },
-    {
-      "name": "HackCelestial 3.0",
-      "organizer": "Pillai University, Navi Mumbai",
-      "url": "https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808",
-      "source": "unstop",
-      "location": "Navi Mumbai",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-27",
-      "registration_deadline": "2026-09-27",
-      "tags": [],
-      "uid": "hk:4d39e9f6081dba40"
-    },
-    {
-      "name": "Lake Oswego Hacks",
-      "organizer": "Lake Monsters Robotics (frc2635)",
-      "url": "https://lake-oswego-hacks.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-27",
-      "registration_deadline": "2026-09-27",
-      "tags": [
-        "Beginner Friendly",
-        "Low/No Code",
-        "Social Good"
-      ],
-      "uid": "hk:053ccb84a40b4b25"
-    },
-    {
-      "name": "LexHack 2026",
-      "organizer": "Lexhack",
-      "url": "https://lexhack-2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-27",
-      "registration_deadline": "2026-09-27",
-      "tags": [
-        "Beginner Friendly",
-        "Low/No Code",
-        "Social Good"
-      ],
-      "uid": "hk:87d4a156c97acc08"
     },
     {
       "name": "LUMA Hackathon (September 20th - 28th)",
@@ -115,6 +51,19 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:93671ffbc57d18b3"
+    },
+    {
+      "name": "Sangyan",
+      "organizer": "Indian Institute of Technology, Banaras Hindu University (IIT - BHU)",
+      "url": "https://unstop.com/hackathons/sangyan-iit-bhu-1761145",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-09-29",
+      "registration_deadline": "2026-09-29",
+      "tags": [],
+      "uid": "hk:7b4ed035cf809636"
     },
     {
       "name": "305 HackShells Edition September 2026",
@@ -304,19 +253,6 @@
       "uid": "hk:44725448b10301eb"
     },
     {
-      "name": "Teach pulse",
-      "organizer": "Sri Sairam Engineering College (SSEC), Chennai",
-      "url": "https://unstop.com/hackathons/teach-pulse-sri-sairam-engineering-college-ssec-chennai-1762040",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-02",
-      "registration_deadline": "2026-10-02",
-      "tags": [],
-      "uid": "hk:5b24236dad8bd81b"
-    },
-    {
       "name": "Kurukshetra CTF",
       "organizer": "pimpri chinchwad college of engineering",
       "url": "https://kurukshetractf.devpost.com/",
@@ -362,6 +298,23 @@
         "apify"
       ],
       "uid": "hk:350a508925422cf9"
+    },
+    {
+      "name": "FIK FAIR 2026",
+      "organizer": "UPN \"Veteran\" Jakarta",
+      "url": "https://fik-fair-2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-04",
+      "registration_deadline": "2026-10-04",
+      "tags": [
+        "Education",
+        "Health",
+        "Social Good"
+      ],
+      "uid": "hk:5dc8da8ef08581ce"
     },
     {
       "name": "Financial Cybersecurity Challenge 2026",
@@ -432,6 +385,19 @@
       "uid": "hk:8ef8e5812661775f"
     },
     {
+      "name": "Kriyova - 24-Hours Hackathon 2026",
+      "organizer": "Potti Sriramulu Chalavadi Mallikarjuna Rao College Of Engineering And Technology (PSCMRCET), Vijayawada, Andhra Pradesh",
+      "url": "https://unstop.com/hackathons/kriyova-24-hours-hackathon-2026-potti-sriramulu-chalavadi-mallikarjuna-rao-college-of-engineering-and-technol-1759184",
+      "source": "unstop",
+      "location": "Vijayawada",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-05",
+      "registration_deadline": "2026-10-05",
+      "tags": [],
+      "uid": "hk:f15031ab88e93b9e"
+    },
+    {
       "name": "OneAquaHealth IEEE Global Hackathon",
       "organizer": "OneAquaHealth",
       "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
@@ -483,6 +449,19 @@
       "uid": "hk:514ed2fd054d5c62"
     },
     {
+      "name": "Hackathon - Flagship",
+      "organizer": "National Institute of Technology (NIT), Uttarakhand",
+      "url": "https://unstop.com/hackathons/hackathon-flagship-cliffesto26-national-institute-of-technology-nit-uttarakhand-1762162",
+      "source": "unstop",
+      "location": "Srinagar",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-08",
+      "registration_deadline": "2026-10-08",
+      "tags": [],
+      "uid": "hk:72f2d534864d5664"
+    },
+    {
       "name": "ImpactHack 2026",
       "organizer": "GIS Engineering Club",
       "url": "https://impacthack26.devpost.com/",
@@ -517,43 +496,34 @@
       "uid": "hk:49cfcf26bfaa6f4f"
     },
     {
-      "name": "HackIIITD",
-      "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
-      "url": "https://unstop.com/hackathons/hackiiitd-esya26-indraprastha-institute-of-information-technology-iiit-delhi-1761212",
+      "name": "Perceptron Hackathon 2026",
+      "organizer": "Indian Institute of Technology (IIT), Bombay",
+      "url": "https://unstop.com/hackathons/perceptron-hackathon-2026-iit-bombay-1761822",
       "source": "unstop",
-      "location": "South Delhi",
+      "location": "Powai",
       "format": "online",
       "start_date": null,
       "end_date": "2026-10-10",
       "registration_deadline": "2026-10-10",
       "tags": [],
-      "uid": "hk:8d1bc6fd7cab346f"
+      "uid": "hk:1be2d509a441557c"
     },
     {
-      "name": "IPL (IIITD Programming League) 2026",
-      "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
-      "url": "https://unstop.com/hackathons/ipl-iiitd-programming-league-2026-esya26-indraprastha-institute-of-information-technology-iiit-delhi-1761263",
-      "source": "unstop",
-      "location": "South Delhi",
+      "name": "EvoHacks2026",
+      "organizer": "EvoHacks",
+      "url": "https://evohackathon2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
       "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-10",
-      "registration_deadline": "2026-10-10",
-      "tags": [],
-      "uid": "hk:26e71d948c989692"
-    },
-    {
-      "name": "GTA: Hack City",
-      "organizer": "Campus Konnect",
-      "url": "https://unstop.com/hackathons/gta-hack-city-campus-konnect-1762124",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
+      "start_date": "2026-10-10",
       "end_date": "2026-10-11",
       "registration_deadline": "2026-10-11",
-      "tags": [],
-      "uid": "hk:d35aa8b5e896fab2"
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:5163fc1d69f73cab"
     },
     {
       "name": "Banana Hacks",
@@ -571,19 +541,6 @@
         "Web"
       ],
       "uid": "hk:b062464845159a28"
-    },
-    {
-      "name": "CryptX",
-      "organizer": "Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad",
-      "url": "https://unstop.com/hackathons/cryptx-chaitanya-bharathi-institute-of-technology-cbit-hyderabad-1761452",
-      "source": "unstop",
-      "location": "Hyderabad",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-12",
-      "registration_deadline": "2026-10-12",
-      "tags": [],
-      "uid": "hk:552fd6f5c9ef4102"
     },
     {
       "name": "United Hackathons V1",
@@ -749,6 +706,19 @@
         "Social Good"
       ],
       "uid": "hk:f6642b9d10e5eef8"
+    },
+    {
+      "name": "Build 2026 x ByteAsk (YC F26): Open-Source Challenge",
+      "organizer": "Hackyard",
+      "url": "https://unstop.com/hackathons/build-2026-x-byteask-yc-f26-open-source-challenge-hackyard-1762455",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-23",
+      "registration_deadline": "2026-10-23",
+      "tags": [],
+      "uid": "hk:209745f1eda9bc59"
     },
     {
       "name": "Build, Ship, Shape: Amazon Developer Hackathon",
