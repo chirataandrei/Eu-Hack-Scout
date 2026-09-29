@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T11:31:49.720102+00:00",
+  "updated_at": "2026-09-29T11:11:42.670043+00:00",
   "hackathons": [
     {
       "name": "Graphiques Innovation Challenge",
@@ -9,31 +9,14 @@
       "location": "Online",
       "format": "online",
       "start_date": "2026-08-21",
-      "end_date": "2026-09-28",
-      "registration_deadline": "2026-09-28",
+      "end_date": "2026-09-29",
+      "registration_deadline": "2026-09-29",
       "tags": [
         "Enterprise",
         "Fintech",
         "Productivity"
       ],
       "uid": "hk:d0b57ad2c7fcbf89"
-    },
-    {
-      "name": "LUMA Hackathon (September 20th - 28th)",
-      "organizer": "LUMA",
-      "url": "https://luma-hackathon-fall.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-06-26",
-      "end_date": "2026-09-28",
-      "registration_deadline": "2026-09-28",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Open Ended"
-      ],
-      "uid": "hk:4846b198f5317fe3"
     },
     {
       "name": "Jāgriti Hacks",
@@ -51,19 +34,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:93671ffbc57d18b3"
-    },
-    {
-      "name": "Sangyan",
-      "organizer": "Indian Institute of Technology, Banaras Hindu University (IIT - BHU)",
-      "url": "https://unstop.com/hackathons/sangyan-iit-bhu-1761145",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-09-29",
-      "registration_deadline": "2026-09-29",
-      "tags": [],
-      "uid": "hk:7b4ed035cf809636"
     },
     {
       "name": "305 HackShells Edition September 2026",
@@ -385,19 +355,6 @@
       "uid": "hk:8ef8e5812661775f"
     },
     {
-      "name": "Kriyova - 24-Hours Hackathon 2026",
-      "organizer": "Potti Sriramulu Chalavadi Mallikarjuna Rao College Of Engineering And Technology (PSCMRCET), Vijayawada, Andhra Pradesh",
-      "url": "https://unstop.com/hackathons/kriyova-24-hours-hackathon-2026-potti-sriramulu-chalavadi-mallikarjuna-rao-college-of-engineering-and-technol-1759184",
-      "source": "unstop",
-      "location": "Vijayawada",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-05",
-      "registration_deadline": "2026-10-05",
-      "tags": [],
-      "uid": "hk:f15031ab88e93b9e"
-    },
-    {
       "name": "OneAquaHealth IEEE Global Hackathon",
       "organizer": "OneAquaHealth",
       "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
@@ -449,17 +406,17 @@
       "uid": "hk:514ed2fd054d5c62"
     },
     {
-      "name": "Hackathon - Flagship",
-      "organizer": "National Institute of Technology (NIT), Uttarakhand",
-      "url": "https://unstop.com/hackathons/hackathon-flagship-cliffesto26-national-institute-of-technology-nit-uttarakhand-1762162",
+      "name": "CHAOS [ 8-Hour Software Hackathon ]",
+      "organizer": "M S Ramaiah University of Applied Sciences",
+      "url": "https://unstop.com/hackathons/chaos-8-hour-software-hackathon-pravrutti-20-m-s-ramaiah-university-of-applied-sciences-1759007",
       "source": "unstop",
-      "location": "Srinagar",
+      "location": "Bangalore",
       "format": "online",
       "start_date": null,
       "end_date": "2026-10-08",
       "registration_deadline": "2026-10-08",
       "tags": [],
-      "uid": "hk:72f2d534864d5664"
+      "uid": "hk:6fcc38496611bebb"
     },
     {
       "name": "ImpactHack 2026",
@@ -494,19 +451,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:49cfcf26bfaa6f4f"
-    },
-    {
-      "name": "Perceptron Hackathon 2026",
-      "organizer": "Indian Institute of Technology (IIT), Bombay",
-      "url": "https://unstop.com/hackathons/perceptron-hackathon-2026-iit-bombay-1761822",
-      "source": "unstop",
-      "location": "Powai",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-10",
-      "registration_deadline": "2026-10-10",
-      "tags": [],
-      "uid": "hk:1be2d509a441557c"
     },
     {
       "name": "EvoHacks2026",
@@ -560,6 +504,19 @@
       "uid": "hk:ba251b6556de0dc1"
     },
     {
+      "name": "Zero to Chat: CometChat Hackathon",
+      "organizer": "CometChat",
+      "url": "https://unstop.com/hackathons/zero-to-chat-cometchat-hackathon-zero-to-chat-cometchat-hackathon-cometchat-1762674",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-12",
+      "registration_deadline": "2026-10-12",
+      "tags": [],
+      "uid": "hk:5c9d7b009db27e28"
+    },
+    {
       "name": "Multimodal AI Hackathon 2026",
       "organizer": "Kamand Prompt, IIT Mandi",
       "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
@@ -573,6 +530,23 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:7980d675224f38af"
+    },
+    {
+      "name": "WarriorHacks 2.0",
+      "organizer": "Westwood Computer Science Club",
+      "url": "https://warriorhacks-2-0.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-14",
+      "registration_deadline": "2026-10-14",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "uid": "hk:652cb4bde1658fd2"
     },
     {
       "name": "HACK47: OFFGRID",
@@ -642,6 +616,19 @@
       "uid": "hk:668e1c011abee4e8"
     },
     {
+      "name": "HackCosmic",
+      "organizer": "Vivekananda Institute of Professional Studies - Technical Campus",
+      "url": "https://unstop.com/hackathons/hackcosmic-vivekananda-institute-of-professional-studies-technical-campus-1763026",
+      "source": "unstop",
+      "location": "Pitampura",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-17",
+      "registration_deadline": "2026-10-17",
+      "tags": [],
+      "uid": "hk:6cab70609b01efa2"
+    },
+    {
       "name": "Neeley AI Forward: AI Innovation Competition",
       "organizer": "Texas Christian University",
       "url": "https://neeley-ai-forward.devpost.com/",
@@ -708,19 +695,6 @@
       "uid": "hk:f6642b9d10e5eef8"
     },
     {
-      "name": "Build 2026 x ByteAsk (YC F26): Open-Source Challenge",
-      "organizer": "Hackyard",
-      "url": "https://unstop.com/hackathons/build-2026-x-byteask-yc-f26-open-source-challenge-hackyard-1762455",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-23",
-      "registration_deadline": "2026-10-23",
-      "tags": [],
-      "uid": "hk:209745f1eda9bc59"
-    },
-    {
       "name": "Build, Ship, Shape: Amazon Developer Hackathon",
       "organizer": "Amazon",
       "url": "https://amazonappdev2026.devpost.com/",
@@ -784,6 +758,19 @@
         "Social Good"
       ],
       "uid": "hk:6b90618a61d26918"
+    },
+    {
+      "name": "Triwizathon 2026 : Where Code Meets Magic",
+      "organizer": "Sanjay Ghodawat University, Kolhapur, Maharashtra",
+      "url": "https://unstop.com/hackathons/triwizathon-2026-where-code-meets-magic-sanjay-ghodawat-university-kolhapur-maharashtra-1763070",
+      "source": "unstop",
+      "location": "Kolhapur",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-25",
+      "registration_deadline": "2026-10-25",
+      "tags": [],
+      "uid": "hk:25346a4ab736c63f"
     },
     {
       "name": "Build With AI: Basics",
@@ -905,23 +892,6 @@
       "uid": "hk:07065e31ae3ccd22"
     },
     {
-      "name": "Creator Colosseum: The Startup Showdown",
-      "organizer": "Creator Colosseum",
-      "url": "https://creatorcolosseumshowdown.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-20",
-      "end_date": "2026-11-01",
-      "registration_deadline": "2026-11-01",
-      "tags": [
-        "Beginner Friendly",
-        "Low/No Code",
-        "Social Good"
-      ],
-      "uid": "hk:06f9f851c776a5dd"
-    },
-    {
       "name": "YouCam API Skin AI & eCommerce VTO Hackathon",
       "organizer": "Perfect Corp",
       "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
@@ -939,6 +909,23 @@
       "uid": "hk:14417c87da978cef"
     },
     {
+      "name": "DSH Hacks V2 ($100k+ in prizes!)",
+      "organizer": "STEMise",
+      "url": "https://dsh-hacks-v2.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-06-24",
+      "end_date": "2026-11-08",
+      "registration_deadline": "2026-11-08",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Open Ended"
+      ],
+      "uid": "hk:32b7991081dd3f39"
+    },
+    {
       "name": "EthnoHACK",
       "organizer": "ETHCSTWIN",
       "url": "https://ethnohack2026.devpost.com/",
@@ -954,6 +941,19 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:9c91d2add0d852b9"
+    },
+    {
+      "name": "Agentic AI Hackathon",
+      "organizer": "Sahyadri College of Engineering & Management (SCEM), Mangaluru",
+      "url": "https://unstop.com/hackathons/agentic-ai-hackathon-aerophilia-sahyadri-college-of-engineering-management-scem-mangaluru-1746976",
+      "source": "unstop",
+      "location": "Mangaluru",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-11",
+      "registration_deadline": "2026-11-11",
+      "tags": [],
+      "uid": "hk:2f4da72b6e1375e3"
     },
     {
       "name": "Meta VR Start Developer Competition 2026",

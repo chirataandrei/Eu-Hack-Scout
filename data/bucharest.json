@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-28T11:31:49.720102+00:00",
+  "updated_at": "2026-09-29T11:11:42.670043+00:00",
   "hackathons": [
+    {
+      "name": "48 de ore pentru a transforma datele NASA în aplicații și jocuri: NASA Space Apps Challenge revine la București și Cluj",
+      "organizer": "start-up.ro",
+      "url": "https://start-up.ro/48-de-ore-pentru-a-transforma-datele-nasa-in-aplicatii-si-jocuri-nasa-space-apps-challenge-revine-la-bucuresti-si-cluj/",
+      "source": "startupro",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": "2026-09-29",
+      "tags": [],
+      "uid": "hk:274070203af766ec"
+    },
+    {
+      "name": "Provocările hackathonului NASA Space Apps Challenge 2026",
+      "organizer": "StartupCafe",
+      "url": "https://startupcafe.ro/provocari-hackathon-nasa-space-apps-challenge-2026-107562",
+      "source": "startupcafe",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": "2026-09-29",
+      "tags": [],
+      "uid": "hk:b2ef0e8fe9ed9b55"
+    },
     {
       "name": "VNU '26 - Connect The Dots",
       "organizer": "Hack Club",

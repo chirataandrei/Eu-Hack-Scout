@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-28T11:31:49.720102+00:00",
+  "updated_at": "2026-09-29T11:11:42.670043+00:00",
   "hackathons": [
+    {
+      "name": "Hack Night",
+      "organizer": "Luma",
+      "url": "https://lu.ma/z7l0pl55",
+      "source": "luma",
+      "location": "St. Gallen, St. Gallen, Switzerland, Switzerland",
+      "format": "in_person",
+      "start_date": "2026-09-29",
+      "end_date": "2026-09-29",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:c0f34c5cf660a3e8"
+    },
     {
       "name": "Physical AI Hackathon — DARE Campus Zurich",
       "organizer": "Luma",
@@ -13,6 +26,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:49bcd240e08e6506"
+    },
+    {
+      "name": "Cursor Hackathon Prague: Forge the Stack",
+      "organizer": "Luma",
+      "url": "https://lu.ma/cursor-mljb",
+      "source": "luma",
+      "location": "Hlavní město Praha, Hlavní město Praha, Czechia, Czechia",
+      "format": "in_person",
+      "start_date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:174e5a225baae398"
     },
     {
       "name": "Ecash Hackday 2K26",
@@ -39,6 +65,32 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:ec5c85437ee127f5"
+    },
+    {
+      "name": "Lightning Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/2zvd5zmc",
+      "source": "luma",
+      "location": "Oradea, Oradea, Romania, Romania",
+      "format": "in_person",
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:79af9fcc1f4ee267"
+    },
+    {
+      "name": "Hackathon - Build 4 CyberDeck",
+      "organizer": "Luma",
+      "url": "https://lu.ma/6ylas0ll",
+      "source": "luma",
+      "location": "Uppsala, Uppsala, Sweden, Sweden",
+      "format": "in_person",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:3b11134a58826dc1"
     },
     {
       "name": "Cambridge Univ. × Arcade AI Hackathon - Online / Onsite",
@@ -251,6 +303,19 @@
       "uid": "hk:aa1d088d0a085701"
     },
     {
+      "name": "B.A.L.L.S. hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/8vc4qm6x",
+      "source": "luma",
+      "location": "Lahti, Lahti, Finland, Finland",
+      "format": "in_person",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-15",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:287290ed8b92d521"
+    },
+    {
       "name": "IKU Womxn in STEM Hackathon",
       "organizer": "MLH",
       "url": "https://ikuwomxninstemhackathon.co.uk/",
@@ -262,6 +327,32 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:f1b1ce0c71458510"
+    },
+    {
+      "name": "Helsingborg Tech Week: Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/moo22oia",
+      "source": "luma",
+      "location": "Helsingborg, Helsingborg, Sweden, Sweden",
+      "format": "in_person",
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-20",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:0515616d2314fc2d"
+    },
+    {
+      "name": "Encode London Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/encode-london-2026",
+      "source": "luma",
+      "location": "London, London, England, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-25",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:976ba0a353b95aae"
     },
     {
       "name": "OxHack '26",
@@ -303,6 +394,19 @@
       "uid": "hk:a6a9435f158f8c59"
     },
     {
+      "name": "TUM Blockchain Conference 26 + Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/tbc26",
+      "source": "luma",
+      "location": "München, München, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-31",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:632dfbc14809b364"
+    },
+    {
       "name": "DurHack",
       "organizer": "MLH",
       "url": "https://durhack.com",
@@ -327,6 +431,22 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:0ae9b584aaa7281c"
+    },
+    {
+      "name": "Hack Western 13",
+      "organizer": "Hack Western",
+      "url": "https://hack-western-13.devpost.com/",
+      "source": "devpost",
+      "location": "London, Canada",
+      "format": "in_person",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-22",
+      "registration_deadline": "2026-11-22",
+      "tags": [
+        "Beginner Friendly",
+        "Open Ended"
+      ],
+      "uid": "hk:7e1ed56ceb660aec"
     },
     {
       "name": "12th CASSINI Hackathon - EU Space for Peace and Resilience",
