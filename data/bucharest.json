@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-09-29T11:11:42.670043+00:00",
+  "updated_at": "2026-09-30T11:00:12.955801+00:00",
   "hackathons": [
-    {
-      "name": "48 de ore pentru a transforma datele NASA în aplicații și jocuri: NASA Space Apps Challenge revine la București și Cluj",
-      "organizer": "start-up.ro",
-      "url": "https://start-up.ro/48-de-ore-pentru-a-transforma-datele-nasa-in-aplicatii-si-jocuri-nasa-space-apps-challenge-revine-la-bucuresti-si-cluj/",
-      "source": "startupro",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": "2026-09-29",
-      "tags": [],
-      "uid": "hk:274070203af766ec"
-    },
-    {
-      "name": "Provocările hackathonului NASA Space Apps Challenge 2026",
-      "organizer": "StartupCafe",
-      "url": "https://startupcafe.ro/provocari-hackathon-nasa-space-apps-challenge-2026-107562",
-      "source": "startupcafe",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": "2026-09-29",
-      "tags": [],
-      "uid": "hk:b2ef0e8fe9ed9b55"
-    },
     {
       "name": "VNU '26 - Connect The Dots",
       "organizer": "Hack Club",
@@ -116,17 +90,17 @@
       "uid": "hk:82645c810d464eb7"
     },
     {
-      "name": "European Defense Tech Hackathon - Bucharest",
-      "organizer": "Luma",
-      "url": "https://lu.ma/edth-bucharest-2026",
-      "source": "luma",
-      "location": "Bucharest, Bucharest, Romania, Romania",
+      "name": "AWS Community @ NEXXT AI Hackathon",
+      "organizer": "Bucharest AWS User Group",
+      "url": "https://www.meetup.com/bucharest-aws-user-group/events/316764351/",
+      "source": "meetup",
+      "location": "București, Face Convention Center, ro",
       "format": "in_person",
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-11",
+      "start_date": "2026-10-28",
+      "end_date": null,
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:269d3be65f03003e"
+      "uid": "hk:3c09b4fa34d59a7f"
     },
     {
       "name": "EELISA Student-Led Bootcamp 2026 – Hackathon for a ...",

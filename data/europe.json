@@ -1,57 +1,18 @@
 {
-  "updated_at": "2026-09-29T11:11:42.670043+00:00",
+  "updated_at": "2026-09-30T11:00:12.955801+00:00",
   "hackathons": [
     {
-      "name": "Hack Night",
-      "organizer": "Luma",
-      "url": "https://lu.ma/z7l0pl55",
-      "source": "luma",
-      "location": "St. Gallen, St. Gallen, Switzerland, Switzerland",
-      "format": "in_person",
-      "start_date": "2026-09-29",
-      "end_date": "2026-09-29",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:c0f34c5cf660a3e8"
-    },
-    {
-      "name": "Physical AI Hackathon — DARE Campus Zurich",
-      "organizer": "Luma",
-      "url": "https://lu.ma/builde-xkyq",
-      "source": "luma",
-      "location": "Schlieren, Schlieren, Switzerland, Switzerland",
-      "format": "in_person",
-      "start_date": "2026-09-29",
-      "end_date": "2026-09-29",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:49bcd240e08e6506"
-    },
-    {
-      "name": "Cursor Hackathon Prague: Forge the Stack",
-      "organizer": "Luma",
-      "url": "https://lu.ma/cursor-mljb",
-      "source": "luma",
-      "location": "Hlavní město Praha, Hlavní město Praha, Czechia, Czechia",
-      "format": "in_person",
-      "start_date": "2026-09-30",
-      "end_date": "2026-09-30",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:174e5a225baae398"
-    },
-    {
-      "name": "Ecash Hackday 2K26",
-      "organizer": "Bitcoin Lab Berlin",
-      "url": "https://www.meetup.com/bitcoin-lab-berlin/events/316733179/",
+      "name": "HackNight NeuroTechX Paris (hybride)",
+      "organizer": "CogLab, NeuroTechX Paris",
+      "url": "https://www.meetup.com/coglab/events/316763492/",
       "source": "meetup",
-      "location": "Berlin, w3.hub, de",
+      "location": "Paris, Makerlab Paris, fr",
       "format": "in_person",
       "start_date": "2026-09-30",
       "end_date": null,
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:fb146993dac7b886"
+      "uid": "hk:e9aba584e547b186"
     },
     {
       "name": "Dealroom API Hackathon",
@@ -80,6 +41,19 @@
       "uid": "hk:79af9fcc1f4ee267"
     },
     {
+      "name": "Bradford Agentic AI Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/d3jrbl89",
+      "source": "luma",
+      "location": "Bradford, Bradford, England, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:b5dcb12bd4764214"
+    },
+    {
       "name": "Hackathon - Build 4 CyberDeck",
       "organizer": "Luma",
       "url": "https://lu.ma/6ylas0ll",
@@ -91,19 +65,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:3b11134a58826dc1"
-    },
-    {
-      "name": "Cambridge Univ. × Arcade AI Hackathon - Online / Onsite",
-      "organizer": "Luma",
-      "url": "https://lu.ma/2wuf8ns8",
-      "source": "luma",
-      "location": "Cambridge, Cambridge, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:e3a07bfce7be0bc9"
     },
     {
       "name": "Dresden Hub - 7th Hack-Nation Global AI Hackathon",
@@ -210,6 +171,19 @@
       "uid": "hk:7987a5a271d8caa8"
     },
     {
+      "name": "women get IT done: Te Toca x WINZ Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/xywkd7eo",
+      "source": "luma",
+      "location": "Zürich, Zürich, Switzerland, Switzerland",
+      "format": "in_person",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-08",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:ccf344d1a09619e8"
+    },
+    {
       "name": "HackUCD x Stripe",
       "organizer": "HackUCD",
       "url": "https://hackucd.devpost.com/",
@@ -288,19 +262,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:d8064e9c961e39b3"
-    },
-    {
-      "name": "Light x Lovable x Grant Thornton Finance Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/Angelfinhack",
-      "source": "luma",
-      "location": "Stockholm, Stockholm, Sweden, Sweden",
-      "format": "in_person",
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-13",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:aa1d088d0a085701"
     },
     {
       "name": "B.A.L.L.S. hackathon",
@@ -394,7 +355,7 @@
       "uid": "hk:a6a9435f158f8c59"
     },
     {
-      "name": "TUM Blockchain Conference 26 + Hackathon",
+      "name": "TUM Blockchain Conference 26 / Digital Assets Day + Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/tbc26",
       "source": "luma",
@@ -404,7 +365,20 @@
       "end_date": "2026-10-31",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:632dfbc14809b364"
+      "uid": "hk:d09f9d7837377ebf"
+    },
+    {
+      "name": "House London #3 | Data Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/m3pbljlh",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:efb5fcbe5b9703e9"
     },
     {
       "name": "DurHack",
