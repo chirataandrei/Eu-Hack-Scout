@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-10-02T10:56:31.151138+00:00",
+  "updated_at": "2026-10-03T10:16:12.031750+00:00",
   "hackathons": [
-    {
-      "name": "Beginner's Paradise - FirstCommit",
-      "organizer": "FirstCommit",
-      "url": "https://firstcommit.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-21",
-      "end_date": "2026-10-02",
-      "registration_deadline": "2026-10-02",
-      "tags": [
-        "Beginner Friendly",
-        "Mobile",
-        "Web"
-      ],
-      "uid": "hk:ec35393ce94fe6ae"
-    },
-    {
-      "name": "Global Innovation Build Challenge V2",
-      "organizer": "Kang Chiao International School Student ",
-      "url": "https://gibc-v2.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-07-11",
-      "end_date": "2026-10-02",
-      "registration_deadline": "2026-10-02",
-      "tags": [
-        "Machine Learning/AI",
-        "Social Good",
-        "Beginner Friendly"
-      ],
-      "uid": "hk:f82ea86dc9d4ca50"
-    },
     {
       "name": "Graphiques Innovation Challenge",
       "organizer": "Hack Club",
@@ -202,19 +168,6 @@
       "uid": "hk:a6dac7a0a26d944a"
     },
     {
-      "name": "CodeStorm 2026 – Building the Future of Mobility Hackathon",
-      "organizer": "Vellore Institute of Technology (VIT-AP), Andhra Pradesh",
-      "url": "https://unstop.com/hackathons/codestorm-2026-building-the-future-of-mobility-hackathon-vellore-institute-of-technology-vit-ap-andhra-prades-1764677",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-07",
-      "registration_deadline": "2026-10-07",
-      "tags": [],
-      "uid": "hk:9d406a2e558d5ca4"
-    },
-    {
       "name": "ImpactHack 2026",
       "organizer": "GIS Engineering Club",
       "url": "https://impacthack26.devpost.com/",
@@ -230,6 +183,19 @@
         "Social Good"
       ],
       "uid": "hk:456d51f6228e315f"
+    },
+    {
+      "name": "CodeHive: 1v1 Real-Time DSA Duel Championship",
+      "organizer": "Code Hive",
+      "url": "https://unstop.com/hackathons/codehive-1v1-real-time-dsa-duel-championship-code-hive-1765154",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-10",
+      "registration_deadline": "2026-10-10",
+      "tags": [],
+      "uid": "hk:3680c588b7a3930e"
     },
     {
       "name": "ForgeHacks Online 2026",
@@ -399,6 +365,19 @@
       "uid": "hk:d81453901ff0c6b0"
     },
     {
+      "name": "Devlympics",
+      "organizer": "Netaji Subhas University of Technology (NSUT), Delhi",
+      "url": "https://unstop.com/hackathons/devlympics-shunya-2026-netaji-subhas-university-of-technology-nsut-delhi-1764596",
+      "source": "unstop",
+      "location": "West Delhi",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-15",
+      "registration_deadline": "2026-10-15",
+      "tags": [],
+      "uid": "hk:407e724a96591fff"
+    },
+    {
       "name": "HACK47: OFFGRID",
       "organizer": "Hack47",
       "url": "https://hack47-offgrid.devpost.com/",
@@ -450,6 +429,32 @@
       "uid": "hk:82d824416b81689f"
     },
     {
+      "name": "AutoPilot",
+      "organizer": "Netaji Subhas University of Technology (NSUT), Delhi",
+      "url": "https://unstop.com/hackathons/autopilot-shunya-2026-netaji-subhas-university-of-technology-nsut-delhi-1764668",
+      "source": "unstop",
+      "location": "West Delhi",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-16",
+      "registration_deadline": "2026-10-16",
+      "tags": [],
+      "uid": "hk:bcb6d7ef31a5d698"
+    },
+    {
+      "name": "HackShift - Cmd, Shift, Create",
+      "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
+      "url": "https://unstop.com/hackathons/hackshift-cmd-shift-create-indraprastha-institute-of-information-technology-iiit-delhi-1765142",
+      "source": "unstop",
+      "location": "Delhi",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-16",
+      "registration_deadline": "2026-10-16",
+      "tags": [],
+      "uid": "hk:99c43d0c7a87759c"
+    },
+    {
       "name": "MLAI Hackathon 2026",
       "organizer": "Mạng Lưới AI",
       "url": "https://mlai-hackathon.devpost.com/",
@@ -464,6 +469,19 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:668e1c011abee4e8"
+    },
+    {
+      "name": "Zero Day Apocalypse",
+      "organizer": "Netaji Subhas University of Technology (NSUT), Delhi",
+      "url": "https://unstop.com/hackathons/zero-day-apocalypse-shunya-2026-netaji-subhas-university-of-technology-nsut-delhi-1764669",
+      "source": "unstop",
+      "location": "West Delhi",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-16",
+      "registration_deadline": "2026-10-16",
+      "tags": [],
+      "uid": "hk:e174997d0a9362d3"
     },
     {
       "name": "Neeley AI Forward: AI Innovation Competition",
@@ -496,6 +514,23 @@
         "Beginner Friendly"
       ],
       "uid": "hk:729f3cd1714b3101"
+    },
+    {
+      "name": "HEALTHHACK 48",
+      "organizer": "HealthHack",
+      "url": "https://healthhack-48.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-19",
+      "registration_deadline": "2026-10-19",
+      "tags": [
+        "Beginner Friendly",
+        "Health",
+        "Productivity"
+      ],
+      "uid": "hk:ac9e424914885ba0"
     },
     {
       "name": "Hyperbloom October- UI/UX and Web Design",
@@ -532,19 +567,6 @@
       "uid": "hk:f6642b9d10e5eef8"
     },
     {
-      "name": "Azinhack 2026",
-      "organizer": "University School of Automation & Robotics (USAR) ,Guru Gobind Singh Indraprastha University (GGSIPU), Delhi",
-      "url": "https://unstop.com/hackathons/azinhack-2026-university-school-of-automation-robotics-usar-guru-gobind-singh-indraprastha-university-ggsipu--1763832",
-      "source": "unstop",
-      "location": "East Delhi",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-22",
-      "registration_deadline": "2026-10-22",
-      "tags": [],
-      "uid": "hk:4631fa618f1164c4"
-    },
-    {
       "name": "Build, Ship, Shape: Amazon Developer Hackathon",
       "organizer": "Amazon",
       "url": "https://amazonappdev2026.devpost.com/",
@@ -560,19 +582,6 @@
         "Productivity"
       ],
       "uid": "hk:2994e33d91ff7c75"
-    },
-    {
-      "name": "Malanhack",
-      "organizer": "Malan Softech private limited",
-      "url": "https://unstop.com/hackathons/malanhack-malan-softech-private-limited-1764607",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-24",
-      "registration_deadline": "2026-10-24",
-      "tags": [],
-      "uid": "hk:51d863b868430e9a"
     },
     {
       "name": "Neighborhood Hacks",
@@ -706,6 +715,19 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:f6ad0187c55d683c"
+    },
+    {
+      "name": "Sustainable Finance Live Hackathon",
+      "organizer": "Data Science London",
+      "url": "https://www.meetup.com/data-science-london/events/316512063/",
+      "source": "meetup",
+      "location": "",
+      "format": "online",
+      "start_date": "2026-10-28",
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:d7f0a68c5a2a8a0e"
     },
     {
       "name": "2026 International CodeTheCure Hackathon",
@@ -857,19 +879,6 @@
         "Web"
       ],
       "uid": "hk:8ccb7f30bee1e7c4"
-    },
-    {
-      "name": "Robo Race | TECHKRITI | IIT KANPUR",
-      "organizer": "Techkriti",
-      "url": "https://unstop.com/hackathons/robo-race-techkriti27-techkriti-1764445",
-      "source": "unstop",
-      "location": "Kalyanpur",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-14",
-      "registration_deadline": "2026-11-14",
-      "tags": [],
-      "uid": "hk:8ecdd695bcd26c88"
     },
     {
       "name": "DSH Hacks V2 ($100k+ in prizes!)",
