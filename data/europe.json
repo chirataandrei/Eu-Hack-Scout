@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-10-03T10:16:12.031750+00:00",
+  "updated_at": "2026-10-04T11:00:23.930426+00:00",
   "hackathons": [
-    {
-      "name": "Bradford Agentic AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/d3jrbl89",
-      "source": "luma",
-      "location": "Bradford, Bradford, England, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:b5dcb12bd4764214"
-    },
-    {
-      "name": "Hackathon - Build 4 CyberDeck",
-      "organizer": "Luma",
-      "url": "https://lu.ma/6ylas0ll",
-      "source": "luma",
-      "location": "Uppsala, Uppsala, Sweden, Sweden",
-      "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:3b11134a58826dc1"
-    },
     {
       "name": "Dresden Hub - 7th Hack-Nation Global AI Hackathon",
       "organizer": "Luma",
@@ -225,19 +199,6 @@
       "uid": "hk:d8064e9c961e39b3"
     },
     {
-      "name": "B.A.L.L.S. hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/8vc4qm6x",
-      "source": "luma",
-      "location": "Lahti, Lahti, Finland, Finland",
-      "format": "in_person",
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-15",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:287290ed8b92d521"
-    },
-    {
       "name": "Build Agents That Remember Hackathon @42Paris",
       "organizer": "Luma",
       "url": "https://lu.ma/bnre6nou",
@@ -277,19 +238,6 @@
       "uid": "hk:f1b1ce0c71458510"
     },
     {
-      "name": "Helsingborg Tech Week: Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/moo22oia",
-      "source": "luma",
-      "location": "Helsingborg, Helsingborg, Sweden, Sweden",
-      "format": "in_person",
-      "start_date": "2026-10-20",
-      "end_date": "2026-10-20",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:0515616d2314fc2d"
-    },
-    {
       "name": "Encode London Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/encode-london-2026",
@@ -314,19 +262,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:a084c83e71c2d72b"
-    },
-    {
-      "name": "Prompt Operations Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/aaltoes-gapx",
-      "source": "luma",
-      "location": "Espoo, Espoo, Finland, Finland",
-      "format": "in_person",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-25",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:a31aaf9647a26363"
     },
     {
       "name": "VIBENIGHT #2 : Hackathon AI Safety",
