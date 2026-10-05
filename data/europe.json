@@ -1,96 +1,18 @@
 {
-  "updated_at": "2026-10-04T11:00:23.930426+00:00",
+  "updated_at": "2026-10-05T12:06:57.888936+00:00",
   "hackathons": [
     {
-      "name": "Dresden Hub - 7th Hack-Nation Global AI Hackathon",
+      "name": "Campaign Lab Autumn Hack Night!",
       "organizer": "Luma",
-      "url": "https://lu.ma/zmvuwstm",
+      "url": "https://lu.ma/h42dgcv7",
       "source": "luma",
-      "location": "Dresden, Dresden, Germany, Germany",
+      "location": "London, London, England, United Kingdom",
       "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-05",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:f2073b65d6bf69f6"
-    },
-    {
-      "name": "LLM x Law Hackathon in Paris #2",
-      "organizer": "Luma",
-      "url": "https://lu.ma/zwtvzkvp",
-      "source": "luma",
-      "location": "Paris, Paris, France, France",
-      "format": "in_person",
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-04",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:6fedca4419279e8c"
-    },
-    {
-      "name": "London Hub - 7th Hack-Nation Global AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/nln5g3e0",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:bd3335fc2bf51b60"
-    },
-    {
-      "name": "Munich Hub - 7th Hack-Nation Global AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/emilftsx",
-      "source": "luma",
-      "location": "München, München, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:fe069e39dee70ffa"
-    },
-    {
-      "name": "Stockholm Hub - 7th Hack-Nation Global AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/305qlysu",
-      "source": "luma",
-      "location": "Huddinge, Huddinge, Sweden, Sweden",
-      "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:725e26feb8f6af64"
-    },
-    {
-      "name": "Vienna Hub - 7th Hack-Nation Global AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/37954ppi",
-      "source": "luma",
-      "location": "Wien, Wien, Austria, Austria",
-      "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:9fbf7b4d7c3fd9ec"
-    },
-    {
-      "name": "Zurich Hub - 7th Hack-Nation Global AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/xi9z9ikg",
-      "source": "luma",
-      "location": "Zürich, Zürich, Switzerland, Switzerland",
-      "format": "in_person",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:f5bfb02b1824225d"
+      "uid": "hk:b99f84a1c540b67b"
     },
     {
       "name": "Future States: Hackathon at No 10",
@@ -106,19 +28,30 @@
       "uid": "hk:7987a5a271d8caa8"
     },
     {
-      "name": "HackUCD x Stripe",
-      "organizer": "HackUCD",
-      "url": "https://hackucd.devpost.com/",
-      "source": "devpost",
-      "location": "Ireland",
+      "name": "Hack Night: The Loft 2.0",
+      "organizer": "Luma",
+      "url": "https://lu.ma/f13v9wi1",
+      "source": "luma",
+      "location": "St. Gallen, St. Gallen, Switzerland, Switzerland",
       "format": "in_person",
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-09",
-      "registration_deadline": "2026-10-09",
-      "tags": [
-        "Machine Learning/AI"
-      ],
-      "uid": "hk:7c4d571b88e83f52"
+      "start_date": "2026-10-06",
+      "end_date": "2026-10-06",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:156eac40c0b72c92"
+    },
+    {
+      "name": "Light x Lovable x Everphone Finance Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/uj396whd",
+      "source": "luma",
+      "location": "Berlin, Berlin, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-10-07",
+      "end_date": "2026-10-07",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:00cac41f000ff619"
     },
     {
       "name": "Notion 🖤’s Dublin × Dublin AI Week: Student Hackathon",
@@ -199,6 +132,32 @@
       "uid": "hk:d8064e9c961e39b3"
     },
     {
+      "name": "B.A.L.L.S. hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/8vc4qm6x",
+      "source": "luma",
+      "location": "Lahti, Lahti, Finland, Finland",
+      "format": "in_person",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-15",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:287290ed8b92d521"
+    },
+    {
+      "name": "Bazel Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/9dm41b1h",
+      "source": "luma",
+      "location": "Amsterdam, Amsterdam, Netherlands, Netherlands",
+      "format": "in_person",
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:7a4e2d7cc25bddf1"
+    },
+    {
       "name": "Build Agents That Remember Hackathon @42Paris",
       "organizer": "Luma",
       "url": "https://lu.ma/bnre6nou",
@@ -238,6 +197,45 @@
       "uid": "hk:f1b1ce0c71458510"
     },
     {
+      "name": "Nebius Build Week Hackathon in partnership with NVIDIA",
+      "organizer": "Luma",
+      "url": "https://lu.ma/big-gtc-hack",
+      "source": "luma",
+      "location": "Berlin, Berlin, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:f8bd91368ebcec76"
+    },
+    {
+      "name": "Helsingborg Tech Week: Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/moo22oia",
+      "source": "luma",
+      "location": "Helsingborg, Helsingborg, Sweden, Sweden",
+      "format": "in_person",
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-20",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:0515616d2314fc2d"
+    },
+    {
+      "name": "Business Buildathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/2almzv5x",
+      "source": "luma",
+      "location": "Helsinki, Helsinki, Finland, Finland",
+      "format": "in_person",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:d66ea236c4a32299"
+    },
+    {
       "name": "Encode London Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/encode-london-2026",
@@ -262,6 +260,32 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:a084c83e71c2d72b"
+    },
+    {
+      "name": "Prompt Operations Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/aaltoes-gapx",
+      "source": "luma",
+      "location": "Espoo, Espoo, Finland, Finland",
+      "format": "in_person",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:a31aaf9647a26363"
+    },
+    {
+      "name": "Clinical AI Hackathon Vienna 2026 — Official Partner Event of the European AI Innovation Month",
+      "organizer": "Luma",
+      "url": "https://lu.ma/aim-hackathon",
+      "source": "luma",
+      "location": "Wien, Wien, Austria, Austria",
+      "format": "in_person",
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-30",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:01a73e08935707e9"
     },
     {
       "name": "VIBENIGHT #2 : Hackathon AI Safety",

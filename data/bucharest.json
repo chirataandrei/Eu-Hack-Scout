@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T11:00:23.930426+00:00",
+  "updated_at": "2026-10-05T12:06:57.888936+00:00",
   "hackathons": [
     {
       "name": "NASA Space Apps Challenge România | 200 de ...",
@@ -17,17 +17,19 @@
       "uid": "hk:ac95990d96fa0344"
     },
     {
-      "name": "VNU '26 - Connect The Dots",
-      "organizer": "Hack Club",
-      "url": "https://vnuhack.com/",
-      "source": "hackclub",
-      "location": "București, Romania",
+      "name": "NASA Space Apps Challenge this weekend",
+      "organizer": "romaniajournal.ro",
+      "url": "https://www.romaniajournal.ro/business/impact-creativity-and-technical-feasibility-among-the-criteria-used-to-judge-projects-at-the-nasa-space-apps-challenge/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
       "format": "in_person",
       "start_date": "2026-10-04",
       "end_date": "2026-10-05",
       "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:e55411d5921aba24"
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:47d7173cf01db8be"
     },
     {
       "name": "NASA Space Apps Challenge - ETTI",
@@ -403,6 +405,21 @@
       "uid": "hk:7a8d9c154542b603"
     },
     {
+      "name": "1 Cut challenge Red & White boxs . . . . #smarthack # ...",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/reel/DdIcuQdB8t6/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:fa3c4233a04cbe4c"
+    },
+    {
       "name": "12th CASSINI Hackathon | Romania | EU Space for Peace ...",
       "organizer": "cassini.eu",
       "url": "https://www.cassini.eu/hackathons/romania",
@@ -536,6 +553,21 @@
         "apify"
       ],
       "uid": "hk:5bb7a507be60fd82"
+    },
+    {
+      "name": "403 ingenieros. 4 ciudades. 3 días. Así fue el AI Hackathon ...",
+      "organizer": "es.linkedin.com",
+      "url": "https://es.linkedin.com/posts/verifone_403-ingenieros-4-ciudades-3-d%C3%ADas-as%C3%AD-fue-activity-7473804745623769088-JA3w",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:2526c5d4c6df7113"
     },
     {
       "name": "48 Avira HackITAll hackathon ideas",
@@ -686,6 +718,21 @@
         "apify"
       ],
       "uid": "hk:782b3ebc2959b7ce"
+    },
+    {
+      "name": "Cad&Craft: 24 de ore de nebunie 3D! Încarcă-ți bateriile ...",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/p/DFfhrRWI0P6/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:716e601a1037311e"
     },
     {
       "name": "Chemical Ecology Hackathon 2026 in Athens, Greece",
@@ -911,6 +958,21 @@
       "uid": "hk:ed1782decc753b6b"
     },
     {
+      "name": "Entrepreneurship Is Not A Solo Sprint",
+      "organizer": "hackathon.com",
+      "url": "https://www.hackathon.com/event/entrepreneurship-is-not-a-solo-sprint---aleksandar-shopski-bg-79159505211",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:1994f67b9a890525"
+    },
+    {
       "name": "EUDIS Defence Hackathon 2026 Kicks Off with 110 Participants",
       "organizer": "linkedin.com",
       "url": "https://www.linkedin.com/posts/fort-krakow_eudis-defencehackathon-innovation-activity-7442977058139459584-nPvK",
@@ -1059,6 +1121,21 @@
         "apify"
       ],
       "uid": "hk:7e96047aea92574a"
+    },
+    {
+      "name": "Five teams represent Romania at NASA Space Apps ...",
+      "organizer": "romania-insider.com",
+      "url": "https://www.romania-insider.com/business/five-teams-romania-nasa-space-apps-challenge-2023",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:cfb4f17b3707d407"
     },
     {
       "name": "Genius hands-free umbrella hack! ☂️🤯 #smarthack #diyhack",
@@ -1479,6 +1556,36 @@
       "uid": "hk:fef612b29c4711ad"
     },
     {
+      "name": "How to measure Wood Angle...#smarthack #woodcutting ...",
+      "organizer": "tiktok.com",
+      "url": "https://www.tiktok.com/@daily_life_tricks/video/7690273061077093662",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:59c3deacc16ab4b9"
+    },
+    {
+      "name": "How To Measure Wood Angle....#smarthack #woodjoint ...",
+      "organizer": "tiktok.com",
+      "url": "https://www.tiktok.com/@daily_life_tricks/video/7692502635382869278",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:78d57d61adce2fc4"
+    },
+    {
       "name": "I can't add my domain here \" smarthack.xyz - Getting Started",
       "organizer": "community.cloudflare.com",
       "url": "https://community.cloudflare.com/t/i-cant-add-my-domain-here-smarthack-xyz/592802",
@@ -1595,6 +1702,21 @@
         "apify"
       ],
       "uid": "hk:10615cf82196504b"
+    },
+    {
+      "name": "Join 24 Hours of Google Cloud Talks by DevRel",
+      "organizer": "developers.googleblog.com",
+      "url": "https://developers.googleblog.com/join-24-hours-of-google-cloud-talks-by-devrel/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:d8e0282fa07e4b77"
     },
     {
       "name": "Kickstarting the 13th edition of Innovation Labs with ...",
@@ -1822,6 +1944,21 @@
       "uid": "hk:ff86f83f210bb516"
     },
     {
+      "name": "NASA Space Apps Challenge 2026 Launches 14 Global ...",
+      "organizer": "romaniajournal.ro",
+      "url": "https://www.romaniajournal.ro/society-people/science/nasa-space-apps-challenge-2026-launches-14-global-challenges/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:d00ffdb280e9b062"
+    },
+    {
       "name": "NASA Space Apps Challenge 2026 | Free Global Hackathon",
       "organizer": "opportunitiescorners.com",
       "url": "https://opportunitiescorners.com/nasa-space-apps-challenge-2026/",
@@ -1882,6 +2019,21 @@
       "uid": "hk:83a1f8e6c8617610"
     },
     {
+      "name": "NASA Space Apps Challenge Bistrița | Bistrita",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/NASASpaceAppsChallengeBistrita/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:7c23e99c2f266b19"
+    },
+    {
       "name": "NASA Space Apps Challenge India",
       "organizer": "nasaspaceappsindia.com",
       "url": "https://www.nasaspaceappsindia.com/",
@@ -1925,6 +2077,21 @@
         "apify"
       ],
       "uid": "hk:efe93c04d7c7ef61"
+    },
+    {
+      "name": "Nasa Space Apps Challenge Romania (@nasa_sac_ro)",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/nasa_sac_ro/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:af819e8cf6ec2106"
     },
     {
       "name": "NASA Space Apps Challenge, around the corner",
@@ -2390,6 +2557,21 @@
         "apify"
       ],
       "uid": "hk:0ef6239e361b9a34"
+    },
+    {
+      "name": "Smarthack loading...",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/reel/DdV_asNqxDP/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:879294d0a7e581f0"
     },
     {
       "name": "SmartHack: Create apps or designs to solve a problem ...",
