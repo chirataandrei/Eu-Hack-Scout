@@ -1,22 +1,20 @@
 {
-  "updated_at": "2026-10-05T12:06:57.888936+00:00",
+  "updated_at": "2026-10-06T11:51:32.853125+00:00",
   "hackathons": [
     {
-      "name": "Graphiques Innovation Challenge",
-      "organizer": "Hack Club",
-      "url": "https://graphiques-challenge.devpost.com/",
+      "name": "Affinda AI Innovation Challenge",
+      "organizer": "Enactus Melbourne",
+      "url": "https://affinda-challenge.devpost.com/",
       "source": "devpost",
       "location": "Online",
       "format": "online",
-      "start_date": "2026-08-21",
-      "end_date": "2026-10-05",
-      "registration_deadline": "2026-10-05",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-08",
+      "registration_deadline": "2026-10-08",
       "tags": [
-        "Enterprise",
-        "Fintech",
-        "Productivity"
+        "Beginner Friendly"
       ],
-      "uid": "hk:d0b57ad2c7fcbf89"
+      "uid": "hk:b06c0d70203e685c"
     },
     {
       "name": "HackCellence: The Embark Edition",
@@ -49,6 +47,19 @@
       "uid": "hk:456d51f6228e315f"
     },
     {
+      "name": "Code War 8.0",
+      "organizer": "Assam Engineering College (AEC), Assam",
+      "url": "https://unstop.com/hackathons/code-war-80-assam-engineering-college-aec-assam-1766285",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-10",
+      "registration_deadline": "2026-10-10",
+      "tags": [],
+      "uid": "hk:20ecb044a91bb0ad"
+    },
+    {
       "name": "ForgeHacks Online 2026",
       "organizer": "ForgeHacks",
       "url": "https://forgehacks-2026.devpost.com/",
@@ -64,6 +75,23 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:49cfcf26bfaa6f4f"
+    },
+    {
+      "name": "Graphiques Innovation Challenge",
+      "organizer": "Hack Club",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-21",
+      "end_date": "2026-10-10",
+      "registration_deadline": "2026-10-10",
+      "tags": [
+        "Enterprise",
+        "Fintech",
+        "Productivity"
+      ],
+      "uid": "hk:d0b57ad2c7fcbf89"
     },
     {
       "name": "ML Empowerment Build Challenge 3.0 - ($400,000 in prizes!)",
@@ -184,19 +212,6 @@
       "uid": "hk:514ed2fd054d5c62"
     },
     {
-      "name": "Commit to Change: Hackathon",
-      "organizer": "Maharaja Agrasen Institute of Technology (MAIT), New Delhi",
-      "url": "https://unstop.com/hackathons/commit-to-change-hackathon-ieee-day26-ieee-mait-maharaja-agrasen-institute-of-technology-mait-new-delhi-1765661",
-      "source": "unstop",
-      "location": "Rohini",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-14",
-      "registration_deadline": "2026-10-14",
-      "tags": [],
-      "uid": "hk:95126cc8c0a29b7c"
-    },
-    {
       "name": "Multimodal AI Hackathon 2026",
       "organizer": "Kamand Prompt, IIT Mandi",
       "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
@@ -313,6 +328,36 @@
       "uid": "hk:668e1c011abee4e8"
     },
     {
+      "name": "Hacktoberfest × BFIT 2026",
+      "organizer": "BFIT Group of Institutions",
+      "url": "https://unstop.com/hackathons/hacktoberfest-bfit-2026-bfit-group-of-institutions-1766440",
+      "source": "unstop",
+      "location": "Dehradun",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-17",
+      "registration_deadline": "2026-10-17",
+      "tags": [],
+      "uid": "hk:b2827eac74a5fc30"
+    },
+    {
+      "name": "Lehigh Fall 2026 Collegiate Hackathon",
+      "organizer": "CSBA",
+      "url": "https://lehigh-hacks.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "registration_deadline": "2026-10-18",
+      "tags": [
+        "Beginner Friendly",
+        "Productivity",
+        "Social Good"
+      ],
+      "uid": "hk:ade22b0d66d11f7a"
+    },
+    {
       "name": "Neeley AI Forward: AI Innovation Competition",
       "organizer": "Texas Christian University",
       "url": "https://neeley-ai-forward.devpost.com/",
@@ -356,19 +401,6 @@
         "Beginner Friendly"
       ],
       "uid": "hk:729f3cd1714b3101"
-    },
-    {
-      "name": "HackerWrath 3.0",
-      "organizer": "Guru Nanak Dev University (GNDU), Amritsar",
-      "url": "https://unstop.com/hackathons/hackerwrath-30-guru-nanak-dev-university-gndu-amritsar-1764531",
-      "source": "unstop",
-      "location": "Amritsar",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-19",
-      "registration_deadline": "2026-10-19",
-      "tags": [],
-      "uid": "hk:b7d7609fa880c0b5"
     },
     {
       "name": "HEALTHHACK 48",
@@ -422,17 +454,17 @@
       "uid": "hk:f6642b9d10e5eef8"
     },
     {
-      "name": "Malla Reddy Talentio Online Coding Challenge 2026",
-      "organizer": "Malla Reddy Engineering College",
-      "url": "https://unstop.com/hackathons/malla-reddy-talentio-online-coding-challenge-2026-malla-reddy-engineering-college-1765870",
+      "name": "Jammu Smart City Hackathon",
+      "organizer": "LEAD",
+      "url": "https://unstop.com/hackathons/jammu-smart-city-hackathon-jammu-smart-city-hackathon-lead-1766040",
       "source": "unstop",
-      "location": "online",
+      "location": "Jammu",
       "format": "online",
       "start_date": null,
       "end_date": "2026-10-20",
       "registration_deadline": "2026-10-20",
       "tags": [],
-      "uid": "hk:5824fadd721651eb"
+      "uid": "hk:c5a81d93a12a8ad4"
     },
     {
       "name": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -500,6 +532,23 @@
       "uid": "hk:6b90618a61d26918"
     },
     {
+      "name": "The Top 500 (UH v2)",
+      "organizer": "noclue",
+      "url": "https://the-top-500-uh-v2.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-25",
+      "registration_deadline": "2026-10-25",
+      "tags": [
+        "Low/No Code",
+        "Open Ended",
+        "Social Good"
+      ],
+      "uid": "hk:12d6add3f285a7d3"
+    },
+    {
       "name": "Build With AI: Basics",
       "organizer": "Devpost",
       "url": "https://learn-ai-basics.devpost.com/",
@@ -515,6 +564,19 @@
         "Education"
       ],
       "uid": "hk:8a1ab47839d787da"
+    },
+    {
+      "name": "Hackosquad CTF 2026",
+      "organizer": "Hackosquad",
+      "url": "https://unstop.com/hackathons/hackosquad-ctf-2026-hackosquad-1766739",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-26",
+      "registration_deadline": "2026-10-26",
+      "tags": [],
+      "uid": "hk:74ff3cfbe1b951c0"
     },
     {
       "name": "Code For DFW",
@@ -681,7 +743,7 @@
       "uid": "hk:92354790b10b1158"
     },
     {
-      "name": "InterWell Hack2.0",
+      "name": "InternWell Hack2.0",
       "organizer": "InternWell-SLIET",
       "url": "https://interwell-hack2-0.devpost.com/",
       "source": "devpost",
@@ -695,7 +757,37 @@
         "Machine Learning/AI",
         "Web"
       ],
-      "uid": "hk:0707e448be2e1e0d"
+      "uid": "hk:84aa16ef19b54a9c"
+    },
+    {
+      "name": "Next Byte Hacks V5",
+      "organizer": "Next Byte Hacks",
+      "url": "https://next-byte-hacks-v5.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-06",
+      "end_date": "2026-10-31",
+      "registration_deadline": "2026-10-31",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Open Ended"
+      ],
+      "uid": "hk:8317cfb9e02b24fc"
+    },
+    {
+      "name": "GoDaddy Inclusive Innovation Hackathon 2026",
+      "organizer": "HackerEarth",
+      "url": "https://www.hackerearth.com/challenges/competitive/godaddy-inclusive-innovation-challenge-2026/",
+      "source": "hackerearth",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-01",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:47e424611b2b421d"
     },
     {
       "name": "YouCam API Skin AI & eCommerce VTO Hackathon",
@@ -713,6 +805,36 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:14417c87da978cef"
+    },
+    {
+      "name": "From Prompt to Performance",
+      "organizer": "Mozark",
+      "url": "https://unstop.com/hackathons/from-prompt-to-performance-mozark-1762305",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-05",
+      "registration_deadline": "2026-11-05",
+      "tags": [],
+      "uid": "hk:9bbc34e3449fa52b"
+    },
+    {
+      "name": "YUNet AIgnite 2026",
+      "organizer": "Youth Upskill Network - YUNet",
+      "url": "https://yunet-aignite26.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-05",
+      "registration_deadline": "2026-11-05",
+      "tags": [
+        "Education",
+        "Low/No Code",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:644eb3ebf75e9f39"
     },
     {
       "name": "EthnoHack",
@@ -749,6 +871,19 @@
       "uid": "hk:8ccb7f30bee1e7c4"
     },
     {
+      "name": "Agentic Banking Hackathon",
+      "organizer": "HackerEarth",
+      "url": "https://www.hackerearth.com/challenges/hackathon/agentic-banking-hackathon-2/",
+      "source": "hackerearth",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-05",
+      "end_date": "2026-11-13",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:f2a5b99a0b980174"
+    },
+    {
       "name": "DSH Hacks V2 ($100k+ in prizes!)",
       "organizer": "STEMise",
       "url": "https://dsh-hacks-v2.devpost.com/",
@@ -781,19 +916,6 @@
         "Social Good"
       ],
       "uid": "hk:07065e31ae3ccd22"
-    },
-    {
-      "name": "Innovathon 2.0 @ JU",
-      "organizer": "University of Jammu, Jammu",
-      "url": "https://unstop.com/hackathons/innovathon-20-at-ju-university-of-jammu-jammu-1762935",
-      "source": "unstop",
-      "location": "Jammu",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-18",
-      "registration_deadline": "2026-11-18",
-      "tags": [],
-      "uid": "hk:4b9db7e08413c8da"
     },
     {
       "name": "Meta VR Start Developer Competition 2026",
@@ -847,17 +969,20 @@
       "uid": "hk:79cb5665a941f746"
     },
     {
-      "name": "Pinaka CTF",
-      "organizer": "National Forensic Sciences University, Chennai",
-      "url": "https://unstop.com/hackathons/pinaka-ctf-national-forensic-sciences-university-chennai-1763976",
-      "source": "unstop",
-      "location": "online",
+      "name": "Hackathon Agéntico SoftwareChido 2026B",
+      "organizer": "ITESO",
+      "url": "https://hackathon-agentico-2026b.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
       "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-28",
-      "registration_deadline": "2026-11-28",
-      "tags": [],
-      "uid": "hk:691390aa20b67986"
+      "start_date": "2026-10-05",
+      "end_date": "2026-11-25",
+      "registration_deadline": "2026-11-25",
+      "tags": [
+        "Education",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:edc53a12adaca46c"
     },
     {
       "name": "Pixel Forge Mega Jam",
@@ -1051,6 +1176,23 @@
         "Education"
       ],
       "uid": "hk:f1414be0c2ce3869"
+    },
+    {
+      "name": "Build Beyond Hackathon",
+      "organizer": "OSC",
+      "url": "https://build-beyond.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-15",
+      "registration_deadline": "2027-03-15",
+      "tags": [
+        "Beginner Friendly",
+        "Open Ended",
+        "Productivity"
+      ],
+      "uid": "hk:e2c7282be7c8ba24"
     },
     {
       "name": "N/A",
@@ -1807,6 +1949,21 @@
         "apify"
       ],
       "uid": "hk:e600553ae8a29156"
+    },
+    {
+      "name": "NASA Space Apps Challenge goes online, kicks off ...",
+      "organizer": "romaniajournal.ro",
+      "url": "https://www.romaniajournal.ro/business/nasa-space-apps-challenge-goes-online-kicks-off-registrations/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "online",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:d1443eb4c2ef1a56"
     },
     {
       "name": "Parallel Society by Logos - Hacker Portal",

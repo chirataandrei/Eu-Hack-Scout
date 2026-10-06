@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-10-05T12:06:57.888936+00:00",
+  "updated_at": "2026-10-06T11:51:32.853125+00:00",
   "hackathons": [
-    {
-      "name": "NASA Space Apps Challenge România | 200 de ...",
-      "organizer": "start-up.ro",
-      "url": "https://start-up.ro/hi-nasa-space-apps-challenge-romania-hi-200-de-participanti-dezvolta-produse-si-aplicatii/",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-05",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:ac95990d96fa0344"
-    },
-    {
-      "name": "NASA Space Apps Challenge this weekend",
-      "organizer": "romaniajournal.ro",
-      "url": "https://www.romaniajournal.ro/business/impact-creativity-and-technical-feasibility-among-the-criteria-used-to-judge-projects-at-the-nasa-space-apps-challenge/",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-05",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:47d7173cf01db8be"
-    },
     {
       "name": "NASA Space Apps Challenge - ETTI",
       "organizer": "etti.utcluj.ro",
@@ -555,6 +525,21 @@
       "uid": "hk:5bb7a507be60fd82"
     },
     {
+      "name": "24H Hackathon Coding | Bucharest",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/p/24H-Hackathon-Coding-100063583352536/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:c9f84b346726b0c3"
+    },
+    {
       "name": "403 ingenieros. 4 ciudades. 3 días. Así fue el AI Hackathon ...",
       "organizer": "es.linkedin.com",
       "url": "https://es.linkedin.com/posts/verifone_403-ingenieros-4-ciudades-3-d%C3%ADas-as%C3%AD-fue-activity-7473804745623769088-JA3w",
@@ -598,6 +583,21 @@
         "apify"
       ],
       "uid": "hk:7f20e603cfede792"
+    },
+    {
+      "name": "@bestem.bucharest v14 – 24 hours of innovation, creativity, ...",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/reel/DRKrzW_iO9m/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:fa2720fd1f7c6f62"
     },
     {
       "name": "Ai auzit de Hackathon, dar știi ce este un CADathon? 📐🏃‍ ...",
@@ -705,6 +705,21 @@
       "uid": "hk:48da3caad3ab74f2"
     },
     {
+      "name": "București a fost partener în cadrul EUDIS Hackathon 2026 ...",
+      "organizer": "ici.ro",
+      "url": "https://www.ici.ro/ro/evenimente/ici-bucure%C8%99ti-a-fost-partener-%C3%AEn-cadrul-eudis-hackathon-2026-eveniment-european-dedicat-inova%C8%9Biei-tehnologice-cu-aplicabilitate-dual-use/?fbclid=IwY2xjawQ3PvNleHRuA2FlbQIxMABicmlkETBOc01EQWdCNm1NQzVwbnRYc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqdMkCb6mjE3XoTvheih-FI0VY1q_4D6mPeu2GFdN84ohCnDvcXzSD3MnOsF_aem_aTDb2NOIND-UpV3PB7pW0g",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:f2e0278c88bfad1f"
+    },
+    {
       "name": "C.O.S.T.E.L.",
       "organizer": "costel.eestec.ro",
       "url": "https://costel.eestec.ro/",
@@ -778,6 +793,21 @@
         "apify"
       ],
       "uid": "hk:58401105fa3bdc22"
+    },
+    {
+      "name": "Câștigătorii Bucharest Hackathon - 130 de programatori ...",
+      "organizer": "start-up.ro",
+      "url": "https://start-up.ro/castigatorii-bucharest-hackathon-130-de-programatori-seniori-au-participat/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:32791400c000e0d1"
     },
     {
       "name": "Daniel Chis - 24 Hours of Google Hackathon",
@@ -2559,6 +2589,21 @@
       "uid": "hk:0ef6239e361b9a34"
     },
     {
+      "name": "Smarthack 2026 - ASMI",
+      "organizer": "smarthack.asmi.ro",
+      "url": "https://smarthack.asmi.ro/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:5dc46ce5aaa02ed2"
+    },
+    {
       "name": "Smarthack loading...",
       "organizer": "instagram.com",
       "url": "https://www.instagram.com/reel/DdV_asNqxDP/",
@@ -2705,6 +2750,21 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:510733d4beb0a9cd"
+    },
+    {
+      "name": "The Bucharest Hackathon, la a doua ediție",
+      "organizer": "ziuacargo.ro",
+      "url": "https://www.ziuacargo.ro/stiri/the-bucharest-hackathon-la-a-doua-editie-221984.html/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:8b4ea5542c73cb5a"
     },
     {
       "name": "The Ultimate RoboCode Tournament by METRO - Bucharest",
