@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T11:51:32.853125+00:00",
+  "updated_at": "2026-10-07T11:36:27.978269+00:00",
   "hackathons": [
     {
       "name": "Affinda AI Innovation Challenge",
@@ -17,19 +17,6 @@
       "uid": "hk:b06c0d70203e685c"
     },
     {
-      "name": "HackCellence: The Embark Edition",
-      "organizer": "HackerEarth",
-      "url": "https://www.hackerearth.com/challenges/hackathon/hackcellence-the-embark-edition/",
-      "source": "hackerearth",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-21",
-      "end_date": "2026-10-08",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:ab17514aba2eb930"
-    },
-    {
       "name": "ImpactHack 2026",
       "organizer": "GIS Engineering Club",
       "url": "https://impacthack26.devpost.com/",
@@ -45,19 +32,6 @@
         "Social Good"
       ],
       "uid": "hk:456d51f6228e315f"
-    },
-    {
-      "name": "Code War 8.0",
-      "organizer": "Assam Engineering College (AEC), Assam",
-      "url": "https://unstop.com/hackathons/code-war-80-assam-engineering-college-aec-assam-1766285",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-10",
-      "registration_deadline": "2026-10-10",
-      "tags": [],
-      "uid": "hk:20ecb044a91bb0ad"
     },
     {
       "name": "ForgeHacks Online 2026",
@@ -176,6 +150,19 @@
         "Web"
       ],
       "uid": "hk:b062464845159a28"
+    },
+    {
+      "name": "Logic Flow",
+      "organizer": "Sant Longowal Institute of Engineering and Technology, Longowal, Punjab",
+      "url": "https://unstop.com/hackathons/logic-flow-techfest26-annual-technical-festival-of-sliet-sant-longowal-institute-of-engineering-and-technolog-1742408",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-12",
+      "registration_deadline": "2026-10-12",
+      "tags": [],
+      "uid": "hk:a01c9c6d032257d7"
     },
     {
       "name": "United Hackathons V1",
@@ -328,17 +315,17 @@
       "uid": "hk:668e1c011abee4e8"
     },
     {
-      "name": "Hacktoberfest × BFIT 2026",
-      "organizer": "BFIT Group of Institutions",
-      "url": "https://unstop.com/hackathons/hacktoberfest-bfit-2026-bfit-group-of-institutions-1766440",
+      "name": "AIVORA 2K26",
+      "organizer": "Innovation Hacks",
+      "url": "https://unstop.com/hackathons/aivora-2k26-innovation-hacks-1767030",
       "source": "unstop",
-      "location": "Dehradun",
+      "location": "online",
       "format": "online",
       "start_date": null,
-      "end_date": "2026-10-17",
-      "registration_deadline": "2026-10-17",
+      "end_date": "2026-10-18",
+      "registration_deadline": "2026-10-18",
       "tags": [],
-      "uid": "hk:b2827eac74a5fc30"
+      "uid": "hk:86477cd73eeb4ac3"
     },
     {
       "name": "Lehigh Fall 2026 Collegiate Hackathon",
@@ -373,19 +360,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:39105ec8320614ea"
-    },
-    {
-      "name": "Pride In Tech by Godrej Capital",
-      "organizer": "HackerEarth",
-      "url": "https://www.hackerearth.com/challenges/competitive/pride-in-tech-by-godrej-capital/",
-      "source": "hackerearth",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-18",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:e8f6bd4e531d989e"
     },
     {
       "name": "AI Lodge Hackathon 2026",
@@ -454,17 +428,43 @@
       "uid": "hk:f6642b9d10e5eef8"
     },
     {
-      "name": "Jammu Smart City Hackathon",
-      "organizer": "LEAD",
-      "url": "https://unstop.com/hackathons/jammu-smart-city-hackathon-jammu-smart-city-hackathon-lead-1766040",
+      "name": "Craftcon 2K26",
+      "organizer": "Desh Bhagat University, Punjab",
+      "url": "https://unstop.com/hackathons/craftcon-2k26-desh-bhagat-university-punjab-1767052",
       "source": "unstop",
-      "location": "Jammu",
+      "location": "Amloh",
       "format": "online",
       "start_date": null,
-      "end_date": "2026-10-20",
-      "registration_deadline": "2026-10-20",
+      "end_date": "2026-10-21",
+      "registration_deadline": "2026-10-21",
       "tags": [],
-      "uid": "hk:c5a81d93a12a8ad4"
+      "uid": "hk:2e1f409901ac6df9"
+    },
+    {
+      "name": "Micromouse",
+      "organizer": "Manipal Institute of Technology, Bengaluru",
+      "url": "https://unstop.com/hackathons/micromouse-manipal-institute-of-technology-bengaluru-1767260",
+      "source": "unstop",
+      "location": "Jaipur",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-21",
+      "registration_deadline": "2026-10-21",
+      "tags": [],
+      "uid": "hk:0c956182558cafb3"
+    },
+    {
+      "name": "Procon Jr.",
+      "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
+      "url": "https://unstop.com/hackathons/procon-jr-indraprastha-institute-of-information-technology-iiit-delhi-1766977",
+      "source": "unstop",
+      "location": "New Delhi",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-21",
+      "registration_deadline": "2026-10-21",
+      "tags": [],
+      "uid": "hk:be52bf12d0061cdd"
     },
     {
       "name": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -500,21 +500,6 @@
       "uid": "hk:de635fea596d4c71"
     },
     {
-      "name": "Gator Hack V - AI Days 2026",
-      "organizer": "University of Florida",
-      "url": "https://gatorhack2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-25",
-      "registration_deadline": "2026-10-25",
-      "tags": [
-        "Education"
-      ],
-      "uid": "hk:ba50b380dab850f7"
-    },
-    {
       "name": "IEEE ClimateChain Global Hackathon",
       "organizer": "IEEE Turkey",
       "url": "https://ieee-climatechain-hack.devpost.com/",
@@ -530,6 +515,21 @@
         "Social Good"
       ],
       "uid": "hk:6b90618a61d26918"
+    },
+    {
+      "name": "Syntax Error 2026",
+      "organizer": "Devfolio",
+      "url": "https://devfolio.co/hackathons/syntax-error-6",
+      "source": "devfolio",
+      "location": "",
+      "format": "online",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-25",
+      "registration_deadline": null,
+      "tags": [
+        "No Restrictions"
+      ],
+      "uid": "hk:2f0438a0d60d1be7"
     },
     {
       "name": "The Top 500 (UH v2)",
@@ -564,19 +564,6 @@
         "Education"
       ],
       "uid": "hk:8a1ab47839d787da"
-    },
-    {
-      "name": "Hackosquad CTF 2026",
-      "organizer": "Hackosquad",
-      "url": "https://unstop.com/hackathons/hackosquad-ctf-2026-hackosquad-1766739",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-26",
-      "registration_deadline": "2026-10-26",
-      "tags": [],
-      "uid": "hk:74ff3cfbe1b951c0"
     },
     {
       "name": "Code For DFW",
@@ -777,19 +764,6 @@
       "uid": "hk:8317cfb9e02b24fc"
     },
     {
-      "name": "GoDaddy Inclusive Innovation Hackathon 2026",
-      "organizer": "HackerEarth",
-      "url": "https://www.hackerearth.com/challenges/competitive/godaddy-inclusive-innovation-challenge-2026/",
-      "source": "hackerearth",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-31",
-      "end_date": "2026-11-01",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:47e424611b2b421d"
-    },
-    {
       "name": "YouCam API Skin AI & eCommerce VTO Hackathon",
       "organizer": "Perfect Corp",
       "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
@@ -805,19 +779,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:14417c87da978cef"
-    },
-    {
-      "name": "From Prompt to Performance",
-      "organizer": "Mozark",
-      "url": "https://unstop.com/hackathons/from-prompt-to-performance-mozark-1762305",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-05",
-      "registration_deadline": "2026-11-05",
-      "tags": [],
-      "uid": "hk:9bbc34e3449fa52b"
     },
     {
       "name": "YUNet AIgnite 2026",
@@ -869,19 +830,6 @@
         "Web"
       ],
       "uid": "hk:8ccb7f30bee1e7c4"
-    },
-    {
-      "name": "Agentic Banking Hackathon",
-      "organizer": "HackerEarth",
-      "url": "https://www.hackerearth.com/challenges/hackathon/agentic-banking-hackathon-2/",
-      "source": "hackerearth",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-05",
-      "end_date": "2026-11-13",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:f2a5b99a0b980174"
     },
     {
       "name": "DSH Hacks V2 ($100k+ in prizes!)",

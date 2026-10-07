@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T11:51:32.853125+00:00",
+  "updated_at": "2026-10-07T11:36:27.978269+00:00",
   "hackathons": [
     {
       "name": "NASA Space Apps Challenge - ETTI",
@@ -313,6 +313,21 @@
         "apify"
       ],
       "uid": "hk:0a45fcd51ea71ae2"
+    },
+    {
+      "name": "NASA Space Apps Challenge opens registration for Bucharest ...",
+      "organizer": "archive.romania-insider.com",
+      "url": "https://archive.romania-insider.com/nasa-space-apps-challenge-registrations-romania-2026?amp",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:ae9a6a040b467edd"
     },
     {
       "name": "România participă la NASA Space Apps Challenge 2026. ...",
@@ -1318,6 +1333,21 @@
       "uid": "hk:7964cea51e20ea2f"
     },
     {
+      "name": "Hackathon Stories: Mastercard",
+      "organizer": "tips.hackathon.com",
+      "url": "https://tips.hackathon.com/videos/hackathon-stories-mastercard",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:44604202c6bf0ee2"
+    },
+    {
       "name": "HACKATHON | Samagra Shiksha Axom - Assam State Portal",
       "organizer": "ssa.assam.gov.in",
       "url": "https://ssa.assam.gov.in/latest/hackathon",
@@ -1702,6 +1732,21 @@
         "apify"
       ],
       "uid": "hk:8b88adfae00e7a56"
+    },
+    {
+      "name": "Instructions | U8 SmartHack",
+      "organizer": "hackaday.io",
+      "url": "https://hackaday.io/project/9189/instructions",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:51687a365c6dcd87"
     },
     {
       "name": "Internal Hackathon Process",
@@ -2409,21 +2454,6 @@
       "uid": "hk:70dbe5d95f2a45b0"
     },
     {
-      "name": "Resources | The Bucharest Hackathon 2026",
-      "organizer": "thebucharesthackathon.com",
-      "url": "https://thebucharesthackathon.com/resources.html",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c4e0cd3d097752c8"
-    },
-    {
       "name": "Restaurant of Tomorrow - Coding Challenge",
       "organizer": "hackathon.com",
       "url": "https://www.hackathon.com/event/restaurant-of-tomorrow---coding-challenge-90172433175",
@@ -2559,6 +2589,21 @@
       "uid": "hk:09168dd644e1db6a"
     },
     {
+      "name": "Smarthack - Conseil, services et maintenance informatique ...",
+      "organizer": "fr.mappy.com",
+      "url": "https://fr.mappy.com/poi/5c6a853e0351d129630538ef",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:50b2ab0c195b3b4a"
+    },
+    {
       "name": "SmartHack - Primul hackaton organizat de ASMI",
       "organizer": "romaniapozitiva.ro",
       "url": "http://www.romaniapozitiva.ro/bucuresti/smarthack-primul-hackaton-organizat-de-asmi/",
@@ -2617,6 +2662,21 @@
         "apify"
       ],
       "uid": "hk:879294d0a7e581f0"
+    },
+    {
+      "name": "SMARTHACK à 13190 ALLAUCH - SIRET 839 657 889 00011",
+      "organizer": "annuaire-entreprises.data.gouv.fr",
+      "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/83965788900011",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:6397d8b7e4f0b17d"
     },
     {
       "name": "SmartHack: Create apps or designs to solve a problem ...",
@@ -2782,6 +2842,21 @@
       "uid": "hk:d41857b69348c89d"
     },
     {
+      "name": "Three Romanian cities host NASA Space Apps Challenge ...",
+      "organizer": "romania-insider.com",
+      "url": "https://www.romania-insider.com/three-romanian-cities-host-nasa-space-apps-challenge-weekend",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:820d750914bf4703"
+    },
+    {
       "name": "Tradiția înseamna eeStec Olympics 6!",
       "organizer": "stiintasitehnica.com",
       "url": "https://stiintasitehnica.com/tradi-ia-inseamna-eestec-olympics-6/",
@@ -2795,6 +2870,21 @@
         "apify"
       ],
       "uid": "hk:941e8fdd5e1da850"
+    },
+    {
+      "name": "U8 SmartHack",
+      "organizer": "hackaday.io",
+      "url": "https://hackaday.io/project/9189-u8-smarthack",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:d4681b52cc4957e5"
     },
     {
       "name": "UEFISCDI organizează ediția locală a competiției europene EU Sparks for Climate – Citizens Hackaton Championship",
