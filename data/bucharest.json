@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T11:36:27.978269+00:00",
+  "updated_at": "2026-10-08T11:50:56.598263+00:00",
   "hackathons": [
     {
       "name": "NASA Space Apps Challenge - ETTI",
@@ -163,6 +163,21 @@
         "apify"
       ],
       "uid": "hk:d67edbc6cba2a95a"
+    },
+    {
+      "name": "S-a dat startul înscrierilor la Smarthack, cea mai mare ...",
+      "organizer": "romaniapozitiva.ro",
+      "url": "http://www.romaniapozitiva.ro/bucuresti/s-a-dat-startul-inscrierilor-la-smarthack-cea-mai-mare-provocare-tech-lansata-de-asmi-2/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:892eebdbdc4033e2"
     },
     {
       "name": "Smarthack revine cu o nouă ediție!",
@@ -703,6 +718,21 @@
         "apify"
       ],
       "uid": "hk:6c94dcc4890b5d9c"
+    },
+    {
+      "name": "Așa a decurs prima zi la GitGood Hack!  @asmi.ub",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/reel/DYJk-h0IKUn/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:c3b594b9628eb8ad"
     },
     {
       "name": "BESTEMv14",
@@ -1511,6 +1541,21 @@
         "apify"
       ],
       "uid": "hk:425343b7d74c8248"
+    },
+    {
+      "name": "HackEurope | Europe's Largest Student Hackathon",
+      "organizer": "hackeurope.com",
+      "url": "https://www.hackeurope.com/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:8b958ea8826e42ac"
     },
     {
       "name": "HackITall",
@@ -2900,6 +2945,21 @@
         "romania"
       ],
       "uid": "hk:77f5d1d77eee671d"
+    },
+    {
+      "name": "Upcoming Hackathons in Bucharest 2026",
+      "organizer": "hackathonradar.com",
+      "url": "https://www.hackathonradar.com/discover/bucharest/2026",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:b8f1616824b6c4d3"
     },
     {
       "name": "Vrei să câștigi un premiu marca CAD&CRAFT ... - Instagram",
