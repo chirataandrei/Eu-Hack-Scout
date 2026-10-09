@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-10-08T11:50:56.598263+00:00",
+  "updated_at": "2026-10-09T11:43:00.631810+00:00",
   "hackathons": [
-    {
-      "name": "Code The Cosmos '26",
-      "organizer": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad",
-      "url": "https://unstop.com/hackathons/code-the-cosmos-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanbad-1767675",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-09",
-      "registration_deadline": "2026-10-09",
-      "tags": [],
-      "uid": "hk:91378a75da2e8cd5"
-    },
     {
       "name": "ForgeHacks Online 2026",
       "organizer": "ForgeHacks",
@@ -64,19 +51,6 @@
         "Social Good"
       ],
       "uid": "hk:798547323c0bf2c2"
-    },
-    {
-      "name": "BlockHunt'26",
-      "organizer": "Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad",
-      "url": "https://unstop.com/hackathons/blockhunt26-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanbad-1764178",
-      "source": "unstop",
-      "location": "Dhanbad",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-11",
-      "registration_deadline": "2026-10-11",
-      "tags": [],
-      "uid": "hk:a48bd344e5452de5"
     },
     {
       "name": "EvoHacks2026",
@@ -146,6 +120,19 @@
       "uid": "hk:b062464845159a28"
     },
     {
+      "name": "Nexora'26",
+      "organizer": "C. Abdul Hakeem College of Engineering and Technology (CAHCET), Veppur, Tamil Nadu",
+      "url": "https://unstop.com/hackathons/nexora26-c-abdul-hakeem-college-of-engineering-and-technology-cahcet-veppur-tamil-nadu-1765539",
+      "source": "unstop",
+      "location": "Vellore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-12",
+      "registration_deadline": "2026-10-12",
+      "tags": [],
+      "uid": "hk:4e1d2ae3ebb5ce2b"
+    },
+    {
       "name": "United Hackathons V1",
       "organizer": "United Hackathons",
       "url": "https://devonomicsv1.devpost.com/",
@@ -193,6 +180,19 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:7980d675224f38af"
+    },
+    {
+      "name": "REDLINE - ARES",
+      "organizer": "Netaji Subhas University of Technology (NSUT), Delhi",
+      "url": "https://unstop.com/hackathons/redline-ares-netaji-subhas-university-of-technology-nsut-delhi-1766284",
+      "source": "unstop",
+      "location": "South West Delhi",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-14",
+      "registration_deadline": "2026-10-14",
+      "tags": [],
+      "uid": "hk:e71fe826b14b4b1e"
     },
     {
       "name": "WarriorHacks 2.0",
@@ -294,19 +294,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:668e1c011abee4e8"
-    },
-    {
-      "name": "Tech Mafia - Trust No One. Debug Everyone.",
-      "organizer": "Netaji Subhas University of Technology (NSUT), Delhi",
-      "url": "https://unstop.com/hackathons/tech-mafia-trust-no-one-debug-everyone-netaji-subhas-university-of-technology-nsut-delhi-1767566",
-      "source": "unstop",
-      "location": "West Delhi",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-16",
-      "registration_deadline": "2026-10-16",
-      "tags": [],
-      "uid": "hk:becb1fa6b06a71a6"
     },
     {
       "name": "Lehigh Fall 2026 Collegiate Hackathon",
@@ -424,6 +411,32 @@
         "Productivity"
       ],
       "uid": "hk:2994e33d91ff7c75"
+    },
+    {
+      "name": "C Code Auction Arena 2026",
+      "organizer": "Nutan Maharashtra Institue of Engineering and Technology",
+      "url": "https://unstop.com/hackathons/c-code-auction-arena-2026-nutan-maharashtra-institue-of-engineering-and-technology-1768097",
+      "source": "unstop",
+      "location": "Talegaon Dabhade",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-23",
+      "registration_deadline": "2026-10-23",
+      "tags": [],
+      "uid": "hk:6131688a029c2b1c"
+    },
+    {
+      "name": "Tata Elxsi TELIPORT Season 4",
+      "organizer": "GL Bajaj Institute of Management, Greater Noida",
+      "url": "https://unstop.com/hackathons/tata-elxsi-teliport-season-4-gl-bajaj-institute-of-management-greater-noida-1767967",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-23",
+      "registration_deadline": "2026-10-23",
+      "tags": [],
+      "uid": "hk:94b3215c431cf176"
     },
     {
       "name": "Neighborhood Hacks",
@@ -706,19 +719,6 @@
       "uid": "hk:8317cfb9e02b24fc"
     },
     {
-      "name": "Synergy 2026",
-      "organizer": "Fr. Conceicao Rodrigues College of Engineering (FRCRCE), Bandra",
-      "url": "https://unstop.com/hackathons/synergy-2026-crescendo-26-fr-conceicao-rodrigues-college-of-engineering-frcrce-bandra-1767480",
-      "source": "unstop",
-      "location": "Mumbai",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-01",
-      "registration_deadline": "2026-11-01",
-      "tags": [],
-      "uid": "hk:c78fec6a80653e50"
-    },
-    {
       "name": "YouCam API Skin AI & eCommerce VTO Hackathon",
       "organizer": "Perfect Corp",
       "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
@@ -734,6 +734,19 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:14417c87da978cef"
+    },
+    {
+      "name": "Indiathon – Powered by E-Cell IIIT Bhubaneswar , Co-powered by LearnApart",
+      "organizer": "International Institute of Information Technology, Bhubaneswar",
+      "url": "https://unstop.com/hackathons/indiathon-powered-by-e-cell-iiit-bhubaneswar-co-powered-by-learnapart-international-institute-of-information--1765224",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-04",
+      "registration_deadline": "2026-11-04",
+      "tags": [],
+      "uid": "hk:f19de5701a7aac5f"
     },
     {
       "name": "YUNet AIgnite 2026",
@@ -768,19 +781,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:9c91d2add0d852b9"
-    },
-    {
-      "name": "HerHack",
-      "organizer": "ECHELON INSTITUTE OF TECHNOLOGY",
-      "url": "https://unstop.com/hackathons/herhack-echelon-institute-of-technology-1767590",
-      "source": "unstop",
-      "location": "Faridabad",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-10",
-      "registration_deadline": "2026-11-10",
-      "tags": [],
-      "uid": "hk:30d0b761a90a179a"
     },
     {
       "name": "PayPal AI Hackathon",

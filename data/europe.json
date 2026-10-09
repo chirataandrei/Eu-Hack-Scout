@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T11:50:56.598263+00:00",
+  "updated_at": "2026-10-09T11:43:00.631810+00:00",
   "hackathons": [
     {
       "name": "404: Pothole Not Found. The LOKI Urban Monitoring Hackathon",
@@ -28,19 +28,6 @@
       "uid": "hk:4edbb2638dffea6f"
     },
     {
-      "name": "🩸 From Dusk Till Dawn Hackathon #01 by Agents 0.0.7. Community",
-      "organizer": "Luma",
-      "url": "https://lu.ma/agents007-hackathon01",
-      "source": "luma",
-      "location": "Hlavní město Praha, Hlavní město Praha, Czechia, Czechia",
-      "format": "in_person",
-      "start_date": "2026-10-08",
-      "end_date": "2026-10-09",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:8baa55cc9b4572ef"
-    },
-    {
       "name": "Barcelona AI Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/m0byiqzd",
@@ -52,6 +39,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:db5e17d664c3b086"
+    },
+    {
+      "name": "Bare Metal Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/7fzrbmox",
+      "source": "luma",
+      "location": "Karlsruhe, Karlsruhe, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:1dabf415c8018422"
     },
     {
       "name": "Commit Athens: a free afternoon hackathon",
@@ -117,19 +117,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:287290ed8b92d521"
-    },
-    {
-      "name": "Bazel Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/9dm41b1h",
-      "source": "luma",
-      "location": "Amsterdam, Amsterdam, Netherlands, Netherlands",
-      "format": "in_person",
-      "start_date": "2026-10-16",
-      "end_date": "2026-10-16",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:7a4e2d7cc25bddf1"
     },
     {
       "name": "Build Agents That Remember Hackathon @42Paris",
@@ -236,17 +223,17 @@
       "uid": "hk:48ba65bf03334b2d"
     },
     {
-      "name": "Business Buildathon",
+      "name": "AI in Healthcare Hackathon / Leeds AI Society",
       "organizer": "Luma",
-      "url": "https://lu.ma/2almzv5x",
+      "url": "https://lu.ma/qtlx2bly",
       "source": "luma",
-      "location": "Helsinki, Helsinki, Finland, Finland",
+      "location": "Leeds, Leeds, United Kingdom, United Kingdom",
       "format": "in_person",
       "start_date": "2026-10-24",
       "end_date": "2026-10-25",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:d66ea236c4a32299"
+      "uid": "hk:ee2b51a4aa47dae4"
     },
     {
       "name": "Encode London Hackathon",
@@ -338,6 +325,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:a8b720ac2ad37ce9"
+    },
+    {
+      "name": "Grok Hackathon at the Museum",
+      "organizer": "Luma",
+      "url": "https://lu.ma/spacexai-z1ys",
+      "source": "luma",
+      "location": "Pavia, Pavia, Italy, Italy",
+      "format": "in_person",
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-05",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:f4358b064bcc76ed"
     },
     {
       "name": "House London #3 | Data Hackathon",
