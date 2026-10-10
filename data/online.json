@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T11:43:00.631810+00:00",
+  "updated_at": "2026-10-10T11:01:12.477972+00:00",
   "hackathons": [
     {
       "name": "ForgeHacks Online 2026",
@@ -19,38 +19,21 @@
       "uid": "hk:49cfcf26bfaa6f4f"
     },
     {
-      "name": "Graphiques Innovation Challenge",
-      "organizer": "Hack Club",
-      "url": "https://graphiques-challenge.devpost.com/",
+      "name": "CodeRED: Orion",
+      "organizer": "CougarCS",
+      "url": "https://codered-orion-ccs.devpost.com/",
       "source": "devpost",
       "location": "Online",
       "format": "online",
-      "start_date": "2026-08-21",
-      "end_date": "2026-10-10",
-      "registration_deadline": "2026-10-10",
-      "tags": [
-        "Enterprise",
-        "Fintech",
-        "Productivity"
-      ],
-      "uid": "hk:d0b57ad2c7fcbf89"
-    },
-    {
-      "name": "ML Empowerment Build Challenge 3.0 - ($400,000 in prizes!)",
-      "organizer": "ML Empowerment Foundation",
-      "url": "https://ml-build-challenge-3.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-05",
-      "end_date": "2026-10-10",
-      "registration_deadline": "2026-10-10",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-11",
+      "registration_deadline": "2026-10-11",
       "tags": [
         "Beginner Friendly",
-        "Machine Learning/AI",
-        "Social Good"
+        "DevOps",
+        "Web"
       ],
-      "uid": "hk:798547323c0bf2c2"
+      "uid": "hk:f929f7ac451838b8"
     },
     {
       "name": "EvoHacks2026",
@@ -120,17 +103,21 @@
       "uid": "hk:b062464845159a28"
     },
     {
-      "name": "Nexora'26",
-      "organizer": "C. Abdul Hakeem College of Engineering and Technology (CAHCET), Veppur, Tamil Nadu",
-      "url": "https://unstop.com/hackathons/nexora26-c-abdul-hakeem-college-of-engineering-and-technology-cahcet-veppur-tamil-nadu-1765539",
-      "source": "unstop",
-      "location": "Vellore",
+      "name": "Graphiques Innovation Challenge",
+      "organizer": "Hack Club",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
       "format": "online",
-      "start_date": null,
+      "start_date": "2026-08-21",
       "end_date": "2026-10-12",
       "registration_deadline": "2026-10-12",
-      "tags": [],
-      "uid": "hk:4e1d2ae3ebb5ce2b"
+      "tags": [
+        "Enterprise",
+        "Fintech",
+        "Productivity"
+      ],
+      "uid": "hk:d0b57ad2c7fcbf89"
     },
     {
       "name": "United Hackathons V1",
@@ -182,19 +169,6 @@
       "uid": "hk:7980d675224f38af"
     },
     {
-      "name": "REDLINE - ARES",
-      "organizer": "Netaji Subhas University of Technology (NSUT), Delhi",
-      "url": "https://unstop.com/hackathons/redline-ares-netaji-subhas-university-of-technology-nsut-delhi-1766284",
-      "source": "unstop",
-      "location": "South West Delhi",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-14",
-      "registration_deadline": "2026-10-14",
-      "tags": [],
-      "uid": "hk:e71fe826b14b4b1e"
-    },
-    {
       "name": "WarriorHacks 2.0",
       "organizer": "Westwood Computer Science Club",
       "url": "https://warriorhacks-2-0.devpost.com/",
@@ -244,6 +218,19 @@
         "Robotic Process Automation"
       ],
       "uid": "hk:4065835de3dfdda2"
+    },
+    {
+      "name": "Ideathon",
+      "organizer": "Ram Lal Anand College, University of Delhi",
+      "url": "https://unstop.com/hackathons/ideathon-ram-lal-anand-college-university-of-delhi-1768697",
+      "source": "unstop",
+      "location": "New Delhi",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-15",
+      "registration_deadline": "2026-10-15",
+      "tags": [],
+      "uid": "hk:9859f096afdc2bc1"
     },
     {
       "name": "Next Founders Hackathon",
@@ -396,6 +383,19 @@
       "uid": "hk:f6642b9d10e5eef8"
     },
     {
+      "name": "Code Auction",
+      "organizer": "Guru Tegh Bahadur 4th Centenary Engineering College, Delhi",
+      "url": "https://unstop.com/hackathons/code-auction-guru-tegh-bahadur-4th-centenary-engineering-college-delhi-1768506",
+      "source": "unstop",
+      "location": "West Delhi",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-22",
+      "registration_deadline": "2026-10-22",
+      "tags": [],
+      "uid": "hk:012432559e969500"
+    },
+    {
       "name": "Build, Ship, Shape: Amazon Developer Hackathon",
       "organizer": "Amazon",
       "url": "https://amazonappdev2026.devpost.com/",
@@ -413,30 +413,17 @@
       "uid": "hk:2994e33d91ff7c75"
     },
     {
-      "name": "C Code Auction Arena 2026",
-      "organizer": "Nutan Maharashtra Institue of Engineering and Technology",
-      "url": "https://unstop.com/hackathons/c-code-auction-arena-2026-nutan-maharashtra-institue-of-engineering-and-technology-1768097",
-      "source": "unstop",
-      "location": "Talegaon Dabhade",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-23",
-      "registration_deadline": "2026-10-23",
-      "tags": [],
-      "uid": "hk:6131688a029c2b1c"
-    },
-    {
-      "name": "Tata Elxsi TELIPORT Season 4",
-      "organizer": "GL Bajaj Institute of Management, Greater Noida",
-      "url": "https://unstop.com/hackathons/tata-elxsi-teliport-season-4-gl-bajaj-institute-of-management-greater-noida-1767967",
+      "name": "Blitz'26 - Technical Coding",
+      "organizer": "Mookambigai College of Engineering",
+      "url": "https://unstop.com/hackathons/blitz26-technical-coding-mookambigai-college-of-engineering-1768744",
       "source": "unstop",
       "location": "online",
       "format": "online",
       "start_date": null,
-      "end_date": "2026-10-23",
-      "registration_deadline": "2026-10-23",
+      "end_date": "2026-10-24",
+      "registration_deadline": "2026-10-24",
       "tags": [],
-      "uid": "hk:94b3215c431cf176"
+      "uid": "hk:9b8d723ecd32e163"
     },
     {
       "name": "Neighborhood Hacks",
@@ -736,20 +723,7 @@
       "uid": "hk:14417c87da978cef"
     },
     {
-      "name": "Indiathon – Powered by E-Cell IIIT Bhubaneswar , Co-powered by LearnApart",
-      "organizer": "International Institute of Information Technology, Bhubaneswar",
-      "url": "https://unstop.com/hackathons/indiathon-powered-by-e-cell-iiit-bhubaneswar-co-powered-by-learnapart-international-institute-of-information--1765224",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-04",
-      "registration_deadline": "2026-11-04",
-      "tags": [],
-      "uid": "hk:f19de5701a7aac5f"
-    },
-    {
-      "name": "YUNet AIgnite 2026",
+      "name": "Ostad Presents YUNet AIgnite Buildathon 2026",
       "organizer": "Youth Upskill Network - YUNet",
       "url": "https://yunet-aignite26.devpost.com/",
       "source": "devpost",
@@ -763,7 +737,33 @@
         "Low/No Code",
         "Machine Learning/AI"
       ],
-      "uid": "hk:644eb3ebf75e9f39"
+      "uid": "hk:c0ac4b1690895bc0"
+    },
+    {
+      "name": "CodersInPune Hackathon - HackWIthPune",
+      "organizer": "HackWithPune",
+      "url": "https://unstop.com/hackathons/codersinpune-hackathon-hackwithpune-1768758",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-06",
+      "registration_deadline": "2026-11-06",
+      "tags": [],
+      "uid": "hk:640582420b1f826f"
+    },
+    {
+      "name": "Threws Odyssey 2026",
+      "organizer": "Threws - The Research World",
+      "url": "https://unstop.com/hackathons/threws-odyssey-2026-threws-the-research-world-1766434",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-07",
+      "registration_deadline": "2026-11-07",
+      "tags": [],
+      "uid": "hk:0e09256a8e27c1a0"
     },
     {
       "name": "EthnoHack",
@@ -815,6 +815,23 @@
         "Open Ended"
       ],
       "uid": "hk:32b7991081dd3f39"
+    },
+    {
+      "name": "IceHacks",
+      "organizer": "CodeStarters",
+      "url": "https://icehacks.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-15",
+      "registration_deadline": "2026-11-15",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Open Ended"
+      ],
+      "uid": "hk:57a6858cecaf4e43"
     },
     {
       "name": "STEMergent Hacks 2026",

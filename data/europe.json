@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-10-09T11:43:00.631810+00:00",
+  "updated_at": "2026-10-10T11:01:12.477972+00:00",
   "hackathons": [
-    {
-      "name": "404: Pothole Not Found. The LOKI Urban Monitoring Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/dz3m4tcl",
-      "source": "luma",
-      "location": "Torino, Torino, Italy, Italy",
-      "format": "in_person",
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-09",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:2411eb971a276dc6"
-    },
-    {
-      "name": "Notion 🖤’s Dublin × Dublin AI Week: Student Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/3tt6zlwr",
-      "source": "luma",
-      "location": "Dublin 7, Dublin 7, Ireland, Ireland",
-      "format": "in_person",
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-09",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:4edbb2638dffea6f"
-    },
     {
       "name": "Barcelona AI Hackathon",
       "organizer": "Luma",
@@ -67,17 +41,17 @@
       "uid": "hk:12b5bf67c985c4d6"
     },
     {
-      "name": "Digital Hackathon",
-      "organizer": "Village.Berlin",
-      "url": "https://www.meetup.com/village-berlin/events/316706331/",
-      "source": "meetup",
-      "location": "Berlin, Village Berlin, de",
+      "name": "London AI Hackathon: AI Transformation of Services",
+      "organizer": "Luma",
+      "url": "https://lu.ma/ja5x0m76",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
       "format": "in_person",
       "start_date": "2026-10-10",
-      "end_date": null,
+      "end_date": "2026-10-10",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:a911151b30350cc8"
+      "uid": "hk:a9c11f9445f68f64"
     },
     {
       "name": "The Hackathon",
@@ -106,6 +80,19 @@
       "uid": "hk:d8064e9c961e39b3"
     },
     {
+      "name": "Hack Night: Content Machine",
+      "organizer": "Luma",
+      "url": "https://lu.ma/0y2fybh8",
+      "source": "luma",
+      "location": "St. Gallen, St. Gallen, Switzerland, Switzerland",
+      "format": "in_person",
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-13",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:a52598a597e7d022"
+    },
+    {
       "name": "B.A.L.L.S. hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/8vc4qm6x",
@@ -119,6 +106,19 @@
       "uid": "hk:287290ed8b92d521"
     },
     {
+      "name": "Stripe x Briefcase: AI FinTech London Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/3k1pazop",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:0e9e0c9d4bf3eb2d"
+    },
+    {
       "name": "Build Agents That Remember Hackathon @42Paris",
       "organizer": "Luma",
       "url": "https://lu.ma/bnre6nou",
@@ -130,19 +130,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:b1ca9a4572edd3d3"
-    },
-    {
-      "name": "ERH Physical AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/psoyy4k5",
-      "source": "luma",
-      "location": "Schlieren, Schlieren, Switzerland, Switzerland",
-      "format": "in_person",
-      "start_date": "2026-10-16",
-      "end_date": "2026-10-18",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:968bcf94a31f9ac1"
     },
     {
       "name": "IKU Womxn in STEM Hackathon",

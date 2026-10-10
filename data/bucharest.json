@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T11:43:00.631810+00:00",
+  "updated_at": "2026-10-10T11:01:12.477972+00:00",
   "hackathons": [
     {
       "name": "European Defense Tech Hackathon - Bucharest",
@@ -2409,21 +2409,6 @@
       "uid": "hk:eaf6e1b8447ecbdd"
     },
     {
-      "name": "Previous Editions | The Bucharest Hackathon",
-      "organizer": "thebucharesthackathon.com",
-      "url": "https://thebucharesthackathon.com/previous-editions.html",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c444c469814ab071"
-    },
-    {
       "name": "r/hackathon",
       "organizer": "reddit.com",
       "url": "https://www.reddit.com/r/hackathon/",
@@ -2497,21 +2482,6 @@
         "apify"
       ],
       "uid": "hk:70dbe5d95f2a45b0"
-    },
-    {
-      "name": "Resources | The Bucharest Hackathon 2026",
-      "organizer": "thebucharesthackathon.com",
-      "url": "https://thebucharesthackathon.com/resources.html",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c4e0cd3d097752c8"
     },
     {
       "name": "Restaurant of Tomorrow - Coding Challenge",
