@@ -1,71 +1,6 @@
 {
-  "updated_at": "2026-10-10T11:01:12.477972+00:00",
+  "updated_at": "2026-10-11T11:18:05.416601+00:00",
   "hackathons": [
-    {
-      "name": "Barcelona AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/m0byiqzd",
-      "source": "luma",
-      "location": "Barcelona, Barcelona, Spain, Spain",
-      "format": "in_person",
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-10",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:db5e17d664c3b086"
-    },
-    {
-      "name": "Bare Metal Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/7fzrbmox",
-      "source": "luma",
-      "location": "Karlsruhe, Karlsruhe, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:1dabf415c8018422"
-    },
-    {
-      "name": "Commit Athens: a free afternoon hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/9x8yo5do",
-      "source": "luma",
-      "location": "Galatsi, Galatsi, Greece, Greece",
-      "format": "in_person",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:12b5bf67c985c4d6"
-    },
-    {
-      "name": "London AI Hackathon: AI Transformation of Services",
-      "organizer": "Luma",
-      "url": "https://lu.ma/ja5x0m76",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:a9c11f9445f68f64"
-    },
-    {
-      "name": "The Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/d5gqew38",
-      "source": "luma",
-      "location": "Ecublens, Ecublens, Switzerland, Switzerland",
-      "format": "in_person",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-11",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:aec89f0cf7fef280"
-    },
     {
       "name": "Fintech Hackathon",
       "organizer": "Luma",
@@ -93,6 +28,19 @@
       "uid": "hk:a52598a597e7d022"
     },
     {
+      "name": "Light x Lovable x Grant Thornton Finance Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/Angelfinhack",
+      "source": "luma",
+      "location": "Stockholm, Stockholm, Sweden, Sweden",
+      "format": "in_person",
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-13",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:aa1d088d0a085701"
+    },
+    {
       "name": "B.A.L.L.S. hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/8vc4qm6x",
@@ -117,6 +65,45 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:0e9e0c9d4bf3eb2d"
+    },
+    {
+      "name": "Bazel Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/9dm41b1h",
+      "source": "luma",
+      "location": "Amsterdam, Amsterdam, Netherlands, Netherlands",
+      "format": "in_person",
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:7a4e2d7cc25bddf1"
+    },
+    {
+      "name": "Claude Hackathon + Showcase | Better Student Life",
+      "organizer": "Luma",
+      "url": "https://lu.ma/61w6hlef",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:332addec57c0ab7c"
+    },
+    {
+      "name": "Chat Hackers - Hack Day",
+      "organizer": "Luma",
+      "url": "https://lu.ma/campaign-nz6y",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:8a833bf427ce2399"
     },
     {
       "name": "Build Agents That Remember Hackathon @42Paris",
@@ -312,6 +299,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:a8b720ac2ad37ce9"
+    },
+    {
+      "name": "HACKATHON - Agent Eval Harness",
+      "organizer": "Luma",
+      "url": "https://lu.ma/h8zer2ek",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-04",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:bc75985e59dd015a"
     },
     {
       "name": "Grok Hackathon at the Museum",

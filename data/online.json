@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-10-10T11:01:12.477972+00:00",
+  "updated_at": "2026-10-11T11:18:05.416601+00:00",
   "hackathons": [
-    {
-      "name": "ForgeHacks Online 2026",
-      "organizer": "ForgeHacks",
-      "url": "https://forgehacks-2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-10",
-      "registration_deadline": "2026-10-10",
-      "tags": [
-        "Beginner Friendly",
-        "Lifehacks",
-        "Machine Learning/AI"
-      ],
-      "uid": "hk:49cfcf26bfaa6f4f"
-    },
     {
       "name": "CodeRED: Orion",
       "organizer": "CougarCS",
@@ -137,6 +120,19 @@
       "uid": "hk:ba251b6556de0dc1"
     },
     {
+      "name": "HACK ATTACK — 8-Hour Inter-College Hackathon",
+      "organizer": "AMC Engineering College (AMCEC), Bengaluru",
+      "url": "https://unstop.com/hackathons/hack-attack-8-hour-inter-college-hackathon-amc-engineering-college-amcec-bengaluru-1766831",
+      "source": "unstop",
+      "location": "Bangalore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-13",
+      "registration_deadline": "2026-10-13",
+      "tags": [],
+      "uid": "hk:11bd0d1688fba6f4"
+    },
+    {
       "name": "UnivaBio ($40,000 in prizes)",
       "organizer": "BioCataalysis",
       "url": "https://univabio.devpost.com/",
@@ -220,19 +216,6 @@
       "uid": "hk:4065835de3dfdda2"
     },
     {
-      "name": "Ideathon",
-      "organizer": "Ram Lal Anand College, University of Delhi",
-      "url": "https://unstop.com/hackathons/ideathon-ram-lal-anand-college-university-of-delhi-1768697",
-      "source": "unstop",
-      "location": "New Delhi",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-15",
-      "registration_deadline": "2026-10-15",
-      "tags": [],
-      "uid": "hk:9859f096afdc2bc1"
-    },
-    {
       "name": "Next Founders Hackathon",
       "organizer": "Student Organization",
       "url": "https://next-founders.devpost.com/",
@@ -283,6 +266,21 @@
       "uid": "hk:668e1c011abee4e8"
     },
     {
+      "name": "AI Lodge Hackathon 2026",
+      "organizer": "SMU Business Intelligence & Analytics",
+      "url": "https://ai-lodge-hackathon-2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-09-22",
+      "end_date": "2026-10-18",
+      "registration_deadline": "2026-10-18",
+      "tags": [
+        "Beginner Friendly"
+      ],
+      "uid": "hk:729f3cd1714b3101"
+    },
+    {
       "name": "Lehigh Fall 2026 Collegiate Hackathon",
       "organizer": "CSBA",
       "url": "https://lehigh-hacks.devpost.com/",
@@ -315,21 +313,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:39105ec8320614ea"
-    },
-    {
-      "name": "AI Lodge Hackathon 2026",
-      "organizer": "SMU Business Intelligence & Analytics",
-      "url": "https://ai-lodge-hackathon-2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-22",
-      "end_date": "2026-10-19",
-      "registration_deadline": "2026-10-19",
-      "tags": [
-        "Beginner Friendly"
-      ],
-      "uid": "hk:729f3cd1714b3101"
     },
     {
       "name": "HEALTHHACK 48",
@@ -383,19 +366,6 @@
       "uid": "hk:f6642b9d10e5eef8"
     },
     {
-      "name": "Code Auction",
-      "organizer": "Guru Tegh Bahadur 4th Centenary Engineering College, Delhi",
-      "url": "https://unstop.com/hackathons/code-auction-guru-tegh-bahadur-4th-centenary-engineering-college-delhi-1768506",
-      "source": "unstop",
-      "location": "West Delhi",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-22",
-      "registration_deadline": "2026-10-22",
-      "tags": [],
-      "uid": "hk:012432559e969500"
-    },
-    {
       "name": "Build, Ship, Shape: Amazon Developer Hackathon",
       "organizer": "Amazon",
       "url": "https://amazonappdev2026.devpost.com/",
@@ -413,17 +383,17 @@
       "uid": "hk:2994e33d91ff7c75"
     },
     {
-      "name": "Blitz'26 - Technical Coding",
-      "organizer": "Mookambigai College of Engineering",
-      "url": "https://unstop.com/hackathons/blitz26-technical-coding-mookambigai-college-of-engineering-1768744",
+      "name": "CognitionNext '26",
+      "organizer": "VJTI Mumbai ",
+      "url": "https://unstop.com/hackathons/cognext-agent-force-vjti-mumbai-1765869",
       "source": "unstop",
-      "location": "online",
+      "location": "Mumbai",
       "format": "online",
       "start_date": null,
       "end_date": "2026-10-24",
       "registration_deadline": "2026-10-24",
       "tags": [],
-      "uid": "hk:9b8d723ecd32e163"
+      "uid": "hk:1ffabd093b6803e9"
     },
     {
       "name": "Neighborhood Hacks",
@@ -442,6 +412,19 @@
       "uid": "hk:de635fea596d4c71"
     },
     {
+      "name": "CODE RED — Competitive Programming Contest",
+      "organizer": "Birla Institute of Technology (BIT), Mesra, Patna Campus",
+      "url": "https://unstop.com/hackathons/code-red-competitive-programming-contest-xordium-50-birla-institute-of-technology-bit-mesra-patna-campus-1768869",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-25",
+      "registration_deadline": "2026-10-25",
+      "tags": [],
+      "uid": "hk:b54a2d42f9755744"
+    },
+    {
       "name": "IEEE ClimateChain Global Hackathon",
       "organizer": "IEEE Turkey",
       "url": "https://ieee-climatechain-hack.devpost.com/",
@@ -457,6 +440,19 @@
         "Social Good"
       ],
       "uid": "hk:6b90618a61d26918"
+    },
+    {
+      "name": "NexHack 3.0 — Build What's Next",
+      "organizer": "NexHack",
+      "url": "https://unstop.com/hackathons/nexhack-30-build-whats-next-nexhack-30-build-whats-next-nexhack-1768863",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-25",
+      "registration_deadline": "2026-10-25",
+      "tags": [],
+      "uid": "hk:e968dbfc4c00c00e"
     },
     {
       "name": "Syntax Error 2026",
@@ -706,6 +702,19 @@
       "uid": "hk:8317cfb9e02b24fc"
     },
     {
+      "name": "The Outpost",
+      "organizer": "Frontend Arena",
+      "url": "https://unstop.com/hackathons/the-outpost-frontend-arena-1766381",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-31",
+      "registration_deadline": "2026-10-31",
+      "tags": [],
+      "uid": "hk:eaae47f2e08af724"
+    },
+    {
       "name": "YouCam API Skin AI & eCommerce VTO Hackathon",
       "organizer": "Perfect Corp",
       "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
@@ -738,32 +747,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:c0ac4b1690895bc0"
-    },
-    {
-      "name": "CodersInPune Hackathon - HackWIthPune",
-      "organizer": "HackWithPune",
-      "url": "https://unstop.com/hackathons/codersinpune-hackathon-hackwithpune-1768758",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-06",
-      "registration_deadline": "2026-11-06",
-      "tags": [],
-      "uid": "hk:640582420b1f826f"
-    },
-    {
-      "name": "Threws Odyssey 2026",
-      "organizer": "Threws - The Research World",
-      "url": "https://unstop.com/hackathons/threws-odyssey-2026-threws-the-research-world-1766434",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-07",
-      "registration_deadline": "2026-11-07",
-      "tags": [],
-      "uid": "hk:0e09256a8e27c1a0"
     },
     {
       "name": "EthnoHack",
@@ -900,6 +883,23 @@
         "Productivity"
       ],
       "uid": "hk:79cb5665a941f746"
+    },
+    {
+      "name": "BuildyourOwnWebsite",
+      "organizer": "Roxten Studios",
+      "url": "https://buildyourownwebsite.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-25",
+      "registration_deadline": "2026-11-25",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Web"
+      ],
+      "uid": "hk:ddd011dc86e231ad"
     },
     {
       "name": "Hackathon Agéntico SoftwareChido 2026B",
