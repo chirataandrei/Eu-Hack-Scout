@@ -1,51 +1,6 @@
 {
-  "updated_at": "2026-10-11T11:18:05.416601+00:00",
+  "updated_at": "2026-10-12T12:52:23.625951+00:00",
   "hackathons": [
-    {
-      "name": "European Defense Tech Hackathon - Bucharest",
-      "organizer": "events.eurodefense.tech",
-      "url": "https://events.eurodefense.tech/european-defense-tech-hackathon-bucharest",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-11",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:0e298497151fce66"
-    },
-    {
-      "name": "Hackathoane de drone și tehnologii de apărare, în ...",
-      "organizer": "startupcafe.ro",
-      "url": "https://startupcafe.ro/hackathoane-de-drone-si-tehnologii-de-aparare-in-aceasta-toamna-la-galati-si-bucuresti-premii-si-acces-la-investitori-pentru-participanti-105182",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-10-02",
-      "end_date": "2026-10-11",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c0fe2130cd2b7e24"
-    },
-    {
-      "name": "Romania Hosts European Defense Tech Hackathon 7-11 ...",
-      "organizer": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/uk-romania-business_european-defense-tech-hackathon-comes-to-activity-7503716937768636416-tCm1",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-10-07",
-      "end_date": "2026-10-11",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:d457b5f2eed43f9c"
-    },
     {
       "name": "AWS Community @ NEXXT AI Hackathon",
       "organizer": "Bucharest AWS User Group",
@@ -2482,21 +2437,6 @@
         "apify"
       ],
       "uid": "hk:70dbe5d95f2a45b0"
-    },
-    {
-      "name": "Resources | The Bucharest Hackathon 2026",
-      "organizer": "thebucharesthackathon.com",
-      "url": "https://thebucharesthackathon.com/resources.html",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c4e0cd3d097752c8"
     },
     {
       "name": "Restaurant of Tomorrow - Coding Challenge",

@@ -1,56 +1,6 @@
 {
-  "updated_at": "2026-10-11T11:18:05.416601+00:00",
+  "updated_at": "2026-10-12T12:52:23.625951+00:00",
   "hackathons": [
-    {
-      "name": "CodeRED: Orion",
-      "organizer": "CougarCS",
-      "url": "https://codered-orion-ccs.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-11",
-      "registration_deadline": "2026-10-11",
-      "tags": [
-        "Beginner Friendly",
-        "DevOps",
-        "Web"
-      ],
-      "uid": "hk:f929f7ac451838b8"
-    },
-    {
-      "name": "EvoHacks2026",
-      "organizer": "EvoHacks",
-      "url": "https://evohackathon2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-11",
-      "registration_deadline": "2026-10-11",
-      "tags": [
-        "Beginner Friendly",
-        "Low/No Code",
-        "Machine Learning/AI"
-      ],
-      "uid": "hk:5163fc1d69f73cab"
-    },
-    {
-      "name": "AIC Internal Competition -2026 (Agentic AI)",
-      "organizer": "AI Community @ SBU",
-      "url": "https://aic-ic-2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-30",
-      "end_date": "2026-10-12",
-      "registration_deadline": "2026-10-12",
-      "tags": [
-        "Machine Learning/AI",
-        "Open Ended"
-      ],
-      "uid": "hk:007d281ee2c80470"
-    },
     {
       "name": "All you can do with AI",
       "organizer": "Self",
@@ -70,20 +20,16 @@
     },
     {
       "name": "Banana Hacks",
-      "organizer": "n/a",
-      "url": "https://banana-hacks-1111.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
+      "organizer": "Hack Club",
+      "url": "https://www.bananahacks.tech",
+      "source": "hackclub",
+      "location": "",
       "format": "online",
       "start_date": "2026-10-09",
       "end_date": "2026-10-12",
-      "registration_deadline": "2026-10-12",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Web"
-      ],
-      "uid": "hk:b062464845159a28"
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:7dbc747bfff86aa6"
     },
     {
       "name": "Graphiques Innovation Challenge",
@@ -101,53 +47,6 @@
         "Productivity"
       ],
       "uid": "hk:d0b57ad2c7fcbf89"
-    },
-    {
-      "name": "United Hackathons V1",
-      "organizer": "United Hackathons",
-      "url": "https://devonomicsv1.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-06",
-      "end_date": "2026-10-12",
-      "registration_deadline": "2026-10-12",
-      "tags": [
-        "Machine Learning/AI",
-        "Open Ended",
-        "Social Good"
-      ],
-      "uid": "hk:ba251b6556de0dc1"
-    },
-    {
-      "name": "HACK ATTACK — 8-Hour Inter-College Hackathon",
-      "organizer": "AMC Engineering College (AMCEC), Bengaluru",
-      "url": "https://unstop.com/hackathons/hack-attack-8-hour-inter-college-hackathon-amc-engineering-college-amcec-bengaluru-1766831",
-      "source": "unstop",
-      "location": "Bangalore",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-13",
-      "registration_deadline": "2026-10-13",
-      "tags": [],
-      "uid": "hk:11bd0d1688fba6f4"
-    },
-    {
-      "name": "UnivaBio ($40,000 in prizes)",
-      "organizer": "BioCataalysis",
-      "url": "https://univabio.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-07",
-      "end_date": "2026-10-13",
-      "registration_deadline": "2026-10-13",
-      "tags": [
-        "Beginner Friendly",
-        "Health",
-        "Social Good"
-      ],
-      "uid": "hk:514ed2fd054d5c62"
     },
     {
       "name": "Multimodal AI Hackathon 2026",
@@ -266,6 +165,23 @@
       "uid": "hk:668e1c011abee4e8"
     },
     {
+      "name": "NTU x ST Engineering Hackathon",
+      "organizer": "nanyang technological university",
+      "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-17",
+      "registration_deadline": "2026-10-17",
+      "tags": [
+        "Cybersecurity",
+        "Education",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:7e46a80555daf988"
+    },
+    {
       "name": "AI Lodge Hackathon 2026",
       "organizer": "SMU Business Intelligence & Analytics",
       "url": "https://ai-lodge-hackathon-2026.devpost.com/",
@@ -279,6 +195,22 @@
         "Beginner Friendly"
       ],
       "uid": "hk:729f3cd1714b3101"
+    },
+    {
+      "name": "IEEE Hack For Humanity",
+      "organizer": "IEEE Charlotte Section",
+      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-18",
+      "registration_deadline": "2026-10-18",
+      "tags": [
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "uid": "hk:cf965529f156d94b"
     },
     {
       "name": "Lehigh Fall 2026 Collegiate Hackathon",
@@ -366,6 +298,23 @@
       "uid": "hk:f6642b9d10e5eef8"
     },
     {
+      "name": "UnivaBio ($40,000 in prizes)",
+      "organizer": "BioCataalysis",
+      "url": "https://univabio.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-08-07",
+      "end_date": "2026-10-20",
+      "registration_deadline": "2026-10-20",
+      "tags": [
+        "Beginner Friendly",
+        "Health",
+        "Social Good"
+      ],
+      "uid": "hk:514ed2fd054d5c62"
+    },
+    {
       "name": "Build, Ship, Shape: Amazon Developer Hackathon",
       "organizer": "Amazon",
       "url": "https://amazonappdev2026.devpost.com/",
@@ -383,17 +332,17 @@
       "uid": "hk:2994e33d91ff7c75"
     },
     {
-      "name": "CognitionNext '26",
-      "organizer": "VJTI Mumbai ",
-      "url": "https://unstop.com/hackathons/cognext-agent-force-vjti-mumbai-1765869",
+      "name": "Hustle Carnival",
+      "organizer": "Gl Bajaj group of institutions",
+      "url": "https://unstop.com/hackathons/hustle-carnival-gl-bajaj-group-of-institutions-1763514",
       "source": "unstop",
-      "location": "Mumbai",
+      "location": "Mathura",
       "format": "online",
       "start_date": null,
-      "end_date": "2026-10-24",
-      "registration_deadline": "2026-10-24",
+      "end_date": "2026-10-23",
+      "registration_deadline": "2026-10-23",
       "tags": [],
-      "uid": "hk:1ffabd093b6803e9"
+      "uid": "hk:fe1b9227fadbe5f5"
     },
     {
       "name": "Neighborhood Hacks",
@@ -410,19 +359,6 @@
         "Social Good"
       ],
       "uid": "hk:de635fea596d4c71"
-    },
-    {
-      "name": "CODE RED — Competitive Programming Contest",
-      "organizer": "Birla Institute of Technology (BIT), Mesra, Patna Campus",
-      "url": "https://unstop.com/hackathons/code-red-competitive-programming-contest-xordium-50-birla-institute-of-technology-bit-mesra-patna-campus-1768869",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-25",
-      "registration_deadline": "2026-10-25",
-      "tags": [],
-      "uid": "hk:b54a2d42f9755744"
     },
     {
       "name": "IEEE ClimateChain Global Hackathon",
@@ -442,9 +378,9 @@
       "uid": "hk:6b90618a61d26918"
     },
     {
-      "name": "NexHack 3.0 — Build What's Next",
-      "organizer": "NexHack",
-      "url": "https://unstop.com/hackathons/nexhack-30-build-whats-next-nexhack-30-build-whats-next-nexhack-1768863",
+      "name": "Orca Coders: Orcathon",
+      "organizer": "DevHarbour",
+      "url": "https://unstop.com/hackathons/orca-coders-orcathon-devharbour-1768929",
       "source": "unstop",
       "location": "online",
       "format": "online",
@@ -452,7 +388,7 @@
       "end_date": "2026-10-25",
       "registration_deadline": "2026-10-25",
       "tags": [],
-      "uid": "hk:e968dbfc4c00c00e"
+      "uid": "hk:e9681cc89060c1c9"
     },
     {
       "name": "Syntax Error 2026",
@@ -702,19 +638,6 @@
       "uid": "hk:8317cfb9e02b24fc"
     },
     {
-      "name": "The Outpost",
-      "organizer": "Frontend Arena",
-      "url": "https://unstop.com/hackathons/the-outpost-frontend-arena-1766381",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-31",
-      "registration_deadline": "2026-10-31",
-      "tags": [],
-      "uid": "hk:eaae47f2e08af724"
-    },
-    {
       "name": "YouCam API Skin AI & eCommerce VTO Hackathon",
       "organizer": "Perfect Corp",
       "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
@@ -764,6 +687,21 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:9c91d2add0d852b9"
+    },
+    {
+      "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
+      "organizer": "Institute of Engineering & Management",
+      "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-11",
+      "registration_deadline": "2026-11-11",
+      "tags": [
+        "Quantum"
+      ],
+      "uid": "hk:db7e4fbcc0dfb28a"
     },
     {
       "name": "PayPal AI Hackathon",
@@ -1090,6 +1028,45 @@
         "DevOps"
       ],
       "uid": "hk:87583afa40a34856"
+    },
+    {
+      "name": "Craft N Code Delhi",
+      "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+      "url": "https://unstop.com/hackathons/craft-n-code-delhi-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit--1746233",
+      "source": "unstop",
+      "location": "Bhilai",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2027-02-06",
+      "registration_deadline": "2027-02-06",
+      "tags": [],
+      "uid": "hk:2b1b0f3d58f2fee3"
+    },
+    {
+      "name": "Craft N Code Haryana",
+      "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+      "url": "https://unstop.com/hackathons/craft-n-code-haryana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iii-1746142",
+      "source": "unstop",
+      "location": "Bhilai",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2027-02-06",
+      "registration_deadline": "2027-02-06",
+      "tags": [],
+      "uid": "hk:2eacc305f642c7e0"
+    },
+    {
+      "name": "Craft N Code Telangana",
+      "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+      "url": "https://unstop.com/hackathons/craft-n-code-telangana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-i-1746232",
+      "source": "unstop",
+      "location": "Bhilai",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2027-02-06",
+      "registration_deadline": "2027-02-06",
+      "tags": [],
+      "uid": "hk:28e963383a5b6921"
     },
     {
       "name": "DeveloperWeek 2027 Hackathon",
