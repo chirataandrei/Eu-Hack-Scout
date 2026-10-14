@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T12:31:02.092379+00:00",
+  "updated_at": "2026-10-14T09:58:43.864108+00:00",
   "hackathons": [
     {
       "name": "Child Safety in AI",
@@ -49,23 +49,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:7980d675224f38af"
-    },
-    {
-      "name": "WarriorHacks 2.0",
-      "organizer": "Westwood Computer Science Club",
-      "url": "https://warriorhacks-2-0.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-28",
-      "end_date": "2026-10-14",
-      "registration_deadline": "2026-10-14",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Open Ended"
-      ],
-      "uid": "hk:652cb4bde1658fd2"
     },
     {
       "name": "CodeSprint by Elite Coders",
@@ -268,6 +251,19 @@
       "uid": "hk:a85428398d3b2977"
     },
     {
+      "name": "Zero Shot Hack",
+      "organizer": "Vellore Institute of Technology (VIT), Vellore",
+      "url": "https://unstop.com/hackathons/zero-shot-hack-vit-vellore-1769865",
+      "source": "unstop",
+      "location": "Vellore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-19",
+      "registration_deadline": "2026-10-19",
+      "tags": [],
+      "uid": "hk:144445318227be1d"
+    },
+    {
       "name": "EurekaDev 2026",
       "organizer": "Eureka Institute and UnivaDev",
       "url": "https://eurekadev.devpost.com/",
@@ -285,17 +281,17 @@
       "uid": "hk:f6642b9d10e5eef8"
     },
     {
-      "name": "Med-AI-Thon",
-      "organizer": "SRM University, Tiruchirappalli, Tamil Nadu",
-      "url": "https://unstop.com/hackathons/med-ai-thon-srm-university-tiruchirappalli-tamil-nadu-1769847",
+      "name": "Hactoberfest 2026 Hackday",
+      "organizer": "IIMT University (IIMTU), Meerut, Uttar Pradesh",
+      "url": "https://unstop.com/hackathons/hactoberfest-2026-hackday-hactoberfest-2026-hackday-at-meerut-x-ecell-iimt-university-iimt-university-iimtu-m-1769690",
       "source": "unstop",
-      "location": "Tiruchirappalli",
+      "location": "Meerut",
       "format": "online",
       "start_date": null,
       "end_date": "2026-10-20",
       "registration_deadline": "2026-10-20",
       "tags": [],
-      "uid": "hk:01b6b0380e9dcda6"
+      "uid": "hk:a2319bce1ce83393"
     },
     {
       "name": "UnivaBio ($40,000 in prizes)",
@@ -313,19 +309,6 @@
         "Social Good"
       ],
       "uid": "hk:514ed2fd054d5c62"
-    },
-    {
-      "name": "Fallout",
-      "organizer": "University School of Automation & Robotics (USAR) ,Guru Gobind Singh Indraprastha University (GGSIPU), Delhi",
-      "url": "https://unstop.com/hackathons/fallout-university-school-of-automation-robotics-usar-guru-gobind-singh-indraprastha-university-ggsipu-delhi-1769462",
-      "source": "unstop",
-      "location": "East Delhi",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-21",
-      "registration_deadline": "2026-10-21",
-      "tags": [],
-      "uid": "hk:2383a3f29031d878"
     },
     {
       "name": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -542,6 +525,32 @@
       "uid": "hk:d7f0a68c5a2a8a0e"
     },
     {
+      "name": "Circuit Debugging",
+      "organizer": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "url": "https://unstop.com/hackathons/circuit-debugging-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769180",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-29",
+      "registration_deadline": "2026-10-29",
+      "tags": [],
+      "uid": "hk:88979874630bbfdd"
+    },
+    {
+      "name": "Hackathon",
+      "organizer": "National Institute of Technology (NIT), Arunachal Pradesh",
+      "url": "https://unstop.com/hackathons/hackathon-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769328",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-29",
+      "registration_deadline": "2026-10-29",
+      "tags": [],
+      "uid": "hk:3643e29cf696aa5e"
+    },
+    {
       "name": "Hybrid Micro Mouse Challenge",
       "organizer": "Alliance University",
       "url": "https://hybrid-micro-mouse-challenge.devpost.com/",
@@ -557,6 +566,19 @@
         "Open Ended"
       ],
       "uid": "hk:6149665a8958fb32"
+    },
+    {
+      "name": "Gwalior AI Summit 2026 – AI Innovation Challenge",
+      "organizer": "Atal Bihari Vajpayee-Indian Institute of Information Technology and Management",
+      "url": "https://unstop.com/hackathons/gwalior-ai-summit-2026-ai-innovation-challenge-gwalior-ai-summit-29-30-oct-atal-bihari-vajpayee-indian-instit-1770019",
+      "source": "unstop",
+      "location": "Gwalior",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-30",
+      "registration_deadline": "2026-10-30",
+      "tags": [],
+      "uid": "hk:4f158ef90cad17f0"
     },
     {
       "name": "Learn to Hack: MATLAB Edition 2026",
@@ -606,6 +628,23 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:8d845ce63711f65c"
+    },
+    {
+      "name": "305 EmpowHER Edition October 2026",
+      "organizer": "CODE CRUNCH",
+      "url": "https://305empowheroct2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-31",
+      "registration_deadline": "2026-10-31",
+      "tags": [
+        "Beginner Friendly",
+        "Cybersecurity",
+        "Education"
+      ],
+      "uid": "hk:65f0d103c3090188"
     },
     {
       "name": "Galuxium Nexus V2",
@@ -676,19 +715,6 @@
       "uid": "hk:14417c87da978cef"
     },
     {
-      "name": "AI Sansad | Technical MUN on AI & Innovation",
-      "organizer": "Bharati Vidyapeeth's College of Engineering",
-      "url": "https://unstop.com/hackathons/ai-sansad-technical-mun-on-ai-innovation-bharati-vidyapeeths-college-of-engineering-1769712",
-      "source": "unstop",
-      "location": "West Delhi",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-04",
-      "registration_deadline": "2026-11-04",
-      "tags": [],
-      "uid": "hk:814b8e2d4b2cb53b"
-    },
-    {
       "name": "Ostad Presents YUNet AIgnite Buildathon 2026",
       "organizer": "Youth Upskill Network - YUNet",
       "url": "https://yunet-aignite26.devpost.com/",
@@ -753,19 +779,6 @@
         "Web"
       ],
       "uid": "hk:8ccb7f30bee1e7c4"
-    },
-    {
-      "name": "Bazaar: Beat the Markets",
-      "organizer": "Punjab Engineering College (PEC), Chandigarh",
-      "url": "https://unstop.com/hackathons/beat-the-markets-punjab-engineering-college-pec-chandigarh-1769112",
-      "source": "unstop",
-      "location": "Chandigarh",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-15",
-      "registration_deadline": "2026-11-15",
-      "tags": [],
-      "uid": "hk:52f7533219e89186"
     },
     {
       "name": "DSH Hacks V2 ($100k+ in prizes!)",
@@ -903,19 +916,6 @@
       "uid": "hk:edc53a12adaca46c"
     },
     {
-      "name": "Ooty Hacks",
-      "organizer": "Hackhere",
-      "url": "https://unstop.com/hackathons/ooty-hacks-hackhere-1768100",
-      "source": "unstop",
-      "location": "Ooty",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-25",
-      "registration_deadline": "2026-11-25",
-      "tags": [],
-      "uid": "hk:c96d29d5f86a8b3e"
-    },
-    {
       "name": "Your Pathway to Innovation",
       "organizer": "allhackathons.com › hackathons",
       "url": "https://allhackathons.com › hackathons",
@@ -929,6 +929,40 @@
         "apify"
       ],
       "uid": "hk:195c2fd607f4c818"
+    },
+    {
+      "name": "305 Veterans Hackathon Edition November 2026",
+      "organizer": "GOOGLE DEVELOPER GROUP AT FIU",
+      "url": "https://305veteransnov2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-30",
+      "registration_deadline": "2026-11-30",
+      "tags": [
+        "Beginner Friendly",
+        "Cybersecurity",
+        "Education"
+      ],
+      "uid": "hk:4a055a7aeed6e5a9"
+    },
+    {
+      "name": "CSC Winter Sparkathon",
+      "organizer": "The Webb Schools CSC",
+      "url": "https://csc-winter-sparkathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-29",
+      "end_date": "2026-11-30",
+      "registration_deadline": "2026-11-30",
+      "tags": [
+        "Beginner Friendly",
+        "Open Ended",
+        "Social Good"
+      ],
+      "uid": "hk:7258d88f2b267830"
     },
     {
       "name": "Pixel Forge Mega Jam",
@@ -1008,6 +1042,23 @@
         "Beginner Friendly"
       ],
       "uid": "hk:2b057abf14f143d6"
+    },
+    {
+      "name": "305 CodeFest Edition December 2026",
+      "organizer": "COLORSTACKatFIU",
+      "url": "https://305codefestdec2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-31",
+      "registration_deadline": "2026-12-31",
+      "tags": [
+        "Beginner Friendly",
+        "Cybersecurity",
+        "Education"
+      ],
+      "uid": "hk:a25240a03353befe"
     },
     {
       "name": "evensonarisnord",
@@ -1156,6 +1207,23 @@
         "Health"
       ],
       "uid": "hk:4e47a8e0baef1db6"
+    },
+    {
+      "name": "DeveloperWeek New York 2027 Hackathon",
+      "organizer": "DevNetwork",
+      "url": "https://developerweek-new-york-2027.devpost.com/",
+      "source": "devpost",
+      "location": "Meadowlands Exposition Center + Online",
+      "format": "online",
+      "start_date": "2027-05-31",
+      "end_date": "2027-06-17",
+      "registration_deadline": "2027-06-17",
+      "tags": [
+        "DevOps",
+        "Enterprise",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:b4d404f1bb3e406a"
     },
     {
       "name": "Brewing Codes 4.0",

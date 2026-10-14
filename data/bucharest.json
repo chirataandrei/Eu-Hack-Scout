@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T12:31:02.092379+00:00",
+  "updated_at": "2026-10-14T09:58:43.864108+00:00",
   "hackathons": [
     {
       "name": "AWS Community @ NEXXT AI Hackathon",
@@ -1213,21 +1213,6 @@
       "uid": "hk:0051d2ed669e1383"
     },
     {
-      "name": "hackathon 2026",
-      "organizer": "youtube.com",
-      "url": "https://www.youtube.com/watch?v=cQoTuZjjZvc",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:a9d5208f7d559b42"
-    },
-    {
       "name": "Hackathon Bucharest 2026",
       "organizer": "instagram.com",
       "url": "https://www.instagram.com/popular/hackathon-bucharest-2026/",
@@ -2437,21 +2422,6 @@
         "apify"
       ],
       "uid": "hk:70dbe5d95f2a45b0"
-    },
-    {
-      "name": "Resources | The Bucharest Hackathon 2026",
-      "organizer": "thebucharesthackathon.com",
-      "url": "https://thebucharesthackathon.com/resources.html",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c4e0cd3d097752c8"
     },
     {
       "name": "Restaurant of Tomorrow - Coding Challenge",

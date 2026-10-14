@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-10-13T12:31:02.092379+00:00",
+  "updated_at": "2026-10-14T09:58:43.864108+00:00",
   "hackathons": [
-    {
-      "name": "Fintech Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/ex76h9ua",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-13",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:d8064e9c961e39b3"
-    },
-    {
-      "name": "Hack Night: Content Machine",
-      "organizer": "Luma",
-      "url": "https://lu.ma/0y2fybh8",
-      "source": "luma",
-      "location": "St. Gallen, St. Gallen, Switzerland, Switzerland",
-      "format": "in_person",
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-13",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:a52598a597e7d022"
-    },
     {
       "name": "HackNight NeuroTechX Paris (hybride)",
       "organizer": "CogLab, NeuroTechX Paris",
@@ -52,19 +26,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:41ef1681e7563c73"
-    },
-    {
-      "name": "Claude Hackathon + Showcase | Better Student Life",
-      "organizer": "Luma",
-      "url": "https://lu.ma/61w6hlef",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-16",
-      "end_date": "2026-10-16",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:332addec57c0ab7c"
     },
     {
       "name": "Build Agents That Remember Hackathon @42Paris",
@@ -117,19 +78,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:1a251c866a9e2685"
-    },
-    {
-      "name": "Helsingborg Tech Week: Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/moo22oia",
-      "source": "luma",
-      "location": "Helsingborg, Helsingborg, Sweden, Sweden",
-      "format": "in_person",
-      "start_date": "2026-10-20",
-      "end_date": "2026-10-20",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:0515616d2314fc2d"
     },
     {
       "name": "Databricks UK Innovation Hackathon with Colibri Digital",
@@ -236,19 +184,6 @@
       "uid": "hk:a31aaf9647a26363"
     },
     {
-      "name": "VIBENIGHT #2 : Hackathon AI Safety",
-      "organizer": "Luma",
-      "url": "https://lu.ma/9rkl3mrp",
-      "source": "luma",
-      "location": "Paris, Paris, France, France",
-      "format": "in_person",
-      "start_date": "2026-10-30",
-      "end_date": "2026-10-30",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:8b4a2c0dda9acd5e"
-    },
-    {
       "name": "TUM Blockchain Conference 26 / Digital Assets Day + Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/tbc26",
@@ -327,17 +262,30 @@
       "uid": "hk:efb5fcbe5b9703e9"
     },
     {
-      "name": "Cambridge EduX Hackathon 2026",
+      "name": "VIBENIGHT #2 : Hackathon AI Safety",
       "organizer": "Luma",
-      "url": "https://lu.ma/6sv64tnt",
+      "url": "https://lu.ma/9rkl3mrp",
       "source": "luma",
-      "location": "Cambridge, Cambridge, United Kingdom, United Kingdom",
+      "location": "Paris, Paris, France, France",
       "format": "in_person",
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-13",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:85e33dc7e15afd87"
+      "uid": "hk:8b4a2c0dda9acd5e"
+    },
+    {
+      "name": "HackTheBurgh",
+      "organizer": "MLH",
+      "url": "https://hacktheburgh.com/",
+      "source": "mlh",
+      "location": "Edinburgh, Edinburgh, Edinburgh, GB",
+      "format": "in_person",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:b71b09431f102ceb"
     },
     {
       "name": "proximata HACKATHON",
@@ -366,17 +314,17 @@
       "uid": "hk:171ae7a98e42a7d4"
     },
     {
-      "name": "The St Andrews Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/otyzrh3h",
-      "source": "luma",
-      "location": "St Andrews, St Andrews, United Kingdom, United Kingdom",
+      "name": "Junction",
+      "organizer": "MLH",
+      "url": "https://hackjunction.com",
+      "source": "mlh",
+      "location": "Espoo, Uusimaa, Espoo, FI",
       "format": "in_person",
-      "start_date": "2026-11-15",
+      "start_date": "2026-11-13",
       "end_date": "2026-11-15",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:a238165847c3d936"
+      "uid": "hk:ba0286054bea3156"
     },
     {
       "name": "UniHack",
@@ -421,17 +369,17 @@
       "uid": "hk:7e1ed56ceb660aec"
     },
     {
-      "name": "Ideation Hackathon",
+      "name": "SoTA Scientific Parallelism Hackathon | With Callosum, Inherent, ARIA + Fractile",
       "organizer": "Luma",
-      "url": "https://lu.ma/cityve-tsod",
+      "url": "https://lu.ma/scientific-parallelism",
       "source": "luma",
       "location": "London, London, United Kingdom, United Kingdom",
       "format": "in_person",
-      "start_date": "2026-11-16",
+      "start_date": "2026-11-21",
       "end_date": "2026-11-22",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:8d2b81b19fd56da1"
+      "uid": "hk:9278612781776c0b"
     },
     {
       "name": "12th CASSINI Hackathon - EU Space for Peace and Resilience",
