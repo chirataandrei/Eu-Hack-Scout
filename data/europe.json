@@ -1,31 +1,44 @@
 {
-  "updated_at": "2026-10-14T09:58:43.864108+00:00",
+  "updated_at": "2026-10-15T09:40:37.816656+00:00",
   "hackathons": [
     {
-      "name": "HackNight NeuroTechX Paris (hybride)",
-      "organizer": "CogLab, NeuroTechX Paris",
-      "url": "https://www.meetup.com/coglab/events/316957754/",
-      "source": "meetup",
-      "location": "Paris, Makerlab Paris, fr",
+      "name": "Bazel Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/9dm41b1h",
+      "source": "luma",
+      "location": "Amsterdam, Amsterdam, Netherlands, Netherlands",
       "format": "in_person",
-      "start_date": "2026-10-14",
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:7a4e2d7cc25bddf1"
+    },
+    {
+      "name": "Claude Hackathon + Showcase | Better Student Life",
+      "organizer": "Luma",
+      "url": "https://lu.ma/61w6hlef",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:332addec57c0ab7c"
+    },
+    {
+      "name": "Creative Code Jam @ MotionLab.Berlin",
+      "organizer": "Creative Code Berlin",
+      "url": "https://www.meetup.com/creativecodeberlin/events/316973792/",
+      "source": "meetup",
+      "location": "Berlin, MotionLab.Berlin, de",
+      "format": "in_person",
+      "start_date": "2026-10-17",
       "end_date": null,
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:c7076119594db2e0"
-    },
-    {
-      "name": "ISM Founders Hub - Hackathon 001",
-      "organizer": "Luma",
-      "url": "https://lu.ma/2eowcaqd",
-      "source": "luma",
-      "location": "Vilnius, Vilnius, Lithuania, Lithuania",
-      "format": "in_person",
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-14",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:41ef1681e7563c73"
+      "uid": "hk:1df86b2342b06b84"
     },
     {
       "name": "Build Agents That Remember Hackathon @42Paris",
@@ -80,6 +93,19 @@
       "uid": "hk:1a251c866a9e2685"
     },
     {
+      "name": "Helsingborg Tech Week: Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/moo22oia",
+      "source": "luma",
+      "location": "Helsingborg, Helsingborg, Sweden, Sweden",
+      "format": "in_person",
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-20",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:0515616d2314fc2d"
+    },
+    {
       "name": "Databricks UK Innovation Hackathon with Colibri Digital",
       "organizer": "Databricks UK",
       "url": "https://www.meetup.com/databricks-uk/events/316647377/",
@@ -130,6 +156,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:48ba65bf03334b2d"
+    },
+    {
+      "name": "WATT THE HACK : Energy & AI Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/mcw2026-foj2",
+      "source": "luma",
+      "location": "München, München, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:0913bbda16b9deb4"
     },
     {
       "name": "AI in Healthcare Hackathon / Leeds AI Society",
@@ -275,6 +314,21 @@
       "uid": "hk:8b4a2c0dda9acd5e"
     },
     {
+      "name": "AgentVerse",
+      "organizer": "Devfolio",
+      "url": "https://devfolio.co/hackathons/agentverse",
+      "source": "devfolio",
+      "location": "UCL East - Marshgate, Sidings Street, London, UK",
+      "format": "in_person",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "registration_deadline": null,
+      "tags": [
+        "No Restrictions"
+      ],
+      "uid": "hk:40e8e81c3354e6e0"
+    },
+    {
       "name": "HackTheBurgh",
       "organizer": "MLH",
       "url": "https://hacktheburgh.com/",
@@ -286,6 +340,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:b71b09431f102ceb"
+    },
+    {
+      "name": "Cambridge EduX Hackathon 2026",
+      "organizer": "Luma",
+      "url": "https://lu.ma/6sv64tnt",
+      "source": "luma",
+      "location": "Cambridge, Cambridge, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:85e33dc7e15afd87"
     },
     {
       "name": "proximata HACKATHON",
