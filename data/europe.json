@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-16T09:33:41.489873+00:00",
+  "updated_at": "2026-10-17T09:04:30.692089+00:00",
   "hackathons": [
     {
-      "name": "Bazel Hackathon",
+      "name": "Chat Hackers - Hack Day",
       "organizer": "Luma",
-      "url": "https://lu.ma/9dm41b1h",
+      "url": "https://lu.ma/campaign-nz6y",
       "source": "luma",
-      "location": "Amsterdam, Amsterdam, Netherlands, Netherlands",
+      "location": "London, London, United Kingdom, United Kingdom",
       "format": "in_person",
-      "start_date": "2026-10-16",
-      "end_date": "2026-10-16",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:7a4e2d7cc25bddf1"
+      "uid": "hk:8a833bf427ce2399"
     },
     {
       "name": "Creative Code Jam @ MotionLab.Berlin",
@@ -52,19 +52,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:2b4a38e8af8d42ac"
-    },
-    {
-      "name": "Nebius Build Week Hackathon in partnership with NVIDIA",
-      "organizer": "Luma",
-      "url": "https://lu.ma/big-gtc-hack",
-      "source": "luma",
-      "location": "Berlin, Berlin, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:f8bd91368ebcec76"
     },
     {
       "name": "FinOps Hackathon",
@@ -301,21 +288,6 @@
       "uid": "hk:8b4a2c0dda9acd5e"
     },
     {
-      "name": "AgentVerse",
-      "organizer": "Devfolio",
-      "url": "https://devfolio.co/hackathons/agentverse",
-      "source": "devfolio",
-      "location": "UCL East - Marshgate, Sidings Street, London, UK",
-      "format": "in_person",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-08",
-      "registration_deadline": null,
-      "tags": [
-        "No Restrictions"
-      ],
-      "uid": "hk:40e8e81c3354e6e0"
-    },
-    {
       "name": "HackTheBurgh",
       "organizer": "MLH",
       "url": "https://hacktheburgh.com/",
@@ -340,6 +312,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:85e33dc7e15afd87"
+    },
+    {
+      "name": "proximata HACKATHON",
+      "organizer": "Luma",
+      "url": "https://lu.ma/rrnm4pul",
+      "source": "luma",
+      "location": "Wien, Wien, Austria, Austria",
+      "format": "in_person",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-14",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:7753184ec61d6e36"
     },
     {
       "name": "DurHack",

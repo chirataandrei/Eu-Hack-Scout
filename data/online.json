@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-10-16T09:33:41.489873+00:00",
+  "updated_at": "2026-10-17T09:04:30.692089+00:00",
   "hackathons": [
-    {
-      "name": "MLAI Hackathon 2026",
-      "organizer": "Mạng Lưới AI",
-      "url": "https://mlai-hackathon.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-09-18",
-      "end_date": "2026-10-16",
-      "registration_deadline": "2026-10-16",
-      "tags": [
-        "Databases",
-        "Machine Learning/AI"
-      ],
-      "uid": "hk:668e1c011abee4e8"
-    },
     {
       "name": "AI Hackathon - Kenya",
       "organizer": "Jaseci Labs",
@@ -35,6 +19,19 @@
       "uid": "hk:e5ad8621aadbe862"
     },
     {
+      "name": "CODE-A-THON 3.0",
+      "organizer": "R R Institute Of Modern Technology (RRIMT),",
+      "url": "https://unstop.com/hackathons/code-a-thon-30-r-r-institute-of-modern-technology-rrimt-1771425",
+      "source": "unstop",
+      "location": "Lucknow",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-17",
+      "registration_deadline": "2026-10-17",
+      "tags": [],
+      "uid": "hk:82887429750cbdc8"
+    },
+    {
       "name": "NTU x ST Engineering Hackathon",
       "organizer": "nanyang technological university",
       "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
@@ -50,6 +47,21 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:7e46a80555daf988"
+    },
+    {
+      "name": "SEPHacks 2026",
+      "organizer": "Sigma Eta Pi",
+      "url": "https://sephacks-2026.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-17",
+      "registration_deadline": "2026-10-17",
+      "tags": [
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:15de7929488da4cb"
     },
     {
       "name": "AI Lodge Hackathon 2026",
@@ -218,6 +230,19 @@
       "uid": "hk:cf965529f156d94b"
     },
     {
+      "name": "Reporeboot'26",
+      "organizer": "Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar",
+      "url": "https://unstop.com/hackathons/reporeboot26-dhirubhai-ambani-institute-of-information-and-communication-technology-da-iict-gandhinagar-1771533",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-22",
+      "registration_deadline": "2026-10-22",
+      "tags": [],
+      "uid": "hk:db0069178f1e4b75"
+    },
+    {
       "name": "Build, Ship, Shape: Amazon Developer Hackathon",
       "organizer": "Amazon",
       "url": "https://amazonappdev2026.devpost.com/",
@@ -233,19 +258,6 @@
         "Productivity"
       ],
       "uid": "hk:2994e33d91ff7c75"
-    },
-    {
-      "name": "Frame Shift – Creative Animation & Meme Challenge",
-      "organizer": "Madhav Institute of Technology & Science Gwalior",
-      "url": "https://unstop.com/hackathons/frame-shift-creative-animation-meme-challenge-madhav-institute-of-technology-science-gwalior-1771001",
-      "source": "unstop",
-      "location": "Gwalior",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-24",
-      "registration_deadline": "2026-10-24",
-      "tags": [],
-      "uid": "hk:b32d5ab1f5d04f37"
     },
     {
       "name": "Neighborhood Hacks",
@@ -279,6 +291,23 @@
         "Open Ended"
       ],
       "uid": "hk:acf38dfe22a99ea7"
+    },
+    {
+      "name": "GLITCHATHON",
+      "organizer": "sir padampat singhania university ",
+      "url": "https://glitchathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-25",
+      "registration_deadline": "2026-10-25",
+      "tags": [
+        "Design",
+        "Low/No Code",
+        "Productivity"
+      ],
+      "uid": "hk:832d8e93ae13bd61"
     },
     {
       "name": "IEEE ClimateChain Global Hackathon",
@@ -330,19 +359,6 @@
         "Education"
       ],
       "uid": "hk:8a1ab47839d787da"
-    },
-    {
-      "name": "Capture the Flag",
-      "organizer": "Vaish College of Engineering, Rohtak, Haryana",
-      "url": "https://unstop.com/hackathons/capture-the-flag-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1770937",
-      "source": "unstop",
-      "location": "Rohtak",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-26",
-      "registration_deadline": "2026-10-26",
-      "tags": [],
-      "uid": "hk:c97506229415e185"
     },
     {
       "name": "Code For DFW",
@@ -577,6 +593,19 @@
       "uid": "hk:92354790b10b1158"
     },
     {
+      "name": "Haxlr8 3.0 – National Level Hackathon",
+      "organizer": "Maharaja Institute of Technology (MIT), Mysore",
+      "url": "https://unstop.com/hackathons/haxlr8-30-national-level-hackathon-maharaja-institute-of-technology-mit-mysore-1768093",
+      "source": "unstop",
+      "location": "Mysuru",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-31",
+      "registration_deadline": "2026-10-31",
+      "tags": [],
+      "uid": "hk:866f91aa0f3b27d1"
+    },
+    {
       "name": "InternWell Hack2.0",
       "organizer": "InternWell-SLIET",
       "url": "https://interwell-hack2-0.devpost.com/",
@@ -641,6 +670,19 @@
         "Open Ended"
       ],
       "uid": "hk:04a625f1feebc215"
+    },
+    {
+      "name": "SECURATHON",
+      "organizer": "Indian Institute of Information Technology (IIIT), Bhagalpur",
+      "url": "https://unstop.com/hackathons/securathon-protofos-indian-institute-of-information-technology-iiit-bhagalpur-1771528",
+      "source": "unstop",
+      "location": "Bhagalpur",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-01",
+      "registration_deadline": "2026-11-01",
+      "tags": [],
+      "uid": "hk:cd764b3b8b0ec57c"
     },
     {
       "name": "YouCam API Skin AI & eCommerce VTO Hackathon",
@@ -711,19 +753,6 @@
       "uid": "hk:b8102d7a5f94b1c7"
     },
     {
-      "name": "BUiLDX",
-      "organizer": "Code-A-Nova",
-      "url": "https://unstop.com/hackathons/buildx-36-hours-online-hackathon-code-a-nova-1758745",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-10",
-      "registration_deadline": "2026-11-10",
-      "tags": [],
-      "uid": "hk:8d94824bc75f8a03"
-    },
-    {
       "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
       "organizer": "Institute of Engineering & Management",
       "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
@@ -754,6 +783,19 @@
         "Web"
       ],
       "uid": "hk:8ccb7f30bee1e7c4"
+    },
+    {
+      "name": "The Last Daemon",
+      "organizer": "Beunwrapd",
+      "url": "https://unstop.com/hackathons/the-last-daemon-beunwrapd-1771084",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-13",
+      "registration_deadline": "2026-11-13",
+      "tags": [],
+      "uid": "hk:f4394f583d3cc755"
     },
     {
       "name": "DSH Hacks V2 ($100k+ in prizes!)",
@@ -857,19 +899,6 @@
       "uid": "hk:b22cd0552059e903"
     },
     {
-      "name": "Build Your Bharat Hackathon (BYB)",
-      "organizer": "Next Bharat Ventures",
-      "url": "https://unstop.com/hackathons/build-your-bharat-hackathon-byb-build-your-bharatbyb-hackathon-next-bharat-ventures-1770621",
-      "source": "unstop",
-      "location": "Hyderabad",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-21",
-      "registration_deadline": "2026-11-21",
-      "tags": [],
-      "uid": "hk:437929c334be7f45"
-    },
-    {
       "name": "KUK VIRTUAL HACKATHON",
       "organizer": "Kelab UMNO Korea",
       "url": "https://kuk-virtual-hackathon.devpost.com/",
@@ -885,19 +914,6 @@
         "Productivity"
       ],
       "uid": "hk:79cb5665a941f746"
-    },
-    {
-      "name": "WH Versehack",
-      "organizer": "Writers Haven",
-      "url": "https://unstop.com/hackathons/wh-versehack-writers-haven-1770609",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-22",
-      "registration_deadline": "2026-11-22",
-      "tags": [],
-      "uid": "hk:c6be300f98aaaf66"
     },
     {
       "name": "BuildyourOwnWebsite",
@@ -1063,7 +1079,7 @@
       "uid": "hk:846f35f3315f61dd"
     },
     {
-      "name": "Cosmo Hacks",
+      "name": "Cosmo Hacks 2026",
       "organizer": "Cosmo Hacks",
       "url": "https://cosmohacks.devpost.com/",
       "source": "devpost",
@@ -1077,7 +1093,7 @@
         "Open Ended",
         "Education"
       ],
-      "uid": "hk:9f77373370e3baf5"
+      "uid": "hk:930cf1cf6fc2f2ba"
     },
     {
       "name": "MCA 2026 projects",
