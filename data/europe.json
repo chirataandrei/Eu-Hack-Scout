@@ -1,57 +1,44 @@
 {
-  "updated_at": "2026-10-17T09:04:30.692089+00:00",
+  "updated_at": "2026-10-18T09:22:52.165319+00:00",
   "hackathons": [
     {
-      "name": "Chat Hackers - Hack Day",
-      "organizer": "Luma",
-      "url": "https://lu.ma/campaign-nz6y",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-17",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:8a833bf427ce2399"
-    },
-    {
-      "name": "Creative Code Jam @ MotionLab.Berlin",
-      "organizer": "Creative Code Berlin",
-      "url": "https://www.meetup.com/creativecodeberlin/events/316973792/",
-      "source": "meetup",
-      "location": "Berlin, MotionLab.Berlin, de",
-      "format": "in_person",
-      "start_date": "2026-10-17",
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:1df86b2342b06b84"
-    },
-    {
-      "name": "Build Agents That Remember Hackathon @42Paris",
-      "organizer": "Luma",
-      "url": "https://lu.ma/bnre6nou",
-      "source": "luma",
-      "location": "Paris, Paris, France, France",
-      "format": "in_person",
-      "start_date": "2026-10-16",
-      "end_date": "2026-10-18",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:b1ca9a4572edd3d3"
-    },
-    {
       "name": "IKU Womxn in STEM Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/zo6qsl13",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
+      "organizer": "MLH",
+      "url": "https://ikuwomxninstemhackathon.co.uk/",
+      "source": "mlh",
+      "location": "London, London, London, GB",
       "format": "in_person",
       "start_date": "2026-10-17",
       "end_date": "2026-10-18",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:2b4a38e8af8d42ac"
+      "uid": "hk:f1b1ce0c71458510"
+    },
+    {
+      "name": "Nebius Build Week Hackathon in partnership with NVIDIA",
+      "organizer": "Luma",
+      "url": "https://lu.ma/big-gtc-hack",
+      "source": "luma",
+      "location": "Berlin, Berlin, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:f8bd91368ebcec76"
+    },
+    {
+      "name": "Campaign Lab Autumn Hack Night!",
+      "organizer": "Luma",
+      "url": "https://lu.ma/bsaq2dya",
+      "source": "luma",
+      "location": "London, London, England, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-19",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:2cbb626a85c7b6d6"
     },
     {
       "name": "FinOps Hackathon",
@@ -156,6 +143,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:0913bbda16b9deb4"
+    },
+    {
+      "name": "AI in Healthcare Hackathon / Leeds AI Society",
+      "organizer": "Luma",
+      "url": "https://lu.ma/qtlx2bly",
+      "source": "luma",
+      "location": "Leeds, Leeds, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:ee2b51a4aa47dae4"
     },
     {
       "name": "Encode London Hackathon",
@@ -299,6 +299,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:b71b09431f102ceb"
+    },
+    {
+      "name": "Since AI Hackathon",
+      "organizer": "MLH",
+      "url": "https://sinceai.ai/",
+      "source": "mlh",
+      "location": "Turku, Varsinais-Suomi, Turku, FI",
+      "format": "in_person",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-08",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:5e86cf642fb50027"
     },
     {
       "name": "Cambridge EduX Hackathon 2026",

@@ -1,68 +1,6 @@
 {
-  "updated_at": "2026-10-17T09:04:30.692089+00:00",
+  "updated_at": "2026-10-18T09:22:52.165319+00:00",
   "hackathons": [
-    {
-      "name": "AI Hackathon - Kenya",
-      "organizer": "Jaseci Labs",
-      "url": "https://ai-hackathon-ken.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-16",
-      "end_date": "2026-10-17",
-      "registration_deadline": "2026-10-17",
-      "tags": [
-        "Fintech",
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "uid": "hk:e5ad8621aadbe862"
-    },
-    {
-      "name": "CODE-A-THON 3.0",
-      "organizer": "R R Institute Of Modern Technology (RRIMT),",
-      "url": "https://unstop.com/hackathons/code-a-thon-30-r-r-institute-of-modern-technology-rrimt-1771425",
-      "source": "unstop",
-      "location": "Lucknow",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-17",
-      "registration_deadline": "2026-10-17",
-      "tags": [],
-      "uid": "hk:82887429750cbdc8"
-    },
-    {
-      "name": "NTU x ST Engineering Hackathon",
-      "organizer": "nanyang technological university",
-      "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-17",
-      "registration_deadline": "2026-10-17",
-      "tags": [
-        "Cybersecurity",
-        "Education",
-        "Machine Learning/AI"
-      ],
-      "uid": "hk:7e46a80555daf988"
-    },
-    {
-      "name": "SEPHacks 2026",
-      "organizer": "Sigma Eta Pi",
-      "url": "https://sephacks-2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-16",
-      "end_date": "2026-10-17",
-      "registration_deadline": "2026-10-17",
-      "tags": [
-        "Machine Learning/AI"
-      ],
-      "uid": "hk:15de7929488da4cb"
-    },
     {
       "name": "AI Lodge Hackathon 2026",
       "organizer": "SMU Business Intelligence & Analytics",
@@ -111,6 +49,23 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:39105ec8320614ea"
+    },
+    {
+      "name": "NTU x ST Engineering Hackathon",
+      "organizer": "nanyang technological university",
+      "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-18",
+      "registration_deadline": "2026-10-18",
+      "tags": [
+        "Cybersecurity",
+        "Education",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:7e46a80555daf988"
     },
     {
       "name": "SPU Hacks",
@@ -230,19 +185,6 @@
       "uid": "hk:cf965529f156d94b"
     },
     {
-      "name": "Reporeboot'26",
-      "organizer": "Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar",
-      "url": "https://unstop.com/hackathons/reporeboot26-dhirubhai-ambani-institute-of-information-and-communication-technology-da-iict-gandhinagar-1771533",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-22",
-      "registration_deadline": "2026-10-22",
-      "tags": [],
-      "uid": "hk:db0069178f1e4b75"
-    },
-    {
       "name": "Build, Ship, Shape: Amazon Developer Hackathon",
       "organizer": "Amazon",
       "url": "https://amazonappdev2026.devpost.com/",
@@ -258,6 +200,19 @@
         "Productivity"
       ],
       "uid": "hk:2994e33d91ff7c75"
+    },
+    {
+      "name": "Hack-O-Relay 6.0 - This Time It's Latent",
+      "organizer": "Dronacharya College Of Engineering (DCE), Gurgaon",
+      "url": "https://unstop.com/hackathons/hack-o-relay-60-this-time-its-latent-dronacharya-college-of-engineering-dce-gurgaon-1771713",
+      "source": "unstop",
+      "location": "Farrukhnagar",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-24",
+      "registration_deadline": "2026-10-24",
+      "tags": [],
+      "uid": "hk:655fa6bd7735f8c7"
     },
     {
       "name": "Neighborhood Hacks",
@@ -291,6 +246,22 @@
         "Open Ended"
       ],
       "uid": "hk:acf38dfe22a99ea7"
+    },
+    {
+      "name": "Taskforge",
+      "organizer": "HackathonForEveryone",
+      "url": "https://taskforge.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-24",
+      "registration_deadline": "2026-10-24",
+      "tags": [
+        "Beginner Friendly",
+        "Quantum"
+      ],
+      "uid": "hk:cb45bc6c37247d2e"
     },
     {
       "name": "GLITCHATHON",
@@ -378,6 +349,21 @@
       "uid": "hk:4ff901867dda16fb"
     },
     {
+      "name": "Hack to the Future",
+      "organizer": "HackathonForEveryone",
+      "url": "https://hack-to-the-missing-future-ai.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-27",
+      "registration_deadline": "2026-10-27",
+      "tags": [
+        "Beginner Friendly"
+      ],
+      "uid": "hk:ca8be9917054422a"
+    },
+    {
       "name": "Life After Code",
       "organizer": "GitLab",
       "url": "https://gitlab-transcend.devpost.com/",
@@ -446,6 +432,23 @@
       "uid": "hk:f6ad0187c55d683c"
     },
     {
+      "name": "STEM2Connect AI Hackathon",
+      "organizer": "STEM2Connect",
+      "url": "https://stem2connect-online-hackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-28",
+      "registration_deadline": "2026-10-28",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Web"
+      ],
+      "uid": "hk:745a7f9da464ac50"
+    },
+    {
       "name": "Sustainable Finance Live Hackathon",
       "organizer": "Data Science London",
       "url": "https://www.meetup.com/data-science-london/events/316512063/",
@@ -491,6 +494,19 @@
         "Open Ended"
       ],
       "uid": "hk:6149665a8958fb32"
+    },
+    {
+      "name": "OverClock'26 - 24 hours Hackathon",
+      "organizer": "SRM Easwari Engineering College (SRMEEC), Ramapuram",
+      "url": "https://unstop.com/hackathons/overclock26-24-hours-hackathon-srm-easwari-engineering-college-srmeec-ramapuram-1766861",
+      "source": "unstop",
+      "location": "Chennai",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-29",
+      "registration_deadline": "2026-10-29",
+      "tags": [],
+      "uid": "hk:5ebf8555c4b9b15b"
     },
     {
       "name": "Learn to Hack: MATLAB Edition 2026",
@@ -593,17 +609,17 @@
       "uid": "hk:92354790b10b1158"
     },
     {
-      "name": "Haxlr8 3.0 – National Level Hackathon",
-      "organizer": "Maharaja Institute of Technology (MIT), Mysore",
-      "url": "https://unstop.com/hackathons/haxlr8-30-national-level-hackathon-maharaja-institute-of-technology-mit-mysore-1768093",
+      "name": "HackO'Ween",
+      "organizer": "ALTA School Of Technology",
+      "url": "https://unstop.com/hackathons/hackoween-alta-school-of-technology-1771364",
       "source": "unstop",
-      "location": "Mysuru",
+      "location": "Sonipat",
       "format": "online",
       "start_date": null,
       "end_date": "2026-10-31",
       "registration_deadline": "2026-10-31",
       "tags": [],
-      "uid": "hk:866f91aa0f3b27d1"
+      "uid": "hk:233e247731d30130"
     },
     {
       "name": "InternWell Hack2.0",
@@ -640,6 +656,23 @@
       "uid": "hk:8317cfb9e02b24fc"
     },
     {
+      "name": "AQX Sports Analytics Data Bowl 4.0",
+      "organizer": "Devpost",
+      "url": "https://aqxanalyticsfour.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-18",
+      "end_date": "2026-11-01",
+      "registration_deadline": "2026-11-01",
+      "tags": [
+        "Beginner Friendly",
+        "Databases",
+        "Gaming"
+      ],
+      "uid": "hk:edaf54544ae837c8"
+    },
+    {
       "name": "Mathematics for systems security",
       "organizer": "Software Engineering Club (DEV)",
       "url": "https://mathematics-systems-security.devpost.com/",
@@ -670,19 +703,6 @@
         "Open Ended"
       ],
       "uid": "hk:04a625f1feebc215"
-    },
-    {
-      "name": "SECURATHON",
-      "organizer": "Indian Institute of Information Technology (IIIT), Bhagalpur",
-      "url": "https://unstop.com/hackathons/securathon-protofos-indian-institute-of-information-technology-iiit-bhagalpur-1771528",
-      "source": "unstop",
-      "location": "Bhagalpur",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-01",
-      "registration_deadline": "2026-11-01",
-      "tags": [],
-      "uid": "hk:cd764b3b8b0ec57c"
     },
     {
       "name": "YouCam API Skin AI & eCommerce VTO Hackathon",
@@ -753,6 +773,23 @@
       "uid": "hk:b8102d7a5f94b1c7"
     },
     {
+      "name": "Herhack",
+      "organizer": "Echelon institute of technology",
+      "url": "https://herhack.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-17",
+      "end_date": "2026-11-10",
+      "registration_deadline": "2026-11-10",
+      "tags": [
+        "Beginner Friendly",
+        "Blockchain",
+        "Open Ended"
+      ],
+      "uid": "hk:edaf7370f1086716"
+    },
+    {
       "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
       "organizer": "Institute of Engineering & Management",
       "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
@@ -783,19 +820,6 @@
         "Web"
       ],
       "uid": "hk:8ccb7f30bee1e7c4"
-    },
-    {
-      "name": "The Last Daemon",
-      "organizer": "Beunwrapd",
-      "url": "https://unstop.com/hackathons/the-last-daemon-beunwrapd-1771084",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-13",
-      "registration_deadline": "2026-11-13",
-      "tags": [],
-      "uid": "hk:f4394f583d3cc755"
     },
     {
       "name": "DSH Hacks V2 ($100k+ in prizes!)",
@@ -866,6 +890,23 @@
       "uid": "hk:7b31171cdbfb4edf"
     },
     {
+      "name": "AccessED Hacks",
+      "organizer": "AccessEDnpo",
+      "url": "https://accessed-hacks.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-17",
+      "end_date": "2026-11-20",
+      "registration_deadline": "2026-11-20",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Social Good"
+      ],
+      "uid": "hk:0b7cf5236d717401"
+    },
+    {
       "name": "LaunchPad Hacks",
       "organizer": "Hack4TodayOrg",
       "url": "https://launchpad-hacks.devpost.com/",
@@ -899,6 +940,19 @@
       "uid": "hk:b22cd0552059e903"
     },
     {
+      "name": "The Big Hack 2.0",
+      "organizer": "Acharya Institute of Technology",
+      "url": "https://unstop.com/hackathons/the-big-hack-20-acharya-institute-of-technology-1771496",
+      "source": "unstop",
+      "location": "Bangalore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-21",
+      "registration_deadline": "2026-11-21",
+      "tags": [],
+      "uid": "hk:fbe4c48081aaf018"
+    },
+    {
       "name": "KUK VIRTUAL HACKATHON",
       "organizer": "Kelab UMNO Korea",
       "url": "https://kuk-virtual-hackathon.devpost.com/",
@@ -914,6 +968,23 @@
         "Productivity"
       ],
       "uid": "hk:79cb5665a941f746"
+    },
+    {
+      "name": "SafeSpace Hacks",
+      "organizer": "SafeSpace",
+      "url": "https://safespace-hacks.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-17",
+      "end_date": "2026-11-22",
+      "registration_deadline": "2026-11-22",
+      "tags": [
+        "Beginner Friendly",
+        "Cybersecurity",
+        "Social Good"
+      ],
+      "uid": "hk:10931f03722ce04e"
     },
     {
       "name": "BuildyourOwnWebsite",
@@ -1013,6 +1084,19 @@
         "Social Good"
       ],
       "uid": "hk:7258d88f2b267830"
+    },
+    {
+      "name": "Hack Era 2.0",
+      "organizer": "Erazone",
+      "url": "https://unstop.com/hackathons/hack-era-20-erazone-1771785",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-01",
+      "registration_deadline": "2026-12-01",
+      "tags": [],
+      "uid": "hk:affd4d6408b34d58"
     },
     {
       "name": "Kiroween 2026",
