@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-10-19T10:34:44.697515+00:00",
+  "updated_at": "2026-10-20T09:51:11.793586+00:00",
   "hackathons": [
-    {
-      "name": "Campaign Lab Autumn Hack Night!",
-      "organizer": "Luma",
-      "url": "https://lu.ma/bsaq2dya",
-      "source": "luma",
-      "location": "London, London, England, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-19",
-      "end_date": "2026-10-19",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:2cbb626a85c7b6d6"
-    },
     {
       "name": "FinOps Hackathon",
       "organizer": "Luma",
@@ -80,6 +67,32 @@
       "uid": "hk:a3917642354652cf"
     },
     {
+      "name": "OSI Hackathon – Berlin Site, co-organized by Dunia, FAIRmat and HZB",
+      "organizer": "Luma",
+      "url": "https://lu.ma/1ykmpq40",
+      "source": "luma",
+      "location": "Berlin, Berlin, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-10-21",
+      "end_date": "2026-10-22",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:1840e49833ef8e47"
+    },
+    {
+      "name": "Paris Accel’s AI Innovate Series Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/0v3c010v",
+      "source": "luma",
+      "location": "Paris, Paris, France, France",
+      "format": "in_person",
+      "start_date": "2026-10-22",
+      "end_date": "2026-10-22",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:32334cfb46859d5a"
+    },
+    {
       "name": "Peekthrough October Hackathon with ElevenLabs",
       "organizer": "Luma",
       "url": "https://lu.ma/2c8cnm8f",
@@ -106,6 +119,19 @@
       "uid": "hk:48ba65bf03334b2d"
     },
     {
+      "name": "Noetic X Nebius One Day Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/qa1ds94p",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:14584d330c0b9cfc"
+    },
+    {
       "name": "WATT THE HACK : Energy & AI Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/mcw2026-foj2",
@@ -117,19 +143,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:0913bbda16b9deb4"
-    },
-    {
-      "name": "AI in Healthcare Hackathon / Leeds AI Society",
-      "organizer": "Luma",
-      "url": "https://lu.ma/qtlx2bly",
-      "source": "luma",
-      "location": "Leeds, Leeds, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-25",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:ee2b51a4aa47dae4"
     },
     {
       "name": "Encode London Hackathon",
@@ -377,6 +390,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:49e69bb5685b8c7b"
+    },
+    {
+      "name": "Leukerbad Hackathon 2026 (Robotics, XR, and AI)",
+      "organizer": "Luma",
+      "url": "https://lu.ma/vj13ns00",
+      "source": "luma",
+      "location": "Leukerbad, Leukerbad, Switzerland, Switzerland",
+      "format": "in_person",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-16",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:3112f9331ffaf902"
     },
     {
       "name": "ENERGY data visualisation Hackathon",
