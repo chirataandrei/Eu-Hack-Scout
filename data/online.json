@@ -1,56 +1,22 @@
 {
-  "updated_at": "2026-10-20T09:51:11.793586+00:00",
+  "updated_at": "2026-10-21T09:53:25.781988+00:00",
   "hackathons": [
     {
-      "name": "EurekaDev 2026",
-      "organizer": "Eureka Institute and UnivaDev",
-      "url": "https://eurekadev.devpost.com/",
+      "name": "HACK INSIGHT",
+      "organizer": "NED ",
+      "url": "https://hack-insight.devpost.com/",
       "source": "devpost",
       "location": "Online",
       "format": "online",
-      "start_date": "2026-09-27",
-      "end_date": "2026-10-20",
-      "registration_deadline": "2026-10-20",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-21",
+      "registration_deadline": "2026-10-21",
       "tags": [
-        "Beginner Friendly",
-        "Open Ended",
-        "Social Good"
-      ],
-      "uid": "hk:f6642b9d10e5eef8"
-    },
-    {
-      "name": "InternWell Hack 2.0",
-      "organizer": "InternWell-SLIET",
-      "url": "https://interwell-hack2-0.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-20",
-      "registration_deadline": "2026-10-20",
-      "tags": [
-        "Communication",
         "Machine Learning/AI",
-        "Web"
+        "Voice skills",
+        "Education"
       ],
-      "uid": "hk:3cc9f376b5b1f133"
-    },
-    {
-      "name": "UnivaBio ($40,000 in prizes)",
-      "organizer": "BioCataalysis",
-      "url": "https://univabio.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-08-07",
-      "end_date": "2026-10-20",
-      "registration_deadline": "2026-10-20",
-      "tags": [
-        "Beginner Friendly",
-        "Health",
-        "Social Good"
-      ],
-      "uid": "hk:514ed2fd054d5c62"
+      "uid": "hk:b5f7120f561a5465"
     },
     {
       "name": "IEEE Hack For Humanity",
@@ -67,23 +33,6 @@
         "Social Good"
       ],
       "uid": "hk:cf965529f156d94b"
-    },
-    {
-      "name": "HACK INSIGHT",
-      "organizer": "NED ",
-      "url": "https://hack-insight.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-22",
-      "registration_deadline": "2026-10-22",
-      "tags": [
-        "Machine Learning/AI",
-        "Voice skills",
-        "Education"
-      ],
-      "uid": "hk:b5f7120f561a5465"
     },
     {
       "name": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -203,19 +152,6 @@
       "uid": "hk:12d6add3f285a7d3"
     },
     {
-      "name": "Tryb Weekend Challenge 1: Build, Launch & Play",
-      "organizer": "Tryb",
-      "url": "https://unstop.com/hackathons/tryb-weekend-challenge-1-build-launch-play-tryb-arcade-26-the-build-play-festival-prizes-worth-rs225-lakhs-tr-1771928",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-25",
-      "registration_deadline": "2026-10-25",
-      "tags": [],
-      "uid": "hk:b3e14c40fa65aa79"
-    },
-    {
       "name": "Build With AI: Basics",
       "organizer": "Devpost",
       "url": "https://learn-ai-basics.devpost.com/",
@@ -248,23 +184,6 @@
         "Open Ended"
       ],
       "uid": "hk:cd1867b38bc3d66b"
-    },
-    {
-      "name": "Code For DFW",
-      "organizer": "n/a",
-      "url": "https://code-for-dfw.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-20",
-      "end_date": "2026-10-27",
-      "registration_deadline": "2026-10-27",
-      "tags": [
-        "Open Ended",
-        "Social Good",
-        "Beginner Friendly"
-      ],
-      "uid": "hk:4ff901867dda16fb"
     },
     {
       "name": "Hack to the Future",
@@ -348,23 +267,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:f6ad0187c55d683c"
-    },
-    {
-      "name": "STEM2Connect AI Hackathon",
-      "organizer": "STEM2Connect",
-      "url": "https://stem2connect-online-hackathon.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-28",
-      "registration_deadline": "2026-10-28",
-      "tags": [
-        "Beginner Friendly",
-        "Education",
-        "Web"
-      ],
-      "uid": "hk:745a7f9da464ac50"
     },
     {
       "name": "Sustainable Finance Live Hackathon",
@@ -523,23 +425,6 @@
         "Beginner Friendly"
       ],
       "uid": "hk:39adac577dc1d542"
-    },
-    {
-      "name": "Galuxium Nexus V2",
-      "organizer": "Galuxium",
-      "url": "https://galuxium-nexus-v2-29411.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-07-15",
-      "end_date": "2026-10-31",
-      "registration_deadline": "2026-10-31",
-      "tags": [
-        "Enterprise",
-        "Machine Learning/AI",
-        "Productivity"
-      ],
-      "uid": "hk:92354790b10b1158"
     },
     {
       "name": "Next Byte Hacks V5",
@@ -761,6 +646,19 @@
       "uid": "hk:edaf7370f1086716"
     },
     {
+      "name": "Ideathon",
+      "organizer": "Acharya Institute of Technology",
+      "url": "https://unstop.com/hackathons/ideathon-acharya-institute-of-technology-1771966",
+      "source": "unstop",
+      "location": "Bangalore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-10",
+      "registration_deadline": "2026-11-10",
+      "tags": [],
+      "uid": "hk:72b25af3596f580c"
+    },
+    {
       "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
       "organizer": "Institute of Engineering & Management",
       "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
@@ -821,6 +719,19 @@
         "Open Ended"
       ],
       "uid": "hk:32b7991081dd3f39"
+    },
+    {
+      "name": "Foodoscope Fork It Challenge 2026",
+      "organizer": "Indraprastha Institute of Information Technology (IIIT), Delhi",
+      "url": "https://unstop.com/hackathons/foodoscope-fork-it-challenge-2026-esya26-indraprastha-institute-of-information-technology-iiit-delhi-1772671",
+      "source": "unstop",
+      "location": "New Delhi",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-15",
+      "registration_deadline": "2026-11-15",
+      "tags": [],
+      "uid": "hk:671e44c525cc2881"
     },
     {
       "name": "IceHacks",
@@ -940,6 +851,23 @@
       "uid": "hk:b22cd0552059e903"
     },
     {
+      "name": "STEM2Connect AI Hackathon",
+      "organizer": "STEM2Connect",
+      "url": "https://stem2connect-online-hackathon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-17",
+      "end_date": "2026-11-21",
+      "registration_deadline": "2026-11-21",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Web"
+      ],
+      "uid": "hk:745a7f9da464ac50"
+    },
+    {
       "name": "KUK VIRTUAL HACKATHON",
       "organizer": "Kelab UMNO Korea",
       "url": "https://kuk-virtual-hackathon.devpost.com/",
@@ -991,6 +919,23 @@
       "uid": "hk:ddd011dc86e231ad"
     },
     {
+      "name": "Code For DFW",
+      "organizer": "n/a",
+      "url": "https://code-for-dfw.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-20",
+      "end_date": "2026-11-25",
+      "registration_deadline": "2026-11-25",
+      "tags": [
+        "Open Ended",
+        "Social Good",
+        "Beginner Friendly"
+      ],
+      "uid": "hk:4ff901867dda16fb"
+    },
+    {
       "name": "Hackathon Agéntico SoftwareChido 2026B",
       "organizer": "ITESO",
       "url": "https://hackathon-agentico-2026b.devpost.com/",
@@ -1037,6 +982,21 @@
         "apify"
       ],
       "uid": "hk:195c2fd607f4c818"
+    },
+    {
+      "name": "Global AI Builder’s Challenge",
+      "organizer": "Refactor The World",
+      "url": "https://global-ai-builders-challenge.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-28",
+      "registration_deadline": "2026-11-28",
+      "tags": [
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:d07e6564e9e34a92"
     },
     {
       "name": "305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app",
@@ -1294,19 +1254,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:47e6942d02572ebb"
-    },
-    {
-      "name": "INDIA GOT SPOT 1.0",
-      "organizer": "Swastik Community",
-      "url": "https://unstop.com/hackathons/india-got-spot-10-swastik-community-1771992",
-      "source": "unstop",
-      "location": "Noida",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2027-02-15",
-      "registration_deadline": "2027-02-15",
-      "tags": [],
-      "uid": "hk:8dd3ff8d8020d347"
     },
     {
       "name": "MEGA Hackathon 2027",

@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-10-20T09:51:11.793586+00:00",
+  "updated_at": "2026-10-21T09:53:25.781988+00:00",
   "hackathons": [
-    {
-      "name": "FinOps Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/a8ig66i3",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-20",
-      "end_date": "2026-10-20",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:1a251c866a9e2685"
-    },
-    {
-      "name": "Helsingborg Tech Week: Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/moo22oia",
-      "source": "luma",
-      "location": "Helsingborg, Helsingborg, Sweden, Sweden",
-      "format": "in_person",
-      "start_date": "2026-10-20",
-      "end_date": "2026-10-20",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:0515616d2314fc2d"
-    },
     {
       "name": "Databricks UK Innovation Hackathon with Colibri Digital",
       "organizer": "Databricks UK",
@@ -65,19 +39,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:a3917642354652cf"
-    },
-    {
-      "name": "OSI Hackathon – Berlin Site, co-organized by Dunia, FAIRmat and HZB",
-      "organizer": "Luma",
-      "url": "https://lu.ma/1ykmpq40",
-      "source": "luma",
-      "location": "Berlin, Berlin, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-22",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:1840e49833ef8e47"
     },
     {
       "name": "Paris Accel’s AI Innovate Series Hackathon",
@@ -119,17 +80,30 @@
       "uid": "hk:48ba65bf03334b2d"
     },
     {
-      "name": "Noetic X Nebius One Day Hackathon",
+      "name": "DevDay Community Hackathon: Berlin",
       "organizer": "Luma",
-      "url": "https://lu.ma/qa1ds94p",
+      "url": "https://lu.ma/apr7o10v",
       "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
+      "location": "Berlin, Berlin, Germany, Germany",
       "format": "in_person",
       "start_date": "2026-10-24",
       "end_date": "2026-10-24",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:14584d330c0b9cfc"
+      "uid": "hk:bd0db16be47b3454"
+    },
+    {
+      "name": "HACKATHON, BUILD WHAT'S NEXT.",
+      "organizer": "Luma",
+      "url": "https://lu.ma/r5ba7n3e",
+      "source": "luma",
+      "location": "Puteaux, Puteaux, France, France",
+      "format": "in_person",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-24",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:c1673ec5c7dbe7d6"
     },
     {
       "name": "WATT THE HACK : Energy & AI Hackathon",
@@ -184,17 +158,17 @@
       "uid": "hk:a31aaf9647a26363"
     },
     {
-      "name": "Halloween Hackathon 🎃(supported by Lovable)",
+      "name": "Hackathon DeepBridge",
       "organizer": "Luma",
-      "url": "https://lu.ma/55d7qwvn",
+      "url": "https://lu.ma/zbw4niq0",
       "source": "luma",
-      "location": "Berlin, Berlin, Germany, Germany",
+      "location": "Valencia, Valencia, Spain, Spain",
       "format": "in_person",
-      "start_date": "2026-10-31",
-      "end_date": "2026-10-31",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-29",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:2054b4b308265497"
+      "uid": "hk:01fd02e56a1494d8"
     },
     {
       "name": "TUM Blockchain Conference 26 / Digital Assets Day + Hackathon",
@@ -223,6 +197,19 @@
       "uid": "hk:a8b720ac2ad37ce9"
     },
     {
+      "name": "Macromedia X CODE Hackathon!",
+      "organizer": "Luma",
+      "url": "https://lu.ma/wkmpb5uw",
+      "source": "luma",
+      "location": "Berlin, Berlin, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-03",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:2bb9faa461d7ce48"
+    },
+    {
       "name": "HACKATHON - Agent Eval Harness",
       "organizer": "Luma",
       "url": "https://lu.ma/h8zer2ek",
@@ -249,17 +236,30 @@
       "uid": "hk:bf68caf38f05db32"
     },
     {
-      "name": "Grok Hackathon at the Museum",
+      "name": "Build Your Residence Hall: A 5-Day Base44 Hackathon",
       "organizer": "Luma",
-      "url": "https://lu.ma/spacexai-z1ys",
+      "url": "https://lu.ma/22papdjl",
       "source": "luma",
-      "location": "Pavia, Pavia, Italy, Italy",
+      "location": "Baltimore, Baltimore, MD, United States",
       "format": "in_person",
-      "start_date": "2026-11-04",
-      "end_date": "2026-11-05",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:f4358b064bcc76ed"
+      "uid": "hk:8c728cccdf08d957"
+    },
+    {
+      "name": "Cursor x Sandbox Hackathon | Stuttgart",
+      "organizer": "Luma",
+      "url": "https://lu.ma/spacexai-tueh",
+      "source": "luma",
+      "location": "Stuttgart, Stuttgart, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:89f884a2ec7efaa1"
     },
     {
       "name": "House London #3 | Data Hackathon",
@@ -392,30 +392,17 @@
       "uid": "hk:49e69bb5685b8c7b"
     },
     {
-      "name": "Leukerbad Hackathon 2026 (Robotics, XR, and AI)",
+      "name": "AI Hackathon",
       "organizer": "Luma",
-      "url": "https://lu.ma/vj13ns00",
+      "url": "https://lu.ma/cityve-tsod",
       "source": "luma",
-      "location": "Leukerbad, Leukerbad, Switzerland, Switzerland",
-      "format": "in_person",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-16",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:3112f9331ffaf902"
-    },
-    {
-      "name": "ENERGY data visualisation Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/f0eeirec",
-      "source": "luma",
-      "location": "Bruxelles, Bruxelles, Belgium, Belgium",
+      "location": "London, London, United Kingdom, United Kingdom",
       "format": "in_person",
       "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
+      "end_date": "2026-11-22",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:0ae9b584aaa7281c"
+      "uid": "hk:1b65ffa4437b74c0"
     },
     {
       "name": "Hack Western 13",
