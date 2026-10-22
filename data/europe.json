@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-10-21T09:53:25.781988+00:00",
+  "updated_at": "2026-10-22T09:55:11.939922+00:00",
   "hackathons": [
-    {
-      "name": "Databricks UK Innovation Hackathon with Colibri Digital",
-      "organizer": "Databricks UK",
-      "url": "https://www.meetup.com/databricks-uk/events/316647377/",
-      "source": "meetup",
-      "location": "London, Mary Ward House Conference Centre, gb",
-      "format": "in_person",
-      "start_date": "2026-10-21",
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:a727982554fa0ce9"
-    },
-    {
-      "name": "Hack Night: Haystack Enterprise Platform",
-      "organizer": "Luma",
-      "url": "https://lu.ma/hep-hack-night",
-      "source": "luma",
-      "location": "Berlin, Berlin, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-21",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:0a6d7528da9e95e8"
-    },
-    {
-      "name": "Moonfire • Build Night Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/o1su5iop",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-22",
-      "end_date": "2026-10-22",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:a3917642354652cf"
-    },
     {
       "name": "Paris Accel’s AI Innovate Series Hackathon",
       "organizer": "Luma",
@@ -80,6 +41,19 @@
       "uid": "hk:48ba65bf03334b2d"
     },
     {
+      "name": "BLING Builds: Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/nfypvrvk",
+      "source": "luma",
+      "location": "Malmö, Malmö, Sweden, Sweden",
+      "format": "in_person",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:b2b0ba968723abb4"
+    },
+    {
       "name": "DevDay Community Hackathon: Berlin",
       "organizer": "Luma",
       "url": "https://lu.ma/apr7o10v",
@@ -93,17 +67,17 @@
       "uid": "hk:bd0db16be47b3454"
     },
     {
-      "name": "HACKATHON, BUILD WHAT'S NEXT.",
+      "name": "Noetic X Nebius One Day Hackathon",
       "organizer": "Luma",
-      "url": "https://lu.ma/r5ba7n3e",
+      "url": "https://lu.ma/qa1ds94p",
       "source": "luma",
-      "location": "Puteaux, Puteaux, France, France",
+      "location": "London, London, United Kingdom, United Kingdom",
       "format": "in_person",
-      "start_date": "2026-10-23",
+      "start_date": "2026-10-24",
       "end_date": "2026-10-24",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:c1673ec5c7dbe7d6"
+      "uid": "hk:14584d330c0b9cfc"
     },
     {
       "name": "WATT THE HACK : Energy & AI Hackathon",
@@ -158,17 +132,17 @@
       "uid": "hk:a31aaf9647a26363"
     },
     {
-      "name": "Hackathon DeepBridge",
+      "name": "The Revenue Engine Hackathon: Paris Edition 🇫🇷",
       "organizer": "Luma",
-      "url": "https://lu.ma/zbw4niq0",
+      "url": "https://lu.ma/cnhcdwc3",
       "source": "luma",
-      "location": "Valencia, Valencia, Spain, Spain",
+      "location": "Paris, Paris, France, France",
       "format": "in_person",
-      "start_date": "2026-10-28",
-      "end_date": "2026-10-29",
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:01fd02e56a1494d8"
+      "uid": "hk:b3b35c885c9e8553"
     },
     {
       "name": "TUM Blockchain Conference 26 / Digital Assets Day + Hackathon",
@@ -182,6 +156,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:d09f9d7837377ebf"
+    },
+    {
+      "name": "DevDay Community Hackathon: London",
+      "organizer": "Luma",
+      "url": "https://lu.ma/dde-ldn-hack",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:7ebe4fac90ab3fea"
     },
     {
       "name": "HackTheGap Hackathon by WINZ and the Analytics Club at ETH",
@@ -236,19 +223,6 @@
       "uid": "hk:bf68caf38f05db32"
     },
     {
-      "name": "Build Your Residence Hall: A 5-Day Base44 Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/22papdjl",
-      "source": "luma",
-      "location": "Baltimore, Baltimore, MD, United States",
-      "format": "in_person",
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-06",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:8c728cccdf08d957"
-    },
-    {
       "name": "Cursor x Sandbox Hackathon | Stuttgart",
       "organizer": "Luma",
       "url": "https://lu.ma/spacexai-tueh",
@@ -299,6 +273,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:b71b09431f102ceb"
+    },
+    {
+      "name": "Oxford Neurotech Hackathon 2026",
+      "organizer": "Luma",
+      "url": "https://lu.ma/ceww7ooe",
+      "source": "luma",
+      "location": "Oxford, Oxford, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:a56d8534ec92c5be"
     },
     {
       "name": "Since AI Hackathon",

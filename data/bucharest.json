@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T09:53:25.781988+00:00",
+  "updated_at": "2026-10-22T09:55:11.939922+00:00",
   "hackathons": [
     {
       "name": "AWS Community @ NEXXT AI Hackathon",
@@ -957,16 +957,16 @@
     },
     {
       "name": "EUDIS Space & Defence Hackathon",
-      "organizer": "Politehnica București",
+      "organizer": "upb.ro",
       "url": "https://upb.ro/eudis-space-defence-hackathon/",
-      "source": "upb",
+      "source": "apify",
       "location": "Bucharest, Romania",
       "format": "in_person",
       "start_date": null,
       "end_date": null,
       "registration_deadline": null,
       "tags": [
-        "romania"
+        "apify"
       ],
       "uid": "hk:e149b07eea599dff"
     },
@@ -1029,21 +1029,6 @@
         "apify"
       ],
       "uid": "hk:49afa3f977d55852"
-    },
-    {
-      "name": "Ești student în domeniul IT? ASMI îți propune 24 de ore de inovație și creativitate la Smarthack",
-      "organizer": "Universitatea din București",
-      "url": "https://unibuc.ro/esti-student-in-domeniul-it-asmi-iti-propune-24-de-ore-de-inovatie-si-creativitate-la-smarthack/",
-      "source": "unibuc",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "romania"
-      ],
-      "uid": "hk:29c8d4c3ef4abb57"
     },
     {
       "name": "FAR AWAY Hackathon 2026: India to Japan",
@@ -1149,21 +1134,6 @@
         "apify"
       ],
       "uid": "hk:c9c58d7eed479b21"
-    },
-    {
-      "name": "GitGood Hack 2026 by ASMI & Microsoft: maraton de coding pentru studenții Universității din București",
-      "organizer": "Universitatea din București",
-      "url": "https://unibuc.ro/gitgood-hack-2026-by-asmi-microsoft-maraton-de-coding-pentru-studentii-universitatii-din-bucuresti/",
-      "source": "unibuc",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "romania"
-      ],
-      "uid": "hk:dc97665d591fe3c0"
     },
     {
       "name": "Going with the trend  Our Hackathon is just 5 days away",
@@ -2868,21 +2838,6 @@
         "apify"
       ],
       "uid": "hk:d4681b52cc4957e5"
-    },
-    {
-      "name": "UEFISCDI organizează ediția locală a competiției europene EU Sparks for Climate – Citizens Hackaton Championship",
-      "organizer": "Universitatea din București",
-      "url": "https://unibuc.ro/uefiscdi-organizeaza-editia-locala-a-competitiei-europene-eu-sparks-for-climate-citizens-hackaton-championship/",
-      "source": "unibuc",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "romania"
-      ],
-      "uid": "hk:77f5d1d77eee671d"
     },
     {
       "name": "Upcoming Hackathons in Bucharest 2026",
