@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-10-22T09:55:11.939922+00:00",
+  "updated_at": "2026-10-23T09:47:27.322580+00:00",
   "hackathons": [
-    {
-      "name": "Paris Accel’s AI Innovate Series Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/0v3c010v",
-      "source": "luma",
-      "location": "Paris, Paris, France, France",
-      "format": "in_person",
-      "start_date": "2026-10-22",
-      "end_date": "2026-10-22",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:32334cfb46859d5a"
-    },
-    {
-      "name": "Peekthrough October Hackathon with ElevenLabs",
-      "organizer": "Luma",
-      "url": "https://lu.ma/2c8cnm8f",
-      "source": "luma",
-      "location": "Dublin, Dublin, Ireland, Ireland",
-      "format": "in_person",
-      "start_date": "2026-10-22",
-      "end_date": "2026-10-22",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:999d5f842bbee655"
-    },
-    {
-      "name": "Klang Hackathon: Build on Pianissimo",
-      "organizer": "Luma",
-      "url": "https://lu.ma/yayrmxdd",
-      "source": "luma",
-      "location": "Stockholm, Stockholm, Sweden, Sweden",
-      "format": "in_person",
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-23",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:48ba65bf03334b2d"
-    },
     {
       "name": "BLING Builds: Hackathon",
       "organizer": "Luma",
@@ -67,6 +28,19 @@
       "uid": "hk:bd0db16be47b3454"
     },
     {
+      "name": "HACKATHON, BUILD WHAT'S NEXT.",
+      "organizer": "Luma",
+      "url": "https://lu.ma/r5ba7n3e",
+      "source": "luma",
+      "location": "Puteaux, Puteaux, France, France",
+      "format": "in_person",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-24",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:c1673ec5c7dbe7d6"
+    },
+    {
       "name": "Noetic X Nebius One Day Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/qa1ds94p",
@@ -91,19 +65,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:0913bbda16b9deb4"
-    },
-    {
-      "name": "Encode London Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/encode-london-2026",
-      "source": "luma",
-      "location": "London, London, England, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-25",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:976ba0a353b95aae"
     },
     {
       "name": "OxHack '26",
@@ -145,6 +106,45 @@
       "uid": "hk:b3b35c885c9e8553"
     },
     {
+      "name": "Clinical AI Hackathon Vienna 2026 — Official Partner Event of the European AI Innovation Month",
+      "organizer": "Luma",
+      "url": "https://lu.ma/aim-hackathon",
+      "source": "luma",
+      "location": "Wien, Wien, Austria, Austria",
+      "format": "in_person",
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-30",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:01a73e08935707e9"
+    },
+    {
+      "name": "Hackathon Store Lungegårdsvann",
+      "organizer": "Luma",
+      "url": "https://lu.ma/q12vu217",
+      "source": "luma",
+      "location": "Bergen, Bergen, Norway, Norway",
+      "format": "in_person",
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:58a090fb4d2fbefd"
+    },
+    {
+      "name": "START Warsaw x Poland Tech Week Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/n3yb17kl",
+      "source": "luma",
+      "location": "Warszawa, Warszawa, Poland, Poland",
+      "format": "in_person",
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-31",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:de0101029200bf77"
+    },
+    {
       "name": "TUM Blockchain Conference 26 / Digital Assets Day + Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/tbc26",
@@ -184,19 +184,6 @@
       "uid": "hk:a8b720ac2ad37ce9"
     },
     {
-      "name": "Macromedia X CODE Hackathon!",
-      "organizer": "Luma",
-      "url": "https://lu.ma/wkmpb5uw",
-      "source": "luma",
-      "location": "Berlin, Berlin, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-03",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:2bb9faa461d7ce48"
-    },
-    {
       "name": "HACKATHON - Agent Eval Harness",
       "organizer": "Luma",
       "url": "https://lu.ma/h8zer2ek",
@@ -221,6 +208,32 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:bf68caf38f05db32"
+    },
+    {
+      "name": "Earth Breathing | Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/scaco3z7",
+      "source": "luma",
+      "location": "Cergy, Cergy, France, France",
+      "format": "in_person",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:91e3d848ebad2371"
+    },
+    {
+      "name": "Build Your Residence Hall: A 5-Day Base44 Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/22papdjl",
+      "source": "luma",
+      "location": "Baltimore, Baltimore, MD, United States",
+      "format": "in_person",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:8c728cccdf08d957"
     },
     {
       "name": "Cursor x Sandbox Hackathon | Stuttgart",
@@ -448,6 +461,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:5cd7c11f33378f2a"
+    },
+    {
+      "name": "HackSheffield11",
+      "organizer": "MLH",
+      "url": "https://hacksheffield.uk",
+      "source": "mlh",
+      "location": "Sheffield, South Yorkshire, Sheffield, GB",
+      "format": "in_person",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:954feef8c1dcdc85"
     },
     {
       "name": "CASSINI Hackathons - EU Space for Consumer Experience",
