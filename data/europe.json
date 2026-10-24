@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T09:47:27.322580+00:00",
+  "updated_at": "2026-10-24T09:20:42.871192+00:00",
   "hackathons": [
     {
       "name": "BLING Builds: Hackathon",
@@ -28,19 +28,6 @@
       "uid": "hk:bd0db16be47b3454"
     },
     {
-      "name": "HACKATHON, BUILD WHAT'S NEXT.",
-      "organizer": "Luma",
-      "url": "https://lu.ma/r5ba7n3e",
-      "source": "luma",
-      "location": "Puteaux, Puteaux, France, France",
-      "format": "in_person",
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-24",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:c1673ec5c7dbe7d6"
-    },
-    {
       "name": "Noetic X Nebius One Day Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/qa1ds94p",
@@ -65,6 +52,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:0913bbda16b9deb4"
+    },
+    {
+      "name": "Encode London Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/encode-london-2026",
+      "source": "luma",
+      "location": "London, London, England, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-25",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:976ba0a353b95aae"
     },
     {
       "name": "OxHack '26",
@@ -93,17 +93,17 @@
       "uid": "hk:a31aaf9647a26363"
     },
     {
-      "name": "The Revenue Engine Hackathon: Paris Edition 🇫🇷",
+      "name": "Hackathon DeepBridge",
       "organizer": "Luma",
-      "url": "https://lu.ma/cnhcdwc3",
+      "url": "https://lu.ma/zbw4niq0",
       "source": "luma",
-      "location": "Paris, Paris, France, France",
+      "location": "Valencia, Valencia, Spain, Spain",
       "format": "in_person",
-      "start_date": "2026-10-27",
-      "end_date": "2026-10-27",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-29",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:b3b35c885c9e8553"
+      "uid": "hk:01fd02e56a1494d8"
     },
     {
       "name": "Clinical AI Hackathon Vienna 2026 — Official Partner Event of the European AI Innovation Month",
@@ -117,19 +117,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:01a73e08935707e9"
-    },
-    {
-      "name": "Hackathon Store Lungegårdsvann",
-      "organizer": "Luma",
-      "url": "https://lu.ma/q12vu217",
-      "source": "luma",
-      "location": "Bergen, Bergen, Norway, Norway",
-      "format": "in_person",
-      "start_date": "2026-10-31",
-      "end_date": "2026-10-31",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:58a090fb4d2fbefd"
     },
     {
       "name": "START Warsaw x Poland Tech Week Hackathon",
@@ -184,6 +171,19 @@
       "uid": "hk:a8b720ac2ad37ce9"
     },
     {
+      "name": "Macromedia X CODE Hackathon!",
+      "organizer": "Luma",
+      "url": "https://lu.ma/wkmpb5uw",
+      "source": "luma",
+      "location": "Berlin, Berlin, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-03",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:2bb9faa461d7ce48"
+    },
+    {
       "name": "HACKATHON - Agent Eval Harness",
       "organizer": "Luma",
       "url": "https://lu.ma/h8zer2ek",
@@ -234,6 +234,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:8c728cccdf08d957"
+    },
+    {
+      "name": "AI Agents for Accessibility Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/lzacr9yq",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:42767cabeb259726"
     },
     {
       "name": "Cursor x Sandbox Hackathon | Stuttgart",
