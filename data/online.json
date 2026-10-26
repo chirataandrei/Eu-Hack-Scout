@@ -1,57 +1,6 @@
 {
-  "updated_at": "2026-10-25T09:37:48.584582+00:00",
+  "updated_at": "2026-10-26T10:49:56.089755+00:00",
   "hackathons": [
-    {
-      "name": "GLITCHATHON",
-      "organizer": "sir padampat singhania university ",
-      "url": "https://glitchathon.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-25",
-      "registration_deadline": "2026-10-25",
-      "tags": [
-        "Design",
-        "Low/No Code",
-        "Productivity"
-      ],
-      "uid": "hk:832d8e93ae13bd61"
-    },
-    {
-      "name": "IEEE ClimateChain Global Hackathon",
-      "organizer": "IEEE Turkey",
-      "url": "https://ieee-climatechain-hack.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-25",
-      "registration_deadline": "2026-10-25",
-      "tags": [
-        "Blockchain",
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "uid": "hk:6b90618a61d26918"
-    },
-    {
-      "name": "The Top 500 (UH v2)",
-      "organizer": "noclue",
-      "url": "https://the-top-500-uh-v2.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-25",
-      "registration_deadline": "2026-10-25",
-      "tags": [
-        "Low/No Code",
-        "Open Ended",
-        "Social Good"
-      ],
-      "uid": "hk:12d6add3f285a7d3"
-    },
     {
       "name": "Build With AI: Basics",
       "organizer": "Devpost",
@@ -68,19 +17,6 @@
         "Education"
       ],
       "uid": "hk:8a1ab47839d787da"
-    },
-    {
-      "name": "Engage 6.0 – Code with AI Hackathon",
-      "organizer": "The NorthCap University (NCU), Gurgaon",
-      "url": "https://unstop.com/hackathons/engage-60-code-with-ai-hackathon-the-northcap-university-ncu-gurgaon-1774755",
-      "source": "unstop",
-      "location": "Gurgaon",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-26",
-      "registration_deadline": "2026-10-26",
-      "tags": [],
-      "uid": "hk:426a260eaf25136e"
     },
     {
       "name": "NextSpark Hacks",
@@ -183,19 +119,6 @@
       "uid": "hk:f6ad0187c55d683c"
     },
     {
-      "name": "CTF",
-      "organizer": "IIITDM Kancheepuram",
-      "url": "https://unstop.com/hackathons/ctf-iiitdm-kancheepuram-1775195",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-28",
-      "registration_deadline": "2026-10-28",
-      "tags": [],
-      "uid": "hk:da985620fbbd3dbe"
-    },
-    {
       "name": "Sustainable Finance Live Hackathon",
       "organizer": "Data Science London",
       "url": "https://www.meetup.com/data-science-london/events/316512063/",
@@ -258,19 +181,6 @@
         "Productivity"
       ],
       "uid": "hk:bfd628e52949574d"
-    },
-    {
-      "name": "Code Clash",
-      "organizer": "Indian Institute of Information Technology Vadodara",
-      "url": "https://unstop.com/hackathons/code-clash-cerebro-2026-27-indian-institute-of-information-technology-vadodara-1775833",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-30",
-      "registration_deadline": "2026-10-30",
-      "tags": [],
-      "uid": "hk:9c5a8763f53e5594"
     },
     {
       "name": "CodeSprint by Elite Coders",
@@ -386,6 +296,19 @@
         "Education"
       ],
       "uid": "hk:5de11a0d56dea948"
+    },
+    {
+      "name": "Chaitanya CTF 2026",
+      "organizer": "Himachal Pradesh Technical University (HPTU)",
+      "url": "https://unstop.com/hackathons/chaitanya-ctf-2026-chaitanya-ctf-2026-himachal-pradesh-technical-university-hptu-1775832",
+      "source": "unstop",
+      "location": "Hamirpur",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-10-31",
+      "registration_deadline": "2026-10-31",
+      "tags": [],
+      "uid": "hk:a2322add8d316eb0"
     },
     {
       "name": "Founding-100",
@@ -546,19 +469,6 @@
       "uid": "hk:14417c87da978cef"
     },
     {
-      "name": "MKS AI & Data Hackathon",
-      "organizer": "HackerEarth",
-      "url": "https://www.hackerearth.com/challenges/competitive/mks-inc-hackathon/",
-      "source": "hackerearth",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-26",
-      "end_date": "2026-11-04",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:7f2dc7a9a5409c4d"
-    },
-    {
       "name": "Neural Storm",
       "organizer": "JNTUH",
       "url": "https://neuralstorm.devpost.com/",
@@ -573,6 +483,19 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:fd765da503e971a0"
+    },
+    {
+      "name": "Fetch-A-Thon 3.0",
+      "organizer": "Masters' Union School of Business",
+      "url": "https://unstop.com/hackathons/fetch-a-thon-30-masters-union-school-of-business-1778044",
+      "source": "unstop",
+      "location": "Gurgaon",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-05",
+      "registration_deadline": "2026-11-05",
+      "tags": [],
+      "uid": "hk:a01852e88c3f8003"
     },
     {
       "name": "Ostad Presents YUNet AIgnite Buildathon 2026",
@@ -592,17 +515,30 @@
       "uid": "hk:c0ac4b1690895bc0"
     },
     {
-      "name": "Innovasia 2026",
-      "organizer": "Vasavi College of Engineering (VCE), Hyderabad",
-      "url": "https://unstop.com/hackathons/innovasia-2026-vasavi-college-of-engineering-vce-hyderabad-1772753",
+      "name": "Aegython 2026",
+      "organizer": "AeglysAI",
+      "url": "https://unstop.com/hackathons/aegython-2026-aeglysai-1777958",
       "source": "unstop",
-      "location": "Hyderabad",
+      "location": "Ranchi",
       "format": "online",
       "start_date": null,
-      "end_date": "2026-11-07",
-      "registration_deadline": "2026-11-07",
+      "end_date": "2026-11-06",
+      "registration_deadline": "2026-11-06",
       "tags": [],
-      "uid": "hk:e32326a2d15d92d9"
+      "uid": "hk:7aec713140e8ecaf"
+    },
+    {
+      "name": "MKS AI & Data Hackathon",
+      "organizer": "HackerEarth",
+      "url": "https://www.hackerearth.com/challenges/competitive/mks-inc-hackathon/",
+      "source": "hackerearth",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-10-28",
+      "end_date": "2026-11-06",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:7f2dc7a9a5409c4d"
     },
     {
       "name": "Redshifted Cortex - AI built by High Schoolers",
@@ -637,19 +573,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:9c91d2add0d852b9"
-    },
-    {
-      "name": "ReBuild '26 — The Dashboard Recreation Hackathon by CampusCode",
-      "organizer": "Campus Code",
-      "url": "https://unstop.com/hackathons/rebuild-26-the-dashboard-recreation-hackathon-by-campuscode-campus-code-1774573",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-08",
-      "registration_deadline": "2026-11-08",
-      "tags": [],
-      "uid": "hk:cfffeee9416e068a"
     },
     {
       "name": "UXDC Designathon - 2026",
@@ -750,19 +673,6 @@
         "Web"
       ],
       "uid": "hk:8ccb7f30bee1e7c4"
-    },
-    {
-      "name": "Agentic Banking Hackathon",
-      "organizer": "HackerEarth",
-      "url": "https://www.hackerearth.com/challenges/hackathon/agentic-banking-hackathon-2/",
-      "source": "hackerearth",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-05",
-      "end_date": "2026-11-13",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:f2a5b99a0b980174"
     },
     {
       "name": "LPC Hacks",
@@ -898,6 +808,19 @@
         "Social Good"
       ],
       "uid": "hk:33eda09d3656758c"
+    },
+    {
+      "name": "Build 2 Rise 2026",
+      "organizer": "Krixov",
+      "url": "https://unstop.com/hackathons/build-2-rise-2026-krixov-1775217",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-18",
+      "registration_deadline": "2026-11-18",
+      "tags": [],
+      "uid": "hk:5cfad0863b80e476"
     },
     {
       "name": "Meta VR Start Developer Competition 2026",
@@ -1166,6 +1089,19 @@
       "uid": "hk:d07e6564e9e34a92"
     },
     {
+      "name": "Zeckathon",
+      "organizer": "Indian Institute of Technology (IIT), Patna",
+      "url": "https://unstop.com/hackathons/zeckathon-indian-institute-of-technology-iit-patna-1776287",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-29",
+      "registration_deadline": "2026-11-29",
+      "tags": [],
+      "uid": "hk:0cfacc62e9d8d04c"
+    },
+    {
       "name": "305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app",
       "organizer": "GOOGLE DEVELOPER GROUP AT FIU",
       "url": "https://305veteransnov2026.devpost.com/",
@@ -1247,6 +1183,23 @@
       "uid": "hk:e2d078e855860d68"
     },
     {
+      "name": "Cosmo Hacks 2026",
+      "organizer": "Cosmo Hacks",
+      "url": "https://cosmohacks.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-12-18",
+      "end_date": "2026-12-18",
+      "registration_deadline": "2026-12-18",
+      "tags": [
+        "Beginner Friendly",
+        "Open Ended",
+        "Education"
+      ],
+      "uid": "hk:930cf1cf6fc2f2ba"
+    },
+    {
       "name": "Arbiter Hacks V1",
       "organizer": "Arbiter ",
       "url": "https://arbiter-hacks-v1.devpost.com/",
@@ -1262,23 +1215,6 @@
         "Open Ended"
       ],
       "uid": "hk:846f35f3315f61dd"
-    },
-    {
-      "name": "Cosmo Hacks 2026",
-      "organizer": "Cosmo Hacks",
-      "url": "https://cosmohacks.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-12-18",
-      "end_date": "2026-12-21",
-      "registration_deadline": "2026-12-21",
-      "tags": [
-        "Beginner Friendly",
-        "Open Ended",
-        "Education"
-      ],
-      "uid": "hk:930cf1cf6fc2f2ba"
     },
     {
       "name": "MCA 2026 projects",
@@ -1493,6 +1429,23 @@
         "Productivity"
       ],
       "uid": "hk:e2c7282be7c8ba24"
+    },
+    {
+      "name": "GNEC Hackathon 2027 Winter - Compete For UN-Affiliated/NGO Internships & Prizes",
+      "organizer": "Global NGO Executive Committee",
+      "url": "https://gnec-hackathon-2027-winter.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2027-01-26",
+      "end_date": "2027-03-26",
+      "registration_deadline": "2027-03-26",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Social Good"
+      ],
+      "uid": "hk:17ada9ea4c65d39b"
     },
     {
       "name": "N/A",

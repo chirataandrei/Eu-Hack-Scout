@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-25T09:37:48.584582+00:00",
+  "updated_at": "2026-10-26T10:49:56.089755+00:00",
   "hackathons": [
+    {
+      "name": "CASSINI Hackathon, competiția pentru soluții bazate pe tehnologii spațiale, vine la București: înscrieri până pe 20 noiembrie",
+      "organizer": "start-up.ro",
+      "url": "https://start-up.ro/cassini-hackathon-competitia-pentru-solutii-bazate-pe-tehnologii-spatiale-vine-la-bucuresti-inscrieri-pana-pe-20-noiembrie/",
+      "source": "startupro",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "registration_deadline": "2026-10-26",
+      "tags": [],
+      "uid": "hk:b72874cf347adc55"
+    },
     {
       "name": "AWS Community @ NEXXT AI Hackathon",
       "organizer": "Bucharest AWS User Group",
@@ -13,6 +26,21 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:3c09b4fa34d59a7f"
+    },
+    {
+      "name": "Idei care schimbă comunități: UNIHUB lansează un hackathon de antreprenoriat social. Înscrieri deschise până pe 28 octombrie 2026",
+      "organizer": "Universitatea din București",
+      "url": "https://unibuc.ro/idei-care-schimba-comunitati-unihub-lanseaza-un-hackathon-de-antreprenoriat-social-inscrieri-deschise-pana-pe-28-octombrie-2026/",
+      "source": "unibuc",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "registration_deadline": null,
+      "tags": [
+        "romania"
+      ],
+      "uid": "hk:b6736cc60d988405"
     },
     {
       "name": "NASA Space Apps Challenge Bucharest 2026 - Hackathon Hub",
