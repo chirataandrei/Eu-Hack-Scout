@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-10-26T10:49:56.089755+00:00",
+  "updated_at": "2026-10-27T10:15:50.733689+00:00",
   "hackathons": [
-    {
-      "name": "The Revenue Engine Hackathon: Paris Edition 🇫🇷",
-      "organizer": "Luma",
-      "url": "https://lu.ma/cnhcdwc3",
-      "source": "luma",
-      "location": "Paris, Paris, France, France",
-      "format": "in_person",
-      "start_date": "2026-10-27",
-      "end_date": "2026-10-27",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:b3b35c885c9e8553"
-    },
     {
       "name": "Hackathon DeepBridge",
       "organizer": "Luma",
@@ -28,17 +15,17 @@
       "uid": "hk:01fd02e56a1494d8"
     },
     {
-      "name": "Clinical AI Hackathon Vienna 2026 — Official Partner Event of the European AI Innovation Month",
+      "name": "GTM Hackathon Berlin",
       "organizer": "Luma",
-      "url": "https://lu.ma/aim-hackathon",
+      "url": "https://lu.ma/hyk9bm6x",
       "source": "luma",
-      "location": "Wien, Wien, Austria, Austria",
+      "location": "Berlin, Berlin, Germany, Germany",
       "format": "in_person",
-      "start_date": "2026-10-29",
-      "end_date": "2026-10-30",
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:01a73e08935707e9"
+      "uid": "hk:d62c9b8699ad2afa"
     },
     {
       "name": "Hackathon Store Lungegårdsvann",
@@ -52,19 +39,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:58a090fb4d2fbefd"
-    },
-    {
-      "name": "Halloween Hackathon 🎃(supported by Lovable)",
-      "organizer": "Luma",
-      "url": "https://lu.ma/55d7qwvn",
-      "source": "luma",
-      "location": "Berlin, Berlin, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-10-31",
-      "end_date": "2026-10-31",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:2054b4b308265497"
     },
     {
       "name": "START Warsaw x Poland Tech Week Hackathon",
@@ -301,6 +275,19 @@
       "uid": "hk:85e33dc7e15afd87"
     },
     {
+      "name": "Coffee & Build | Mobile App Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/aiafter5-vp68",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:0fa6f2b0758dbc74"
+    },
+    {
       "name": "proximata HACKATHON",
       "organizer": "Luma",
       "url": "https://lu.ma/rrnm4pul",
@@ -353,6 +340,19 @@
       "uid": "hk:ba0286054bea3156"
     },
     {
+      "name": "The St Andrews Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/otyzrh3h",
+      "source": "luma",
+      "location": "St Andrews, St Andrews, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:a238165847c3d936"
+    },
+    {
       "name": "UniHack",
       "organizer": "MLH",
       "url": "https://unihack.eu/",
@@ -366,6 +366,32 @@
       "uid": "hk:49e69bb5685b8c7b"
     },
     {
+      "name": "Cursor Hackathon Tallinn",
+      "organizer": "Luma",
+      "url": "https://lu.ma/81652ged",
+      "source": "luma",
+      "location": "Tallinn, Tallinn, Harju maakond, Estonia",
+      "format": "in_person",
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:fa49d717f61d03a8"
+    },
+    {
+      "name": "IXH26 Italian XRPL Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/IXH26-xrpl-hackathon",
+      "source": "luma",
+      "location": "Bari, Bari, Italy, Italy",
+      "format": "in_person",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-21",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:43ebd61216c050d0"
+    },
+    {
       "name": "AI Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/cityve-tsod",
@@ -377,22 +403,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:1b65ffa4437b74c0"
-    },
-    {
-      "name": "Hack Western 13",
-      "organizer": "Hack Western",
-      "url": "https://hack-western-13.devpost.com/",
-      "source": "devpost",
-      "location": "London, Canada",
-      "format": "in_person",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-22",
-      "registration_deadline": "2026-11-22",
-      "tags": [
-        "Beginner Friendly",
-        "Open Ended"
-      ],
-      "uid": "hk:7e1ed56ceb660aec"
     },
     {
       "name": "SoTA Scientific Parallelism Hackathon | With Callosum, Inherent, ARIA + Fractile",
