@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-10-27T10:15:50.733689+00:00",
+  "updated_at": "2026-10-28T11:05:47.652065+00:00",
   "hackathons": [
-    {
-      "name": "24 de ore, 10 echipe și o provocare: studenții care au transformat nasul într-un joystick la AccessABILITY Hackathon",
-      "organizer": "start-up.ro",
-      "url": "https://start-up.ro/24-de-ore-10-echipe-si-o-provocare-studentii-care-au-transformat-nasul-intr-un-joystick-la-accessability-hackathon/",
-      "source": "startupro",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": "2026-10-27",
-      "tags": [],
-      "uid": "hk:4c8c7d1c709de634"
-    },
-    {
-      "name": "AWS Community @ NEXXT AI Hackathon",
-      "organizer": "Bucharest AWS User Group",
-      "url": "https://www.meetup.com/bucharest-aws-user-group/events/316764351/",
-      "source": "meetup",
-      "location": "București, Face Convention Center, ro",
-      "format": "in_person",
-      "start_date": "2026-10-28",
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:3c09b4fa34d59a7f"
-    },
     {
       "name": "Idei care schimbă comunități: UNIHUB lansează un hackathon de antreprenoriat social. Înscrieri deschise până pe 28 octombrie 2026",
       "organizer": "Universitatea din București",
@@ -384,6 +358,21 @@
         "apify"
       ],
       "uid": "hk:8bfc2f1916356fa6"
+    },
+    {
+      "name": "24 Hours of Google - Hackathon - ASMI",
+      "organizer": "asmi.ro",
+      "url": "https://asmi.ro/Articole/google-hackaton",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:903915de1b52bc64"
     },
     {
       "name": "24 Hours of Google Hackathon 2026 | Eduard Olteanu",
@@ -939,6 +928,21 @@
       "uid": "hk:ed1782decc753b6b"
     },
     {
+      "name": "EESTEC Olympics 14",
+      "organizer": "olympics.eestec.ro",
+      "url": "https://olympics.eestec.ro/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:20561310178632f1"
+    },
+    {
       "name": "Entrepreneurship Is Not A Solo Sprint",
       "organizer": "hackathon.com",
       "url": "https://www.hackathon.com/event/entrepreneurship-is-not-a-solo-sprint---aleksandar-shopski-bg-79159505211",
@@ -1057,6 +1061,21 @@
         "apify"
       ],
       "uid": "hk:49afa3f977d55852"
+    },
+    {
+      "name": "Ești gata de CAD&CRAFT Ediția 2? Dacă ești pasionat de ...",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/reel/DVQz3eziO7t/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:442a9810751122b0"
     },
     {
       "name": "Ești student în domeniul IT? ASMI îți propune 24 de ore de inovație și creativitate la Smarthack",
@@ -1775,6 +1794,21 @@
       "uid": "hk:10615cf82196504b"
     },
     {
+      "name": "IT hackathons in Hungary 2026 / 2027",
+      "organizer": "dev.events",
+      "url": "https://dev.events/hackathons/EU/HU/it",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:278e89acef8f67ce"
+    },
+    {
       "name": "Join 24 Hours of Google Cloud Talks by DevRel",
       "organizer": "developers.googleblog.com",
       "url": "https://developers.googleblog.com/join-24-hours-of-google-cloud-talks-by-devrel/",
@@ -2285,6 +2319,21 @@
       "uid": "hk:76d365517c6fc659"
     },
     {
+      "name": "New event: Cursor Hackathon Bucharest",
+      "organizer": "forum.cursor.com",
+      "url": "https://forum.cursor.com/t/new-event-cursor-hackathon-bucharest/135084",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:34194d32ba8ff094"
+    },
+    {
       "name": "New event: Cursor Hackathon Bucharest - Europe",
       "organizer": "forum.cursor.com",
       "url": "https://forum.cursor.com/t/new-event-cursor-hackathon-bucharest/135084",
@@ -2495,6 +2544,21 @@
       "uid": "hk:5d8afb3e4892b446"
     },
     {
+      "name": "Showcase Hackathon - Toolbox of smart participatory methods",
+      "organizer": "user-participation.eu",
+      "url": "https://www.user-participation.eu/hu/reszveteli-folyamat-tervezese/otodik-lepes-reszveteli-eljarasok/gyartas-es-szolgaltatasfejlesztes/hackathon/showcase-hackathon",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:ae6198e9d2bca586"
+    },
+    {
       "name": "Silicon Spill Stopper #smarthack #kitchen #idea #gadget ...",
       "organizer": "youtube.com",
       "url": "https://www.youtube.com/shorts/CO740dKxba8",
@@ -2508,6 +2572,21 @@
         "apify"
       ],
       "uid": "hk:3e9e52a73ad9f9cb"
+    },
+    {
+      "name": "Smart - #SmartHack: Don't let the weekdays win! Finish ...",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/SmartFinal/photos/smarthack-dont-let-the-weekdays-win-finish-the-week-off-strong-with-a-hot-jumbo-/1785088961504705/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:31cdd9779454b307"
     },
     {
       "name": "Smart Horizon 2026: National Ministries Backed Hackathon",
@@ -2568,6 +2647,21 @@
         "apify"
       ],
       "uid": "hk:00cf6c595b920ce7"
+    },
+    {
+      "name": "smarthack #autocad #arraypath #cadtips #designefficiency ...",
+      "organizer": "linkedin.com",
+      "url": "https://www.linkedin.com/posts/smart-sourcing-latam_smarthack-autocad-arraypath-activity-7239664041567158272-7x2g",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:238d96839935f897"
     },
     {
       "name": "SmartHack (@smarthack.project)",
@@ -2673,6 +2767,21 @@
         "apify"
       ],
       "uid": "hk:879294d0a7e581f0"
+    },
+    {
+      "name": "Smarthack revine cu o nouă ediție Aflat la a XI- ...",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/p/DdphKEqCRnw/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:9a82bf66ab5df831"
     },
     {
       "name": "SMARTHACK à 13190 ALLAUCH - SIRET 839 657 889 00011",
@@ -2988,6 +3097,21 @@
       "uid": "hk:86ffeab35a1b3a74"
     },
     {
+      "name": "Încă o ediție Smarthack a ajuns cu bine la final ...",
+      "organizer": "m.facebook.com",
+      "url": "https://m.facebook.com/asmi.ub/photos/%C3%AEnc%C4%83-o-edi%C8%9Bie-smarthack-a-ajuns-cu-bine-la-final-am-creat-%C3%AEmpreun%C4%83-solu%C8%9Bii-inova/1006795338147465/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:6e087a1d9d4600c7"
+    },
+    {
       "name": "Înscrieri: Hackathon pentru studenții români din domeniile ...",
       "organizer": "startupcafe.ro",
       "url": "https://startupcafe.ro/inscrieri-hackathon-studenti-romani-domenii-it-bucuresti-107268",
@@ -3031,6 +3155,51 @@
         "apify"
       ],
       "uid": "hk:dbe032ecec14770f"
+    },
+    {
+      "name": "💻 Hackathons & Developer Competitions 2026",
+      "organizer": "competitions.ecosim.hu",
+      "url": "https://competitions.ecosim.hu/hackathons",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:945e13963232fb70"
+    },
+    {
+      "name": "💻 Smarthack ajunge la ediția a XI-a. Hackathonul ...",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/UniBucSAS/posts/-smarthack-ajunge-la-edi%C8%9Bia-a-xi-a-hackathonul-asocia%C8%9Biei-studen%C8%9Bilor-la-matemat/1736636954735257/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:0034ab57c11f93ee"
+    },
+    {
+      "name": "🧠🚀 GitGood Hack: dăm startul primei ediții! 👾 Ești gata de ...",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/p/DXJ3i6pCHKQ/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:9669774085d19f42"
     }
   ]
 }
