@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-10-28T11:05:47.652065+00:00",
+  "updated_at": "2026-10-29T11:21:35.179446+00:00",
   "hackathons": [
-    {
-      "name": "HackNight NeuroTechX Paris (hybride)",
-      "organizer": "CogLab, NeuroTechX Paris",
-      "url": "https://www.meetup.com/coglab/events/317161673/",
-      "source": "meetup",
-      "location": "Paris, Makerlab Paris, fr",
-      "format": "in_person",
-      "start_date": "2026-10-28",
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:d7ef709fc0143591"
-    },
-    {
-      "name": "Hackathon DeepBridge",
-      "organizer": "Luma",
-      "url": "https://lu.ma/zbw4niq0",
-      "source": "luma",
-      "location": "Valencia, Valencia, Spain, Spain",
-      "format": "in_person",
-      "start_date": "2026-10-28",
-      "end_date": "2026-10-29",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:01fd02e56a1494d8"
-    },
     {
       "name": "AIDevCamp 2026 Agentic Hackathon | GDG London",
       "organizer": "Luma",
@@ -145,32 +119,6 @@
       "uid": "hk:bf68caf38f05db32"
     },
     {
-      "name": "Earth Breathing | Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/scaco3z7",
-      "source": "luma",
-      "location": "Cergy, Cergy, France, France",
-      "format": "in_person",
-      "start_date": "2026-11-05",
-      "end_date": "2026-11-05",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:91e3d848ebad2371"
-    },
-    {
-      "name": "Grok Bot Hackathon Wrocław",
-      "organizer": "Luma",
-      "url": "https://lu.ma/spacexai-gjig",
-      "source": "luma",
-      "location": "Wrocław, Wrocław, Poland, Poland",
-      "format": "in_person",
-      "start_date": "2026-11-05",
-      "end_date": "2026-11-05",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:56ffbb0723d8b0ff"
-    },
-    {
       "name": "Build Your Residence Hall: A 5-Day Base44 Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/22papdjl",
@@ -247,6 +195,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:8b4a2c0dda9acd5e"
+    },
+    {
+      "name": "H Company × 42AI | Computer Use Agents Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/hz9db5u9",
+      "source": "luma",
+      "location": "Paris, Paris, France, France",
+      "format": "in_person",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:af747ca4529d1d9c"
     },
     {
       "name": "HackTheBurgh",
@@ -379,6 +340,19 @@
       "uid": "hk:49e69bb5685b8c7b"
     },
     {
+      "name": "GTM Hackathon by Granola x Gemini",
+      "organizer": "Luma",
+      "url": "https://lu.ma/granola-gemini-hackathon",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:73b4f9cea044898c"
+    },
+    {
       "name": "Cursor Hackathon Tallinn",
       "organizer": "Luma",
       "url": "https://lu.ma/81652ged",
@@ -442,6 +416,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:16f69d4501d6d32c"
+    },
+    {
+      "name": "Launch Day Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/fg1lny5k",
+      "source": "luma",
+      "location": "Paris, Paris, France, France",
+      "format": "in_person",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:bc4226231c75ce98"
     },
     {
       "name": "12th CASSINI Hackathon - EU Space for Peace and Resilience",
