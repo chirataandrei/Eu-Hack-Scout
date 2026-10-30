@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-10-29T11:21:35.179446+00:00",
+  "updated_at": "2026-10-30T11:13:50.131198+00:00",
   "hackathons": [
-    {
-      "name": "Lumina'26 Hackathon",
-      "organizer": "Jaypee Institute of Information Technology (JIIT), Noida",
-      "url": "https://unstop.com/hackathons/lumina26-hackathon-ieee-student-branch-jiit-noida-1780917",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-29",
-      "registration_deadline": "2026-10-29",
-      "tags": [],
-      "uid": "hk:9e9a4580384afb46"
-    },
-    {
-      "name": "Srujana AI 2026 Hackathon",
-      "organizer": "Biorad Medisys Private Limited",
-      "url": "https://unstop.com/hackathons/srujana-ai-2026-hackathon-biorad-medisys-private-limited-1778599",
-      "source": "unstop",
-      "location": "Pune",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-10-29",
-      "registration_deadline": "2026-10-29",
-      "tags": [],
-      "uid": "hk:2dcbe7662165a642"
-    },
     {
       "name": "Code-con",
       "organizer": "Telem AI",
@@ -62,24 +36,9 @@
       "uid": "hk:d81453901ff0c6b0"
     },
     {
-      "name": "LancerHacks",
+      "name": "LancerHacks1.0",
       "organizer": "pasadena city college",
-      "url": "https://lancerhacks2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-27",
-      "end_date": "2026-10-30",
-      "registration_deadline": "2026-10-30",
-      "tags": [
-        "Beginner Friendly"
-      ],
-      "uid": "hk:2b70bab489265187"
-    },
-    {
-      "name": "Learn to Hack: MATLAB Edition 2026",
-      "organizer": "CCEB ANATA",
-      "url": "https://ntu-matlab-2026.devpost.com/",
+      "url": "https://lancerhacks1-0.devpost.com/",
       "source": "devpost",
       "location": "Online",
       "format": "online",
@@ -87,11 +46,9 @@
       "end_date": "2026-10-30",
       "registration_deadline": "2026-10-30",
       "tags": [
-        "Beginner Friendly",
-        "Education",
-        "Machine Learning/AI"
+        "Beginner Friendly"
       ],
-      "uid": "hk:210136150c51a029"
+      "uid": "hk:90436a2da921d10c"
     },
     {
       "name": "Nebius x NVIDIA Global AI Hackathon",
@@ -437,6 +394,36 @@
       "uid": "hk:5f0cdb5134657079"
     },
     {
+      "name": "2026 UXC NYU Fall Design-a-thon",
+      "organizer": "New York University",
+      "url": "https://uxc-fall-2026-design-a-thon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-07",
+      "registration_deadline": "2026-11-07",
+      "tags": [
+        "Beginner Friendly",
+        "Design",
+        "Education"
+      ],
+      "uid": "hk:dd9d56af3add297a"
+    },
+    {
+      "name": "COBOT-EX 2026 | Inter-College Hackathon",
+      "organizer": "B. S. Abdur Rahman Crescent Institute of Science and Technology, Chennai, Tamil Nadu",
+      "url": "https://unstop.com/hackathons/cobot-ex-2026-inter-college-hackathon-b-s-abdur-rahman-crescent-institute-of-science-and-technology-chennai-t-1783202",
+      "source": "unstop",
+      "location": "Tambaram",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-07",
+      "registration_deadline": "2026-11-07",
+      "tags": [],
+      "uid": "hk:78731b4e84e5b6d9"
+    },
+    {
       "name": "Intermountain Quantum Competition",
       "organizer": "Brigham Young University - Provo",
       "url": "https://iqc.devpost.com/",
@@ -469,19 +456,6 @@
         "Open Ended"
       ],
       "uid": "hk:bce324cf7097fba5"
-    },
-    {
-      "name": "Bug Bounty",
-      "organizer": "Oronzo LLP",
-      "url": "https://unstop.com/hackathons/bug-bounty-oronzo-llp-1778754",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-08",
-      "registration_deadline": "2026-11-08",
-      "tags": [],
-      "uid": "hk:70c004b518b02aa3"
     },
     {
       "name": "EthnoHack",
@@ -687,19 +661,6 @@
       "uid": "hk:013c3e18586183b4"
     },
     {
-      "name": "Bug Bounty: Multiverse Wars Competition",
-      "organizer": "Hackosquad",
-      "url": "https://unstop.com/hackathons/bug-bounty-multiverse-wars-competition-hackosquadctf-1775867",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-13",
-      "registration_deadline": "2026-11-13",
-      "tags": [],
-      "uid": "hk:18f74ec5a33f5c2a"
-    },
-    {
       "name": "HexWartz",
       "organizer": "Sharda University Agra ",
       "url": "https://unstop.com/hackathons/hexwartz-sharda-university-agra-1778042",
@@ -775,19 +736,6 @@
         "Web"
       ],
       "uid": "hk:184df21001d1d0ee"
-    },
-    {
-      "name": "Catalyst - Solo AI Hackathon",
-      "organizer": "Makers Need More (MnM)",
-      "url": "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-15",
-      "registration_deadline": "2026-11-15",
-      "tags": [],
-      "uid": "hk:2734ff157b27733b"
     },
     {
       "name": "DSH Hacks V2 ($100k+ in prizes!)",
@@ -869,6 +817,19 @@
         "Social Good"
       ],
       "uid": "hk:b8bec90064bb3e8a"
+    },
+    {
+      "name": "One Who Codes 2026 - A Portfolio Challenge",
+      "organizer": "Acadable",
+      "url": "https://unstop.com/hackathons/one-who-codes-2026-a-portfolio-challenge-acadable-1784554",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-15",
+      "registration_deadline": "2026-11-15",
+      "tags": [],
+      "uid": "hk:1dd0f43cc198dea6"
     },
     {
       "name": "STEMergent Hacks 2026",
@@ -1099,19 +1060,6 @@
       "uid": "hk:79cb5665a941f746"
     },
     {
-      "name": "Orbix - 48-Hour Global Open Innovation Hackathon",
-      "organizer": "Makers Need More (MnM)",
-      "url": "https://unstop.com/hackathons/orbix-48-hour-global-open-innovation-hackathon-makers-need-more-mnm-1780048",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-22",
-      "registration_deadline": "2026-11-22",
-      "tags": [],
-      "uid": "hk:32340d4e90355f96"
-    },
-    {
       "name": "SafeSpace Hacks",
       "organizer": "SafeSpace",
       "url": "https://safespace-hacks.devpost.com/",
@@ -1161,6 +1109,19 @@
         "Web"
       ],
       "uid": "hk:ddd011dc86e231ad"
+    },
+    {
+      "name": "CMR HACKFEST 4.0",
+      "organizer": "CMR College of Engineering and Technology (CMRCET), Hyderabad",
+      "url": "https://unstop.com/hackathons/cmr-hackfest-40-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-1782514",
+      "source": "unstop",
+      "location": "Hyderabad",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-25",
+      "registration_deadline": "2026-11-25",
+      "tags": [],
+      "uid": "hk:9f4f1daaace9acfe"
     },
     {
       "name": "Code For DFW",
@@ -1382,6 +1343,19 @@
       "uid": "hk:7258d88f2b267830"
     },
     {
+      "name": "Health Hackathon 3.0",
+      "organizer": "VIT Bhopal University ",
+      "url": "https://unstop.com/hackathons/health-hackathon-30-vit-bhopal-university-1784631",
+      "source": "unstop",
+      "location": "Bhopal",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-30",
+      "registration_deadline": "2026-11-30",
+      "tags": [],
+      "uid": "hk:ed680333add0cc10"
+    },
+    {
       "name": "Kiroween 2026",
       "organizer": "Kiro",
       "url": "https://kiroween.devpost.com/",
@@ -1547,19 +1521,6 @@
       "uid": "hk:2b057abf14f143d6"
     },
     {
-      "name": "Hacksprint 3.0",
-      "organizer": "Karpagam Academy of Higher Education",
-      "url": "https://unstop.com/hackathons/hacksprint-30-karpagam-academy-of-higher-education-1778597",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-12-28",
-      "registration_deadline": "2026-12-28",
-      "tags": [],
-      "uid": "hk:f9c3fa8e2adc2319"
-    },
-    {
       "name": "305 CodeFest Edition December 2026 — 305Hackathons.vercel.app",
       "organizer": "COLORSTACKatFIU",
       "url": "https://305codefestdec2026.devpost.com/",
@@ -1677,19 +1638,6 @@
         "Education"
       ],
       "uid": "hk:d615579c3ed126a4"
-    },
-    {
-      "name": "Build for Earth",
-      "organizer": "Hack Club",
-      "url": "https://earth.firstcommit.xyz",
-      "source": "hackclub",
-      "location": "",
-      "format": "online",
-      "start_date": "2026-11-08",
-      "end_date": "2027-01-16",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:e1811d46dbe8f4b5"
     },
     {
       "name": "HackOut! 2027",

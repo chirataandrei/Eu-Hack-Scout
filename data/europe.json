@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-29T11:21:35.179446+00:00",
+  "updated_at": "2026-10-30T11:13:50.131198+00:00",
   "hackathons": [
+    {
+      "name": "Clinical AI Hackathon Vienna 2026 — Official Partner Event of the European AI Innovation Month",
+      "organizer": "Luma",
+      "url": "https://lu.ma/aim-hackathon",
+      "source": "luma",
+      "location": "Wien, Wien, Austria, Austria",
+      "format": "in_person",
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-30",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:01a73e08935707e9"
+    },
     {
       "name": "AIDevCamp 2026 Agentic Hackathon | GDG London",
       "organizer": "Luma",
@@ -39,19 +52,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:de0101029200bf77"
-    },
-    {
-      "name": "TUM Blockchain Conference 26 / Digital Assets Day + Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/tbc26",
-      "source": "luma",
-      "location": "München, München, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-10-29",
-      "end_date": "2026-10-31",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:d09f9d7837377ebf"
     },
     {
       "name": "DevDay Community Hackathon: London",
@@ -145,17 +145,17 @@
       "uid": "hk:42767cabeb259726"
     },
     {
-      "name": "Cursor x Sandbox Hackathon | Stuttgart",
+      "name": "Hack the Feed: AI Video Hackathon with Oriane, Lovable & Brut at Albert School Paris",
       "organizer": "Luma",
-      "url": "https://lu.ma/spacexai-tueh",
+      "url": "https://lu.ma/h7aqkkw4",
       "source": "luma",
-      "location": "Stuttgart, Stuttgart, Germany, Germany",
+      "location": "Paris, Paris, France, France",
       "format": "in_person",
       "start_date": "2026-11-07",
       "end_date": "2026-11-07",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:89f884a2ec7efaa1"
+      "uid": "hk:b096309c8b9853e8"
     },
     {
       "name": "House London #3 | Data Hackathon",
@@ -301,6 +301,23 @@
       "uid": "hk:c1b399e970eff8f9"
     },
     {
+      "name": "WiseStart 2026 Hackathon: Tallinn",
+      "organizer": "WISE",
+      "url": "https://wisestart-2026-tll.devpost.com/",
+      "source": "devpost",
+      "location": "Wise Tallinn",
+      "format": "in_person",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-14",
+      "registration_deadline": "2026-11-14",
+      "tags": [
+        "Open Ended",
+        "Fintech",
+        "Beginner Friendly"
+      ],
+      "uid": "hk:8c8cdd80f04be6b4"
+    },
+    {
       "name": "DurHack",
       "organizer": "MLH",
       "url": "https://durhack.com",
@@ -366,19 +383,6 @@
       "uid": "hk:fa49d717f61d03a8"
     },
     {
-      "name": "IXH26 Italian XRPL Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/IXH26-xrpl-hackathon",
-      "source": "luma",
-      "location": "Bari, Bari, Italy, Italy",
-      "format": "in_person",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-21",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:43ebd61216c050d0"
-    },
-    {
       "name": "AI Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/cityve-tsod",
@@ -416,19 +420,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:16f69d4501d6d32c"
-    },
-    {
-      "name": "Launch Day Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/fg1lny5k",
-      "source": "luma",
-      "location": "Paris, Paris, France, France",
-      "format": "in_person",
-      "start_date": "2026-11-28",
-      "end_date": "2026-11-28",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:bc4226231c75ce98"
     },
     {
       "name": "12th CASSINI Hackathon - EU Space for Peace and Resilience",
@@ -471,6 +462,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:954feef8c1dcdc85"
+    },
+    {
+      "name": "Finance Engineer Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/umg16123",
+      "source": "luma",
+      "location": "Paris, Paris, France, France",
+      "format": "in_person",
+      "start_date": "2026-12-02",
+      "end_date": "2026-12-02",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:f31c79495e2beff3"
     },
     {
       "name": "CASSINI Hackathons - EU Space for Consumer Experience",

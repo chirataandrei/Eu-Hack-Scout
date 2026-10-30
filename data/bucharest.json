@@ -1,21 +1,6 @@
 {
-  "updated_at": "2026-10-29T11:21:35.179446+00:00",
+  "updated_at": "2026-10-30T11:13:50.131198+00:00",
   "hackathons": [
-    {
-      "name": "💻 Smarthack ajunge la ediția a XI-a. Hackathonul ...",
-      "organizer": "instagram.com",
-      "url": "https://www.instagram.com/p/DeXCpOcioCu/",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-10-28",
-      "end_date": "2026-10-29",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:863ecd90a5495835"
-    },
     {
       "name": "AWS GameDay Hackathon",
       "organizer": "AWS SBG at National Univ. of Science and Tech Politehnica",
@@ -780,6 +765,21 @@
       "uid": "hk:e3e513131265aad2"
     },
     {
+      "name": "Cluj Hackathon 2026 Weekend Snapshots ...",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/clujhackathon/posts/cluj-hackathon-2026-weekend-snapshotsclujhackathon2026-clujhackathon/916852191405189/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:92ae98aa4d76f262"
+    },
+    {
       "name": "Cluj Hackathon 2026 — Digital Romania",
       "organizer": "clujhackathon.ro",
       "url": "https://clujhackathon.ro/",
@@ -883,6 +883,21 @@
         "apify"
       ],
       "uid": "hk:171d1783ce7c961d"
+    },
+    {
+      "name": "EDTH Bucharest Hackathon 2026",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESZgHrOzAVgsYba3Vxem9yVW8Ng6oQeL-VHooaGwILMcXnqwvL1ganaF_De2pCLj_GGjOjBmKZ19LkAJbARyBuyXS-n0Ornlv9GTk5tU6ajUaHMIJ77vyHfefF_lea9AqJYHXcfe9Jug",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:0dc31423ab73dc53"
     },
     {
       "name": "EESTEC București",
@@ -1136,6 +1151,21 @@
         "apify"
       ],
       "uid": "hk:9e61c67fef5bcf61"
+    },
+    {
+      "name": "European Defense Tech Hackathon is coming to Bucharest ...",
+      "organizer": "linkedin.com",
+      "url": "https://www.linkedin.com/posts/underline-vc_european-defense-tech-hackathon-is-coming-activity-7503381974921728000-sARE",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:bd08c957929924de"
     },
     {
       "name": "European Defense Tech Hackathons 2026",
@@ -1854,6 +1884,21 @@
       "uid": "hk:8b88adfae00e7a56"
     },
     {
+      "name": "Inspiration & coffee with Netcentric at SmartHack Bucharest",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/CognizantNetcentric/posts/inspiration-coffee-with-netcentric-at-smarthack-bucharest/1490361177722318/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:a3b00cf362dc988b"
+    },
+    {
       "name": "Instructions | U8 SmartHack",
       "organizer": "hackaday.io",
       "url": "https://hackaday.io/project/9189/instructions",
@@ -1912,6 +1957,21 @@
         "apify"
       ],
       "uid": "hk:278e89acef8f67ce"
+    },
+    {
+      "name": "it's late 🥲 European Defense Tech Bucharest Hackathon ...",
+      "organizer": "linkedin.com",
+      "url": "https://www.linkedin.com/posts/gabimoncha_its-late-european-defense-tech-bucharest-activity-7514892908844679168-nbD2",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:8da514cdcd501f33"
     },
     {
       "name": "Join 24 Hours of Google Cloud Talks by DevRel",
@@ -2032,6 +2092,21 @@
         "apify"
       ],
       "uid": "hk:8b349703e76be54e"
+    },
+    {
+      "name": "More than half the spots for NASA Space Apps Challenge ...",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/p/DdJJzQXjd8f/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:7dbf60bb52082752"
     },
     {
       "name": "MVP Hackathon Process",
@@ -2257,6 +2332,21 @@
         "apify"
       ],
       "uid": "hk:7c23e99c2f266b19"
+    },
+    {
+      "name": "NASA Space Apps Challenge Bucharest 2026 | Hackathon Hub",
+      "organizer": "hackathonhub.eu",
+      "url": "https://hackathonhub.eu/events/nasa-space-apps-challenge-2026-bucharest-bucharest-2026",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:1ec75832eec487bb"
     },
     {
       "name": "NASA Space Apps Challenge India",
@@ -2649,9 +2739,9 @@
       "uid": "hk:70dbe5d95f2a45b0"
     },
     {
-      "name": "Resources | The Bucharest Hackathon 2026",
-      "organizer": "thebucharesthackathon.com",
-      "url": "https://thebucharesthackathon.com/resources.html",
+      "name": "Regulament - Smarthack 2026 - ASMI",
+      "organizer": "smarthack.asmi.ro",
+      "url": "https://smarthack.asmi.ro/",
       "source": "apify",
       "location": "Bucharest, Romania",
       "format": "in_person",
@@ -2661,7 +2751,7 @@
       "tags": [
         "apify"
       ],
-      "uid": "hk:c4e0cd3d097752c8"
+      "uid": "hk:36f70ce66b256664"
     },
     {
       "name": "Restaurant of Tomorrow - Coding Challenge",
@@ -3170,6 +3260,21 @@
         "apify"
       ],
       "uid": "hk:941e8fdd5e1da850"
+    },
+    {
+      "name": "Transylvania Inmate Fav Events",
+      "organizer": "techarena-germany.hackathon.com",
+      "url": "https://techarena-germany.hackathon.com/blog/transylvania-inmate-fav-events",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:cdbd0f47c346effd"
     },
     {
       "name": "U8 SmartHack",
