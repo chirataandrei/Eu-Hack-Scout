@@ -1,34 +1,6 @@
 {
-  "updated_at": "2026-10-31T10:46:08.550008+00:00",
+  "updated_at": "2026-11-01T11:44:22.104912+00:00",
   "hackathons": [
-    {
-      "name": "AWS GameDay Hackathon",
-      "organizer": "AWS SBG at National Univ. of Science and Tech Politehnica",
-      "url": "https://www.meetup.com/aws-sbg-at-natl-univ-of-science-tech-politehnica-bucharest/events/316974070/",
-      "source": "meetup",
-      "location": "București, ETTI, ro",
-      "format": "in_person",
-      "start_date": "2026-10-31",
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:199f353ff37d21b2"
-    },
-    {
-      "name": "Rebuild Green Hackathon 2026 Final Mentoring Session",
-      "organizer": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/rebuildgreen_third-mentoring-session-hackathon-2026-2410-activity-7518784173180960768-wPMc",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-10-31",
-      "end_date": "2026-10-31",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:b9e21178cd0e16ae"
-    },
     {
       "name": "Regulament - Smarthack 2026 - ASMI",
       "organizer": "smarthack.asmi.ro",
@@ -148,6 +120,21 @@
         "apify"
       ],
       "uid": "hk:e9f4083a6072e96c"
+    },
+    {
+      "name": "Android AI Development Hackathon - Withgoogle.com",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESgwEB6zswFcF6I42q5Bbh3DHtUCEAcHfaT2ehS0MAhZiVyqnL-LBYv7w3FB-szOC6P30AFsBwYWaGDr-3-nrHbu6Gl_xfjVUkpAi2TaG8p9fPxmOVN0v8OAzarb7a_FCjK-qj77dwvKCrnCo7b0XmwP2rN6N0PWnealGkanVzy8yM974x7Q",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:a61a34dff3536d66"
     },
     {
       "name": "NASA Space Apps Challenge",
@@ -540,6 +527,21 @@
       "uid": "hk:02326c3298f0c390"
     },
     {
+      "name": "AI at 70 Student Hackathon",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESmgEB6zswFRQ9Cpm1xUr7qFhoWePDsXggmTMUBwbwww2Fqi68aZKNf2EMkkl5QGoqJ0_i5RMbyYMV7nk2UGBk6RR5N-qUvKyu2O-W9MvgzHA762hxPy5INdMHBylbcL-KRJHRuJSM2OgWzhL8OC-u6cNi4YnzSxu8T22BiHMsvgELIAIqoYaPMfV9FGtCQDRawQNZDG6qNwnnDPjJ",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:2468dcfe65033bf2"
+    },
+    {
       "name": "Ai auzit de Hackathon, dar știi ce este un CADathon? 📐🏃‍ ...",
       "organizer": "instagram.com",
       "url": "https://www.instagram.com/p/DThnONuiO41/",
@@ -553,6 +555,21 @@
         "apify"
       ],
       "uid": "hk:1f052f5fb0a5ed29"
+    },
+    {
+      "name": "Airtable Hackathon!!",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAEShQEB6zswFQIYKxuJLtEOvG9tGwX50QRooX6mklXSVk9XSf65whtBOvlv-VBCvpDyDbwEzEsqaSbpbB3gGHLPLmce9fGTQ-Sfyk4YArVuA_26FjrGk71JPBqLmC7kIP6BvIu6gJH2nVxzCu_FMazMEf5_f9YQ-MIlQBryyOtOggULP4JZaBPz",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:bf397f8427b13322"
     },
     {
       "name": "AMAZING DIY Door Handle Surprises Everyone  #SmartHack ...",
@@ -630,6 +647,21 @@
       "uid": "hk:f9b2724cfb267ec4"
     },
     {
+      "name": "Attended my first Claude hackathon and learned that ...",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESnQEB6zswFbAiGsFo8aykZhvaFlsT533BWWMA_GQ-hi4jKQnCT5jm_sE02QwSwdyTqI4kW2IvrgB7E4OZ-4Fe3vFM_rUZ6d4Bk1ehumLn2LdfXOCbEg2TabjEOsYHVNR0gYa86MwMzhdLT1c0N8cePsqphHGFEmdrjUW3eOm4rVuMj8Q0NMpWz7W05kYA5-I5VALdaEg9BubtN_3nAMEu",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:d60fe71ecd25bbc6"
+    },
+    {
       "name": "AWS CendekiAwan 2026 Energy Nexus AI Hackathon ...",
       "organizer": "linkedin.com",
       "url": "https://www.linkedin.com/posts/qurat-ul-ain-zam-zam-m-7693a7183_awscendekiawan-generativeai-cloudcomputing-activity-7476525383820025857-oLiC",
@@ -658,6 +690,21 @@
         "apify"
       ],
       "uid": "hk:c3b594b9628eb8ad"
+    },
+    {
+      "name": "Best Practices from AWS Experts on Acing Hackathons",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESZgHrOzAV2oQ_6IkCPu13utRxy39Ccrjrh86fpyROK6PWV0vx11SSYVak7DUT6QUDYuMAKlU9K0zTy-Q5sCS0FQzzJy4ll3Pd6VlVo6231pGtmLDXS7jY_5a5Q9WAGPxNfGK49Tw0tg",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:8380cac2df817e19"
     },
     {
       "name": "Best Tips for Hackathon Organizers and Participants",
@@ -748,6 +795,21 @@
         "apify"
       ],
       "uid": "hk:e0a20c46ac99b077"
+    },
+    {
+      "name": "CASSINI Hackathon, inițiativă @space4eu, revine ...",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESYwHrOzAVU8UL7Kx5-QdddF8FI4yBjAVS6a6OTJexkUEiaQdVrZRv2R8sWPXB47sLF5tGrurpv2eOz2XJUUyJGoNUKkSMU2L9BH-VpygKUSeNnoFMvWH0krzgGZY0oCoZRZto6A",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:2a6396d91d2b5bb3"
     },
     {
       "name": "Chemical Ecology Hackathon 2026 in Athens, Greece",
@@ -2874,21 +2936,6 @@
       "uid": "hk:36f70ce66b256664"
     },
     {
-      "name": "Resources | The Bucharest Hackathon 2026",
-      "organizer": "thebucharesthackathon.com",
-      "url": "https://thebucharesthackathon.com/resources.html",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:c4e0cd3d097752c8"
-    },
-    {
       "name": "Restaurant of Tomorrow - Coding Challenge",
       "organizer": "hackathon.com",
       "url": "https://www.hackathon.com/event/restaurant-of-tomorrow---coding-challenge-90172433175",
@@ -3472,6 +3519,21 @@
       "uid": "hk:b8f1616824b6c4d3"
     },
     {
+      "name": "Very saddened at the current state of hackathons",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESqAEB6zswFdZeH7hMhfza4J5eaNw93vXm8ka8-EsZbWkhcPPLrUSkrYsdLdu8xb6SwD7jgv3DhdyhVq4AVvfYmTc9KE1MIFQWN-p_6v2kG91_ocZg2CqoErmR-dlfXD1GKt7fu-OxaLObH4abmbuHywToM9M9j6J3cuhP9zk1sCOUkGxwWL6azm9w8_7zkJaFP3m-BcsEsqRfiqWJaRfWDLux41PbSefNzbo",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:db1b3e35db578fe8"
+    },
+    {
       "name": "Vrei să câștigi un premiu marca CAD&CRAFT ... - Instagram",
       "organizer": "instagram.com",
       "url": "https://www.instagram.com/p/DVJZlUriIyo/",
@@ -3485,6 +3547,21 @@
         "apify"
       ],
       "uid": "hk:663daf775b02c102"
+    },
+    {
+      "name": "We Hosted the Largest Hardware Hackathon",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESZgHrOzAVCGnWIvXIzi_dY78Q4c_Q5R5d2c--LDo_iGMKDc2t8WuoN5Tex8NCdl-zf6XcqAK3cnuwnKCSWqA_CkctA0vC0nRr73C-Gp119psn5TJN97suJ5a1zR8W_4eeBwOhACsdqQ",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:fec60060bb570520"
     },
     {
       "name": "What Does Hackathon Mean",
@@ -3515,6 +3592,21 @@
         "apify"
       ],
       "uid": "hk:9945fc9c376621d5"
+    },
+    {
+      "name": "What is a hackathon? Here's all you need to know",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESjQEB6zswFZaDqFqj2e7D_ATELtKU4DJBA4xEfHBJzkhMK8fqh6BePetCEKmA-TjvlJEX1_oXD8Gf1r4uF7yybkqLMpODCQWNopqJ9LzMV8YY1SRa5kH38asI39M8-aLHORAESlSsBm79hmWNeUMCSZgsCrzwUOAsZct45SedhG4AE87ZPwUc9JTEVaOVCyA",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:0cea428d45d705f1"
     },
     {
       "name": "What is a Hackathon? What usually happens during it?",
