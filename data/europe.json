@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-11-01T11:44:22.104912+00:00",
+  "updated_at": "2026-11-02T13:13:52.115751+00:00",
   "hackathons": [
-    {
-      "name": "DevDay Community Hackathon: London",
-      "organizer": "Luma",
-      "url": "https://lu.ma/dde-ldn-hack",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:7ebe4fac90ab3fea"
-    },
     {
       "name": "Campaign Lab Autumn Hack Night!",
       "organizer": "Luma",
@@ -67,17 +54,17 @@
       "uid": "hk:bf68caf38f05db32"
     },
     {
-      "name": "Earth Breathing | Hackathon",
+      "name": "Grok Bot Hackathon Wrocław",
       "organizer": "Luma",
-      "url": "https://lu.ma/scaco3z7",
+      "url": "https://lu.ma/spacexai-gjig",
       "source": "luma",
-      "location": "Cergy, Cergy, France, France",
+      "location": "Wrocław, Wrocław, Poland, Poland",
       "format": "in_person",
       "start_date": "2026-11-05",
       "end_date": "2026-11-05",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:91e3d848ebad2371"
+      "uid": "hk:56ffbb0723d8b0ff"
     },
     {
       "name": "Build Your Residence Hall: A 5-Day Base44 Hackathon",
@@ -236,19 +223,6 @@
       "uid": "hk:3a76aa810ab105d0"
     },
     {
-      "name": "Cambridge EduX Hackathon 2026",
-      "organizer": "Luma",
-      "url": "https://lu.ma/6sv64tnt",
-      "source": "luma",
-      "location": "Cambridge, Cambridge, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-13",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:85e33dc7e15afd87"
-    },
-    {
       "name": "Game Jam Karlsruhe",
       "organizer": "Luma",
       "url": "https://lu.ma/wneibucy",
@@ -260,6 +234,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:6618118774a20a31"
+    },
+    {
+      "name": "Game Jam Munich",
+      "organizer": "Luma",
+      "url": "https://lu.ma/kobeckgo",
+      "source": "luma",
+      "location": "Munich, Munich, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:c829e8d15444e279"
     },
     {
       "name": "Hackathon Open Data 🏛️",
@@ -329,6 +316,32 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:171ae7a98e42a7d4"
+    },
+    {
+      "name": "Gen AI Summit Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/x1wxi5sn",
+      "source": "luma",
+      "location": "Spata, Spata, Greece, Greece",
+      "format": "in_person",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:35b4027bc0350e9f"
+    },
+    {
+      "name": "Imperial AI Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/c6zebxau",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:b76c67c220fbecf0"
     },
     {
       "name": "Junction",
@@ -516,17 +529,17 @@
       "uid": "hk:954feef8c1dcdc85"
     },
     {
-      "name": "Energy Hackathon",
+      "name": "Prompt Startegy Hackathon",
       "organizer": "Luma",
-      "url": "https://lu.ma/tv9m97dp",
+      "url": "https://lu.ma/aaltoes-u79b",
       "source": "luma",
-      "location": "Lahti, Lahti, Finland, Finland",
+      "location": "Espoo, Espoo, Finland, Finland",
       "format": "in_person",
-      "start_date": "2026-11-05",
-      "end_date": "2026-12-07",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:ae6e9ac20dcaac36"
+      "uid": "hk:1200a8799caba9a2"
     },
     {
       "name": "CASSINI Hackathons - EU Space for Consumer Experience",

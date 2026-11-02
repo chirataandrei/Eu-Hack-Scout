@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T11:44:22.104912+00:00",
+  "updated_at": "2026-11-02T13:13:52.115751+00:00",
   "hackathons": [
     {
       "name": "Regulament - Smarthack 2026 - ASMI",
@@ -300,6 +300,21 @@
         "apify"
       ],
       "uid": "hk:fa3c4233a04cbe4c"
+    },
+    {
+      "name": "11th CASSINI Hackathon | Hungary | EU Space for Water",
+      "organizer": "hackathons.cassini.eu",
+      "url": "https://hackathons.cassini.eu/hungary",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:fbf86683026b2bd1"
     },
     {
       "name": "12th CASSINI Hackathon | Romania | EU Space for Peace ...",
@@ -1275,6 +1290,21 @@
       "uid": "hk:49afa3f977d55852"
     },
     {
+      "name": "Evenimentul CAD&CRAFT a fost o experiență ... - Instagram",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/p/DZevIgljjV-/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:90c55bbb86c4e55b"
+    },
+    {
       "name": "Ești gata de CAD&CRAFT Ediția 2? Dacă ești pasionat de ...",
       "organizer": "instagram.com",
       "url": "https://www.instagram.com/reel/DVQz3eziO7t/",
@@ -1468,6 +1498,21 @@
         "apify"
       ],
       "uid": "hk:0051d2ed669e1383"
+    },
+    {
+      "name": "Hackathon - Tech Glossary",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESaAHrOzAV0jU_KnbBSR6IH8v6ec0gfrF_nml4OTMLAW1J39ZNBIUPi4GXy4FIEaDXwJ2QZsMzkUNmpU0xfuwvMuGcd2pJ7STjm8q6ZoRE_45c1TGZMe8xaBfwCWQVEGuys9Si_UOr102r",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:7babbe81c5306766"
     },
     {
       "name": "hackathon 2026",
@@ -1843,6 +1888,21 @@
       "uid": "hk:e1c8c8bd7176bd04"
     },
     {
+      "name": "Has anyone been in a hackathon as a non-technical team ...",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESpwEB6zswFe3xVWhPEN_ILzSUBujipTOMC7i7_FGaBdRVrsEGFqvFB4mHmlicMqWLD2_JcqPXiPWktzbhQZiljqf2nPA2r-rbF4buvZdB754Mp9-c11xEQTwEJ8-bqKP9XHhbFM7Z1j8yvf5uUr7vUR0xOpGoQQ_zYS1bH_V6cfWTnPPHUaX-Dh66qr12mCzEQlunX5KyNl4Y-g3RX8enELJYSUmWylNFig&gsessionid=pIIGLYc21izJzp8yqWNUalB1dlVHzknZSZhTe2QZhLDT3LMCgFP4Tg",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:3cecc5075f790836"
+    },
+    {
       "name": "Host a NASA Space Apps Local Event!",
       "organizer": "spaceappschallenge.org",
       "url": "https://www.spaceappschallenge.org/host-an-event/",
@@ -1993,6 +2053,21 @@
       "uid": "hk:600ec2d08c9a511d"
     },
     {
+      "name": "I went to the largest hackathon in Silicon Valley",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESZgHrOzAVblBKqVkVXAl1tOl_CbDyRCz_5CGQTpdhNrrZOk_gsEJY1DQpGwvAi66Zc-3pGbFXlc_vy2JAhQqc3qbho4y_QSYB0-OpZY80rd47iYcxndqmOjJ5JsdkrC2GG4tOtijSLw",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:329f9a901462b09a"
+    },
+    {
       "name": "IDEA 3.0",
       "organizer": "idea.eestec.ro",
       "url": "https://idea.eestec.ro/",
@@ -2006,6 +2081,21 @@
         "apify"
       ],
       "uid": "hk:7bc2c99c23ea5a14"
+    },
+    {
+      "name": "Idei pentru hackathon : r/programare",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAEShQEB6zswFZIpy7sB-8aMddQzHdfRu91RzxOajb86fxdRZIMO4dBCuuCRZvrn8tVdMTJOr7f9yqFUGTskEULSKCxMAqhGSLCxQI_eK5peHnJZSXmU9pW0MSuZCYRuXslaluT0tNHyM73N9IBsv7ZecfZuQBA3yhsS1LFHfsPOfpO2lIn1Iutd",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:ad0b1319ffc1ba92"
     },
     {
       "name": "In the previous edition, one of the NASA Space Apps ...",
@@ -2831,6 +2921,21 @@
       "uid": "hk:9dfe15808a8b5582"
     },
     {
+      "name": "Popeyes Employment - Hackathon",
+      "organizer": "techarena-germany.hackathon.com",
+      "url": "https://techarena-germany.hackathon.com/blog/popeyes-employment",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:eedb971fb3f807f5"
+    },
+    {
       "name": "porțile CAD&CRAFT sunt oficial deschise! ⚡ Adună-ți ...",
       "organizer": "instagram.com",
       "url": "https://www.instagram.com/p/DUQZ72MCO7J/",
@@ -2934,6 +3039,21 @@
         "apify"
       ],
       "uid": "hk:36f70ce66b256664"
+    },
+    {
+      "name": "Resources | The Bucharest Hackathon 2026",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESawHrOzAVB8yzUMdTwnJSITcaAufAteE3mMKwuX1sOp8DMH9yqtpvASnpx-ax1MkVzoHRpDYg0a376aF8JUBSJ1sI8VkIvqR4ON5SLMVTnUpZNyQF0S4vxOJGp-y0SugXUoztSay_t5Yk9aQO",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:d54ab13769688b7f"
     },
     {
       "name": "Restaurant of Tomorrow - Coding Challenge",
@@ -3264,6 +3384,21 @@
         "apify"
       ],
       "uid": "hk:c9b4ed84116240ed"
+    },
+    {
+      "name": "Space Apps (@nasa_spaceapps) - Instagram",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/nasa_spaceapps/?hl=en",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:62695f0ba499637a"
     },
     {
       "name": "Stefan Tutuianu - 24 Hours of Google Hackathon",
@@ -3622,6 +3757,21 @@
         "apify"
       ],
       "uid": "hk:8b9d05340b54aa54"
+    },
+    {
+      "name": "What is a Hackathon?. And why should I go to one?",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESlgEB6zswFQh9EPZLjeaCO_vqhmF2yDqq8FoO_luONG5rI9_H_JTdbFhW3UO8F5dGaAQEbDWHY5MsOh88_hL4WjlqCxjQMbpbVZX-nHbY-NO7jeKmhSorKjbgu6QHtn_tQNZixgIIN3gOAyoV3RVPMub7vurMczroX8UfEMJdh0q2thccnJXrGngN-E2J_v2tst3gLBv2xVE",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:b3bd90b03a39c275"
     },
     {
       "name": "What is the NASA Space Apps Challenge?",
