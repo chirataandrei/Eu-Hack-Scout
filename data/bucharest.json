@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-03T12:40:23.001544+00:00",
+  "updated_at": "2026-11-04T12:50:27.209948+00:00",
   "hackathons": [
+    {
+      "name": "48 de ore pentru a transforma datele NASA în aplicații și jocuri: NASA Space Apps Challenge revine la București și Cluj",
+      "organizer": "start-up.ro",
+      "url": "https://start-up.ro/48-de-ore-pentru-a-transforma-datele-nasa-in-aplicatii-si-jocuri-nasa-space-apps-challenge-revine-la-bucuresti-si-cluj/",
+      "source": "startupro",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": "2026-11-04",
+      "tags": [],
+      "uid": "hk:274070203af766ec"
+    },
     {
       "name": "Regulament - Smarthack 2026 - ASMI",
       "organizer": "smarthack.asmi.ro",
@@ -227,6 +240,21 @@
       "uid": "hk:9ca16a66822ec4dd"
     },
     {
+      "name": "NASA Space Apps Challenge Bucharest 2026",
+      "organizer": "hackathonradar.com",
+      "url": "https://www.hackathonradar.com/database/hackathon/nasa-space-apps-challenge-bucharest-2026",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:44a2e9360d99fc52"
+    },
+    {
       "name": "NASA Space Apps Challenge opens registration for ...",
       "organizer": "romania-insider.com",
       "url": "https://www.romania-insider.com/nasa-space-apps-challenge-registrations-romania-2026",
@@ -300,6 +328,21 @@
         "apify"
       ],
       "uid": "hk:3acb15305290f356"
+    },
+    {
+      "name": "Social Entrepreneurship Hackathon: Collective Intelligence…",
+      "organizer": "hackathonradar.com",
+      "url": "https://www.hackathonradar.com/database/hackathon/social-entrepreneurship-hackathon-collective-intelligence-fo-2026",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:9bc0843e59e13361"
     },
     {
       "name": "bestem.bucharest",
@@ -420,21 +463,6 @@
         "apify"
       ],
       "uid": "hk:8bfc2f1916356fa6"
-    },
-    {
-      "name": "24 Hours of Google - Hackathon - ASMI",
-      "organizer": "asmi.ro",
-      "url": "https://asmi.ro/Articole/google-hackaton",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:903915de1b52bc64"
     },
     {
       "name": "24 Hours of Google Hackathon 2026 | Eduard Olteanu",
@@ -1961,6 +1989,21 @@
         "apify"
       ],
       "uid": "hk:e1c8c8bd7176bd04"
+    },
+    {
+      "name": "Hackviser Sponsors YE Digital Hackathon 2026",
+      "organizer": "linkedin.com",
+      "url": "https://www.linkedin.com/posts/youth-empowerment-community_youthempowerment-hackviser-yedigitalhackathon2026-activity-7517229428800827392-b0u5",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:b36dbdf5825a223a"
     },
     {
       "name": "Has anyone been in a hackathon as a non-technical team ...",
@@ -3952,6 +3995,21 @@
         "apify"
       ],
       "uid": "hk:3974f2239183446c"
+    },
+    {
+      "name": "🎙️ NASA Space Apps Challenge is coming to @radiocluj ...",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/p/DejUvm3iFkB/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:1326be47cf16f2c3"
     },
     {
       "name": "👾 Smarthack X (ediția a 10-a) nu putea ajunge ...",
