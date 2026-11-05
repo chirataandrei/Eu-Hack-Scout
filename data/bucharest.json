@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-11-04T12:50:27.209948+00:00",
+  "updated_at": "2026-11-05T12:58:29.065164+00:00",
   "hackathons": [
-    {
-      "name": "48 de ore pentru a transforma datele NASA în aplicații și jocuri: NASA Space Apps Challenge revine la București și Cluj",
-      "organizer": "start-up.ro",
-      "url": "https://start-up.ro/48-de-ore-pentru-a-transforma-datele-nasa-in-aplicatii-si-jocuri-nasa-space-apps-challenge-revine-la-bucuresti-si-cluj/",
-      "source": "startupro",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": "2026-11-04",
-      "tags": [],
-      "uid": "hk:274070203af766ec"
-    },
     {
       "name": "Regulament - Smarthack 2026 - ASMI",
       "organizer": "smarthack.asmi.ro",
@@ -285,6 +272,21 @@
       "uid": "hk:ae9a6a040b467edd"
     },
     {
+      "name": "NASA Space Apps Challenge: Key Criteria for Project ...",
+      "organizer": "romaniajournal.ro",
+      "url": "https://www.romaniajournal.ro/amp/business/nasa-space-apps-challenge-key-criteria-for-project-reviews/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:cdbb2193607057a1"
+    },
+    {
       "name": "România participă la NASA Space Apps Challenge 2026. ...",
       "organizer": "revistacariere.ro",
       "url": "https://www.revistacariere.ro/noutati/romania-participa-la-nasa-space-apps-challenge-2026-cele-mai-bune-echipe-vor-concura-la-nivel-global",
@@ -463,6 +465,21 @@
         "apify"
       ],
       "uid": "hk:8bfc2f1916356fa6"
+    },
+    {
+      "name": "24 Hours of Google - Hackathon - ASMI",
+      "organizer": "asmi.ro",
+      "url": "https://asmi.ro/Articole/google-hackaton",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:903915de1b52bc64"
     },
     {
       "name": "24 Hours of Google Hackathon 2026 | Eduard Olteanu",
@@ -1226,6 +1243,21 @@
         "apify"
       ],
       "uid": "hk:20561310178632f1"
+    },
+    {
+      "name": "EfxINNOs Hackathon: ROMANIA",
+      "organizer": "envrio.eu",
+      "url": "https://envrio.eu/efxinnos/efxinnos-hackathon-romania/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:5ca845c3925e0912"
     },
     {
       "name": "Electron Hackathon | Bucharest",
@@ -2769,6 +2801,21 @@
       "uid": "hk:0988623dcf314b67"
     },
     {
+      "name": "NASA Space Apps Challenge Megathread : r/nasa",
+      "organizer": "reddit.com",
+      "url": "https://www.reddit.com/r/nasa/comments/1vr845c/nasa_space_apps_challenge_megathread/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:8429e1214ffdd937"
+    },
+    {
       "name": "NASA Space Apps Challenge opens registrations for ...",
       "organizer": "romania-insider.com",
       "url": "https://www.romania-insider.com/life/nasa-space-apps-challenge-registrations-romania-2023",
@@ -2872,6 +2919,21 @@
         "apify"
       ],
       "uid": "hk:bafc6b09a84ce6aa"
+    },
+    {
+      "name": "NASA Space Apps Challenge: My Hackathon Saga",
+      "organizer": "medium.com",
+      "url": "https://medium.com/@akinremibunmi111/nasa-space-apps-challenge-my-hackathon-saga-453dd3ff201d",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:27111a4f53a2326a"
     },
     {
       "name": "NASA Space Apps Challenge: Over 150 participants from ...",
@@ -3695,6 +3757,21 @@
         "apify"
       ],
       "uid": "hk:d41857b69348c89d"
+    },
+    {
+      "name": "The world's largest hackathon, NASA Space Apps ...",
+      "organizer": "150sec.com",
+      "url": "https://150sec.com/the-worlds-largest-hackathon-nasa-space-apps-challenge-2017-returns-to-romania/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:a660c138c865ec41"
     },
     {
       "name": "Three Romanian cities host NASA Space Apps Challenge ...",
