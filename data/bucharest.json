@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T12:58:29.065164+00:00",
+  "updated_at": "2026-11-06T12:45:52.371155+00:00",
   "hackathons": [
     {
       "name": "Regulament - Smarthack 2026 - ASMI",
@@ -330,6 +330,21 @@
         "apify"
       ],
       "uid": "hk:3acb15305290f356"
+    },
+    {
+      "name": "12th CASSINI Hackathon: EU Space for Peace and ...",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAEStgEBxCJF160qreyylTfFNCJ8hI612SdC9kXA5eWAPCVmjEaKuOxlyurXF_IjK3uaF0184k5rR4FX8KP9V60CPoUu5j1kFPoS4_nz3BQB1OlyI9WpBnfo1RvTG7LAX4zy9n4nR-maGsSHEI2ExKHwu1hO5YN5BWDItQlJzVGO-d_GgDg5APBnT6Vbh3q4QNU383rQ5jQOL0tmvrV6eHOI6JulGe-p1eMsJTblSK1XZ3LE9iQqbMHN_g",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:4828b9223248816a"
     },
     {
       "name": "Social Entrepreneurship Hackathon: Collective Intelligence…",
@@ -765,6 +780,21 @@
         "apify"
       ],
       "uid": "hk:d60fe71ecd25bbc6"
+    },
+    {
+      "name": "Au fost desemnați câștigătorii primului Hackathon ...",
+      "organizer": "fundatiacomunitarabucuresti.ro",
+      "url": "https://fundatiacomunitarabucuresti.ro/noutati/au-fost-desemnati-castigatorii-primului-hackathon-waterwise-hub/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:5d056a6bfe76229b"
     },
     {
       "name": "AWS CendekiAwan 2026 Energy Nexus AI Hackathon ...",
@@ -2636,6 +2666,21 @@
       "uid": "hk:5ff9660eb10265dc"
     },
     {
+      "name": "NASA Space Apps Challenge (Western & Central Europe)",
+      "organizer": "hackathonhub.eu",
+      "url": "https://hackathonhub.eu/events/nasa-space-apps-challenge-turin-turin-2026",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:f3975af5ee59164e"
+    },
+    {
       "name": "NASA Space Apps Challenge 2026 lansează 14 provocări",
       "organizer": "zilesinopti.ro",
       "url": "https://zilesinopti.ro/2026/09/29/nasa-space-apps-challenge-2026/",
@@ -2981,6 +3026,21 @@
       "uid": "hk:3a4f807567c3da15"
     },
     {
+      "name": "NASA Space Apps Romania",
+      "organizer": "google.com",
+      "url": "https://www.google.com/goto?url=CAESdgHEIkXXsKusDT3Q4FRXQiMdrSAlCP4rmz1hBOucC15hkVRILvXwKCut_AHBbupUwJgZeZ1H25ALmjY2HMhS2P5JbuJfgFRc1ogw2TWjTT8oEU-GI7gCKoy8YvV8MtpZXbMPNYWqNq1WkSkgInt5xjykPIx2icM",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:4dd87c3e2439c1cf"
+    },
+    {
       "name": "NASA Space Apps Romania's Post",
       "organizer": "linkedin.com",
       "url": "https://www.linkedin.com/posts/nasa-space-apps-romania_in-the-previous-edition-one-of-the-nasa-activity-7505618142094745600-kWA8",
@@ -3159,6 +3219,21 @@
         "apify"
       ],
       "uid": "hk:eaf6e1b8447ecbdd"
+    },
+    {
+      "name": "Puneți ideile în aplicare! Te așteptăm la CAD&Craft  Un ...",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/TelecomAcademyRo/videos/-pune%C8%9Bi-ideile-%C3%AEn-aplicarete-a%C8%99tept%C4%83m-la-cadcraft-%EF%B8%8Fun-eveniment-unde-creativitat/1417586153196094/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:d62809230adf71dd"
     },
     {
       "name": "r/hackathon",
@@ -4162,6 +4237,21 @@
         "apify"
       ],
       "uid": "hk:d45cbfdffeae5afc"
+    },
+    {
+      "name": "🛰️ ROTSA brings the 12th CASSINI Hackathon to ...",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/RoTechStartup/posts/%EF%B8%8F-rotsa-brings-the-12th-cassini-hackathon-to-romania-from-november-27-29-2026inn/1025880966714643/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:712c6f1210586be9"
     },
     {
       "name": "🧠🚀 GitGood Hack: dăm startul primei ediții! 👾 Ești gata de ...",
