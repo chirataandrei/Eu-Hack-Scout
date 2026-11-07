@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T12:45:52.371155+00:00",
+  "updated_at": "2026-11-07T11:34:36.642117+00:00",
   "hackathons": [
     {
       "name": "Regulament - Smarthack 2026 - ASMI",
@@ -2621,6 +2621,21 @@
       "uid": "hk:061867c00259bcf5"
     },
     {
+      "name": "NASA Space Apps 6th of October",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/nasaspaceapps6thofoctober/posts/-nasa-space-apps-6th-of-octobereveryones-asking-about-the-bootcamp-and-now-you-k/122121729507436014/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:12af1b2d82fb9130"
+    },
+    {
       "name": "NASA Space Apps Alexandria",
       "organizer": "facebook.com",
       "url": "https://www.facebook.com/spaceappsalex/posts/imagine-solving-real-problems-from-nasa-from-alexandria-nasa-space-apps-challeng/1435340201978784/",
@@ -2874,6 +2889,21 @@
         "apify"
       ],
       "uid": "hk:91e41301e24d030f"
+    },
+    {
+      "name": "NASA Space Apps Challenge participants have 14 ...",
+      "organizer": "instagram.com",
+      "url": "https://www.instagram.com/p/Dd3n2-4m8fB/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:a5ffc5eefeda14b5"
     },
     {
       "name": "NASA Space Apps Challenge registrations open",
