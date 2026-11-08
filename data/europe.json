@@ -1,123 +1,6 @@
 {
-  "updated_at": "2026-11-07T11:34:36.642117+00:00",
+  "updated_at": "2026-11-08T11:46:19.185455+00:00",
   "hackathons": [
-    {
-      "name": "[SOLDOUT] Hack the Feed: AI Video Hackathon with Oriane, Lovable & Brut at Albert School Paris",
-      "organizer": "Luma",
-      "url": "https://lu.ma/h7aqkkw4",
-      "source": "luma",
-      "location": "Paris, Paris, France, France",
-      "format": "in_person",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:92a18bbb78128a40"
-    },
-    {
-      "name": "AI Agents for Accessibility Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/lzacr9yq",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:42767cabeb259726"
-    },
-    {
-      "name": "AI Safety Hackathon Budapest: Prototyping Alignment & Governance Tools (sponsored by Lovable and Initium Nexus)",
-      "organizer": "Luma",
-      "url": "https://lu.ma/ph2ah7m0",
-      "source": "luma",
-      "location": "Budapest, Budapest, Hungary, Hungary",
-      "format": "in_person",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:ed8564f7b0ae5aec"
-    },
-    {
-      "name": "Cursor x Sandbox Hackathon | Stuttgart",
-      "organizer": "Luma",
-      "url": "https://lu.ma/spacexai-tueh",
-      "source": "luma",
-      "location": "Stuttgart, Stuttgart, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:89f884a2ec7efaa1"
-    },
-    {
-      "name": "House London! #3 | Data Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/m3pbljlh",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:24970652fafecf8b"
-    },
-    {
-      "name": "Oxford Applied AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/lpwg9cq4",
-      "source": "luma",
-      "location": "Oxford, Oxford, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:d8a39f2753bfb936"
-    },
-    {
-      "name": "VIBENIGHT #2 : Hackathon AI Safety",
-      "organizer": "Luma",
-      "url": "https://lu.ma/9rkl3mrp",
-      "source": "luma",
-      "location": "Paris, Paris, France, France",
-      "format": "in_person",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:8b4a2c0dda9acd5e"
-    },
-    {
-      "name": "Adapty Hackathon First Commit",
-      "organizer": "Luma",
-      "url": "https://lu.ma/6n5z66cr",
-      "source": "luma",
-      "location": "Beograd, Beograd, Serbia, Serbia",
-      "format": "in_person",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-08",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:aa79347e85794ff6"
-    },
-    {
-      "name": "H Company × 42AI | Computer Use Agents Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/hz9db5u9",
-      "source": "luma",
-      "location": "Paris, Paris, France, France",
-      "format": "in_person",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-08",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:af747ca4529d1d9c"
-    },
     {
       "name": "HackTheBurgh",
       "organizer": "MLH",
@@ -145,6 +28,19 @@
       "uid": "hk:5e86cf642fb50027"
     },
     {
+      "name": "Build your content-led GTM motion: Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/y3vajpmz",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:2206859cc5e7fbd7"
+    },
+    {
       "name": "Data & AI Buildathon: Think, Collaborate, Create",
       "organizer": "AtlasShift Buildathon",
       "url": "https://www.meetup.com/atlasshift-buildathon/events/317236778/",
@@ -169,6 +65,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:85e33dc7e15afd87"
+    },
+    {
+      "name": "Hackathon Eve: How We Build with Agents",
+      "organizer": "Luma",
+      "url": "https://lu.ma/xx7msf8o",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:209e644c879426f4"
     },
     {
       "name": "Building Better Worlds Hackathon",
@@ -370,6 +279,19 @@
       "uid": "hk:bed6ff8e5da4ecf4"
     },
     {
+      "name": "Mobile App Hackathon Night by Bilt.me",
+      "organizer": "Luma",
+      "url": "https://lu.ma/shurirhv",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:8a251f11ad19d25d"
+    },
+    {
       "name": "Making Sense - OxAI Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/e4wrrck2",
@@ -422,17 +344,17 @@
       "uid": "hk:9278612781776c0b"
     },
     {
-      "name": "AI Health Hackathon Stockholm 2026",
+      "name": "#42 - Vultr Agent Runtime Hackathon",
       "organizer": "Luma",
-      "url": "https://lu.ma/c261sgl6",
+      "url": "https://lu.ma/stockholm-nn3n",
       "source": "luma",
       "location": "Stockholm, Stockholm, Sweden, Sweden",
       "format": "in_person",
-      "start_date": "2026-11-28",
-      "end_date": "2026-11-28",
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:4d59624e91e7c4cb"
+      "uid": "hk:c1b40877da7399bb"
     },
     {
       "name": "Codex Community Hackathon – London",
@@ -503,6 +425,32 @@
       "uid": "hk:f31c79495e2beff3"
     },
     {
+      "name": "Charity Tools Hack Day #1",
+      "organizer": "Luma",
+      "url": "https://lu.ma/o0nte22k",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-04",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:ea16a0ef59d03afa"
+    },
+    {
+      "name": "Arctic Express Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/ppxp9k0p",
+      "source": "luma",
+      "location": "Espoo, Espoo, Finland, Finland",
+      "format": "in_person",
+      "start_date": "2026-12-03",
+      "end_date": "2026-12-06",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:005d81223a5b8c43"
+    },
+    {
       "name": "„The Gate is the Brain“ - Primion x Projector (Keynote & Hackathon)",
       "organizer": "Luma",
       "url": "https://lu.ma/axm9osju",
@@ -516,17 +464,34 @@
       "uid": "hk:91f4072edf2863e2"
     },
     {
-      "name": "House London! #4 | Data Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/47pikxpr",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
+      "name": "ETHGlobal Cannes 2027",
+      "organizer": "ETHGlobal",
+      "url": "https://ethglobal.com/events/cannes2027",
+      "source": "ethglobal",
+      "location": "Cannes, France",
       "format": "in_person",
-      "start_date": "2027-01-16",
-      "end_date": "2027-01-16",
+      "start_date": "2027-04-14",
+      "end_date": "2027-04-16",
       "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:f5d8ebcd02bb4fb5"
+      "tags": [
+        "web3"
+      ],
+      "uid": "hk:0b9d31d7594c4d0a"
+    },
+    {
+      "name": "ETHGlobal Lisbon 2027",
+      "organizer": "ETHGlobal",
+      "url": "https://ethglobal.com/events/lisbon2027",
+      "source": "ethglobal",
+      "location": "Lisbon, Portugal",
+      "format": "in_person",
+      "start_date": "2027-10-13",
+      "end_date": "2027-10-15",
+      "registration_deadline": null,
+      "tags": [
+        "web3"
+      ],
+      "uid": "hk:24702f79f3deddfe"
     },
     {
       "name": "CASSINI Hackathons - EU Space for Consumer Experience",

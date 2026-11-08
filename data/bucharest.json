@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T11:34:36.642117+00:00",
+  "updated_at": "2026-11-08T11:46:19.185455+00:00",
   "hackathons": [
     {
       "name": "Regulament - Smarthack 2026 - ASMI",
@@ -812,6 +812,21 @@
       "uid": "hk:6c94dcc4890b5d9c"
     },
     {
+      "name": "Așa a arătat succesul la prima ediție CAD&CRAFT! 🏆 ...",
+      "organizer": "facebook.com",
+      "url": "https://www.facebook.com/OSFIIR/posts/a%C8%99a-a-ar%C4%83tat-succesul-la-prima-edi%C8%9Bie-cadcraft-arunc%C4%83m-o-privire-%C3%AEnapoi-la-campi/1332093752283503/",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:6b73fb98a02d5200"
+    },
+    {
       "name": "Așa a decurs prima zi la GitGood Hack!  @asmi.ub",
       "organizer": "instagram.com",
       "url": "https://www.instagram.com/reel/DYJk-h0IKUn/",
@@ -870,6 +885,21 @@
         "apify"
       ],
       "uid": "hk:48da3caad3ab74f2"
+    },
+    {
+      "name": "Bucharest Startup Weekend · Hackathon 2026",
+      "organizer": "hackathonhub.eu",
+      "url": "https://hackathonhub.eu/events/bucharest-startup-weekend-bucharest-2026",
+      "source": "apify",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [
+        "apify"
+      ],
+      "uid": "hk:d1afca2bd09e7b2a"
     },
     {
       "name": "București a fost partener în cadrul EUDIS Hackathon 2026 ...",
