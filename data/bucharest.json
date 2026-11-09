@@ -1,66 +1,6 @@
 {
-  "updated_at": "2026-11-08T11:46:19.185455+00:00",
+  "updated_at": "2026-11-09T13:41:01.628976+00:00",
   "hackathons": [
-    {
-      "name": "Regulament - Smarthack 2026 - ASMI",
-      "organizer": "smarthack.asmi.ro",
-      "url": "https://smarthack.asmi.ro/regulament",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-08",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:9682e112e3d65456"
-    },
-    {
-      "name": "S-a dat startul înscrierilor la Smarthack, cea mai mare ...",
-      "organizer": "romaniapozitiva.ro",
-      "url": "http://www.romaniapozitiva.ro/bucuresti/s-a-dat-startul-inscrierilor-la-smarthack-cea-mai-mare-provocare-tech-lansata-de-asmi-2/",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-08",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:892eebdbdc4033e2"
-    },
-    {
-      "name": "Smarthack revine cu o nouă ediție!",
-      "organizer": "romaniapozitiva.ro",
-      "url": "https://www.romaniapozitiva.ro/educatie/smarthack-revine-cu-o-noua-editie-3/",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-08",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:e7d7a5829edd2887"
-    },
-    {
-      "name": "SmartHack — Dates & Prizes",
-      "organizer": "hackathonradar.com",
-      "url": "https://www.hackathonradar.com/database/hackathon/smarthack-2026",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-08",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:7a83670e85c1d6ef"
-    },
     {
       "name": "EELISA Student-Led Bootcamp 2026 – Hackathon for a ...",
       "organizer": "international.upb.ro",
