@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T17:09:59.483751+00:00",
+  "updated_at": "2026-11-09T11:55:50.960668+00:00",
   "items": [
     {
       "title": "",
@@ -341703,7 +341703,7 @@
       "url": "https://asmi.ro/",
       "crawl": {
         "loadedUrl": "https://asmi.ro/",
-        "loadedTime": "2026-11-08T17:09:31.356Z",
+        "loadedTime": "2026-11-09T11:55:21.797Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341721,7 +341721,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:31 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:21 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -341740,7 +341740,7 @@
       "url": "https://lsebucuresti.org/",
       "crawl": {
         "loadedUrl": "https://lsebucuresti.org/",
-        "loadedTime": "2026-11-08T17:09:31.994Z",
+        "loadedTime": "2026-11-09T11:55:23.043Z",
         "referrerUrl": "https://lsebucuresti.org/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341770,17 +341770,17 @@
         ],
         "jsonLd": null,
         "headers": {
-          "age": "48794",
+          "age": "10560",
           "content-encoding": "gzip",
           "content-type": "text/html",
-          "date": "Sun, 08 Nov 2026 03:36:18 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:22 GMT",
           "etag": "W/\"0f46bd68887e35078f3a40c01687117c\"",
           "last-modified": "Fri, 20 Oct 2023 10:42:00 GMT",
           "server": "AmazonS3",
           "vary": "Accept-Encoding",
-          "via": "1.1 3a9d4d1041bb08dacfca557811c818c0.cloudfront.net (CloudFront)",
-          "x-amz-cf-id": "QE-a1rox4l2Ypy6_ReH_VWT1NOBS6W04Pk21khANLeor_0ZqUqYvTw==",
-          "x-amz-cf-pop": "IAD61-P8",
+          "via": "1.1 2851bda64a006d9b32d9825b54b37886.cloudfront.net (CloudFront)",
+          "x-amz-cf-id": "0n2MFKAgoH9VbREfZKokfo9XnL2h_vLnVXMR9yP-LmYKMED1Ch1AeA==",
+          "x-amz-cf-pop": "ARN56-P4",
           "x-amz-meta-userid": "93a2303a-c29d-4068-9b8a-80ccacebe515",
           "x-cache": "Hit from cloudfront",
           "x-powered-by": "genezio"
@@ -341798,47 +341798,10 @@
       "title": "Liga Studen\u021bilor Electroni\u0219ti"
     },
     {
-      "url": "https://asmi.ro/Articole/google-hackaton",
-      "crawl": {
-        "loadedUrl": "https://asmi.ro/Articole/google-hackaton",
-        "loadedTime": "2026-11-08T17:09:33.632Z",
-        "referrerUrl": "https://asmi.ro/Articole/google-hackaton",
-        "httpStatusCode": 200,
-        "depth": 0,
-        "contentLengthBytes": 1003869,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://asmi.ro/Articole/google-hackaton",
-        "title": "24 Hours of Google - Hackathon - ASMI",
-        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "content-encoding": "gzip",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:31 GMT",
-          "server": "nginx/1.28.3 (Ubuntu)"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "24 Hours of Google - Hackathon\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person 24 Hours of Google Hackathon!\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\nThe Challenge (should you choose to accept it!): Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\nHealth\nSafety\nAccessibility\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\ud83d\udcc5 Date: 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\ud83d\udccd Venue: Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\nWanna Join?\nWho: Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\nHow: Teams of 3 - register via the \"Register\" button by 23:59 Sunday, April 19th 2026 EEST. Don\u2019t forget to include CVs for all team members!\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\nReady to hack? Register now!",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# 24 Hours of Google - Hackathon\n\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person\u00a0**24 Hours of Google**\u00a0**Hackathon**!\n\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\n\n**The Challenge (should you choose to accept it!):** Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\n\n*   Health\n*   Safety\n*   Accessibility\n\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\n\ud83d\udcc5\u00a0**Date:** 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\n\ud83d\udccd\u00a0**Venue:** Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\n\n**Wanna Join?**\n\n*   **Who:** Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\n*   **How:** Teams of 3 - register via the \"[Register](https://rsvp.withgoogle.com/events/24-hours-of-google-hackathon-2026)\" button by\u00a0**23:59 Sunday, April 19th 2026 EEST**. Don\u2019t forget to include CVs for all team members!\n\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\n\nReady to hack? Register now!",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "24 Hours of Google - Hackathon - ASMI"
-    },
-    {
       "url": "https://eestec.ro/",
       "crawl": {
         "loadedUrl": "https://eestec.ro/",
-        "loadedTime": "2026-11-08T17:09:33.984Z",
+        "loadedTime": "2026-11-09T11:55:23.500Z",
         "referrerUrl": "https://eestec.ro/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341860,15 +341823,15 @@
           "content-encoding": "br",
           "content-length": "1550",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:33 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:23 GMT",
           "etag": "\"dd3ee4e40f05f89f2600e4499aa307a0a1ba086ffa6d905d96aaba946582c569-br\"",
           "last-modified": "Sun, 01 Nov 2026 10:02:23 GMT",
           "strict-transport-security": "max-age=31556926",
           "vary": "x-fh-requested-host, accept-encoding",
           "x-cache": "HIT",
           "x-cache-hits": "0",
-          "x-served-by": "cache-dfw-kdfw8210076-DFW",
-          "x-timer": "S1794157773.371946,VS0,VE2"
+          "x-served-by": "cache-chi-kmdw8640046-CHI",
+          "x-timer": "S1794225323.448585,VS0,VE1"
         }
       },
       "screenshotUrl": null,
@@ -341883,10 +341846,51 @@
       "title": "EESTEC Bucure\u0219ti"
     },
     {
+      "url": "https://www.innovationlabs.ro/",
+      "crawl": {
+        "loadedUrl": "https://www.innovationlabs.ro/",
+        "loadedTime": "2026-11-09T11:55:24.266Z",
+        "referrerUrl": "https://www.innovationlabs.ro/",
+        "httpStatusCode": 200,
+        "depth": 0,
+        "contentLengthBytes": 3203,
+        "contentType": "text/html"
+      },
+      "metadata": {
+        "canonicalUrl": "https://www.innovationlabs.ro/",
+        "title": "Innovation Labs 2026",
+        "description": null,
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "connection": "keep-alive",
+          "content-encoding": "gzip",
+          "content-type": "text/html",
+          "date": "Mon, 09 Nov 2026 11:52:33 GMT",
+          "etag": "W/\"6a7aed06-c9a\"",
+          "last-modified": "Tue, 11 Aug 2026 09:36:06 GMT",
+          "server": "nginx/1.14.0 (Ubuntu)",
+          "transfer-encoding": "chunked"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "Innovation Labs 2026\nYou are using an unsupported browser. We cannot guarantee that the website will work properly.\nFor best results, try using Microsoft Edge, Google Chrome, Mozilla Firefox or any currently updated browser.",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# Innovation Labs 2026\n\nYou are using an unsupported browser. We cannot guarantee that the website will work properly.  \nFor best results, try using Microsoft Edge, Google Chrome, Mozilla Firefox or any currently updated browser.\n\n![](https://www.innovationlabs.ro/loader-icon.svg)",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "Innovation Labs 2026"
+    },
+    {
       "url": "https://thebucharesthackathon.com/",
       "crawl": {
         "loadedUrl": "https://thebucharesthackathon.com/",
-        "loadedTime": "2026-11-08T17:09:35.878Z",
+        "loadedTime": "2026-11-09T11:55:25.157Z",
         "referrerUrl": "https://thebucharesthackathon.com/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341946,26 +341950,26 @@
         "headers": {
           "accept-ranges": "bytes",
           "access-control-allow-origin": "*",
-          "age": "259",
+          "age": "0",
           "cache-control": "max-age=600",
           "content-encoding": "gzip",
           "content-length": "10644",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:34 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:24 GMT",
           "etag": "W/\"698c6c45-1192a\"",
-          "expires": "Mon, 02 Nov 2026 13:20:49 GMT",
+          "expires": "Mon, 09 Nov 2026 12:05:24 GMT",
           "last-modified": "Wed, 11 Feb 2026 11:47:17 GMT",
           "server": "GitHub.com",
           "vary": "Accept-Encoding",
           "via": "1.1 varnish",
-          "x-cache": "HIT",
-          "x-cache-hits": "1",
-          "x-fastly-request-id": "4aa636f940203353095eff3b125341da01712d20",
-          "x-github-edge-region": "iad",
-          "x-github-request-id": "2E08:99ADC:FDE2AC:114E111:6AE88BD9",
+          "x-cache": "MISS",
+          "x-cache-hits": "0",
+          "x-fastly-request-id": "7198ba941f9efd16f9f082877c445417cabb4637",
+          "x-github-edge-region": "swedencentral",
+          "x-github-request-id": "6CCC:25B7AB:A751:B3AC:6AF1B4AC",
           "x-proxy-cache": "MISS",
-          "x-served-by": "cache-dfw-ktki8620085-DFW",
-          "x-timer": "S1794157775.762500,VS0,VE1"
+          "x-served-by": "cache-bma-essb1270063-BMA",
+          "x-timer": "S1794225325.820171,VS0,VE148"
         }
       },
       "screenshotUrl": null,
@@ -341980,55 +341984,14 @@
       "title": "The Bucharest Hackathon | Bucharest Romania"
     },
     {
-      "url": "https://www.innovationlabs.ro/",
-      "crawl": {
-        "loadedUrl": "https://www.innovationlabs.ro/",
-        "loadedTime": "2026-11-08T17:09:36.009Z",
-        "referrerUrl": "https://www.innovationlabs.ro/",
-        "httpStatusCode": 200,
-        "depth": 0,
-        "contentLengthBytes": 3203,
-        "contentType": "text/html"
-      },
-      "metadata": {
-        "canonicalUrl": "https://www.innovationlabs.ro/",
-        "title": "Innovation Labs 2026",
-        "description": null,
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "connection": "keep-alive",
-          "content-encoding": "gzip",
-          "content-type": "text/html",
-          "date": "Sun, 08 Nov 2026 17:06:45 GMT",
-          "etag": "W/\"6a7aed06-c9a\"",
-          "last-modified": "Tue, 11 Aug 2026 09:36:06 GMT",
-          "server": "nginx/1.14.0 (Ubuntu)",
-          "transfer-encoding": "chunked"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "Innovation Labs 2026\nYou are using an unsupported browser. We cannot guarantee that the website will work properly.\nFor best results, try using Microsoft Edge, Google Chrome, Mozilla Firefox or any currently updated browser.",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# Innovation Labs 2026\n\nYou are using an unsupported browser. We cannot guarantee that the website will work properly.  \nFor best results, try using Microsoft Edge, Google Chrome, Mozilla Firefox or any currently updated browser.\n\n![](https://www.innovationlabs.ro/loader-icon.svg)",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "Innovation Labs 2026"
-    },
-    {
       "url": "https://www.spaceappschallenge.org/2026/",
       "crawl": {
         "loadedUrl": "https://www.spaceappschallenge.org/2026/",
-        "loadedTime": "2026-11-08T17:09:37.389Z",
+        "loadedTime": "2026-11-09T11:55:27.171Z",
         "referrerUrl": "https://www.spaceappschallenge.org/2026/",
         "httpStatusCode": 200,
         "depth": 0,
-        "contentLengthBytes": 87471,
+        "contentLengthBytes": 87754,
         "contentType": "text/html; charset=utf-8"
       },
       "metadata": {
@@ -342056,14 +342019,14 @@
         "headers": {
           "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a5762fb79ebb5436-TLL",
+          "cf-ray": "a57ca0e33e69f589-DFW",
           "content-encoding": "br",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:37 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:26 GMT",
           "link": "</_next/static/media/173b4e1ecbfe6c3b-s.p.bb4389f3.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/6d205b44cc8ff5cb-s.p.4b6ba8b5.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/89c2c771ed51f5b8-s.p.62c6b13f.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/b8b552e8609c5636-s.p.25aba60b.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/c76157874a2922f6-s.p.ffb25873.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/cc75fa3e14c3cd04-s.p.0164516d.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/d03dd34c0ad8ced2-s.p.dc34d193.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/ffa7ca14c228762d-s.p.3f59869a.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/84cc554577b25c37.css>; rel=preload; as=\"style\", </_next/static/chunks/4ea52d28df79d0b4.css>; rel=preload; as=\"style\", </_next/static/chunks/9dbc7db39af07986.css>; rel=preload; as=\"style\", </_next/static/chunks/afdaf9f515e96376.css>; rel=preload; as=\"style\", </_next/static/chunks/97d06f03a26fc9a4.css>; rel=preload; as=\"style\", </_next/static/chunks/16a33c90f4d5229d.css>; rel=preload; as=\"style\", </_next/static/chunks/3eed70fef4efa9e8.css>; rel=preload; as=\"style\", </_next/static/chunks/9959a25a0dbb9dba.css>; rel=preload; as=\"style\"",
           "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
-          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=Fct49d2K6rfxpq8VdAVw0W7BVijLw7v4lQjAcppakeQ%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1794157776\"}],\"max_age\":3600}",
-          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=Fct49d2K6rfxpq8VdAVw0W7BVijLw7v4lQjAcppakeQ%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1794157776\"",
+          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=4oeYDnOOcn9Xol4C1yxqBgfq7GKmyk%2BJ3%2FjegYxj%2BEM%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1794225326\"}],\"max_age\":3600}",
+          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=4oeYDnOOcn9Xol4C1yxqBgfq7GKmyk%2BJ3%2FjegYxj%2BEM%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1794225326\"",
           "server": "cloudflare",
           "strict-transport-security": "max-age=2592000",
           "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
@@ -342086,7 +342049,7 @@
       "url": "https://www.spaceappschallenge.org/2026/locations/bucharest/",
       "crawl": {
         "loadedUrl": "https://www.spaceappschallenge.org/2026/locations/bucharest/",
-        "loadedTime": "2026-11-08T17:09:37.754Z",
+        "loadedTime": "2026-11-09T11:55:27.871Z",
         "referrerUrl": "https://www.spaceappschallenge.org/2026/locations/bucharest/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342118,14 +342081,14 @@
         "headers": {
           "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a5762fbba8221187-ORD",
+          "cf-ray": "a57ca0e95f64115e-ORD",
           "content-encoding": "br",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:37 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:27 GMT",
           "link": "</_next/static/media/173b4e1ecbfe6c3b-s.p.bb4389f3.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/6d205b44cc8ff5cb-s.p.4b6ba8b5.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/89c2c771ed51f5b8-s.p.62c6b13f.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/b8b552e8609c5636-s.p.25aba60b.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/c76157874a2922f6-s.p.ffb25873.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/cc75fa3e14c3cd04-s.p.0164516d.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/d03dd34c0ad8ced2-s.p.dc34d193.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/ffa7ca14c228762d-s.p.3f59869a.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/84cc554577b25c37.css>; rel=preload; as=\"style\", </_next/static/chunks/4ea52d28df79d0b4.css>; rel=preload; as=\"style\", </_next/static/chunks/9dbc7db39af07986.css>; rel=preload; as=\"style\", </_next/static/chunks/afdaf9f515e96376.css>; rel=preload; as=\"style\", </_next/static/chunks/97d06f03a26fc9a4.css>; rel=preload; as=\"style\", </_next/static/chunks/16a33c90f4d5229d.css>; rel=preload; as=\"style\", </_next/static/chunks/3eed70fef4efa9e8.css>; rel=preload; as=\"style\", </_next/static/chunks/9959a25a0dbb9dba.css>; rel=preload; as=\"style\"",
           "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
-          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=qm0OcHJpMIzKt2x2TK1Gbhq3OdkG9%2B3%2FuQJUGsvfA4w%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1794157777\"}],\"max_age\":3600}",
-          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=qm0OcHJpMIzKt2x2TK1Gbhq3OdkG9%2B3%2FuQJUGsvfA4w%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1794157777\"",
+          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=IZ4L878NDojsT6QguOmE99uqD3yLyaJjYzHach4Qy%2Bk%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1794225327\"}],\"max_age\":3600}",
+          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=IZ4L878NDojsT6QguOmE99uqD3yLyaJjYzHach4Qy%2Bk%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1794225327\"",
           "server": "cloudflare",
           "strict-transport-security": "max-age=2592000",
           "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
@@ -342148,7 +342111,7 @@
       "url": "https://polihack.osut.org/",
       "crawl": {
         "loadedUrl": "https://polihack.osut.org/",
-        "loadedTime": "2026-11-08T17:09:38.087Z",
+        "loadedTime": "2026-11-09T11:55:28.345Z",
         "referrerUrl": "https://polihack.osut.org/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342165,12 +342128,12 @@
         "jsonLd": null,
         "headers": {
           "access-control-allow-origin": "*",
-          "age": "1316953",
+          "age": "1384503",
           "cache-control": "public, max-age=0, must-revalidate",
           "content-disposition": "inline",
           "content-encoding": "br",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:38 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:28 GMT",
           "etag": "W/\"779a2aeb55f7a728b248e8e420aa6f0a\"",
           "server": "Vercel",
           "strict-transport-security": "max-age=63072000",
@@ -342179,7 +342142,7 @@
           "x-nextjs-prerender": "1",
           "x-nextjs-stale-time": "300",
           "x-vercel-cache": "HIT",
-          "x-vercel-id": "cle1::s7b2p-1794157777943-1d5d9b734ad7"
+          "x-vercel-id": "cle1::8zscm-1794225328259-d1fb77fca5f3"
         }
       },
       "screenshotUrl": null,
@@ -342194,10 +342157,153 @@
       "title": "PoliHack"
     },
     {
+      "url": "https://lablab.ai/event",
+      "crawl": {
+        "loadedUrl": "https://starfieldlabs.ai/",
+        "loadedTime": "2026-11-09T11:55:29.183Z",
+        "referrerUrl": "https://lablab.ai/event",
+        "httpStatusCode": 200,
+        "depth": 0,
+        "contentLengthBytes": 88113,
+        "contentType": "text/html; charset=utf-8"
+      },
+      "metadata": {
+        "canonicalUrl": "https://starfieldlabs.ai/",
+        "title": "Starfield Labs",
+        "description": "Hackathons for builders and their agents.",
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "openGraph": [
+          {
+            "property": "og:title",
+            "content": "Build what's next. Bring your agent."
+          },
+          {
+            "property": "og:description",
+            "content": "Hackathons for builders and their agents."
+          },
+          {
+            "property": "og:url",
+            "content": "https://starfieldlabs.ai/"
+          },
+          {
+            "property": "og:site_name",
+            "content": "Starfield Labs"
+          },
+          {
+            "property": "og:image",
+            "content": "https://starfieldlabs.ai/share/labs"
+          },
+          {
+            "property": "og:image:width",
+            "content": "1200"
+          },
+          {
+            "property": "og:image:height",
+            "content": "630"
+          },
+          {
+            "property": "og:image:alt",
+            "content": "Starfield Labs: Prompt less. Build more."
+          },
+          {
+            "property": "og:type",
+            "content": "website"
+          }
+        ],
+        "jsonLd": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "WebSite",
+                "name": "Starfield Labs",
+                "url": "https://starfieldlabs.ai/"
+              },
+              {
+                "@type": "Organization",
+                "name": "Starfield Labs",
+                "url": "https://starfieldlabs.ai/"
+              }
+            ]
+          }
+        ],
+        "headers": {
+          "cache-control": "no-cache",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a57ca0f13d09f60c-ORD",
+          "content-encoding": "br",
+          "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-sg5SZFzxiLxdVUxscHlSjzQa+xmJYjjIM/Z3US2pqZs=' 'sha256-lAEdhEqDKLhx+5D1sf9UmvJlLsCP8+J07uA+VudZ0kU=' 'sha256-sknK35q+FHBwn/T88j5+Dp8+1RhYbKV3Jqm61grOeMo=' 'sha256-OBTN3RiyCV4Bq7dFqZ5a2pAXjnCcCYeTJMO2I/LYKeo=' 'sha256-C5y9OgyEwGqD0E3VJO3H/du4I15EL/6zbU2+0YTspcw='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://images.starfieldlabs.ai; font-src 'self'; connect-src 'self' https://storage.googleapis.com/starfield-labs-prod-identity/incoming/ https://firestore.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://storage.googleapis.com/starfield-labs-prod-team-files/incoming/; worker-src starfieldlabs.ai/sw.js starfieldlabs.ai/_next/static/; frame-src 'none'; frame-ancestors 'none'; form-action 'self'; base-uri 'none'",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Mon, 09 Nov 2026 11:55:29 GMT",
+          "link": "</_next/static/media/archivo_latin_wdth_normal-s.p.1h4hl0m83hjjz.woff2?dpl=087c2fb756635fd482b441168c526af8bd7a9f7e>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/0avj1cw02zds0.css?dpl=087c2fb756635fd482b441168c526af8bd7a9f7e>; rel=preload; as=\"style\", </_next/static/chunks/0fx24envh4476.css?dpl=087c2fb756635fd482b441168c526af8bd7a9f7e>; rel=preload; as=\"style\", </_next/static/chunks/2nhvn3-dcymkr.css?dpl=087c2fb756635fd482b441168c526af8bd7a9f7e>; rel=preload; as=\"style\", </_next/static/chunks/0i8zix0j1_7nd.css?dpl=087c2fb756635fd482b441168c526af8bd7a9f7e>; rel=preload; as=\"style\"",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "permissions-policy": "accelerometer=(), browsing-topics=(), camera=(), display-capture=(), geolocation=(), gyroscope=(), hid=(), magnetometer=(), microphone=(), midi=(), payment=(), serial=(), usb=()",
+          "referrer-policy": "strict-origin-when-cross-origin",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=bHJAT58Sna9uWgkWjzPAY%2BDN73n9fRcFwr7NL%2BeheuV%2BX9Raa48WmqS9UHa85VGztkYJYgPs1VOG%2BkrGhsyzaSWHFfpjXd6ptTPmWz451B%2FdRxI2zOwf14f3fdf5ewBc0wk%3D\"}]}",
+          "server": "cloudflare",
+          "strict-transport-security": "max-age=31536000; includeSubDomains",
+          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+          "via": "1.1 google",
+          "x-cloud-trace-context": "a355261863a9bb7f05dfd7a46f6cd85c",
+          "x-content-type-options": "nosniff",
+          "x-robots-tag": "index, follow"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "Starfield Labs\nWhat we do\nAgent native\nConnect one MCP server and your coding agent can take part for you, from the terminal you already live in.\nFind events and enroll\nBuild a team and keep it in sync\nClaim compute and perks\nSubmit before the deadline\nclaude mcp add --transport http starfield-labs /mcp",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# Starfield Labs\n\n## What we do\n\nAgent native\n\nConnect one MCP server and your coding agent can take part for you, from the terminal you already live in.\n\n*   Find events and enroll\n*   Build a team and keep it in sync\n*   Claim compute and perks\n*   Submit before the deadline\n\n```\nclaude mcp add --transport http starfield-labs /mcp\n```",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "Starfield Labs"
+    },
+    {
+      "url": "https://asmi.ro/Articole/google-hackaton",
+      "crawl": {
+        "loadedUrl": "https://asmi.ro/Articole/google-hackaton",
+        "loadedTime": "2026-11-09T11:55:31.081Z",
+        "referrerUrl": "https://asmi.ro/Articole/google-hackaton",
+        "httpStatusCode": 200,
+        "depth": 0,
+        "contentLengthBytes": 1003869,
+        "contentType": "text/html; charset=utf-8"
+      },
+      "metadata": {
+        "canonicalUrl": "https://asmi.ro/Articole/google-hackaton",
+        "title": "24 Hours of Google - Hackathon - ASMI",
+        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Mon, 09 Nov 2026 11:55:22 GMT",
+          "server": "nginx/1.28.3 (Ubuntu)"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "24 Hours of Google - Hackathon\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person 24 Hours of Google Hackathon!\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\nThe Challenge (should you choose to accept it!): Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\nHealth\nSafety\nAccessibility\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\ud83d\udcc5 Date: 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\ud83d\udccd Venue: Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\nWanna Join?\nWho: Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\nHow: Teams of 3 - register via the \"Register\" button by 23:59 Sunday, April 19th 2026 EEST. Don\u2019t forget to include CVs for all team members!\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\nReady to hack? Register now!",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# 24 Hours of Google - Hackathon\n\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person\u00a0**24 Hours of Google**\u00a0**Hackathon**!\n\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\n\n**The Challenge (should you choose to accept it!):** Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\n\n*   Health\n*   Safety\n*   Accessibility\n\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\n\ud83d\udcc5\u00a0**Date:** 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\n\ud83d\udccd\u00a0**Venue:** Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\n\n**Wanna Join?**\n\n*   **Who:** Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\n*   **How:** Teams of 3 - register via the \"[Register](https://rsvp.withgoogle.com/events/24-hours-of-google-hackathon-2026)\" button by\u00a0**23:59 Sunday, April 19th 2026 EEST**. Don\u2019t forget to include CVs for all team members!\n\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\n\nReady to hack? Register now!",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "24 Hours of Google - Hackathon - ASMI"
+    },
+    {
       "url": "https://hackathon.com/city/romania/bucharest",
       "crawl": {
         "loadedUrl": "https://www.hackathon.com/city/romania/bucharest",
-        "loadedTime": "2026-11-08T17:09:39.597Z",
+        "loadedTime": "2026-11-09T11:55:31.948Z",
         "referrerUrl": "https://hackathon.com/city/romania/bucharest",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342237,12 +342343,12 @@
           "content-type": "text/html; charset=utf-8",
           "cross-origin-opener-policy": "same-origin",
           "cross-origin-resource-policy": "same-origin",
-          "date": "Sun, 08 Nov 2026 17:09:39 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:31 GMT",
           "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
           "origin-agent-cluster": "?1",
           "referrer-policy": "no-referrer",
-          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=BUtSpdiBZxfDOBXDCVuquiaHXS4BchmrH1mzAqRS8ZA%3D\\u0026sid=c4c9725f-1ab0-44d8-820f-430df2718e11\\u0026ts=1794157779\"}],\"max_age\":3600}",
-          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=BUtSpdiBZxfDOBXDCVuquiaHXS4BchmrH1mzAqRS8ZA%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1794157779\"",
+          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=kn6HDMEF08bYAWOt7nYKWk7%2FZ5EmbNUar0RxHTLTvqg%3D\\u0026sid=c4c9725f-1ab0-44d8-820f-430df2718e11\\u0026ts=1794225331\"}],\"max_age\":3600}",
+          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=kn6HDMEF08bYAWOt7nYKWk7%2FZ5EmbNUar0RxHTLTvqg%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1794225331\"",
           "server": "Heroku",
           "strict-transport-security": "max-age=63072000; preload",
           "vary": "Origin, Accept-Encoding",
@@ -342270,7 +342376,7 @@
       "url": "https://asmi.ro/Departamente",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Departamente",
-        "loadedTime": "2026-11-08T17:09:40.550Z",
+        "loadedTime": "2026-11-09T11:55:32.921Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342288,7 +342394,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:40 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:32 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342307,7 +342413,7 @@
       "url": "https://asmi.ro/Studenti",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Studenti",
-        "loadedTime": "2026-11-08T17:09:41.498Z",
+        "loadedTime": "2026-11-09T11:55:33.755Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342325,7 +342431,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:41 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:33 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342344,7 +342450,7 @@
       "url": "https://asmi.ro/Elevi",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Elevi",
-        "loadedTime": "2026-11-08T17:09:42.239Z",
+        "loadedTime": "2026-11-09T11:55:34.674Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342362,7 +342468,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:42 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:34 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342381,7 +342487,7 @@
       "url": "https://asmi.ro/Proiecte",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Proiecte",
-        "loadedTime": "2026-11-08T17:09:44.127Z",
+        "loadedTime": "2026-11-09T11:55:35.581Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342399,7 +342505,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:43 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:35 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342418,7 +342524,7 @@
       "url": "https://asmi.ro/CalendarASMI",
       "crawl": {
         "loadedUrl": "https://asmi.ro/CalendarASMI",
-        "loadedTime": "2026-11-08T17:09:45.098Z",
+        "loadedTime": "2026-11-09T11:55:36.390Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342436,7 +342542,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:44 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:36 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342455,7 +342561,7 @@
       "url": "https://asmi.ro/Galerie",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Galerie",
-        "loadedTime": "2026-11-08T17:09:45.888Z",
+        "loadedTime": "2026-11-09T11:55:37.341Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342473,7 +342579,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:45 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:37 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342492,7 +342598,7 @@
       "url": "https://asmi.ro/ButonulRosu",
       "crawl": {
         "loadedUrl": "https://asmi.ro/ButonulRosu",
-        "loadedTime": "2026-11-08T17:09:46.664Z",
+        "loadedTime": "2026-11-09T11:55:38.157Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342510,7 +342616,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:46 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:38 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342526,275 +342632,14 @@
       "title": "ButonulRosu - ASMI"
     },
     {
-      "url": "https://lablab.ai/event",
-      "crawl": {
-        "loadedUrl": "https://lablab.build/ai-hackathons",
-        "loadedTime": "2026-11-08T17:09:48.438Z",
-        "referrerUrl": "https://lablab.ai/event",
-        "httpStatusCode": 200,
-        "depth": 0,
-        "contentLengthBytes": 973951,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://lablab.build/ai-hackathons",
-        "title": "AI Hackathons | lablab.build",
-        "description": "Compete in free AI hackathons on lablab.build. Build with cutting-edge models from top AI providers, win prizes, and connect with 100k+ innovators worldwide.",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "openGraph": [
-          {
-            "property": "og:locale",
-            "content": "en_US"
-          },
-          {
-            "property": "og:title",
-            "content": "AI Hackathons | lablab.build"
-          },
-          {
-            "property": "og:description",
-            "content": "Compete in free AI hackathons on lablab.build. Build with cutting-edge models from top AI providers, win prizes, and connect with 100k+ innovators worldwide."
-          },
-          {
-            "property": "og:url",
-            "content": "https://lablab.build/ai-hackathons"
-          },
-          {
-            "property": "og:image",
-            "content": "https://lablab.ai/share.png"
-          },
-          {
-            "property": "og:image:alt",
-            "content": "LabLab - The #1 Ecosystem for AI Builders"
-          }
-        ],
-        "jsonLd": [
-          {
-            "@context": "https://schema.org",
-            "@graph": [
-              {
-                "@type": "CollectionPage",
-                "@id": "https://lablab.build/ai-hackathons",
-                "name": "AI Hackathons | lablab.build",
-                "description": "Compete in free AI hackathons on lablab.build. Build with cutting-edge models from top AI providers, win prizes, and connect with 100k+ innovators worldwide.",
-                "url": "https://lablab.build/ai-hackathons",
-                "numberOfItems": 144
-              },
-              {
-                "@type": "BreadcrumbList",
-                "itemListElement": [
-                  {
-                    "@type": "ListItem",
-                    "position": 1,
-                    "name": "Home",
-                    "item": "https://lablab.build"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 2,
-                    "name": "AI Hackathons",
-                    "item": "https://lablab.build/ai-hackathons"
-                  }
-                ]
-              },
-              {
-                "@type": "ItemList",
-                "itemListElement": [
-                  {
-                    "@type": "ListItem",
-                    "position": 1,
-                    "name": "AMD AI League",
-                    "url": "https://lablab.build/ai-hackathons/amd-lablab-ai-academy-challenge"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 2,
-                    "name": "Vultr: Agent Rush Hackathon",
-                    "url": "https://lablab.build/ai-hackathons/vultr-hackathon"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 3,
-                    "name": "AMD Developer Hackathon: ACT III",
-                    "url": "https://lablab.build/ai-hackathons/amd-developer-hackathon-act-iii"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 4,
-                    "name": "WeAreDevelopers x BAND present: Dark Factory (hackathon edition)",
-                    "url": "https://lablab.build/ai-hackathons/wearedevelopers-hackathon"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 5,
-                    "name": "AssemblyAI - Voice Agent Hackathon",
-                    "url": "https://lablab.build/ai-hackathons/assemblyai-voice-agent-hackathon"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 6,
-                    "name": "IBM Bob 2.0 hackathon",
-                    "url": "https://lablab.build/ai-hackathons/ibm-bob-2-hackathon"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 7,
-                    "name": "AI Infra Summit Hackathon",
-                    "url": "https://lablab.build/ai-hackathons/ai-infra-summit-hackathon"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 8,
-                    "name": "Alpaca AI Trading Agents Hackathon",
-                    "url": "https://lablab.build/ai-hackathons/alpaca-ai-trading-agents-hackathon"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 9,
-                    "name": "AI Factory",
-                    "url": "https://lablab.build/ai-hackathons/nativebuilder-build-without-limits"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 10,
-                    "name": "AMD Developer Hackathon: ACT II",
-                    "url": "https://lablab.build/ai-hackathons/amd-developer-hackathon-act-ii"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 11,
-                    "name": "ExecuTorch Hackathon",
-                    "url": "https://lablab.build/ai-hackathons/qualcomm-x-meta-executorch-hackathon"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 12,
-                    "name": "Band of Agents Hackathon",
-                    "url": "https://lablab.build/ai-hackathons/band-of-agents-hackathon"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 13,
-                    "name": "Web Data UNLOCKED Hackathon",
-                    "url": "https://lablab.build/ai-hackathons/brightdata-ai-agents-web-data-hackathon"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 14,
-                    "name": "AI Agent Olympics Hackathon",
-                    "url": "https://lablab.build/ai-hackathons/milan-ai-week-hackathon"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 15,
-                    "name": " Transforming Enterprise Through AI",
-                    "url": "https://lablab.build/ai-hackathons/techex-intelligent-enterprise-solutions-hackathon"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 16,
-                    "name": "IBM Bob Hackathon",
-                    "url": "https://lablab.build/ai-hackathons/ibm-bob-hackathon"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 17,
-                    "name": "AMD Developer Hackathon",
-                    "url": "https://lablab.build/ai-hackathons/amd-developer"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 18,
-                    "name": "Agentic Economy on Arc",
-                    "url": "https://lablab.build/ai-hackathons/nano-payments-arc"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 19,
-                    "name": "AI Trading Agents",
-                    "url": "https://lablab.build/ai-hackathons/ai-trading-agents"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 20,
-                    "name": "Complete AI Hackathon",
-                    "url": "https://lablab.build/ai-hackathons/complete-ai-agent-hackathon"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 21,
-                    "name": "SURGE \u00d7 OpenClaw Hackathon",
-                    "url": "https://lablab.build/ai-hackathons/openclaw-surge-hackathon"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 22,
-                    "name": "Launch and Fund Your Own Startup-Edition 1",
-                    "url": "https://lablab.build/ai-hackathons/launch-fund-ai-meets-robotics"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 23,
-                    "name": "Deriv AI Talent Sprint",
-                    "url": "https://lablab.build/ai-hackathons/deriv-ai-talent-sprint"
-                  },
-                  {
-                    "@type": "ListItem",
-                    "position": 24,
-                    "name": "Agentic Commerce on Arc",
-                    "url": "https://lablab.build/ai-hackathons/agentic-commerce-on-arc"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "headers": {
-          "cache-control": "public, s-maxage=300, stale-while-revalidate=59",
-          "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a5762fd209575e41-DFW",
-          "content-encoding": "br",
-          "content-security-policy": "frame-ancestors 'self' https://*.builder.io https://builder.io;",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:40 GMT",
-          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "permissions-policy": "geolocation=(), microphone=(), camera=()",
-          "referrer-policy": "no-referrer-when-downgrade",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fMRlQa2POZnR3Ss%2BpUOyy0RjPiMYY%2Fobrh7eOoerYPP06e5wAu4GkdHX1%2FtzeyPoazMM9Rh%2BgCEvbxvFR7704Fxr7974e6%2Fppw%2FIUCZFnzf81pbnOmDXSMhdU2MRtw%3D%3D\"}]}",
-          "server": "cloudflare",
-          "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
-          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
-          "via": "1.1 google",
-          "x-content-type-options": "nosniff",
-          "x-nextjs-cache": "HIT",
-          "x-nextjs-prerender": "1",
-          "x-nextjs-stale-time": "300",
-          "x-powered-by": "Next.js",
-          "x-xss-protection": "1; mode=block",
-          "set-cookie": "cky_geo_country=US; Path=/; Expires=Mon, 08 Nov 2027 17:09:40 GMT; Max-Age=31536000; SameSite=lax"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "AI Hackathons | lablab.build\nGet notified and stay in the loop\nSign up for our newsletter to stay in the loop with lablab events and platform updates",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# AI Hackathons | lablab.build\n\n## Get notified and stay in the loop\n\nSign up for our newsletter to stay in the loop with lablab events and platform updates",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "AI Hackathons | lablab.build"
-    },
-    {
       "url": "https://asmi.ro/bugs",
       "crawl": {
         "loadedUrl": "https://docs.google.com/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA/viewform",
-        "loadedTime": "2026-11-08T17:09:48.954Z",
+        "loadedTime": "2026-11-09T11:55:39.601Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
-        "contentLengthBytes": 104483,
+        "contentLengthBytes": 104681,
         "contentType": "text/html; charset=utf-8"
       },
       "metadata": {
@@ -342847,24 +342692,24 @@
           "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
           "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
           "content-encoding": "gzip",
-          "content-security-policy": "require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt, base-uri 'self';object-src 'none';report-uri https://csp.withgoogle.com/csp/forms/prod;script-src 'nonce-3ZmnhvvqPtuCTYiwTciwyw' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval'",
+          "content-security-policy": "require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt, base-uri 'self';object-src 'none';report-uri https://csp.withgoogle.com/csp/forms/prod;script-src 'nonce-QcSdP8WrBwE_Io9l565Rdg' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval'",
           "content-security-policy-report-only": "report-uri https://csp.withgoogle.com/csp/forms/prod;frame-ancestors 'none'",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:48 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:39 GMT",
           "document-policy": "include-js-call-stacks-in-crash-reports",
           "expires": "Mon, 01 Jan 1990 00:00:00 GMT",
           "p3p": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
           "pragma": "no-cache",
           "referrer-policy": "strict-origin-when-cross-origin",
-          "reporting-endpoints": "default=\"/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA/web-reports?bl=apps-forms.freebird_20261027.06_p4&app=27&clss=1&context=eJwV12dYFGYSB_B12Z0_0hQQpbssoICCdFZYULM09dRYkqUpFlCxRLBgwV4SSzREjcGcZ8WOnho8k5xGTTT2cprTqIkRRURCEQHZRcr978PvmXlm5pmP7_OOVaV3k8Ko2GVpVByzNir2dTUqPB2MisvdjYpFvkZFn0CjYnOQUTEr3Kh4OMGoeEWds4wKF_ptuVFRSbqNRkUytRcZFXbbjYrJd42KfKpqNCpaKL_JqPiU_pOeoiijd_5_Kdvp2M_1ytNUV_ZW2UwvhzQoa2h_SJPyGFmsbFJaU_30ZqWZ1LEmpS09zzYpq2jZepPyM2q_ZlbKdbMy9a5ZOYE2OLQot5DnnhZlL1KntSttyUrRoXSgcvcOZTWlLOxQjqeM4k4WWRRwWWkRSn1WWFiEkftnFhY-tOmlhcU2evy1XvWcOh_Tq-ypSBer2k1zvo5VFdDHOQNV4yjYY5BKR2uTB6kKaeOQQaqvqM_iD1RhtDHOoPqKDucaVCdpRL5BZaSAEwZVKL0-bVDVU0lOgqqULuclqG7R3XMJqt-osiJB9YaCIxJVOvJakKgKoShTkmoAmaYlqxTTk1XWjoNVjlTsPFilxxBVPI0YvUttpLlndqkXU7e3u9Q-VBC9W72KxjbuVmfT93X71BdpWnmxejYtGX5AvYZ-rDmovk3f9zykvkhXUw-p71JkySG1suqI2ooShh5VD6OmYUfVbTTjUYl6Lg2ZdFw9is7nV6mv0PIB1eq19MkP1ep8Ov9TtfoKvU6pUdfT-W9q1FdodIu1pFDUIRsZQGu72Eohnf7WVs5R7mlbWUAPztjKU7LsbifO5HjZTtzo4s4uco064h0ECQ7ietxBtDSi1EGMtPlHB9lLJ70c5XsaPdFR0inxj24ynB4Nc5IySlnoJOPJdZGTaGn63u4yhzb83l22UJVHD3lL22b0kJ20t6OHHCEnL2fxoGEpzjKWxhx3lgxSXXUWG9Ltc5GBVLfeVZopvtBN_ka_DnaXR7TnkrscpsIHHlJEKPGUusee0kiHfveUY_QivaeolvWUztRkoZEW-js0so9Opmrke3qYo5FfvtPIbWrY5yXv6dMyL9lEY_pqJYNS-mllPBmStJJMmZ9qZQqlr9PKJMJurXSh-ltaeUdzb2tlId2l_5LqjlYs7mrFkmZQHsW2ayWB7GO9xYX-mustDfRgobc8oWWLvGU1LSnwlpWUtthbMmnWr94yn-4d8ZHnNOeGj6yi3V_4ygkq_d1XztJUn16SS7ONvWQRuar8REsXxE-uktj5iR0Z7P0kmaZTLs3f6yfLKOuhn8ygXq_8JIg05dESTDcVMdKqiRFDSYwMpbyTMZJPAadipB8toZW07tsY2UT3h-vlCT1bqpcKSt4WKx9S0ro4GUE_dx4gN2jUpQFipMxLA2UK2f9nkLjQuapBcpnuDjTIM9ozwyCHqdscg7jT6QUGOUcDVxkkmWK7x0sCBdXFSyTNC0yQBw6JcmZ5opyntcWJUkj63CQZROvmJsmXFFmSJHE06VGSTCdNWZL4kVtQsnjT_GfJsozCCp-LjtbUvpCN1GdUuYRRorlchlP01ZcyhI5uqZCT5H-4QkLI9WiFaGlhbYUspaFDX8loKj_zSl6T3-1XEkwlWZVSSrEFlWIurpRO-yvl8blK-ZOem6ukio7Y_yWnaEnIX7KKaqf-JSvOVMs6ipxcI3Hk9FuNeNA_9LWynwqn1Yl9aZ24UOS4NxJHHdlvBJPJWC-dUupl9Ml6eX6lXl7RZ3_Uy0Yq17-Vaoo6_lb09H5kg1iMapC2E42iPtko_YOaZAAl0TD6iNJpEuVQHs2nZbSGNJtZr22SWTSfltAa2kBbaDvtoYO0uaVJvqaAR--kH23VN8t2OnWpWX4gt1-axZtGX2uWdJr2R7PMJp8XzdKXhpQ3yyh6SH_S_spmOUa6xmaxDTOJE42OMEk6FVMJGd6bZCjNbDXJPLrSbpI71LfDJOHURG3kbGEWDQ2iwVShMkstzVGbpYCyxCwzyMbaLN3op65muU6FLmYpItMQsyiGmqUszyyvKWP5e8kih43vxZn6TGuVMDpzqlXOk8vENvGigh1tspy0B9skgKxOt4kD3brXJvfoSEebnKLuFu3iSXvd2uUIJZnaZQTFHOsQAznEK-BKOasV-IT2NCpwmPqZFYii03s74RxNbOuEddFKbCK_RRYIpgM7VDhO-TrBvFOCReTcINDQS0dLVNHVZEvcoj2tljhIU6Z1xkyqaumMOsrrbIWFtK2_FXbS4gIrrKCCjVZYRcEXrKCjrFdWmE6PfK1hO9wajrR2qzU20b0b1nhIxt42yKReYTboS8_u26CSBpTb4Ls2G1ygXh3sUThF071kWzwk-952cKFGfzu0UtErO-wmu7d26EZxo7sggXY96IJiqqvtgmYya7qig_YUd0X_W12Rp7bHQmrsZ48vQ-xRRItG2WM5GSbaI5lO7bHHGVr3T86Q2sMBtpT7hQPmUf8iR8RRxrxumEC1Jd3QSF17OsGJduc44QR1Wtkd9vT-cXd0etIdptAeUIT1wD8MPbCXSrTOKKUJx50xmbLjXTCTAha4IJTi3rggkWrGucIv2xWB5PapKx48d8VTmv7OFXlk3eIKR6qe5IZ6Sp7hhmEUFeiOWLq-3h13yNzNA4k9PHDX3QP_9vbABWqf7AGLKR5Yc9YDG-m-vSde0NYgT2ynL4M9sY1M1EaZZZ7Ioo-temIc-Q3uCR1Z3ukJW1r5pCfWk_5FT8TTSJUGKZSj1WAW5VE-uc_SwIdW7tBgPel_0yCe6p5p0EzrajTYRJMtvfAJrXT0wlrK9_KChY8XQK_7eqGOLgd74TrVnvXCO1rd4oXPaae1FgfocJAWJ8jNoIUXxa7WIoEmbPRGDrlt8YY3PWn3Rhnt7uqDQ1Q4xQdf0Zn7PjhLpUpfnP0_B19condHfNFOiRd8MZRq7vmiiVz8e8GLcgp7IY--yeuNXfTZrd74giYG-2EqVef5o562rfbH3-nV5_6opkdf-uMpbS32xw5addYfG2jsQ39MpDGN_kgl2xZ_ONCG1AAU0ou8APR_FoA42twagG9oRWQfVA3qgzq6PrMP7tDPxX1wjcaH9EXv4ED0oy2RgdhOzYmBuJYUiNsUNSsQetJtCkQcJdLfaCJNpVzKp6W0mg74BOFftHZrEArJB_0w07IfmkP7oZU2fxCMr-ldVjDek_37YLhQiE8IIul-aAie0KxtIcinrNchmE5HG0Lwc3MIrtLTthC8oCdhoXhGb8JDYSJ9VCgMNK4sFNlkrgpFOw3WhWEkjaUsujgvDFuWhqGIwlrCoCM_z3DoyKMoHFrS3whHPJneh0PRGo6PbCOQTrV2EWgkuy4R6EZRnhEIDI9AKFmMjkBnWkwraT0VUhHtpFEzIpBGVVsi8IaqL3IXDbkagRFkeByBZEqzjsRE-rNHJCrohXskGukH70hcpBN5kfDYHwlvKr8ciddkvBGJsTSoUxQSaYFVFJaQX0AU-tHcUVEooFuTovBfulQahWvk9l0UNNTQEAUz7WqPQjHd0-jwkLx9degaooMTWcXoYE_TxumQSwcP6WD5Uof4eh12Nej4U-8PXxozsj-yKWxZf0RTXm1_dHeIhhtVR0SjgXZnROMALV4fjRU0sjgaRjpzPBrnadK9aOTRmxfRaCKlIgZW1JQRg1bquzQGIXTpcAxuUPmRGFRR6a0Y_EBRCj0ceTU6U6WtHjVUa69HA13y0uMaDfTRY5KfHh1z9FDN5ewCPVav1ONzWntYj00kx_SwpvS7eownza96-FK3P_RwofQK7qDjXWLxLZnCYqEIj8XUWMaPYqGmHbSHyhak4BXNK0jBsm0pWEM3j6bgV-o4lQLHb1n7dwrWUzlF30yBTWMKNmtTcSwqFTbzU2FPM_anIo_cr6VCSy21qVDVpaLWlIoGMirSkEGSlAZrGj4iDeMo78M0rKDtdJj6ZKYhmExZaWijwqVp2EZXL6fhFi15lIZVNLw4HWP-70w60mixOR2Zbhn4wCMDfe9kIIxOOI_FKTJRG6X3HYsJ9EveWNyk1B7jMIEq8sbxzRuHp96ZKKeGaZkw0S-fZ-ImlewYj5M0ZNdEfEj_7J2FUvpxaTYcbCx_f_TTQ-l64c69H5Wulh_nZM9PnDV7plY7ITd3TuBkpnOCJs_Ozp6YMzsrMzQ4NDIkODQqKDgyMzf8f2aqLX4&build-label=apps-forms.freebird_20261027.06_p4&imp-sid=CNOvp83u-JcDFdSHwggdqMUUBg&is-cached-offline=false&wcrumsspbp=true\"",
+          "reporting-endpoints": "default=\"/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA/web-reports?bl=apps-forms.freebird_20261103.07_p5&app=27&clss=1&context=eJwV13dUFFYWBvBxmLkf0pQi0h0GUIognQEGS4amrhpLMjRBEQuKESxYsJfEEg1RYzDrWrFgWzW6bhKNMWpssaxmNWqKBQUJRQRkBgX22z9-571z73fun_e8Z7XUt0VhVOywNCqOWBsVe7obFV4ORsUlZ6NigZ9RERRsVGwMMSpmRBoV98cbFVXUNc-ocKVflxoV1aRbb1SkUkeZUWG31aiYdNuoKKaaZqOijYpbjIqPqWBwmmIh_SczTfGE3gT8peygIxcalaeo4clrZSs9H9KkrKO9YS3KI2SxvEVpTY3TWpVmUieYlLb0dKJJWUNL1pqUn1DHVbNSrpmV6bfNyvG0zqFNuYm8drUpe5M6o0NpS1aKTqUDVXp0KmspbX6nchxllXexyKPAS0qLcApaZmERQR6fWFj40obnFhZb6OGXetVT6npEr7KnMl2CaifN-jJBVUIf5g9UZVNvz0GqEFqdOkhVSuuHDFJ9QUEL31NF0Pr-BtUXVFFoUB2nEcUGlZECjxlU4fTylEHVSIfzk1Qn6VJRkuoG3T6bpPqVql8kqV5RaFSySkfe85JVYRRjSlENIOW0VJUVWTsOVjlSuctglR5DVIk0YvQOtZFmn96hXkhOr3eofakkbqd6BY1t3qmeSN807FGfp6mV5eqZtGj4PvUq-r5uv_omfdPrgPo8XUk_oL5N0YcPqJU1B9VWlDT0kHoYtQw7pG6nggeH1bNpyISj6lF0rrhGfZmWDqhVr6aPvq1VF9O5H2vVl-llWp26kc59Vae-TOlt1pJNMQdsZACt7mYrpXTqa1s5S4WnbGUe3TttK3-Q50tb8SNLZztxIcdLduJO57d3k6vUmeggSHIQt6MOoqURJx3ESBu_d5DddNzbUb6h0bmOkknJvzvJcHowrIc8obT5PWQcuS3oIVqatttZZtG635xlE9V49pTXtKWgp2yn3Z095SD18HYRTxqW5iJjacxRF8ki1RUXsSHdHlcZSA1r3aSVEkvd5W_0y2APeUC7LnpIBZXe85QywmEvaXjoJc104DcvOULPMnuJakkv6UotFhppo79DI3voeLpGvqH7-Rr56d8auUlNe7zlLX38xFs20Ji-WsmitH5aGUeGFK2kUs7HWplMmWu0MoGwUyvdqPGGVt7Q7JtamU-36b-kuqUVi9tasaQCKqKEDq0kkX2Cj7jSX7N9pInuzfeRR7RkgY-spEUlPrKcMhb6SA7N-MVH5tKdg77ylGZd95UVtPMzPzlGJ3_zkzM0xbe3FNJMY29ZQG4qf9HSD-IvV0js_MWODPb-kkrTqJDm7vaXJZR3318KqHeVv4SQpjJOQulnRby808SL4XC8DKWi4_FSTIEn4qUfLaLltObreNlAd4fr5RE9WKyXPyl1S4K8Tylr-ssIutB1gFynURcHiJFyLg6UyWT_n0HiSmdrBskluj3QII9pV4FBKshplkE86NQ8g5ylgSsMkkoJzomSRCENiRJNc4KT5J5DspxemiznaHV5spSSvjBFBtGa2SnyOUUfTpH-NOFBikwjzZMU8Sf3kFTxobmPU2UJRZQ-FR2tqn8m6yloVKVEULK5UoZT3JXnMoQObXohxymg4oWEkduhF6Kl-fUvZDENHVolo6nydJW8JP-bVRJKh_Oq5SQllFSLubxauuytlodnq-VPemqukRo6aP-XnKBFYX_JCqqf8pcsO10rayh6Up30px6_1okn_UNfL3updGqD2J9sEFeKzn4l_alz4ivBJDI2Spe0Rhl9vFGeXm6UKvrk90ZZT5X611JLMUdfi57ejmwSi1FN0n6sWdTHmyU2pEUGUAoNow8okyZQPhXRXFpCq0izkfX6FplBc2kRraJ1tIm20i7aTxvbWuRLCnzwRvrRZn2rbKUTF1vlW3L_qVV8aPTVVsmkqb-3ykzyfdYqfWlIZauMovv0J-2tbpUjpGtuFdsIk_Sg0VEmyaRyOkyGtyYZStPfmWQOXe4wyS3q22mSSGqhdnKxMIuGBtFgeqEySz3NUpulhPLELAVkY20WJ_qxu1muUamrWcrINMQsiqFmeVJklpeUtfSt5JHD-rfiQkFT30kEnT7xTs6Ra267eFPJtnZZStr97RJIVqfaxYFu3GmXO3Sws11OkLNFh3jRbvcOOUgppg4ZQfFHOsVADokKuFH-SgU-ol3NClRQP7MCMXRqdxecpdz2LlgTp8QG8l9ggVDat02Fo1SsE8w5IVhALk0CDZU4WmIZPacaupJqiRu0650l9tPkqV0xnWrauqKBirpaYT5tibXCdlpYYoVlVLLeCiso9Acr6CivygrT6IGfNWyHW8ORVm-2xga6c90a98nYxwY51DvCBn3p8V0bVNOAShv82G6Da9S7kz2KpDi6k2qL-2Tfxw6u1Bxgh3dUVmWHnWT32g5OtONeN5RTQ303tJJZ0x2dtKu8O2JvdEeR2h7zqbmfPT4Ps0cZLRhlj6VkyLVHKp3YZY_TtOafzJDa0wG2VPiZA-ZQbJkj-lPWHCeMp_rDTmim7r16oAftzO-BY9RluTPs6e1DZ3R55AxTeE8oInriH4ae2E2HtS44SeOPumASTUx0xXQKnOeKcOr_yhXJVJftBv-Jbggm94_dcO-pG_6gvDdumErWbW5wpNoJ7mik1AJ3DKOYYA8k0MW1HrhKZidPJPf0xG0PT3zn44kfqGOSJywme2LVGU-sp7v2XnhGm0O8sJU-D_XCFjJRO-U88UIefWjVC9nkP7gXdGR5qxdsafmjXlhL-me9kEgjVRqkUb5Wgxk0lxaRxwwNfGn5Ng3Wkv5XDRKp4bEGrbSmToMNNMnSGx_RckdvrKZib29Y-HoD9LKvNxroUqg3rlH9GW-8oZVt3viUtltrsY8qQrQ4Ru4GLbwpYaUWSTR-vQ_yyX2TD3zoUYcPntDO7r44QKWTffEFnb3rix_ppNIPZ_7PwQ8X6c1BP3RQ8g9-GEp1d_zQQq4BveFN-aW9UURfFfXBDvrkRh98Rtvv9sE-yg31xxSqLQpAI21ZGYC_U9WnAailB58H4A_aXB6AbbTiTADWUev3AeiksfcDkEtjmgOQTrZtAXCgdemBKKVnRYGIfRyI_rTxXSC-omXRQagZFIQGujY9CLfoQnkQrtK4sL7oExqMfrQpOhhbqTU5GFdTgnGTYmYEQ0-6DcHoT8n0N8qlKVRIxbSYVtI-3xD8i1ZvDkEptYb3wzva-F4ovqQ3eaF4S-5vQ-FDYb5hiKa74WF4RDO2hKGY8l6GYRodagrDhdYwXKE_2sPwjB5FhOMxvYoMh4n0MeEwUPaTcEwkc004OmiwLgIjaSzl0fk5Edi0OAJlFNEWAR35e0VCR55lkdCS_nokEsn0NhKKd5H4wDYKmVRvF4VmsusWBScKjoxCOFmMjkJXWkjLaS2VUhltp1EFUcigmk1ReEW15zmHhlyJwggyPIxCKmVYRyOX_uwZjRf0zCMazfStTzTO0_bwaOylY0XR8NwbDR-quRSNBjJej8ZYGtQlBsk0zyoGi8g7MAZ9aPaoGJTQjQkx-C9dPBmDq-T-7xhoqKkpBmba0RGDcrqj0eE--fjp0D1Mhx5kFa-DPU3N1qGQ9h_QwfK5DkFVOoRRYqMOO5p0fL3Hwo92J8TiII0ZGYuJFLEkFnFUVB-L71_F4gI5O8TBnWqj4tBEO7PisI8Wro3DMhpZHgcjnT4ah3M04U4ciujVszi0kFIRDytqz4qHamw8-i6ORxhdrIjHdao8GI8aOnkjHt9SjEIPR_4wXajaVo86qrfXo4kueutxlQb66jHBX4_OWXqoZjM7T4-Vy_X4lFZX6LGB5Ige1pR5W49xpPlFDz9y-l0PV8p8wRl0tFsCviZTRAIUkQmYksDzgwSoaRvtoifz0lBFc0rS8POhNPxCnSfS4Ph1GlZ9l4a1VElxP6fBpjkNG7XpOBKTDpu56bCngr3pKCKPq-nQUlt9OlQN6ag3paOJjIoMZJGkZMCaho_IQDYVvp-BpbSVKigoJwOhZMrLQDuVLs7AFrpyKQM3aNGDDKyg4eWZGPN_pzORQQvNmchxz8J7nlnoeysLEXTMZSxOkInaKbPvWIynn4rG4mdK75mN8fSiKJt7MBtNU3Ngohuf5uAu7ds2DodoyI5cvE8ONpbfvfzpvnQ_VrHqdRc3yw_zJ85NnjFzulY7vrBwVvAkXmeFTJo5cWJu_sy8nPDQ8OiwsNCIkNCYnMKo_wHbNzW0&build-label=apps-forms.freebird_20261103.07_p5&imp-sid=CJSKh6Dq-pcDFWa-IwAdgxEo2Q&is-cached-offline=false&wcrumsspbp=true\"",
           "server": "GSE",
           "x-content-type-options": "nosniff",
           "x-robots-tag": "noindex, nofollow, nosnippet",
           "x-xss-protection": "1; mode=block",
           "set-cookie": [
-            "S=spreadsheet_forms=LzjU_3_5ilfqkXAI6hOyfdIHS4lZShh2R4jzEXDrJjQ; Domain=.docs.google.com; Expires=Sun, 08-Nov-2026 18:09:48 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
-            "COMPASS=spreadsheet_forms=CjIACWuJVxXoqj-E9EvXHcSzJxYaniRatmLVMJZ0nI55p_alQQzlh8k9de7jmkHlpbnrTBDs9cLXBho0AAlriVeVpfn3dbpx3qvzh1UaeO0XKBM7ge-y8vEKrYv7fo6hvQAKOH8XsDi6nnXR_TZbWA==; Domain=.docs.google.com; Expires=Sun, 08-Nov-2026 18:09:48 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
-            "NID=CuMBCAESlQEBM9Agl9FshmS9jxkQgQCm1J3n2R6Q2a9GZa5HV5KGcxYFEzyL-_h8Dm9afjDrCqzvy1OJ_aVj5Tp1bCDS5xyEXphKRlni2bAkpRn0bSpr6mqv1O7nokCmYxenzJPxvd2wpRmtuKVm4yV58jA0H2vKsuq1pHdUN-OCBpPCUtoBljKtN-Cmw-rYQL-aY46tfVBBgvsSfigBMkUBcEpCz4tlECOtF63pfaKper_l0oloDOsGEiwgfsrt1m9F0YpZW3aeoXIFSf_1_0xjnh_cf-CBna-HgeyCUQx4IyJBFQc; expires=Mon, 10-May-2027 17:09:48 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none"
+            "S=spreadsheet_forms=X6YazaxgEombt4-_a6sD0TaCSlDlKQBB7nIx-srD03I; Domain=.docs.google.com; Expires=Mon, 09-Nov-2026 12:55:39 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
+            "COMPASS=spreadsheet_forms=CjIACWuJV86I_PMVig2uM41keLKEQzu-zgpYz9SUIt5HB1HSZDDFtFrLPNa-0M0ckjd7khDLhcfXBho0AAlriVcfM0OQobtSjCDprMy_9pK2TS80tae7FxwYesUBc3P2OIzyhM449XTWpq-V8oSHPQ==; Domain=.docs.google.com; Expires=Mon, 09-Nov-2026 12:55:39 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
+            "NID=CukBCAESmwEBM9Agl-w9mmQ5o47wD-f8_91Vl3px_zQ9jKC-jZVKCkhbVxeWfhDGwPqFMNJ7P5tVKy54Bs807IASreznCPDB13reTr2OC116iDwJCUpdjYIDVeRe8G1DJsYTQppYF8Jf0LI5qtwWb0ZPEy2Q9w-EuL7A9f6Fy_K0bUAZ2WvyHxJJQkBaqQlGJ4Z-Tj19zdnELW6B-s9HXD7RPCgBMkUBcEpCz1rB2pMCUK-Fdlru5X3mINVTLv_OxYVuluQID_9FXlEArRI6GKP0xgkErWeTJVfpD75ZeYnYAAs5JQAWO8ZOggA; expires=Tue, 11-May-2027 11:55:39 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none"
           ]
         }
       },
@@ -342883,7 +342728,7 @@
       "url": "https://thebucharesthackathon.com/schedule.html",
       "crawl": {
         "loadedUrl": "https://thebucharesthackathon.com/schedule.html",
-        "loadedTime": "2026-11-08T17:09:49.448Z",
+        "loadedTime": "2026-11-09T11:55:40.003Z",
         "referrerUrl": "https://thebucharesthackathon.com/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342936,21 +342781,21 @@
           "content-encoding": "gzip",
           "content-length": "3037",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:49 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:39 GMT",
           "etag": "W/\"698c6c45-3259\"",
-          "expires": "Sun, 08 Nov 2026 17:19:49 GMT",
+          "expires": "Mon, 09 Nov 2026 12:05:39 GMT",
           "last-modified": "Wed, 11 Feb 2026 11:47:17 GMT",
           "server": "GitHub.com",
           "vary": "Accept-Encoding",
           "via": "1.1 varnish",
           "x-cache": "MISS",
           "x-cache-hits": "0",
-          "x-fastly-request-id": "cf0f5a82475c91f9c8387d3000c04df51027208e",
+          "x-fastly-request-id": "66bf008651c30eaa73fa09a2095617a0c61c5c6b",
           "x-github-edge-region": "iad",
-          "x-github-request-id": "4AC0:14C2:2CAC747:319EB37:6AF0ACDD",
+          "x-github-request-id": "9BD8:14F8ED:878CF:91D04:6AF1B4BB",
           "x-proxy-cache": "MISS",
-          "x-served-by": "cache-chi-kigq8000060-CHI",
-          "x-timer": "S1794157789.334190,VS0,VE50"
+          "x-served-by": "cache-chi-kigq8000150-CHI",
+          "x-timer": "S1794225340.920349,VS0,VE62"
         }
       },
       "screenshotUrl": null,
@@ -342968,7 +342813,7 @@
       "url": "https://asmi.ro/scss",
       "crawl": {
         "loadedUrl": "https://asmi.ro/scss",
-        "loadedTime": "2026-11-08T17:09:49.470Z",
+        "loadedTime": "2026-11-09T11:55:40.187Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342986,7 +342831,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:49 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:40 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -343005,7 +342850,7 @@
       "url": "https://asmi.ro/Articole",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Articole",
-        "loadedTime": "2026-11-08T17:09:54.029Z",
+        "loadedTime": "2026-11-09T11:55:47.923Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -343023,7 +342868,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sun, 08 Nov 2026 17:09:41 GMT",
+          "date": "Mon, 09 Nov 2026 11:55:33 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
