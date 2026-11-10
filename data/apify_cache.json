@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T11:55:50.960668+00:00",
+  "updated_at": "2026-11-10T00:48:55.609752+00:00",
   "items": [
     {
       "title": "",
@@ -341703,7 +341703,7 @@
       "url": "https://asmi.ro/",
       "crawl": {
         "loadedUrl": "https://asmi.ro/",
-        "loadedTime": "2026-11-09T11:55:21.797Z",
+        "loadedTime": "2026-11-10T00:47:36.084Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341721,7 +341721,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:21 GMT",
+          "date": "Tue, 10 Nov 2026 00:47:35 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -341740,7 +341740,7 @@
       "url": "https://lsebucuresti.org/",
       "crawl": {
         "loadedUrl": "https://lsebucuresti.org/",
-        "loadedTime": "2026-11-09T11:55:23.043Z",
+        "loadedTime": "2026-11-10T00:47:37.234Z",
         "referrerUrl": "https://lsebucuresti.org/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341770,17 +341770,17 @@
         ],
         "jsonLd": null,
         "headers": {
-          "age": "10560",
+          "age": "21070",
           "content-encoding": "gzip",
           "content-type": "text/html",
-          "date": "Mon, 09 Nov 2026 11:55:22 GMT",
+          "date": "Mon, 09 Nov 2026 18:56:28 GMT",
           "etag": "W/\"0f46bd68887e35078f3a40c01687117c\"",
           "last-modified": "Fri, 20 Oct 2023 10:42:00 GMT",
           "server": "AmazonS3",
           "vary": "Accept-Encoding",
-          "via": "1.1 2851bda64a006d9b32d9825b54b37886.cloudfront.net (CloudFront)",
-          "x-amz-cf-id": "0n2MFKAgoH9VbREfZKokfo9XnL2h_vLnVXMR9yP-LmYKMED1Ch1AeA==",
-          "x-amz-cf-pop": "ARN56-P4",
+          "via": "1.1 318720bfccce886335d313acbbacfa04.cloudfront.net (CloudFront)",
+          "x-amz-cf-id": "RTuF50Zh1CvGMmgcMF2J6iXxw0eJYTGFqnn-vwTnS1z3T-wQbxT0Qw==",
+          "x-amz-cf-pop": "DFW57-P8",
           "x-amz-meta-userid": "93a2303a-c29d-4068-9b8a-80ccacebe515",
           "x-cache": "Hit from cloudfront",
           "x-powered-by": "genezio"
@@ -341798,10 +341798,47 @@
       "title": "Liga Studen\u021bilor Electroni\u0219ti"
     },
     {
+      "url": "https://asmi.ro/Articole/google-hackaton",
+      "crawl": {
+        "loadedUrl": "https://asmi.ro/Articole/google-hackaton",
+        "loadedTime": "2026-11-10T00:47:38.129Z",
+        "referrerUrl": "https://asmi.ro/Articole/google-hackaton",
+        "httpStatusCode": 200,
+        "depth": 0,
+        "contentLengthBytes": 1003869,
+        "contentType": "text/html; charset=utf-8"
+      },
+      "metadata": {
+        "canonicalUrl": "https://asmi.ro/Articole/google-hackaton",
+        "title": "24 Hours of Google - Hackathon - ASMI",
+        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Tue, 10 Nov 2026 00:47:36 GMT",
+          "server": "nginx/1.28.3 (Ubuntu)"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "24 Hours of Google - Hackathon\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person 24 Hours of Google Hackathon!\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\nThe Challenge (should you choose to accept it!): Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\nHealth\nSafety\nAccessibility\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\ud83d\udcc5 Date: 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\ud83d\udccd Venue: Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\nWanna Join?\nWho: Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\nHow: Teams of 3 - register via the \"Register\" button by 23:59 Sunday, April 19th 2026 EEST. Don\u2019t forget to include CVs for all team members!\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\nReady to hack? Register now!",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# 24 Hours of Google - Hackathon\n\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person\u00a0**24 Hours of Google**\u00a0**Hackathon**!\n\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\n\n**The Challenge (should you choose to accept it!):** Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\n\n*   Health\n*   Safety\n*   Accessibility\n\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\n\ud83d\udcc5\u00a0**Date:** 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\n\ud83d\udccd\u00a0**Venue:** Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\n\n**Wanna Join?**\n\n*   **Who:** Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\n*   **How:** Teams of 3 - register via the \"[Register](https://rsvp.withgoogle.com/events/24-hours-of-google-hackathon-2026)\" button by\u00a0**23:59 Sunday, April 19th 2026 EEST**. Don\u2019t forget to include CVs for all team members!\n\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\n\nReady to hack? Register now!",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "24 Hours of Google - Hackathon - ASMI"
+    },
+    {
       "url": "https://eestec.ro/",
       "crawl": {
         "loadedUrl": "https://eestec.ro/",
-        "loadedTime": "2026-11-09T11:55:23.500Z",
+        "loadedTime": "2026-11-10T00:47:38.422Z",
         "referrerUrl": "https://eestec.ro/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341823,15 +341860,15 @@
           "content-encoding": "br",
           "content-length": "1550",
           "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:23 GMT",
+          "date": "Tue, 10 Nov 2026 00:47:38 GMT",
           "etag": "\"dd3ee4e40f05f89f2600e4499aa307a0a1ba086ffa6d905d96aaba946582c569-br\"",
           "last-modified": "Sun, 01 Nov 2026 10:02:23 GMT",
           "strict-transport-security": "max-age=31556926",
           "vary": "x-fh-requested-host, accept-encoding",
           "x-cache": "HIT",
           "x-cache-hits": "0",
-          "x-served-by": "cache-chi-kmdw8640046-CHI",
-          "x-timer": "S1794225323.448585,VS0,VE1"
+          "x-served-by": "cache-dfw-ktki8620045-DFW",
+          "x-timer": "S1794271658.186466,VS0,VE6"
         }
       },
       "screenshotUrl": null,
@@ -341846,51 +341883,10 @@
       "title": "EESTEC Bucure\u0219ti"
     },
     {
-      "url": "https://www.innovationlabs.ro/",
-      "crawl": {
-        "loadedUrl": "https://www.innovationlabs.ro/",
-        "loadedTime": "2026-11-09T11:55:24.266Z",
-        "referrerUrl": "https://www.innovationlabs.ro/",
-        "httpStatusCode": 200,
-        "depth": 0,
-        "contentLengthBytes": 3203,
-        "contentType": "text/html"
-      },
-      "metadata": {
-        "canonicalUrl": "https://www.innovationlabs.ro/",
-        "title": "Innovation Labs 2026",
-        "description": null,
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "connection": "keep-alive",
-          "content-encoding": "gzip",
-          "content-type": "text/html",
-          "date": "Mon, 09 Nov 2026 11:52:33 GMT",
-          "etag": "W/\"6a7aed06-c9a\"",
-          "last-modified": "Tue, 11 Aug 2026 09:36:06 GMT",
-          "server": "nginx/1.14.0 (Ubuntu)",
-          "transfer-encoding": "chunked"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "Innovation Labs 2026\nYou are using an unsupported browser. We cannot guarantee that the website will work properly.\nFor best results, try using Microsoft Edge, Google Chrome, Mozilla Firefox or any currently updated browser.",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# Innovation Labs 2026\n\nYou are using an unsupported browser. We cannot guarantee that the website will work properly.  \nFor best results, try using Microsoft Edge, Google Chrome, Mozilla Firefox or any currently updated browser.\n\n![](https://www.innovationlabs.ro/loader-icon.svg)",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "Innovation Labs 2026"
-    },
-    {
       "url": "https://thebucharesthackathon.com/",
       "crawl": {
         "loadedUrl": "https://thebucharesthackathon.com/",
-        "loadedTime": "2026-11-09T11:55:25.157Z",
+        "loadedTime": "2026-11-10T00:47:38.819Z",
         "referrerUrl": "https://thebucharesthackathon.com/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341955,21 +341951,21 @@
           "content-encoding": "gzip",
           "content-length": "10644",
           "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:24 GMT",
+          "date": "Tue, 10 Nov 2026 00:47:38 GMT",
           "etag": "W/\"698c6c45-1192a\"",
-          "expires": "Mon, 09 Nov 2026 12:05:24 GMT",
+          "expires": "Tue, 10 Nov 2026 00:57:38 GMT",
           "last-modified": "Wed, 11 Feb 2026 11:47:17 GMT",
           "server": "GitHub.com",
           "vary": "Accept-Encoding",
           "via": "1.1 varnish",
           "x-cache": "MISS",
           "x-cache-hits": "0",
-          "x-fastly-request-id": "7198ba941f9efd16f9f082877c445417cabb4637",
-          "x-github-edge-region": "swedencentral",
-          "x-github-request-id": "6CCC:25B7AB:A751:B3AC:6AF1B4AC",
+          "x-fastly-request-id": "478823d6b6168837d3caa6d6dc571147c5688cbe",
+          "x-github-edge-region": "iad",
+          "x-github-request-id": "780C:1F8A0E:1057F23:12074C9:6AF269AA",
           "x-proxy-cache": "MISS",
-          "x-served-by": "cache-bma-essb1270063-BMA",
-          "x-timer": "S1794225325.820171,VS0,VE148"
+          "x-served-by": "cache-yyz-cyyz770073-YYZ",
+          "x-timer": "S1794271659.715660,VS0,VE50"
         }
       },
       "screenshotUrl": null,
@@ -341984,10 +341980,51 @@
       "title": "The Bucharest Hackathon | Bucharest Romania"
     },
     {
+      "url": "https://www.innovationlabs.ro/",
+      "crawl": {
+        "loadedUrl": "https://www.innovationlabs.ro/",
+        "loadedTime": "2026-11-10T00:47:39.297Z",
+        "referrerUrl": "https://www.innovationlabs.ro/",
+        "httpStatusCode": 200,
+        "depth": 0,
+        "contentLengthBytes": 3203,
+        "contentType": "text/html"
+      },
+      "metadata": {
+        "canonicalUrl": "https://www.innovationlabs.ro/",
+        "title": "Innovation Labs 2026",
+        "description": null,
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "connection": "keep-alive",
+          "content-encoding": "gzip",
+          "content-type": "text/html",
+          "date": "Tue, 10 Nov 2026 00:44:48 GMT",
+          "etag": "W/\"6a7aed06-c9a\"",
+          "last-modified": "Tue, 11 Aug 2026 09:36:06 GMT",
+          "server": "nginx/1.14.0 (Ubuntu)",
+          "transfer-encoding": "chunked"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "Innovation Labs 2026\nYou are using an unsupported browser. We cannot guarantee that the website will work properly.\nFor best results, try using Microsoft Edge, Google Chrome, Mozilla Firefox or any currently updated browser.",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# Innovation Labs 2026\n\nYou are using an unsupported browser. We cannot guarantee that the website will work properly.  \nFor best results, try using Microsoft Edge, Google Chrome, Mozilla Firefox or any currently updated browser.\n\n![](https://www.innovationlabs.ro/loader-icon.svg)",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "Innovation Labs 2026"
+    },
+    {
       "url": "https://www.spaceappschallenge.org/2026/",
       "crawl": {
         "loadedUrl": "https://www.spaceappschallenge.org/2026/",
-        "loadedTime": "2026-11-09T11:55:27.171Z",
+        "loadedTime": "2026-11-10T00:47:39.985Z",
         "referrerUrl": "https://www.spaceappschallenge.org/2026/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342019,14 +342056,14 @@
         "headers": {
           "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a57ca0e33e69f589-DFW",
+          "cf-ray": "a5810c108ca4c77f-ORD",
           "content-encoding": "br",
           "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:26 GMT",
+          "date": "Tue, 10 Nov 2026 00:47:39 GMT",
           "link": "</_next/static/media/173b4e1ecbfe6c3b-s.p.bb4389f3.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/6d205b44cc8ff5cb-s.p.4b6ba8b5.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/89c2c771ed51f5b8-s.p.62c6b13f.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/b8b552e8609c5636-s.p.25aba60b.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/c76157874a2922f6-s.p.ffb25873.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/cc75fa3e14c3cd04-s.p.0164516d.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/d03dd34c0ad8ced2-s.p.dc34d193.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/ffa7ca14c228762d-s.p.3f59869a.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/84cc554577b25c37.css>; rel=preload; as=\"style\", </_next/static/chunks/4ea52d28df79d0b4.css>; rel=preload; as=\"style\", </_next/static/chunks/9dbc7db39af07986.css>; rel=preload; as=\"style\", </_next/static/chunks/afdaf9f515e96376.css>; rel=preload; as=\"style\", </_next/static/chunks/97d06f03a26fc9a4.css>; rel=preload; as=\"style\", </_next/static/chunks/16a33c90f4d5229d.css>; rel=preload; as=\"style\", </_next/static/chunks/3eed70fef4efa9e8.css>; rel=preload; as=\"style\", </_next/static/chunks/9959a25a0dbb9dba.css>; rel=preload; as=\"style\"",
           "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
-          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=4oeYDnOOcn9Xol4C1yxqBgfq7GKmyk%2BJ3%2FjegYxj%2BEM%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1794225326\"}],\"max_age\":3600}",
-          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=4oeYDnOOcn9Xol4C1yxqBgfq7GKmyk%2BJ3%2FjegYxj%2BEM%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1794225326\"",
+          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=9p0swPnfy2SdF0z25%2FnNmFDyVMMy%2FLVAEyx8WtEeTHE%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1794271659\"}],\"max_age\":3600}",
+          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=9p0swPnfy2SdF0z25%2FnNmFDyVMMy%2FLVAEyx8WtEeTHE%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1794271659\"",
           "server": "cloudflare",
           "strict-transport-security": "max-age=2592000",
           "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
@@ -342046,10 +342083,59 @@
       "title": "NASA Space Apps Challenge"
     },
     {
+      "url": "https://polihack.osut.org/",
+      "crawl": {
+        "loadedUrl": "https://polihack.osut.org/",
+        "loadedTime": "2026-11-10T00:47:40.684Z",
+        "referrerUrl": "https://polihack.osut.org/",
+        "httpStatusCode": 200,
+        "depth": 0,
+        "contentLengthBytes": 49875,
+        "contentType": "text/html; charset=utf-8"
+      },
+      "metadata": {
+        "canonicalUrl": "https://polihack.osut.org/",
+        "title": "PoliHack",
+        "description": "PoliHack official website",
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "access-control-allow-origin": "*",
+          "age": "1430836",
+          "cache-control": "public, max-age=0, must-revalidate",
+          "content-disposition": "inline",
+          "content-encoding": "br",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Tue, 10 Nov 2026 00:47:40 GMT",
+          "etag": "W/\"779a2aeb55f7a728b248e8e420aa6f0a\"",
+          "server": "Vercel",
+          "strict-transport-security": "max-age=63072000",
+          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+          "x-matched-path": "/",
+          "x-nextjs-prerender": "1",
+          "x-nextjs-stale-time": "300",
+          "x-vercel-cache": "HIT",
+          "x-vercel-id": "cle1::kfzwl-1794271660414-6be1ab7fb051"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "PoliHack\n#Engineering the future!\nHackathon starts in:\nHackathon Has Started!\nWhat Is PoliHack?\nPoliHack is a 48-hour hackathon that brings together high school and university students for an unforgettable experience of innovation, teamwork, and creativity.\nNow reaching its 18th edition, the event unfolds over three intense days filled with learning, collaboration, and opportunities to turn ideas into reality.\nOrganized by the Student Organization of the Technical University of Cluj-Napoca (OSUT Cluj), PoliHack encourages participants to collaborate with esteemed mentors from both industry and academia, offering an authentic experience similar to what they would encounter in big companies.\nWhether you're an experienced coder or just taking your first steps into tech, all you need is a team of 3-5 passionate minds. Our mentors will be there to guide, inspire, and support you as you bring your ideas to life.\n+\n+\n+\nHere is what we do\nAre you a high school or university student passionate about coding or innovation? Get ready to turn your ideas into reality at PoliHack!\nThis hackathon is an unforgettable experience full of coding challenges, trainings, and teamwork. Build your project from scratch with your team, and make the most of the guidance provided by expert mentors whenever you need it. When it's time to take a break, our chill zones give you the perfect space to recharge.\nWith five exciting categories, there's a challenge for everyone: whether you're into web design, app development, embedded systems, cybersecurity, or just starting your tech journey, you'll find your place at PoliHack!\nCategories\nApp Development \nRedefine mobile interaction by transforming your ideas into functional, cutting-edge applications. Whether targeting iOS, Android, or cross-platform environments, this category lets you showcase coding skills while thinking about real-world user needs.\nCybersecurity \nEmbrace the digital frontier by protecting digital assets and networks from threats. Explore the world of cybersecurity, develop robust defense mechanisms, and implement smart security solutions to safeguard the digital realm. You'll learn to think like both a defender and a problem-solver, understanding real-world challenges in digital security.\nEmbedded Systems \nDive into the world of smart devices and advanced hardware solutions. Create projects that demonstrate creativity, technical skill, and innovation in shaping technology for everyday life. This category is perfect for exploring sensors, microcontrollers, and IoT concepts, turning ambitious ideas into tangible devices.\nWeb Development \nBuild captivating digital experiences by designing and developing innovative, browser-friendly websites.This category encourages creativity, problem-solving, and exploring the latest web technologies to craft something truly memorable.\nJunior \nDesigned for high school students, this category is a launchpad to explore web development, app development, embedded systems, and cybersecurity. Gain real-world experience, showcase creativity, and discover your passion for technology. Junior participants will get guidance tailored to their level, making it a perfect start for their journey into tech.\nNetworking\nMeet mentors, participants, and tech professionals, share experiences, and build connections that last long after the event. Whether you arrive with a concrete idea or just the desire to learn, networking expands your horizons and makes you part of a passionate innovation community.\nPoliHack V.16 Networking\nCome and meet at a talk with our mentorss and other participants!\nPoliHack V.16 Networking\nGet to know the other participants and make new friends!\nAt PoliHack, every conversation could be the start of a new adventure. Connect, collaborate, and leave your mark.\nMeet the team\nAndreea Arimia\nBC Responsible\nIulian Chiril\u0103\nCoordinator\nFlavia Mure\u0219an\nSecretary\nAndrei Dumitra\u0219cu\nCo-coordinator\nRaul Sigheart\u0103u\nCo-coordinator\nIoana Beldean\nCo-coordinator\nGeorgiana Teodoritu\nCo-coordinator",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# PoliHack\n\n![Main Banner](https://polihack.osut.org/assets/MainBanner.gif)\n\n## #Engineering the future!\n\n![Logo PoliHack](https://polihack.osut.org/assets/Logos/LogoWhite.webp)\n\n## Hackathon starts in:\n\nHackathon Has Started!\n\n## What Is PoliHack?\n\nPoliHack is a 48-hour hackathon that brings together high school and university students for an unforgettable experience of innovation, teamwork, and creativity.  \nNow reaching its 18th edition, the event unfolds over three intense days filled with learning, collaboration, and opportunities to turn ideas into reality.  \nOrganized by the Student Organization of the Technical University of Cluj-Napoca (OSUT Cluj), PoliHack encourages participants to collaborate with esteemed mentors from both industry and academia, offering an authentic experience similar to what they would encounter in big companies.  \nWhether you're an experienced coder or just taking your first steps into tech, all you need is a team of 3-5 passionate minds. Our mentors will be there to guide, inspire, and support you as you bring your ideas to life.\n\n+\n\n+\n\n+\n\n## Here is what we do\n\nAre you a high school or university student passionate about coding or innovation? Get ready to turn your ideas into reality at PoliHack!\n\nThis hackathon is an unforgettable experience full of coding challenges, trainings, and teamwork. Build your project from scratch with your team, and make the most of the guidance provided by expert mentors whenever you need it. When it's time to take a break, our chill zones give you the perfect space to recharge.\n\nWith five exciting categories, there's a challenge for everyone: whether you're into web design, app development, embedded systems, cybersecurity, or just starting your tech journey, you'll find your place at PoliHack!\n\n## Categories\n\n### App Development\n\nRedefine mobile interaction by transforming your ideas into functional, cutting-edge applications. Whether targeting iOS, Android, or cross-platform environments, this category lets you showcase coding skills while thinking about real-world user needs.\n\n### Cybersecurity\n\nEmbrace the digital frontier by protecting digital assets and networks from threats. Explore the world of cybersecurity, develop robust defense mechanisms, and implement smart security solutions to safeguard the digital realm. You'll learn to think like both a defender and a problem-solver, understanding real-world challenges in digital security.\n\n### Embedded Systems\n\nDive into the world of smart devices and advanced hardware solutions. Create projects that demonstrate creativity, technical skill, and innovation in shaping technology for everyday life. This category is perfect for exploring sensors, microcontrollers, and IoT concepts, turning ambitious ideas into tangible devices.\n\n### Web Development\n\nBuild captivating digital experiences by designing and developing innovative, browser-friendly websites.This category encourages creativity, problem-solving, and exploring the latest web technologies to craft something truly memorable.\n\n### Junior\n\nDesigned for high school students, this category is a launchpad to explore web development, app development, embedded systems, and cybersecurity. Gain real-world experience, showcase creativity, and discover your passion for technology. Junior participants will get guidance tailored to their level, making it a perfect start for their journey into tech.\n\n## Networking\n\nMeet mentors, participants, and tech professionals, share experiences, and build connections that last long after the event. Whether you arrive with a concrete idea or just the desire to learn, networking expands your horizons and makes you part of a passionate innovation community.\n\n![Networking](https://polihack.osut.org/assets/Images/Networking3.webp)\n\n##### PoliHack V.16 Networking\n\nCome and meet at a talk with our mentorss and other participants!\n\n![Second slide](https://polihack.osut.org/assets/Images/Networking4.webp)\n\n##### PoliHack V.16 Networking\n\nGet to know the other participants and make new friends!\n\nAt PoliHack, every conversation could be the start of a new adventure. Connect, collaborate, and leave your mark.\n\n## Meet the team\n\n![Andreea Arimia](https://polihack.osut.org/assets/Team/ArimiaAndreea.webp)\n\n### Andreea Arimia\n\nBC Responsible\n\n![Iulian Chiril\u0103](https://polihack.osut.org/assets/Team/Chiril%C4%83Iulian.webp)\n\n### Iulian Chiril\u0103\n\nCoordinator\n\n![Flavia Mure\u0219an](https://polihack.osut.org/assets/Team/MuresanFlavia.webp)\n\n### Flavia Mure\u0219an\n\nSecretary\n\n![Andrei Dumitra\u0219cu](https://polihack.osut.org/assets/Team/DumitrascuAndrei.webp)\n\n### Andrei Dumitra\u0219cu\n\nCo-coordinator\n\n![Raul Sigheart\u0103u](https://polihack.osut.org/assets/Team/SigheartauRaul.webp)\n\n### Raul Sigheart\u0103u\n\nCo-coordinator\n\n![Ioana Beldean](https://polihack.osut.org/assets/Team/BeldeanIoana.webp)\n\n### Ioana Beldean\n\nCo-coordinator\n\n![Georgiana Teodoritu](https://polihack.osut.org/assets/Team/TeodorituGeorgiana.webp)\n\n### Georgiana Teodoritu\n\nCo-coordinator",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "PoliHack"
+    },
+    {
       "url": "https://www.spaceappschallenge.org/2026/locations/bucharest/",
       "crawl": {
         "loadedUrl": "https://www.spaceappschallenge.org/2026/locations/bucharest/",
-        "loadedTime": "2026-11-09T11:55:27.871Z",
+        "loadedTime": "2026-11-10T00:47:41.345Z",
         "referrerUrl": "https://www.spaceappschallenge.org/2026/locations/bucharest/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342081,14 +342167,14 @@
         "headers": {
           "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a57ca0e95f64115e-ORD",
+          "cf-ray": "a5810c1698421e1b-TLL",
           "content-encoding": "br",
           "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:27 GMT",
+          "date": "Tue, 10 Nov 2026 00:47:41 GMT",
           "link": "</_next/static/media/173b4e1ecbfe6c3b-s.p.bb4389f3.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/6d205b44cc8ff5cb-s.p.4b6ba8b5.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/89c2c771ed51f5b8-s.p.62c6b13f.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/b8b552e8609c5636-s.p.25aba60b.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/c76157874a2922f6-s.p.ffb25873.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/cc75fa3e14c3cd04-s.p.0164516d.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/d03dd34c0ad8ced2-s.p.dc34d193.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/ffa7ca14c228762d-s.p.3f59869a.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/84cc554577b25c37.css>; rel=preload; as=\"style\", </_next/static/chunks/4ea52d28df79d0b4.css>; rel=preload; as=\"style\", </_next/static/chunks/9dbc7db39af07986.css>; rel=preload; as=\"style\", </_next/static/chunks/afdaf9f515e96376.css>; rel=preload; as=\"style\", </_next/static/chunks/97d06f03a26fc9a4.css>; rel=preload; as=\"style\", </_next/static/chunks/16a33c90f4d5229d.css>; rel=preload; as=\"style\", </_next/static/chunks/3eed70fef4efa9e8.css>; rel=preload; as=\"style\", </_next/static/chunks/9959a25a0dbb9dba.css>; rel=preload; as=\"style\"",
           "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
-          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=IZ4L878NDojsT6QguOmE99uqD3yLyaJjYzHach4Qy%2Bk%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1794225327\"}],\"max_age\":3600}",
-          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=IZ4L878NDojsT6QguOmE99uqD3yLyaJjYzHach4Qy%2Bk%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1794225327\"",
+          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=sDowLoGOAWWDtPBBwUwXZ4gqAs0hRiK2%2F%2FKTuABe9gM%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1794271660\"}],\"max_age\":3600}",
+          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=sDowLoGOAWWDtPBBwUwXZ4gqAs0hRiK2%2F%2FKTuABe9gM%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1794271660\"",
           "server": "cloudflare",
           "strict-transport-security": "max-age=2592000",
           "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
@@ -342108,108 +342194,47 @@
       "title": "NASA Space Apps Challenge"
     },
     {
-      "url": "https://polihack.osut.org/",
-      "crawl": {
-        "loadedUrl": "https://polihack.osut.org/",
-        "loadedTime": "2026-11-09T11:55:28.345Z",
-        "referrerUrl": "https://polihack.osut.org/",
-        "httpStatusCode": 200,
-        "depth": 0,
-        "contentLengthBytes": 49875,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://polihack.osut.org/",
-        "title": "PoliHack",
-        "description": "PoliHack official website",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "access-control-allow-origin": "*",
-          "age": "1384503",
-          "cache-control": "public, max-age=0, must-revalidate",
-          "content-disposition": "inline",
-          "content-encoding": "br",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:28 GMT",
-          "etag": "W/\"779a2aeb55f7a728b248e8e420aa6f0a\"",
-          "server": "Vercel",
-          "strict-transport-security": "max-age=63072000",
-          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
-          "x-matched-path": "/",
-          "x-nextjs-prerender": "1",
-          "x-nextjs-stale-time": "300",
-          "x-vercel-cache": "HIT",
-          "x-vercel-id": "cle1::8zscm-1794225328259-d1fb77fca5f3"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "PoliHack\n#Engineering the future!\nHackathon starts in:\nHackathon Has Started!\nWhat Is PoliHack?\nPoliHack is a 48-hour hackathon that brings together high school and university students for an unforgettable experience of innovation, teamwork, and creativity.\nNow reaching its 18th edition, the event unfolds over three intense days filled with learning, collaboration, and opportunities to turn ideas into reality.\nOrganized by the Student Organization of the Technical University of Cluj-Napoca (OSUT Cluj), PoliHack encourages participants to collaborate with esteemed mentors from both industry and academia, offering an authentic experience similar to what they would encounter in big companies.\nWhether you're an experienced coder or just taking your first steps into tech, all you need is a team of 3-5 passionate minds. Our mentors will be there to guide, inspire, and support you as you bring your ideas to life.\n+\n+\n+\nHere is what we do\nAre you a high school or university student passionate about coding or innovation? Get ready to turn your ideas into reality at PoliHack!\nThis hackathon is an unforgettable experience full of coding challenges, trainings, and teamwork. Build your project from scratch with your team, and make the most of the guidance provided by expert mentors whenever you need it. When it's time to take a break, our chill zones give you the perfect space to recharge.\nWith five exciting categories, there's a challenge for everyone: whether you're into web design, app development, embedded systems, cybersecurity, or just starting your tech journey, you'll find your place at PoliHack!\nCategories\nApp Development \nRedefine mobile interaction by transforming your ideas into functional, cutting-edge applications. Whether targeting iOS, Android, or cross-platform environments, this category lets you showcase coding skills while thinking about real-world user needs.\nCybersecurity \nEmbrace the digital frontier by protecting digital assets and networks from threats. Explore the world of cybersecurity, develop robust defense mechanisms, and implement smart security solutions to safeguard the digital realm. You'll learn to think like both a defender and a problem-solver, understanding real-world challenges in digital security.\nEmbedded Systems \nDive into the world of smart devices and advanced hardware solutions. Create projects that demonstrate creativity, technical skill, and innovation in shaping technology for everyday life. This category is perfect for exploring sensors, microcontrollers, and IoT concepts, turning ambitious ideas into tangible devices.\nWeb Development \nBuild captivating digital experiences by designing and developing innovative, browser-friendly websites.This category encourages creativity, problem-solving, and exploring the latest web technologies to craft something truly memorable.\nJunior \nDesigned for high school students, this category is a launchpad to explore web development, app development, embedded systems, and cybersecurity. Gain real-world experience, showcase creativity, and discover your passion for technology. Junior participants will get guidance tailored to their level, making it a perfect start for their journey into tech.\nNetworking\nMeet mentors, participants, and tech professionals, share experiences, and build connections that last long after the event. Whether you arrive with a concrete idea or just the desire to learn, networking expands your horizons and makes you part of a passionate innovation community.\nPoliHack V.16 Networking\nCome and meet at a talk with our mentorss and other participants!\nPoliHack V.16 Networking\nGet to know the other participants and make new friends!\nAt PoliHack, every conversation could be the start of a new adventure. Connect, collaborate, and leave your mark.\nMeet the team\nAndreea Arimia\nBC Responsible\nIulian Chiril\u0103\nCoordinator\nFlavia Mure\u0219an\nSecretary\nAndrei Dumitra\u0219cu\nCo-coordinator\nRaul Sigheart\u0103u\nCo-coordinator\nIoana Beldean\nCo-coordinator\nGeorgiana Teodoritu\nCo-coordinator",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# PoliHack\n\n![Main Banner](https://polihack.osut.org/assets/MainBanner.gif)\n\n## #Engineering the future!\n\n![Logo PoliHack](https://polihack.osut.org/assets/Logos/LogoWhite.webp)\n\n## Hackathon starts in:\n\nHackathon Has Started!\n\n## What Is PoliHack?\n\nPoliHack is a 48-hour hackathon that brings together high school and university students for an unforgettable experience of innovation, teamwork, and creativity.  \nNow reaching its 18th edition, the event unfolds over three intense days filled with learning, collaboration, and opportunities to turn ideas into reality.  \nOrganized by the Student Organization of the Technical University of Cluj-Napoca (OSUT Cluj), PoliHack encourages participants to collaborate with esteemed mentors from both industry and academia, offering an authentic experience similar to what they would encounter in big companies.  \nWhether you're an experienced coder or just taking your first steps into tech, all you need is a team of 3-5 passionate minds. Our mentors will be there to guide, inspire, and support you as you bring your ideas to life.\n\n+\n\n+\n\n+\n\n## Here is what we do\n\nAre you a high school or university student passionate about coding or innovation? Get ready to turn your ideas into reality at PoliHack!\n\nThis hackathon is an unforgettable experience full of coding challenges, trainings, and teamwork. Build your project from scratch with your team, and make the most of the guidance provided by expert mentors whenever you need it. When it's time to take a break, our chill zones give you the perfect space to recharge.\n\nWith five exciting categories, there's a challenge for everyone: whether you're into web design, app development, embedded systems, cybersecurity, or just starting your tech journey, you'll find your place at PoliHack!\n\n## Categories\n\n### App Development\n\nRedefine mobile interaction by transforming your ideas into functional, cutting-edge applications. Whether targeting iOS, Android, or cross-platform environments, this category lets you showcase coding skills while thinking about real-world user needs.\n\n### Cybersecurity\n\nEmbrace the digital frontier by protecting digital assets and networks from threats. Explore the world of cybersecurity, develop robust defense mechanisms, and implement smart security solutions to safeguard the digital realm. You'll learn to think like both a defender and a problem-solver, understanding real-world challenges in digital security.\n\n### Embedded Systems\n\nDive into the world of smart devices and advanced hardware solutions. Create projects that demonstrate creativity, technical skill, and innovation in shaping technology for everyday life. This category is perfect for exploring sensors, microcontrollers, and IoT concepts, turning ambitious ideas into tangible devices.\n\n### Web Development\n\nBuild captivating digital experiences by designing and developing innovative, browser-friendly websites.This category encourages creativity, problem-solving, and exploring the latest web technologies to craft something truly memorable.\n\n### Junior\n\nDesigned for high school students, this category is a launchpad to explore web development, app development, embedded systems, and cybersecurity. Gain real-world experience, showcase creativity, and discover your passion for technology. Junior participants will get guidance tailored to their level, making it a perfect start for their journey into tech.\n\n## Networking\n\nMeet mentors, participants, and tech professionals, share experiences, and build connections that last long after the event. Whether you arrive with a concrete idea or just the desire to learn, networking expands your horizons and makes you part of a passionate innovation community.\n\n![Networking](https://polihack.osut.org/assets/Images/Networking3.webp)\n\n##### PoliHack V.16 Networking\n\nCome and meet at a talk with our mentorss and other participants!\n\n![Second slide](https://polihack.osut.org/assets/Images/Networking4.webp)\n\n##### PoliHack V.16 Networking\n\nGet to know the other participants and make new friends!\n\nAt PoliHack, every conversation could be the start of a new adventure. Connect, collaborate, and leave your mark.\n\n## Meet the team\n\n![Andreea Arimia](https://polihack.osut.org/assets/Team/ArimiaAndreea.webp)\n\n### Andreea Arimia\n\nBC Responsible\n\n![Iulian Chiril\u0103](https://polihack.osut.org/assets/Team/Chiril%C4%83Iulian.webp)\n\n### Iulian Chiril\u0103\n\nCoordinator\n\n![Flavia Mure\u0219an](https://polihack.osut.org/assets/Team/MuresanFlavia.webp)\n\n### Flavia Mure\u0219an\n\nSecretary\n\n![Andrei Dumitra\u0219cu](https://polihack.osut.org/assets/Team/DumitrascuAndrei.webp)\n\n### Andrei Dumitra\u0219cu\n\nCo-coordinator\n\n![Raul Sigheart\u0103u](https://polihack.osut.org/assets/Team/SigheartauRaul.webp)\n\n### Raul Sigheart\u0103u\n\nCo-coordinator\n\n![Ioana Beldean](https://polihack.osut.org/assets/Team/BeldeanIoana.webp)\n\n### Ioana Beldean\n\nCo-coordinator\n\n![Georgiana Teodoritu](https://polihack.osut.org/assets/Team/TeodorituGeorgiana.webp)\n\n### Georgiana Teodoritu\n\nCo-coordinator",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "PoliHack"
-    },
-    {
       "url": "https://lablab.ai/event",
       "crawl": {
-        "loadedUrl": "https://starfieldlabs.ai/",
-        "loadedTime": "2026-11-09T11:55:29.183Z",
+        "loadedUrl": "https://lablab.build/ai-hackathons",
+        "loadedTime": "2026-11-10T00:47:42.169Z",
         "referrerUrl": "https://lablab.ai/event",
         "httpStatusCode": 200,
         "depth": 0,
-        "contentLengthBytes": 88113,
+        "contentLengthBytes": 1000271,
         "contentType": "text/html; charset=utf-8"
       },
       "metadata": {
-        "canonicalUrl": "https://starfieldlabs.ai/",
-        "title": "Starfield Labs",
-        "description": "Hackathons for builders and their agents.",
+        "canonicalUrl": "https://lablab.build/ai-hackathons",
+        "title": "AI Hackathons | lablab.build",
+        "description": "Compete in free AI hackathons on lablab.build. Build with cutting-edge models from top AI providers, win prizes, and connect with 100k+ innovators worldwide.",
         "author": null,
         "keywords": null,
         "languageCode": "en",
         "openGraph": [
           {
+            "property": "og:locale",
+            "content": "en_US"
+          },
+          {
             "property": "og:title",
-            "content": "Build what's next. Bring your agent."
+            "content": "AI Hackathons | lablab.build"
           },
           {
             "property": "og:description",
-            "content": "Hackathons for builders and their agents."
+            "content": "Compete in free AI hackathons on lablab.build. Build with cutting-edge models from top AI providers, win prizes, and connect with 100k+ innovators worldwide."
           },
           {
             "property": "og:url",
-            "content": "https://starfieldlabs.ai/"
-          },
-          {
-            "property": "og:site_name",
-            "content": "Starfield Labs"
+            "content": "https://lablab.build/ai-hackathons"
           },
           {
             "property": "og:image",
-            "content": "https://starfieldlabs.ai/share/labs"
-          },
-          {
-            "property": "og:image:width",
-            "content": "1200"
-          },
-          {
-            "property": "og:image:height",
-            "content": "630"
+            "content": "https://lablab.build/share.png"
           },
           {
             "property": "og:image:alt",
-            "content": "Starfield Labs: Prompt less. Build more."
-          },
-          {
-            "property": "og:type",
-            "content": "website"
+            "content": "LabLab - The #1 Ecosystem for AI Builders"
           }
         ],
         "jsonLd": [
@@ -342217,65 +342242,232 @@
             "@context": "https://schema.org",
             "@graph": [
               {
-                "@type": "WebSite",
-                "name": "Starfield Labs",
-                "url": "https://starfieldlabs.ai/"
+                "@type": "CollectionPage",
+                "@id": "https://lablab.build/ai-hackathons",
+                "name": "AI Hackathons | lablab.build",
+                "description": "Compete in free AI hackathons on lablab.build. Build with cutting-edge models from top AI providers, win prizes, and connect with 100k+ innovators worldwide.",
+                "url": "https://lablab.build/ai-hackathons",
+                "numberOfItems": 144
               },
               {
-                "@type": "Organization",
-                "name": "Starfield Labs",
-                "url": "https://starfieldlabs.ai/"
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://lablab.build"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "AI Hackathons",
+                    "item": "https://lablab.build/ai-hackathons"
+                  }
+                ]
+              },
+              {
+                "@type": "ItemList",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "AMD AI League",
+                    "url": "https://lablab.build/ai-hackathons/amd-lablab-ai-academy-challenge"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Vultr: Agent Rush Hackathon",
+                    "url": "https://lablab.build/ai-hackathons/vultr-hackathon"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "AMD Developer Hackathon: ACT III",
+                    "url": "https://lablab.build/ai-hackathons/amd-developer-hackathon-act-iii"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "WeAreDevelopers x BAND present: Dark Factory (hackathon edition)",
+                    "url": "https://lablab.build/ai-hackathons/wearedevelopers-hackathon"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "AssemblyAI - Voice Agent Hackathon",
+                    "url": "https://lablab.build/ai-hackathons/assemblyai-voice-agent-hackathon"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "name": "IBM Bob 2.0 hackathon",
+                    "url": "https://lablab.build/ai-hackathons/ibm-bob-2-hackathon"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "name": "AI Infra Summit Hackathon",
+                    "url": "https://lablab.build/ai-hackathons/ai-infra-summit-hackathon"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "name": "Alpaca AI Trading Agents Hackathon",
+                    "url": "https://lablab.build/ai-hackathons/alpaca-ai-trading-agents-hackathon"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "name": "AI Factory",
+                    "url": "https://lablab.build/ai-hackathons/nativebuilder-build-without-limits"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 10,
+                    "name": "AMD Developer Hackathon: ACT II",
+                    "url": "https://lablab.build/ai-hackathons/amd-developer-hackathon-act-ii"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 11,
+                    "name": "ExecuTorch Hackathon",
+                    "url": "https://lablab.build/ai-hackathons/qualcomm-x-meta-executorch-hackathon"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 12,
+                    "name": "Band of Agents Hackathon",
+                    "url": "https://lablab.build/ai-hackathons/band-of-agents-hackathon"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 13,
+                    "name": "Web Data UNLOCKED Hackathon",
+                    "url": "https://lablab.build/ai-hackathons/brightdata-ai-agents-web-data-hackathon"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 14,
+                    "name": "AI Agent Olympics Hackathon",
+                    "url": "https://lablab.build/ai-hackathons/milan-ai-week-hackathon"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 15,
+                    "name": " Transforming Enterprise Through AI",
+                    "url": "https://lablab.build/ai-hackathons/techex-intelligent-enterprise-solutions-hackathon"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 16,
+                    "name": "IBM Bob Hackathon",
+                    "url": "https://lablab.build/ai-hackathons/ibm-bob-hackathon"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 17,
+                    "name": "AMD Developer Hackathon",
+                    "url": "https://lablab.build/ai-hackathons/amd-developer"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 18,
+                    "name": "Agentic Economy on Arc",
+                    "url": "https://lablab.build/ai-hackathons/nano-payments-arc"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 19,
+                    "name": "AI Trading Agents",
+                    "url": "https://lablab.build/ai-hackathons/ai-trading-agents"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 20,
+                    "name": "Complete AI Hackathon",
+                    "url": "https://lablab.build/ai-hackathons/complete-ai-agent-hackathon"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 21,
+                    "name": "SURGE \u00d7 OpenClaw Hackathon",
+                    "url": "https://lablab.build/ai-hackathons/openclaw-surge-hackathon"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 22,
+                    "name": "Launch and Fund Your Own Startup-Edition 1",
+                    "url": "https://lablab.build/ai-hackathons/launch-fund-ai-meets-robotics"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 23,
+                    "name": "Deriv AI Talent Sprint",
+                    "url": "https://lablab.build/ai-hackathons/deriv-ai-talent-sprint"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 24,
+                    "name": "Agentic Commerce on Arc",
+                    "url": "https://lablab.build/ai-hackathons/agentic-commerce-on-arc"
+                  }
+                ]
               }
             ]
           }
         ],
         "headers": {
-          "cache-control": "no-cache",
+          "cache-control": "public, s-maxage=300, stale-while-revalidate=59",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a57ca0f13d09f60c-ORD",
+          "cf-ray": "a5810c1bda7a1146-ORD",
           "content-encoding": "br",
-          "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-sg5SZFzxiLxdVUxscHlSjzQa+xmJYjjIM/Z3US2pqZs=' 'sha256-lAEdhEqDKLhx+5D1sf9UmvJlLsCP8+J07uA+VudZ0kU=' 'sha256-sknK35q+FHBwn/T88j5+Dp8+1RhYbKV3Jqm61grOeMo=' 'sha256-OBTN3RiyCV4Bq7dFqZ5a2pAXjnCcCYeTJMO2I/LYKeo=' 'sha256-C5y9OgyEwGqD0E3VJO3H/du4I15EL/6zbU2+0YTspcw='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://images.starfieldlabs.ai; font-src 'self'; connect-src 'self' https://storage.googleapis.com/starfield-labs-prod-identity/incoming/ https://firestore.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://storage.googleapis.com/starfield-labs-prod-team-files/incoming/; worker-src starfieldlabs.ai/sw.js starfieldlabs.ai/_next/static/; frame-src 'none'; frame-ancestors 'none'; form-action 'self'; base-uri 'none'",
+          "content-security-policy": "frame-ancestors 'self' https://*.builder.io https://builder.io;",
           "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:29 GMT",
-          "link": "</_next/static/media/archivo_latin_wdth_normal-s.p.1h4hl0m83hjjz.woff2?dpl=087c2fb756635fd482b441168c526af8bd7a9f7e>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/0avj1cw02zds0.css?dpl=087c2fb756635fd482b441168c526af8bd7a9f7e>; rel=preload; as=\"style\", </_next/static/chunks/0fx24envh4476.css?dpl=087c2fb756635fd482b441168c526af8bd7a9f7e>; rel=preload; as=\"style\", </_next/static/chunks/2nhvn3-dcymkr.css?dpl=087c2fb756635fd482b441168c526af8bd7a9f7e>; rel=preload; as=\"style\", </_next/static/chunks/0i8zix0j1_7nd.css?dpl=087c2fb756635fd482b441168c526af8bd7a9f7e>; rel=preload; as=\"style\"",
+          "date": "Tue, 10 Nov 2026 00:47:41 GMT",
           "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "permissions-policy": "accelerometer=(), browsing-topics=(), camera=(), display-capture=(), geolocation=(), gyroscope=(), hid=(), magnetometer=(), microphone=(), midi=(), payment=(), serial=(), usb=()",
-          "referrer-policy": "strict-origin-when-cross-origin",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=bHJAT58Sna9uWgkWjzPAY%2BDN73n9fRcFwr7NL%2BeheuV%2BX9Raa48WmqS9UHa85VGztkYJYgPs1VOG%2BkrGhsyzaSWHFfpjXd6ptTPmWz451B%2FdRxI2zOwf14f3fdf5ewBc0wk%3D\"}]}",
+          "permissions-policy": "geolocation=(), microphone=(), camera=()",
+          "referrer-policy": "no-referrer-when-downgrade",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Is3JXaA052KsSDkQDZ4s8om5Hxbqk4CaIFAiA5eFTF2OnmXWXyWGTm2z1E0a76mTGv83ig34NdVFn8s2JhjO9%2FwSqUWrwHv4X9IaHNxKb9Q0yjLs0jopVyGr900UZA%3D%3D\"}]}",
           "server": "cloudflare",
-          "strict-transport-security": "max-age=31536000; includeSubDomains",
-          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
           "via": "1.1 google",
-          "x-cloud-trace-context": "a355261863a9bb7f05dfd7a46f6cd85c",
           "x-content-type-options": "nosniff",
-          "x-robots-tag": "index, follow"
+          "x-nextjs-cache": "HIT",
+          "x-nextjs-prerender": "1",
+          "x-nextjs-stale-time": "300",
+          "x-powered-by": "Next.js",
+          "x-xss-protection": "1; mode=block",
+          "set-cookie": "cky_geo_country=US; Path=/; Expires=Wed, 10 Nov 2027 00:47:41 GMT; Max-Age=31536000; SameSite=lax"
         }
       },
       "screenshotUrl": null,
-      "text": "Starfield Labs\nWhat we do\nAgent native\nConnect one MCP server and your coding agent can take part for you, from the terminal you already live in.\nFind events and enroll\nBuild a team and keep it in sync\nClaim compute and perks\nSubmit before the deadline\nclaude mcp add --transport http starfield-labs /mcp",
+      "text": "AI Hackathons | lablab.build\nGet notified and stay in the loop\nSign up for our newsletter to stay in the loop with lablab events and platform updates",
       "html": null,
       "htmlUrl": null,
-      "markdown": "# Starfield Labs\n\n## What we do\n\nAgent native\n\nConnect one MCP server and your coding agent can take part for you, from the terminal you already live in.\n\n*   Find events and enroll\n*   Build a team and keep it in sync\n*   Claim compute and perks\n*   Submit before the deadline\n\n```\nclaude mcp add --transport http starfield-labs /mcp\n```",
+      "markdown": "# AI Hackathons | lablab.build\n\n## Get notified and stay in the loop\n\nSign up for our newsletter to stay in the loop with lablab events and platform updates",
       "debug": {
         "requestHandlerMode": "http"
       },
       "query_id": "crawler",
-      "title": "Starfield Labs"
+      "title": "AI Hackathons | lablab.build"
     },
     {
-      "url": "https://asmi.ro/Articole/google-hackaton",
+      "url": "https://asmi.ro/Departamente",
       "crawl": {
-        "loadedUrl": "https://asmi.ro/Articole/google-hackaton",
-        "loadedTime": "2026-11-09T11:55:31.081Z",
-        "referrerUrl": "https://asmi.ro/Articole/google-hackaton",
+        "loadedUrl": "https://asmi.ro/Departamente",
+        "loadedTime": "2026-11-10T00:47:43.167Z",
+        "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
-        "depth": 0,
-        "contentLengthBytes": 1003869,
+        "depth": 1,
+        "contentLengthBytes": 32866,
         "contentType": "text/html; charset=utf-8"
       },
       "metadata": {
-        "canonicalUrl": "https://asmi.ro/Articole/google-hackaton",
-        "title": "24 Hours of Google - Hackathon - ASMI",
+        "canonicalUrl": "https://asmi.ro/Departamente",
+        "title": "Departamente - ASMI",
         "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
         "author": null,
         "keywords": null,
@@ -342284,26 +342476,137 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:22 GMT",
+          "date": "Tue, 10 Nov 2026 00:47:43 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
       "screenshotUrl": null,
-      "text": "24 Hours of Google - Hackathon\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person 24 Hours of Google Hackathon!\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\nThe Challenge (should you choose to accept it!): Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\nHealth\nSafety\nAccessibility\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\ud83d\udcc5 Date: 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\ud83d\udccd Venue: Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\nWanna Join?\nWho: Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\nHow: Teams of 3 - register via the \"Register\" button by 23:59 Sunday, April 19th 2026 EEST. Don\u2019t forget to include CVs for all team members!\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\nReady to hack? Register now!",
+      "text": "Departamente - ASMI\nDesign & PR\nDac\u0103 am putea descrie acest departament \u00een dou\u0103 cuvinte acelea sigur ar fi \"Imaginea Asocia\u021biei\". Imagineaz\u0103-\u021bi pentru c\u00e2teva secunde cum ar ar\u0103ta un proiect f\u0103r\u0103 afi\u0219e, post\u0103ri pe Facebook sau pe Instagram. Fie c\u0103 este vorba de Recrut\u0103ri sau Petreceri, f\u0103r\u0103 o promovare ca la carte, lumea nu ar fi atras\u0103 de evenimentele noastre iar informa\u021bia ar ajunge la mult mai pu\u021bini oameni. De aceea, avem nevoie de mult ajutor din partea acestui departament pentru a transmite informa\u021bia \u00eentr-un mod c\u00e2t mai pl\u0103cut \u0219i mai atr\u0103g\u0103tor.\nTe consideri creativ \u0219i mereu \u021bi-ai dorit s\u0103 \u00eenve\u021bi concepte de baz\u0103 \u00een editare grafic\u0103? Sau deja te pricepi la programe de editare foto/video? Ai talent la desen, pasiune pentru fotografie sau pur \u0219i simplu \u00ee\u021bi dore\u0219ti s\u0103 \u00eenve\u021bi tot ce \u021bi-am enumerat? \u00censeamn\u0103 c\u0103 ai nimerit unde trebuie! La Design & PR \u00ee\u021bi po\u021bi dezvolta hard skillurile \u0219i po\u021bi s\u0103 aju\u021bi la toate proiectele Asocia\u021biei!\nMicah Iordache Director de departament\nAmelia Roibu Director de departament\nEduca\u021bional\nDepartamentul Educa\u021bional se ocup\u0103 direct de \u00eentreaga interac\u021biune at\u00e2t cu studen\u021bii facult\u0103\u021bii noastre, c\u00e2t \u0219i cu elevi care \u0219i-ar dori s\u0103 urmeze FMI. Noi coordon\u0103m voluntarii din \u00eentreaga Asocia\u021bie \u00een gestionarea proiectelor precum: R\u0103\u021bu\u0219ca, Admiterea, Caravana Educa\u021bional\u0103, Ziua Por\u021bilor Deschise. Cu ajutorul acestora reu\u0219im s\u0103 motiv\u0103m \u0219i s\u0103 oferim ajutor constant studen\u021bilor pentru a le crea o experien\u021b\u0103 de neuitat \u00eentr-una din cele mai semnificative perioade a vie\u021bii lor.\nMembrii departamentului dezvolt\u0103 abilit\u0103\u0163i de public speaking, project management, teamwork \u015fi leadership pe care le pot folosi \u00een proiectele Asocia\u0163iei \u0219i nu numai.\n\u00cen c\u00e2teva cuvinte, Edu este cu \u015fi pentru studen\u0163i!\nDac\u0103 \u015fi tu vrei s\u0103 \u00ee\u0163i aju\u0163i colegii \u015fi s\u0103 \u00eencerci s\u0103 faci anii petrecu\u0163i \u00een facultate mai buni, hai \u00een echipa Edu!\nHuman Resources\nNoi suntem, pe scurt, \u201einima Asocia\u021biei\u201d ! Ne ocup\u0103m de integrarea bobocilor ce ni se al\u0103tur\u0103 \u00een fiecare toamn\u0103 \u0219i prim\u0103var\u0103, astfel \u00eenc\u00e2t ace\u0219tia s\u0103 ajung\u0103 s\u0103 se simt\u0103 cu adev\u0103rat parte din familia noastr\u0103. De asemenea, asigur\u0103m dezvoltarea \u0219i motivarea constant\u0103 a voluntarilor no\u0219tri prin organizarea activit\u0103\u021bilor de socializare.\nPe l\u00e2ng\u0103 procesul de recrutare, proiecte precum Marea Ie\u0219eal\u0103, Tre' s\u0103 Caut, chiar \u0219i Petrecerile, sunt organizate de voluntarii acestui departament. A\u0219a c\u0103, dac\u0103 e\u0219ti o persoan\u0103 empatic\u0103, altruist\u0103, \u00ee\u021bi place s\u0103 aju\u021bi, s\u0103 comunici cu oamenii \u0219i s\u0103 organizezi activit\u0103\u021bi, departamentul Human Resources te a\u0219teapt\u0103 cu bra\u021bele deschise!\nM\u0103d\u0103lina Moraru Director de departament\nMarius Manea Director de departament\nManagement & Fundraising\nPentru ca un proiect s\u0103 decurg\u0103 cum ne dorim este nevoie de munc\u0103, dedicare \u0219i comunicare, \u00eens\u0103 pentru a crea ceva memorabil este nevoie de un element special, ceva s\u0103 uneasc\u0103 efortul comun \u0219i s\u0103 ne dea aripi viselor. Aici intervin sponsorii no\u0219trii care ne sus\u021bin \u00een \u00eencercarea de a-i ajuta pe studen\u021bi. Noi suntem reprezentan\u021bii externi fiind primii cu care iau leg\u0103tura firmele atunci c\u00e2nd ne ofer\u0103 sprijinul lor. De asemenea noi oferim o voce oamenilor dornici s\u0103 spun\u0103 ce le-a pl\u0103cut \u00een cadrul evenimentelor, dar \u0219i ce trebuie \u00eembun\u0103t\u0103\u021bit, astfel \u00eenc\u00e2t edi\u021biile urm\u0103toare s\u0103 fie din ce \u00een ce mai bune. \u00cen cadrul departamentului vei \u00eenv\u0103\u021ba ce \u00eenseamn\u0103 s\u0103 organizezi un proiect, cum s\u0103 discu\u021bi \u0219i s\u0103 negociezi cu firme mari din domeniul IT \u0219i nu numai, dar \u0219i ce \u00eenseamn\u0103 munca \u00een echipa, gestionarea resurselor \u0219i distrac\u021bia al\u0103turi de colegi. Dac\u0103 te intereseaz\u0103 leg\u0103tura dintre Asocia\u021bie \u0219i companiile partenere \u0219i \u00ee\u021bi dore\u0219ti s\u0103 consolidezi mai departe aceste rela\u021bii, dar \u0219i s\u0103 creezi unele noi, atunci Management & Fundraising te a\u0219teapt\u0103!",
       "html": null,
       "htmlUrl": null,
-      "markdown": "# 24 Hours of Google - Hackathon\n\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person\u00a0**24 Hours of Google**\u00a0**Hackathon**!\n\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\n\n**The Challenge (should you choose to accept it!):** Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\n\n*   Health\n*   Safety\n*   Accessibility\n\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\n\ud83d\udcc5\u00a0**Date:** 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\n\ud83d\udccd\u00a0**Venue:** Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\n\n**Wanna Join?**\n\n*   **Who:** Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\n*   **How:** Teams of 3 - register via the \"[Register](https://rsvp.withgoogle.com/events/24-hours-of-google-hackathon-2026)\" button by\u00a0**23:59 Sunday, April 19th 2026 EEST**. Don\u2019t forget to include CVs for all team members!\n\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\n\nReady to hack? Register now!",
+      "markdown": "# Departamente - ASMI\n\n### Design & PR\n\nDac\u0103 am putea descrie acest departament \u00een dou\u0103 cuvinte acelea sigur ar fi \"Imaginea Asocia\u021biei\". Imagineaz\u0103-\u021bi pentru c\u00e2teva secunde cum ar ar\u0103ta un proiect f\u0103r\u0103 afi\u0219e, post\u0103ri pe Facebook sau pe Instagram. Fie c\u0103 este vorba de Recrut\u0103ri sau Petreceri, f\u0103r\u0103 o promovare ca la carte, lumea nu ar fi atras\u0103 de evenimentele noastre iar informa\u021bia ar ajunge la mult mai pu\u021bini oameni. De aceea, avem nevoie de mult ajutor din partea acestui departament pentru a transmite informa\u021bia \u00eentr-un mod c\u00e2t mai pl\u0103cut \u0219i mai atr\u0103g\u0103tor.\n\nTe consideri creativ \u0219i mereu \u021bi-ai dorit s\u0103 \u00eenve\u021bi concepte de baz\u0103 \u00een editare grafic\u0103? Sau deja te pricepi la programe de editare foto/video? Ai talent la desen, pasiune pentru fotografie sau pur \u0219i simplu \u00ee\u021bi dore\u0219ti s\u0103 \u00eenve\u021bi tot ce \u021bi-am enumerat? \u00censeamn\u0103 c\u0103 ai nimerit unde trebuie! La Design & PR \u00ee\u021bi po\u021bi dezvolta hard skillurile \u0219i po\u021bi s\u0103 aju\u021bi la toate proiectele Asocia\u021biei!\n\n![](https://asmi.ro/images/cd/MicahIordache.webp) Micah Iordache Director de departament\n\n![gal-item](https://asmi.ro/images/design/1-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/2-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/3-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/4-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/5-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/6-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/7-design.jpg)\n\n![gal-item](https://asmi.ro/images/design/8-DESIGN.jpg)\n\n![](https://asmi.ro/images/cd/AmeliaRoibu.webp) Amelia Roibu Director de departament\n\n### Educa\u021bional\n\nDepartamentul Educa\u021bional se ocup\u0103 direct de \u00eentreaga interac\u021biune at\u00e2t cu studen\u021bii facult\u0103\u021bii noastre, c\u00e2t \u0219i cu elevi care \u0219i-ar dori s\u0103 urmeze FMI. Noi coordon\u0103m voluntarii din \u00eentreaga Asocia\u021bie \u00een gestionarea proiectelor precum: R\u0103\u021bu\u0219ca, Admiterea, Caravana Educa\u021bional\u0103, Ziua Por\u021bilor Deschise. Cu ajutorul acestora reu\u0219im s\u0103 motiv\u0103m \u0219i s\u0103 oferim ajutor constant studen\u021bilor pentru a le crea o experien\u021b\u0103 de neuitat \u00eentr-una din cele mai semnificative perioade a vie\u021bii lor.\n\nMembrii departamentului dezvolt\u0103 abilit\u0103\u0163i de public speaking, project management, teamwork \u015fi leadership pe care le pot folosi \u00een proiectele Asocia\u0163iei \u0219i nu numai.\n\n\u00cen c\u00e2teva cuvinte, Edu este cu \u015fi pentru studen\u0163i!\n\nDac\u0103 \u015fi tu vrei s\u0103 \u00ee\u0163i aju\u0163i colegii \u015fi s\u0103 \u00eencerci s\u0103 faci anii petrecu\u0163i \u00een facultate mai buni, hai \u00een echipa Edu!\n\n![gal-item](https://asmi.ro/images/edu/1-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/2-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/3-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/4-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/5-EDU.jpg)\n\n### Human Resources\n\nNoi suntem, pe scurt, \u201einima Asocia\u021biei\u201d ! Ne ocup\u0103m de integrarea bobocilor ce ni se al\u0103tur\u0103 \u00een fiecare toamn\u0103 \u0219i prim\u0103var\u0103, astfel \u00eenc\u00e2t ace\u0219tia s\u0103 ajung\u0103 s\u0103 se simt\u0103 cu adev\u0103rat parte din familia noastr\u0103. De asemenea, asigur\u0103m dezvoltarea \u0219i motivarea constant\u0103 a voluntarilor no\u0219tri prin organizarea activit\u0103\u021bilor de socializare.\n\nPe l\u00e2ng\u0103 procesul de recrutare, proiecte precum Marea Ie\u0219eal\u0103, Tre' s\u0103 Caut, chiar \u0219i Petrecerile, sunt organizate de voluntarii acestui departament. A\u0219a c\u0103, dac\u0103 e\u0219ti o persoan\u0103 empatic\u0103, altruist\u0103, \u00ee\u021bi place s\u0103 aju\u021bi, s\u0103 comunici cu oamenii \u0219i s\u0103 organizezi activit\u0103\u021bi, departamentul Human Resources te a\u0219teapt\u0103 cu bra\u021bele deschise!\n\n![](https://asmi.ro/images/cd/Madalina.webp) M\u0103d\u0103lina Moraru Director de departament\n\n![gal-item](https://asmi.ro/images/hr/HR-1.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-2.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-3.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-4.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-5.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-6.jpg)\n\n![](https://asmi.ro/images/cd/MariusManea.webp) Marius Manea Director de departament\n\n### Management & Fundraising\n\nPentru ca un proiect s\u0103 decurg\u0103 cum ne dorim este nevoie de munc\u0103, dedicare \u0219i comunicare, \u00eens\u0103 pentru a crea ceva memorabil este nevoie de un element special, ceva s\u0103 uneasc\u0103 efortul comun \u0219i s\u0103 ne dea aripi viselor. Aici intervin sponsorii no\u0219trii care ne sus\u021bin \u00een \u00eencercarea de a-i ajuta pe studen\u021bi. Noi suntem reprezentan\u021bii externi fiind primii cu care iau leg\u0103tura firmele atunci c\u00e2nd ne ofer\u0103 sprijinul lor. De asemenea noi oferim o voce oamenilor dornici s\u0103 spun\u0103 ce le-a pl\u0103cut \u00een cadrul evenimentelor, dar \u0219i ce trebuie \u00eembun\u0103t\u0103\u021bit, astfel \u00eenc\u00e2t edi\u021biile urm\u0103toare s\u0103 fie din ce \u00een ce mai bune. \u00cen cadrul departamentului vei \u00eenv\u0103\u021ba ce \u00eenseamn\u0103 s\u0103 organizezi un proiect, cum s\u0103 discu\u021bi \u0219i s\u0103 negociezi cu firme mari din domeniul IT \u0219i nu numai, dar \u0219i ce \u00eenseamn\u0103 munca \u00een echipa, gestionarea resurselor \u0219i distrac\u021bia al\u0103turi de colegi. Dac\u0103 te intereseaz\u0103 leg\u0103tura dintre Asocia\u021bie \u0219i companiile partenere \u0219i \u00ee\u021bi dore\u0219ti s\u0103 consolidezi mai departe aceste rela\u021bii, dar \u0219i s\u0103 creezi unele noi, atunci Management & Fundraising te a\u0219teapt\u0103!\n\n![gal-item](https://asmi.ro/images/mf/1-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/2-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/3-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/4-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/5-MF.jpg)",
       "debug": {
         "requestHandlerMode": "http"
       },
       "query_id": "crawler",
-      "title": "24 Hours of Google - Hackathon - ASMI"
+      "title": "Departamente - ASMI"
+    },
+    {
+      "url": "https://asmi.ro/Studenti",
+      "crawl": {
+        "loadedUrl": "https://asmi.ro/Studenti",
+        "loadedTime": "2026-11-10T00:47:45.785Z",
+        "referrerUrl": "https://asmi.ro/",
+        "httpStatusCode": 200,
+        "depth": 1,
+        "contentLengthBytes": 36275,
+        "contentType": "text/html; charset=utf-8"
+      },
+      "metadata": {
+        "canonicalUrl": "https://asmi.ro/Studenti",
+        "title": "Studenti - ASMI",
+        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Tue, 10 Nov 2026 00:47:45 GMT",
+          "server": "nginx/1.28.3 (Ubuntu)"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "Studenti - ASMI\nPREZENT\u0102RI EDUCA\u021aIONALE \nMETODE DE EVALUARE SEMESTRUL II 2025-2026 \nGHIDUL BOBOCULUI \nORARUL TUTORIATELOR \nSTRUCTURA ANULUI UNIVERSITAR\nSem I\nPerioad\u0103\tActivitate\t\n01.10.2026-23.12.2026\tActivitate didactic\u0103 (30 11.2026 Sf\u00e2ntul Andrei, 01.12.2026 Ziua Na\u021bional\u0103 a Rom\u00e2niei -zi liber\u0103) \t\n24.12.2026-10.01.2027 \tVacan\u021ba de iarn\u0103 \t\n11.01.2027 - 24.01.2027 \tActivitate didactic\u0103 (24.01.2027, Ziua Unirii Principatelor Rom\u00e2ne - zi liber\u0103) \t\n25.01.2027 - 14.02.2027 \tSesiune de examene, sem. I \t\n15.02.2027 - 21.02.2027 \tVacan\u021b\u0103 intersemestrial\u0103 \t\nSem II (anii neterminali)\nPerioad\u0103\tActivitate\t\n22.02.2027 - 30.04.2027 \tActivitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) \t\n01.05.2027 - 09.05.2027 \tVacan\u0163\u0103 de Pa\u015fte \t\n10.05.2027 - 06.06.2027 \tActivitate didactic\u0103 (01.06.2027, Ziua Copilului - zi liber\u0103) \t\n07.06.2027 - 27.06.2027 \tSesiune de examene, sem. II (20 \u0219i 21.06.2027, Rusaliile \u2013 zile libere) \t\n01.09.2027 - 05.09.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri de note sem. I \t\n06.09.2027 - 10.09.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri de note sem. II \t\nSem. II (anii terminali)\nPerioad\u0103\tActivitate\t\n22.02.2027 - 30.04.2027 \tActivitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) \t\n01.05.2027 - 09.05.2027 \tVacan\u0163\u0103 de Pa\u015fte \t\n10.05 \u2013 23.05.2027 \tElaborarea lucr\u0103rii de licen\u021b\u0103/ Cercetarea \u0219i elaborarea lucr\u0103rii de diserta\u021bie \t\n24.05 -13.06.2027 \tSesiune de examene, sem. II \t\n14.06-20.06.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri, sem I \t\n21.06-27.06.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri, sem II \t\n02.07.2027 - 04.07.2027 \tSus\u021binere licen\u0163\u0103 \u0219i diserta\u0163ie \t\n11-12.09.2027 \tSus\u021binere licen\u021b\u0103 \u0219i diserta\u021bie \t\nH\u0102R\u021aI ALE PB TOWER \nLa sf\u00e2r\u0219itul fiec\u0103rui an universitar, ASMI \u00eentocme\u0219te Formularul Codului Drepturilor \u0219i Obliga\u021biilor Studentului cu scopul \u00eembun\u0103t\u0103\u021birii vie\u021bii studen\u021be\u0219ti la FMI. Rezultatele colectate \u00een urma r\u0103spunsurilor vor fi prezentate, sub forma unui raport, \u00een cadrul structurilor de conducere ale Facult\u0103\u021bii \u0219i Universit\u0103\u021bii. \nUnul dintre scopurile ASMI este monitorizarea, dezvoltarea \u0219i \u00eembun\u0103t\u0103\u021birea vie\u021bii studen\u021be\u0219ti. Dac\u0103 ai vreo problem\u0103 pe care vrei s\u0103 o comunici \u0219i nu \u0219ti cui, am conceput pentru tine un \"Buton de panic\u0103\" prin care po\u021bi s\u0103 ne sesizezi oric\u00e2nd referitor la mediul stden\u021besc FMI. \nTe rug\u0103m completeaz\u0103 formularul de mai jos, iar noi vom lua leg\u0103tura cu tine \u00een cel mai scurt timp posibil:",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# Studenti - ASMI\n\n##### PREZENT\u0102RI EDUCA\u021aIONALE\n\n##### METODE DE EVALUARE SEMESTRUL II 2025-2026\n\n##### GHIDUL BOBOCULUI\n\n##### ORARUL TUTORIATELOR\n\n### STRUCTURA ANULUI UNIVERSITAR\n\n### Sem I\n\n| Perioad\u0103 | Activitate |\n| --- | --- |\n| 01.10.2026-23.12.2026 | Activitate didactic\u0103 (30 11.2026 Sf\u00e2ntul Andrei, 01.12.2026 Ziua Na\u021bional\u0103 a Rom\u00e2niei -zi liber\u0103) |\n| 24.12.2026-10.01.2027 | Vacan\u021ba de iarn\u0103 |\n| 11.01.2027 - 24.01.2027 | Activitate didactic\u0103 (24.01.2027, Ziua Unirii Principatelor Rom\u00e2ne - zi liber\u0103) |\n| 25.01.2027 - 14.02.2027 | Sesiune de examene, sem. I |\n| 15.02.2027 - 21.02.2027 | Vacan\u021b\u0103 intersemestrial\u0103 |\n\n### Sem II (anii neterminali)\n\n| Perioad\u0103 | Activitate |\n| --- | --- |\n| 22.02.2027 - 30.04.2027 | Activitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) |\n| 01.05.2027 - 09.05.2027 | Vacan\u0163\u0103 de Pa\u015fte |\n| 10.05.2027 - 06.06.2027 | Activitate didactic\u0103 (01.06.2027, Ziua Copilului - zi liber\u0103) |\n| 07.06.2027 - 27.06.2027 | Sesiune de examene, sem. II (20 \u0219i 21.06.2027, Rusaliile \u2013 zile libere) |\n| 01.09.2027 - 05.09.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri de note sem. I |\n| 06.09.2027 - 10.09.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri de note sem. II |\n\n### Sem. II (anii terminali)\n\n| Perioad\u0103 | Activitate |\n| --- | --- |\n| 22.02.2027 - 30.04.2027 | Activitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) |\n| 01.05.2027 - 09.05.2027 | Vacan\u0163\u0103 de Pa\u015fte |\n| 10.05 \u2013 23.05.2027 | Elaborarea lucr\u0103rii de licen\u021b\u0103/ Cercetarea \u0219i elaborarea lucr\u0103rii de diserta\u021bie |\n| 24.05 -13.06.2027 | Sesiune de examene, sem. II |\n| 14.06-20.06.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri, sem I |\n| 21.06-27.06.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri, sem II |\n| 02.07.2027 - 04.07.2027 | Sus\u021binere licen\u0163\u0103 \u0219i diserta\u0163ie |\n| 11-12.09.2027 | Sus\u021binere licen\u021b\u0103 \u0219i diserta\u021bie |\n\n##### H\u0102R\u021aI ALE PB TOWER\n\nLa sf\u00e2r\u0219itul fiec\u0103rui an universitar, ASMI \u00eentocme\u0219te **Formularul Codului Drepturilor \u0219i Obliga\u021biilor Studentului** cu scopul \u00eembun\u0103t\u0103\u021birii vie\u021bii studen\u021be\u0219ti la FMI. Rezultatele colectate \u00een urma r\u0103spunsurilor vor fi prezentate, sub forma unui raport, \u00een cadrul structurilor de conducere ale Facult\u0103\u021bii \u0219i Universit\u0103\u021bii.  \n\nUnul dintre scopurile ASMI este monitorizarea, dezvoltarea \u0219i \u00eembun\u0103t\u0103\u021birea vie\u021bii studen\u021be\u0219ti. Dac\u0103 ai vreo problem\u0103 pe care vrei s\u0103 o comunici \u0219i nu \u0219ti cui, am conceput pentru tine un **\"Buton de panic\u0103\"** prin care po\u021bi s\u0103 ne sesizezi oric\u00e2nd referitor la mediul stden\u021besc FMI.\n\nTe rug\u0103m completeaz\u0103 formularul de mai jos, iar noi vom lua leg\u0103tura cu tine \u00een cel mai scurt timp posibil:",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "Studenti - ASMI"
+    },
+    {
+      "url": "https://asmi.ro/Elevi",
+      "crawl": {
+        "loadedUrl": "https://asmi.ro/Elevi",
+        "loadedTime": "2026-11-10T00:47:46.583Z",
+        "referrerUrl": "https://asmi.ro/",
+        "httpStatusCode": 200,
+        "depth": 1,
+        "contentLengthBytes": 14814,
+        "contentType": "text/html; charset=utf-8"
+      },
+      "metadata": {
+        "canonicalUrl": "https://asmi.ro/Elevi",
+        "title": "Elevi - ASMI",
+        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Tue, 10 Nov 2026 00:47:46 GMT",
+          "server": "nginx/1.28.3 (Ubuntu)"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "Elevi - ASMI\nCaravana Edu\nData evenimentului: 09/03/2025 - 13/03/2025\nE\u0219ti elev de liceu \u0219i nu \u0219tii c\u0103tre ce facultate s\u0103 te \u00eendrep\u021bi? Ei bine, voluntarii ASMI te ajut\u0103 s\u0103 descoperi Facultatea de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti!\nZiua Por\u021bilor Deschise\nData evenimentului: 18/04/2026 - 19/04/2026\nDac\u0103 vrei s\u0103 vezi cu ochii t\u0103i facultatea \u00een care \u00ee\u021bi po\u021bi petrece anii studen\u021biei, te invit\u0103m s\u0103 participi la tururile ghidate, cursurile demonstrative \u0219i prezent\u0103rile ofertei educa\u021bionale din cadrul Zilei Por\u021bilor Deschise. \u00cen tot acest timp, voluntarii ASMI \u0219i profesorii Facult\u0103\u021bii vor fi al\u0103turi de tine pentru a-\u021bi r\u0103spunde la \u00eentreb\u0103ri \u0219i curiozit\u0103\u021bi.\nHello FMI\nData evenimentului: 25/09/2025 - 05/10/2025\n\u201dHello FMI\u201d este o serie de evenimente sociale \u0219i academice organizate de ASMI cu scopul ca noii studen\u021bi s\u0103 se acomodeze c\u00e2t mai repede cu Facultatea \u0219i cu colegii lor. Printre acestea se num\u0103r\u0103 Marea Ie\u0219eal\u0103(serie de jocuri de cunoa\u0219tere prin care s\u0103-\u021bi cuno\u0219ti colegii), Tre' s\u0103 caut (treasure hunt \u00een Bucure\u0219ti), Bumtzi(petrecere de \u00eenceput de an) \u0219i Dialog Deschis(prezentare a celor mai importante aspecte din via\u021ba de student \u0219i sesiune de Q&A cu voluntarii ASMI).\n\u201eR\u0103\u021bu\u0219ca\u201d este proiectul prin care intr\u0103m \u00een contact cu bobocii \u0219i \u00eei introducem \u00een via\u021ba de student al FMI. \u00cenc\u0103 din primele zile, voluntarii asocia\u021biei se integreaz\u0103 cu grupele nou formate, \u0219i \u00eei ghideaz\u0103 c\u0103tre primii pa\u0219i ai studen\u021biei.",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# Elevi - ASMI\n\n[![Logo for Caravana Edu](https://asmi.ro/images/CaravanaEducationala2.png)](https://caravana.asmi.ro/)\n\n## Caravana Edu\n\nData evenimentului: 09/03/2025 - 13/03/2025\n\nE\u0219ti elev de liceu \u0219i nu \u0219tii c\u0103tre ce facultate s\u0103 te \u00eendrep\u021bi? Ei bine, voluntarii ASMI te ajut\u0103 s\u0103 descoperi Facultatea de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti!\n\n[![Logo for Ziua Por\u021bilor Deschise](https://asmi.ro/images/zpd.png)](https://asmi.ro/zpd)\n\n## Ziua Por\u021bilor Deschise\n\nData evenimentului: 18/04/2026 - 19/04/2026\n\nDac\u0103 vrei s\u0103 vezi cu ochii t\u0103i facultatea \u00een care \u00ee\u021bi po\u021bi petrece anii studen\u021biei, te invit\u0103m s\u0103 participi la tururile ghidate, cursurile demonstrative \u0219i prezent\u0103rile ofertei educa\u021bionale din cadrul Zilei Por\u021bilor Deschise. \u00cen tot acest timp, voluntarii ASMI \u0219i profesorii Facult\u0103\u021bii vor fi al\u0103turi de tine pentru a-\u021bi r\u0103spunde la \u00eentreb\u0103ri \u0219i curiozit\u0103\u021bi.\n\n![Logo for Hello FMI](https://asmi.ro/images/hellofmi.png)\n\n## Hello FMI\n\nData evenimentului: 25/09/2025 - 05/10/2025\n\n\u201dHello FMI\u201d este o serie de evenimente sociale \u0219i academice organizate de ASMI cu scopul ca noii studen\u021bi s\u0103 se acomodeze c\u00e2t mai repede cu Facultatea \u0219i cu colegii lor. Printre acestea se num\u0103r\u0103 Marea Ie\u0219eal\u0103(serie de jocuri de cunoa\u0219tere prin care s\u0103-\u021bi cuno\u0219ti colegii), Tre' s\u0103 caut (treasure hunt \u00een Bucure\u0219ti), Bumtzi(petrecere de \u00eenceput de an) \u0219i Dialog Deschis(prezentare a celor mai importante aspecte din via\u021ba de student \u0219i sesiune de Q&A cu voluntarii ASMI).\n\n![Logo for R\u0103\u021bu\u0219ca](https://asmi.ro/images/LogoDuckFinal.png)\n\n\u201eR\u0103\u021bu\u0219ca\u201d este proiectul prin care intr\u0103m \u00een contact cu bobocii \u0219i \u00eei introducem \u00een via\u021ba de student al FMI. \u00cenc\u0103 din primele zile, voluntarii asocia\u021biei se integreaz\u0103 cu grupele nou formate, \u0219i \u00eei ghideaz\u0103 c\u0103tre primii pa\u0219i ai studen\u021biei.",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "Elevi - ASMI"
+    },
+    {
+      "url": "https://asmi.ro/Proiecte",
+      "crawl": {
+        "loadedUrl": "https://asmi.ro/Proiecte",
+        "loadedTime": "2026-11-10T00:47:49.033Z",
+        "referrerUrl": "https://asmi.ro/",
+        "httpStatusCode": 200,
+        "depth": 1,
+        "contentLengthBytes": 21957,
+        "contentType": "text/html; charset=utf-8"
+      },
+      "metadata": {
+        "canonicalUrl": "https://asmi.ro/Proiecte",
+        "title": "Proiecte - ASMI",
+        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Tue, 10 Nov 2026 00:47:48 GMT",
+          "server": "nginx/1.28.3 (Ubuntu)"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "Proiecte - ASMI\nMunca noastr\u0103 este prezentarea aptitudinilor noastre. \nArt\u0103\u2019n Dar\n\u201eArt\u0103'n Dar\u201d este un eveniment care promoveaz\u0103 cultura \u0219i arta \u00een r\u00e2ndul studen\u021bilor \u0219i, \u00een acela\u0219i timp, urm\u0103re\u0219te scopul de a \u00eemp\u0103r\u021bi bucurie \u0219i cadouri oamenilor care au cea mai mare nevoie. \nCariere\n\u201eCariere\u201d este un t\u00e2rg de joburi \u0219i internship-uri care ofer\u0103 un sprijin \u00een dezvoltarea pe plan profesional a studen\u021bilor, realiz\u00e2nd o leg\u0103tur\u0103 \u00eentre ace\u0219tia \u0219i o parte dintre cele mai cunoscute companii de pe pia\u021ba IT din Rom\u00e2nia. \nSMARTHACK\n\u201eSmarthack\u201d este un hackathon de 24 de ore \u00een care mai multe echipe formate din c\u00e2te 3-4 studen\u0163i, lucreaz\u0103 la dezvoltarea unui produs software pe baza unei teme, care se finalizeaz\u0103 cu jurizarea \u015fi premierea celor mai bune echipe de c\u0103tre cele mai mari firme din IT din Rom\u00e2nia. \nCARAVANA EDUCA\u021aIONAL\u0102\nE\u0219ti elev de liceu \u0219i nu \u0219tii c\u0103tre ce facultate s\u0103 te \u00eendrep\u021bi? Ei bine, voluntarii ASMI te ajut\u0103 s\u0103 descoperi Facultatea de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti! \nPRACTICA\n\u201ePractica\u201d este proiectul care vine \u00een ajutorul studen\u021bilor din an terminal, cu scopul de a \u00ee\u0219i echivala orele de practic\u0103 necesare ob\u021binerii diplomei de licen\u021b\u0103. \nZilele ASMI\nAcest eveniment este organizat pentru s\u0103rb\u0103torirea zilei \u00eenfiin\u021b\u0103rii asocia\u021biei. Este dedicat tuturor studen\u021bilor FMI care vor s\u0103 \u00ee\u0219i fac\u0103 prieteni noi, s\u0103 participe la competi\u021bii sportive, seri de boardgames, seri de teatru, campionate de CS/LOL etc. \nMarea Ie\u0219eal\u0103\n\u201eMarea Ie\u0219eal\u0103\u201d este unul dintre primele proiecte ale asocia\u021biei cu care te \u00eent\u00e2lne\u0219ti ca boboc la Facultatea de Matematic\u0103 \u0219i Informatic\u0103. \nR\u0103\u021busca\n\u201eR\u0103\u021bu\u0219ca\u201d este proiectul prin care intr\u0103m \u00een contact cu bobocii \u0219i \u00eei introducem \u00een via\u021ba de student al FMI. \u00cenc\u0103 din primele zile, voluntarii asocia\u021biei se integreaz\u0103 cu grupele nou formate, \u0219i \u00eei ghideaz\u0103 c\u0103tre primii pa\u0219i ai studen\u021biei. \nTre\u2019 s\u0103 caut\n\u201eTre' s\u0103 caut\u201d este un treasure hunt care se desf\u0103\u0219oar\u0103 \u00een Bucure\u0219ti. Scopul este familiarizarea studen\u021bilor cu locuri importante din jurul zonei universit\u0103\u021bii, dar mai ales, scopul lui \u00eel reprezint\u0103 cunoa\u0219terea mai bun\u0103 a colegilor \u0219i formarea de leg\u0103turi noi cu ace\u0219tia. \nRaport CDOS\nPrin chestionarul CDOS se urm\u0103re\u0219te nivelul de satisfac\u021bie al studen\u021bilor cu privire la condi\u021biile oferite de facultate, c\u00e2t \u0219i dac\u0103 le-au fost respectate drepturile sau nu. \nNOU! Sesiunea de Comunic\u0103ri Studen\u021be\u0219ti\n\u201eSesiunea de Comunic\u0103ri \u0218tiin\u021bifice Studen\u021be\u0219ti\u201d reprezint\u0103 o oportunitate pentru studen\u021bii no\u0219tri de a-\u0219i prezenta cercet\u0103rile \u0219i proiectele \u00een fa\u021ba comunit\u0103\u021bii academice. Prin acest eveniment, \u00eencuraj\u0103m dezvoltarea g\u00e2ndirii critice, a capacit\u0103\u021bii de cercetare \u0219i a abilit\u0103\u021bilor de comunicare \u00een domeniul academic. \nBalul Bobocilor\nAcest eveniment este dedicat noilor studen\u021bi FMI. \u00cen cadrul acestuia au loc diverse probe prin care trec candida\u021bii pentru Miss \u0219i Mister FMI, iar \u00een urma acestora, sunt desemna\u021bi c\u00e2\u0219tig\u0103torii titlurilor. \nAdmitere\n\u00cen cadrul acestui proiect, voluntarii asocia\u021biei ajut\u0103 la buna desf\u0103\u0219urare a procesului de admitere, cre\u00e2nd un grup de Facebook \u00een care ei r\u0103spund la toate \u00eentreb\u0103rile candida\u021bilor, \u00eendrum\u00e2ndu-i c\u0103tre s\u0103lile de depunere a dosarelor \u0219i ajut\u00e2ndu-i s\u0103 completeze documentele necesare \u0219i multe altele. \nDialog Deschis\nAcest proiect este organizat la \u00eenceputul anului universitar, fiind adresat noilor studen\u021bi \u0219i const\u0103 \u00een discu\u021bii voluntari-boboci, pentru a le oferi informa\u021bii \u0219i a le r\u0103spunde la \u00eentreb\u0103ri. \nTutoriate\nSunt o oportunitate de practic\u0103 pentru studen\u021bii de ani mai mari, de a-i ajuta pe cei de anul I sau II pe parcursul semestrului prin lec\u021bii organizate fizic \u00een facultate. \u00cen cadrul acestora se lucreaz\u0103 exerci\u021bii pentru fixarea \u0219i \u00eensu\u0219irea no\u021biunilor studiate la curs, seminar sau laborator. \nMeet ASMI\nAcest proiect se desf\u0103\u0219oar\u0103 imediat \u00eenainte de \u00eenceperea recrut\u0103rilor din toamn\u0103. El const\u0103 \u00eentr-o prezentare a asocia\u021biei, a departamentelor \u0219i a proiectelor sale \u0219i are rolul de a oferi studen\u021bilor o \u00een\u021belegerea mult mai bun\u0103 a asocia\u021biei c\u00e2t \u0219i s\u0103 \u00eei motiveze s\u0103 participe la procesul de recrutare pentru a deveni voluntari. \nRecrut\u0103ri\nPentru a asigura continuitatea asocia\u021biei \u0219i bunul mers al proiectelor, sunt organizate 2 sesiuni de recrutare \u00een ASMI. Prima sesiune are loc \u00een luna octombrie, odat\u0103 cu venirea noilor studen\u021bi, iar cealalt\u0103 \u00een luna mai, pentru a le oferi ocazia de a se implica \u0219i celor care nu au avut \u0219ansa s\u0103 intre \u00een asocia\u021bie \u00een toamn\u0103. \nPetreceri ASMI\nASMI organizeaz\u0103 o multitudine de petreceri pentru a le face via\u021ba studen\u021beasc\u0103 mai frumoas\u0103 \u0219i pentru a le oferi studen\u021bilor oportunitatea de a socializa \u0219i de a se distra. Printre acestea se num\u0103r\u0103 Bumtzi (prima petrecere din anul universitar) \u0219i FeMeI Party.",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# Proiecte - ASMI\n\nMunca noastr\u0103 este prezentarea aptitudinilor noastre.\n\n![](https://asmi.ro/images/artandar-.png)\n\n### Art\u0103\u2019n Dar\n\n\u201eArt\u0103'n Dar\u201d este un eveniment care promoveaz\u0103 cultura \u0219i arta \u00een r\u00e2ndul studen\u021bilor \u0219i, \u00een acela\u0219i timp, urm\u0103re\u0219te scopul de a \u00eemp\u0103r\u021bi bucurie \u0219i cadouri oamenilor care au cea mai mare nevoie.\n\n[![](https://asmi.ro/images/cariere.png)](https://cariere.asmi.ro/)\n\n### Cariere\n\n\u201eCariere\u201d este un t\u00e2rg de joburi \u0219i internship-uri care ofer\u0103 un sprijin \u00een dezvoltarea pe plan profesional a studen\u021bilor, realiz\u00e2nd o leg\u0103tur\u0103 \u00eentre ace\u0219tia \u0219i o parte dintre cele mai cunoscute companii de pe pia\u021ba IT din Rom\u00e2nia.\n\n[![](https://asmi.ro/images/smarthack.png)](https://smarthack.asmi.ro/)\n\n### SMARTHACK\n\n\u201eSmarthack\u201d este un hackathon de 24 de ore \u00een care mai multe echipe formate din c\u00e2te 3-4 studen\u0163i, lucreaz\u0103 la dezvoltarea unui produs software pe baza unei teme, care se finalizeaz\u0103 cu jurizarea \u015fi premierea celor mai bune echipe de c\u0103tre cele mai mari firme din IT din Rom\u00e2nia.\n\n[![](https://asmi.ro/images/CaravanaEducationala.png)](https://caravana.asmi.ro/)\n\n### CARAVANA EDUCA\u021aIONAL\u0102\n\nE\u0219ti elev de liceu \u0219i nu \u0219tii c\u0103tre ce facultate s\u0103 te \u00eendrep\u021bi? Ei bine, voluntarii ASMI te ajut\u0103 s\u0103 descoperi Facultatea de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti!\n\n![](https://asmi.ro/images/Logo_practica.png)\n\n### PRACTICA\n\n\u201ePractica\u201d este proiectul care vine \u00een ajutorul studen\u021bilor din an terminal, cu scopul de a \u00ee\u0219i echivala orele de practic\u0103 necesare ob\u021binerii diplomei de licen\u021b\u0103.\n\n![](https://asmi.ro/images/logo-zile-1.png)\n\n### Zilele ASMI\n\nAcest eveniment este organizat pentru s\u0103rb\u0103torirea zilei \u00eenfiin\u021b\u0103rii asocia\u021biei. Este dedicat tuturor studen\u021bilor FMI care vor s\u0103 \u00ee\u0219i fac\u0103 prieteni noi, s\u0103 participe la competi\u021bii sportive, seri de boardgames, seri de teatru, campionate de CS/LOL etc.\n\n![](https://asmi.ro/images/logo-marea-ieseala.png)\n\n### Marea Ie\u0219eal\u0103\n\n\u201eMarea Ie\u0219eal\u0103\u201d este unul dintre primele proiecte ale asocia\u021biei cu care te \u00eent\u00e2lne\u0219ti ca boboc la Facultatea de Matematic\u0103 \u0219i Informatic\u0103.\n\n![](https://asmi.ro/images/LogoDuckFinal.png)\n\n### R\u0103\u021busca\n\n\u201eR\u0103\u021bu\u0219ca\u201d este proiectul prin care intr\u0103m \u00een contact cu bobocii \u0219i \u00eei introducem \u00een via\u021ba de student al FMI. \u00cenc\u0103 din primele zile, voluntarii asocia\u021biei se integreaz\u0103 cu grupele nou formate, \u0219i \u00eei ghideaz\u0103 c\u0103tre primii pa\u0219i ai studen\u021biei.\n\n![](https://asmi.ro/images/Logo_Tre_Sa_Caut.png)\n\n### Tre\u2019 s\u0103 caut\n\n\u201eTre' s\u0103 caut\u201d este un treasure hunt care se desf\u0103\u0219oar\u0103 \u00een Bucure\u0219ti. Scopul este familiarizarea studen\u021bilor cu locuri importante din jurul zonei universit\u0103\u021bii, dar mai ales, scopul lui \u00eel reprezint\u0103 cunoa\u0219terea mai bun\u0103 a colegilor \u0219i formarea de leg\u0103turi noi cu ace\u0219tia.\n\n[![](https://asmi.ro/images/logo_raport_cdos.png)](https://drive.google.com/file/d/1pwDIlcFrw_NOgOtDSq8pvnbA6eF8vtVJ/view?usp=sharing)\n\n### Raport CDOS\n\nPrin chestionarul CDOS se urm\u0103re\u0219te nivelul de satisfac\u021bie al studen\u021bilor cu privire la condi\u021biile oferite de facultate, c\u00e2t \u0219i dac\u0103 le-au fost respectate drepturile sau nu.\n\n[\n\n### NOU! Sesiunea de Comunic\u0103ri Studen\u021be\u0219ti\n\n](https://asmi.ro/scss)\n\n\u201eSesiunea de Comunic\u0103ri \u0218tiin\u021bifice Studen\u021be\u0219ti\u201d reprezint\u0103 o oportunitate pentru studen\u021bii no\u0219tri de a-\u0219i prezenta cercet\u0103rile \u0219i proiectele \u00een fa\u021ba comunit\u0103\u021bii academice. Prin acest eveniment, \u00eencuraj\u0103m dezvoltarea g\u00e2ndirii critice, a capacit\u0103\u021bii de cercetare \u0219i a abilit\u0103\u021bilor de comunicare \u00een domeniul academic.\n\n### Balul Bobocilor\n\nAcest eveniment este dedicat noilor studen\u021bi FMI. \u00cen cadrul acestuia au loc diverse probe prin care trec candida\u021bii pentru Miss \u0219i Mister FMI, iar \u00een urma acestora, sunt desemna\u021bi c\u00e2\u0219tig\u0103torii titlurilor.\n\n### Admitere\n\n\u00cen cadrul acestui proiect, voluntarii asocia\u021biei ajut\u0103 la buna desf\u0103\u0219urare a procesului de admitere, cre\u00e2nd un grup de Facebook \u00een care ei r\u0103spund la toate \u00eentreb\u0103rile candida\u021bilor, \u00eendrum\u00e2ndu-i c\u0103tre s\u0103lile de depunere a dosarelor \u0219i ajut\u00e2ndu-i s\u0103 completeze documentele necesare \u0219i multe altele.\n\n### Dialog Deschis\n\nAcest proiect este organizat la \u00eenceputul anului universitar, fiind adresat noilor studen\u021bi \u0219i const\u0103 \u00een discu\u021bii voluntari-boboci, pentru a le oferi informa\u021bii \u0219i a le r\u0103spunde la \u00eentreb\u0103ri.\n\n### Tutoriate\n\nSunt o oportunitate de practic\u0103 pentru studen\u021bii de ani mai mari, de a-i ajuta pe cei de anul I sau II pe parcursul semestrului prin lec\u021bii organizate fizic \u00een facultate. \u00cen cadrul acestora se lucreaz\u0103 exerci\u021bii pentru fixarea \u0219i \u00eensu\u0219irea no\u021biunilor studiate la curs, seminar sau laborator.\n\n### Meet ASMI\n\nAcest proiect se desf\u0103\u0219oar\u0103 imediat \u00eenainte de \u00eenceperea recrut\u0103rilor din toamn\u0103. El const\u0103 \u00eentr-o prezentare a asocia\u021biei, a departamentelor \u0219i a proiectelor sale \u0219i are rolul de a oferi studen\u021bilor o \u00een\u021belegerea mult mai bun\u0103 a asocia\u021biei c\u00e2t \u0219i s\u0103 \u00eei motiveze s\u0103 participe la procesul de recrutare pentru a deveni voluntari.\n\n### Recrut\u0103ri\n\nPentru a asigura continuitatea asocia\u021biei \u0219i bunul mers al proiectelor, sunt organizate 2 sesiuni de recrutare \u00een ASMI. Prima sesiune are loc \u00een luna octombrie, odat\u0103 cu venirea noilor studen\u021bi, iar cealalt\u0103 \u00een luna mai, pentru a le oferi ocazia de a se implica \u0219i celor care nu au avut \u0219ansa s\u0103 intre \u00een asocia\u021bie \u00een toamn\u0103.\n\n### Petreceri ASMI\n\nASMI organizeaz\u0103 o multitudine de petreceri pentru a le face via\u021ba studen\u021beasc\u0103 mai frumoas\u0103 \u0219i pentru a le oferi studen\u021bilor oportunitatea de a socializa \u0219i de a se distra. Printre acestea se num\u0103r\u0103 Bumtzi (prima petrecere din anul universitar) \u0219i FeMeI Party.",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "Proiecte - ASMI"
     },
     {
       "url": "https://hackathon.com/city/romania/bucharest",
       "crawl": {
         "loadedUrl": "https://www.hackathon.com/city/romania/bucharest",
-        "loadedTime": "2026-11-09T11:55:31.948Z",
+        "loadedTime": "2026-11-10T00:47:49.247Z",
         "referrerUrl": "https://hackathon.com/city/romania/bucharest",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342343,12 +342646,12 @@
           "content-type": "text/html; charset=utf-8",
           "cross-origin-opener-policy": "same-origin",
           "cross-origin-resource-policy": "same-origin",
-          "date": "Mon, 09 Nov 2026 11:55:31 GMT",
+          "date": "Tue, 10 Nov 2026 00:47:43 GMT",
           "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
           "origin-agent-cluster": "?1",
           "referrer-policy": "no-referrer",
-          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=kn6HDMEF08bYAWOt7nYKWk7%2FZ5EmbNUar0RxHTLTvqg%3D\\u0026sid=c4c9725f-1ab0-44d8-820f-430df2718e11\\u0026ts=1794225331\"}],\"max_age\":3600}",
-          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=kn6HDMEF08bYAWOt7nYKWk7%2FZ5EmbNUar0RxHTLTvqg%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1794225331\"",
+          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=49htgbcVhWfULbGQTi80%2Bl%2BGMGfXLGyvdscXpLgHKqg%3D\\u0026sid=c4c9725f-1ab0-44d8-820f-430df2718e11\\u0026ts=1794271663\"}],\"max_age\":3600}",
+          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=49htgbcVhWfULbGQTi80%2Bl%2BGMGfXLGyvdscXpLgHKqg%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1794271663\"",
           "server": "Heroku",
           "strict-transport-security": "max-age=63072000; preload",
           "vary": "Origin, Accept-Encoding",
@@ -342373,158 +342676,10 @@
       "title": "Find & Organize Hackathons in Bucharest, Romania"
     },
     {
-      "url": "https://asmi.ro/Departamente",
-      "crawl": {
-        "loadedUrl": "https://asmi.ro/Departamente",
-        "loadedTime": "2026-11-09T11:55:32.921Z",
-        "referrerUrl": "https://asmi.ro/",
-        "httpStatusCode": 200,
-        "depth": 1,
-        "contentLengthBytes": 32866,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://asmi.ro/Departamente",
-        "title": "Departamente - ASMI",
-        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "content-encoding": "gzip",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:32 GMT",
-          "server": "nginx/1.28.3 (Ubuntu)"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "Departamente - ASMI\nDesign & PR\nDac\u0103 am putea descrie acest departament \u00een dou\u0103 cuvinte acelea sigur ar fi \"Imaginea Asocia\u021biei\". Imagineaz\u0103-\u021bi pentru c\u00e2teva secunde cum ar ar\u0103ta un proiect f\u0103r\u0103 afi\u0219e, post\u0103ri pe Facebook sau pe Instagram. Fie c\u0103 este vorba de Recrut\u0103ri sau Petreceri, f\u0103r\u0103 o promovare ca la carte, lumea nu ar fi atras\u0103 de evenimentele noastre iar informa\u021bia ar ajunge la mult mai pu\u021bini oameni. De aceea, avem nevoie de mult ajutor din partea acestui departament pentru a transmite informa\u021bia \u00eentr-un mod c\u00e2t mai pl\u0103cut \u0219i mai atr\u0103g\u0103tor.\nTe consideri creativ \u0219i mereu \u021bi-ai dorit s\u0103 \u00eenve\u021bi concepte de baz\u0103 \u00een editare grafic\u0103? Sau deja te pricepi la programe de editare foto/video? Ai talent la desen, pasiune pentru fotografie sau pur \u0219i simplu \u00ee\u021bi dore\u0219ti s\u0103 \u00eenve\u021bi tot ce \u021bi-am enumerat? \u00censeamn\u0103 c\u0103 ai nimerit unde trebuie! La Design & PR \u00ee\u021bi po\u021bi dezvolta hard skillurile \u0219i po\u021bi s\u0103 aju\u021bi la toate proiectele Asocia\u021biei!\nMicah Iordache Director de departament\nAmelia Roibu Director de departament\nEduca\u021bional\nDepartamentul Educa\u021bional se ocup\u0103 direct de \u00eentreaga interac\u021biune at\u00e2t cu studen\u021bii facult\u0103\u021bii noastre, c\u00e2t \u0219i cu elevi care \u0219i-ar dori s\u0103 urmeze FMI. Noi coordon\u0103m voluntarii din \u00eentreaga Asocia\u021bie \u00een gestionarea proiectelor precum: R\u0103\u021bu\u0219ca, Admiterea, Caravana Educa\u021bional\u0103, Ziua Por\u021bilor Deschise. Cu ajutorul acestora reu\u0219im s\u0103 motiv\u0103m \u0219i s\u0103 oferim ajutor constant studen\u021bilor pentru a le crea o experien\u021b\u0103 de neuitat \u00eentr-una din cele mai semnificative perioade a vie\u021bii lor.\nMembrii departamentului dezvolt\u0103 abilit\u0103\u0163i de public speaking, project management, teamwork \u015fi leadership pe care le pot folosi \u00een proiectele Asocia\u0163iei \u0219i nu numai.\n\u00cen c\u00e2teva cuvinte, Edu este cu \u015fi pentru studen\u0163i!\nDac\u0103 \u015fi tu vrei s\u0103 \u00ee\u0163i aju\u0163i colegii \u015fi s\u0103 \u00eencerci s\u0103 faci anii petrecu\u0163i \u00een facultate mai buni, hai \u00een echipa Edu!\nHuman Resources\nNoi suntem, pe scurt, \u201einima Asocia\u021biei\u201d ! Ne ocup\u0103m de integrarea bobocilor ce ni se al\u0103tur\u0103 \u00een fiecare toamn\u0103 \u0219i prim\u0103var\u0103, astfel \u00eenc\u00e2t ace\u0219tia s\u0103 ajung\u0103 s\u0103 se simt\u0103 cu adev\u0103rat parte din familia noastr\u0103. De asemenea, asigur\u0103m dezvoltarea \u0219i motivarea constant\u0103 a voluntarilor no\u0219tri prin organizarea activit\u0103\u021bilor de socializare.\nPe l\u00e2ng\u0103 procesul de recrutare, proiecte precum Marea Ie\u0219eal\u0103, Tre' s\u0103 Caut, chiar \u0219i Petrecerile, sunt organizate de voluntarii acestui departament. A\u0219a c\u0103, dac\u0103 e\u0219ti o persoan\u0103 empatic\u0103, altruist\u0103, \u00ee\u021bi place s\u0103 aju\u021bi, s\u0103 comunici cu oamenii \u0219i s\u0103 organizezi activit\u0103\u021bi, departamentul Human Resources te a\u0219teapt\u0103 cu bra\u021bele deschise!\nM\u0103d\u0103lina Moraru Director de departament\nMarius Manea Director de departament\nManagement & Fundraising\nPentru ca un proiect s\u0103 decurg\u0103 cum ne dorim este nevoie de munc\u0103, dedicare \u0219i comunicare, \u00eens\u0103 pentru a crea ceva memorabil este nevoie de un element special, ceva s\u0103 uneasc\u0103 efortul comun \u0219i s\u0103 ne dea aripi viselor. Aici intervin sponsorii no\u0219trii care ne sus\u021bin \u00een \u00eencercarea de a-i ajuta pe studen\u021bi. Noi suntem reprezentan\u021bii externi fiind primii cu care iau leg\u0103tura firmele atunci c\u00e2nd ne ofer\u0103 sprijinul lor. De asemenea noi oferim o voce oamenilor dornici s\u0103 spun\u0103 ce le-a pl\u0103cut \u00een cadrul evenimentelor, dar \u0219i ce trebuie \u00eembun\u0103t\u0103\u021bit, astfel \u00eenc\u00e2t edi\u021biile urm\u0103toare s\u0103 fie din ce \u00een ce mai bune. \u00cen cadrul departamentului vei \u00eenv\u0103\u021ba ce \u00eenseamn\u0103 s\u0103 organizezi un proiect, cum s\u0103 discu\u021bi \u0219i s\u0103 negociezi cu firme mari din domeniul IT \u0219i nu numai, dar \u0219i ce \u00eenseamn\u0103 munca \u00een echipa, gestionarea resurselor \u0219i distrac\u021bia al\u0103turi de colegi. Dac\u0103 te intereseaz\u0103 leg\u0103tura dintre Asocia\u021bie \u0219i companiile partenere \u0219i \u00ee\u021bi dore\u0219ti s\u0103 consolidezi mai departe aceste rela\u021bii, dar \u0219i s\u0103 creezi unele noi, atunci Management & Fundraising te a\u0219teapt\u0103!",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# Departamente - ASMI\n\n### Design & PR\n\nDac\u0103 am putea descrie acest departament \u00een dou\u0103 cuvinte acelea sigur ar fi \"Imaginea Asocia\u021biei\". Imagineaz\u0103-\u021bi pentru c\u00e2teva secunde cum ar ar\u0103ta un proiect f\u0103r\u0103 afi\u0219e, post\u0103ri pe Facebook sau pe Instagram. Fie c\u0103 este vorba de Recrut\u0103ri sau Petreceri, f\u0103r\u0103 o promovare ca la carte, lumea nu ar fi atras\u0103 de evenimentele noastre iar informa\u021bia ar ajunge la mult mai pu\u021bini oameni. De aceea, avem nevoie de mult ajutor din partea acestui departament pentru a transmite informa\u021bia \u00eentr-un mod c\u00e2t mai pl\u0103cut \u0219i mai atr\u0103g\u0103tor.\n\nTe consideri creativ \u0219i mereu \u021bi-ai dorit s\u0103 \u00eenve\u021bi concepte de baz\u0103 \u00een editare grafic\u0103? Sau deja te pricepi la programe de editare foto/video? Ai talent la desen, pasiune pentru fotografie sau pur \u0219i simplu \u00ee\u021bi dore\u0219ti s\u0103 \u00eenve\u021bi tot ce \u021bi-am enumerat? \u00censeamn\u0103 c\u0103 ai nimerit unde trebuie! La Design & PR \u00ee\u021bi po\u021bi dezvolta hard skillurile \u0219i po\u021bi s\u0103 aju\u021bi la toate proiectele Asocia\u021biei!\n\n![](https://asmi.ro/images/cd/MicahIordache.webp) Micah Iordache Director de departament\n\n![gal-item](https://asmi.ro/images/design/1-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/2-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/3-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/4-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/5-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/6-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/7-design.jpg)\n\n![gal-item](https://asmi.ro/images/design/8-DESIGN.jpg)\n\n![](https://asmi.ro/images/cd/AmeliaRoibu.webp) Amelia Roibu Director de departament\n\n### Educa\u021bional\n\nDepartamentul Educa\u021bional se ocup\u0103 direct de \u00eentreaga interac\u021biune at\u00e2t cu studen\u021bii facult\u0103\u021bii noastre, c\u00e2t \u0219i cu elevi care \u0219i-ar dori s\u0103 urmeze FMI. Noi coordon\u0103m voluntarii din \u00eentreaga Asocia\u021bie \u00een gestionarea proiectelor precum: R\u0103\u021bu\u0219ca, Admiterea, Caravana Educa\u021bional\u0103, Ziua Por\u021bilor Deschise. Cu ajutorul acestora reu\u0219im s\u0103 motiv\u0103m \u0219i s\u0103 oferim ajutor constant studen\u021bilor pentru a le crea o experien\u021b\u0103 de neuitat \u00eentr-una din cele mai semnificative perioade a vie\u021bii lor.\n\nMembrii departamentului dezvolt\u0103 abilit\u0103\u0163i de public speaking, project management, teamwork \u015fi leadership pe care le pot folosi \u00een proiectele Asocia\u0163iei \u0219i nu numai.\n\n\u00cen c\u00e2teva cuvinte, Edu este cu \u015fi pentru studen\u0163i!\n\nDac\u0103 \u015fi tu vrei s\u0103 \u00ee\u0163i aju\u0163i colegii \u015fi s\u0103 \u00eencerci s\u0103 faci anii petrecu\u0163i \u00een facultate mai buni, hai \u00een echipa Edu!\n\n![gal-item](https://asmi.ro/images/edu/1-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/2-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/3-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/4-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/5-EDU.jpg)\n\n### Human Resources\n\nNoi suntem, pe scurt, \u201einima Asocia\u021biei\u201d ! Ne ocup\u0103m de integrarea bobocilor ce ni se al\u0103tur\u0103 \u00een fiecare toamn\u0103 \u0219i prim\u0103var\u0103, astfel \u00eenc\u00e2t ace\u0219tia s\u0103 ajung\u0103 s\u0103 se simt\u0103 cu adev\u0103rat parte din familia noastr\u0103. De asemenea, asigur\u0103m dezvoltarea \u0219i motivarea constant\u0103 a voluntarilor no\u0219tri prin organizarea activit\u0103\u021bilor de socializare.\n\nPe l\u00e2ng\u0103 procesul de recrutare, proiecte precum Marea Ie\u0219eal\u0103, Tre' s\u0103 Caut, chiar \u0219i Petrecerile, sunt organizate de voluntarii acestui departament. A\u0219a c\u0103, dac\u0103 e\u0219ti o persoan\u0103 empatic\u0103, altruist\u0103, \u00ee\u021bi place s\u0103 aju\u021bi, s\u0103 comunici cu oamenii \u0219i s\u0103 organizezi activit\u0103\u021bi, departamentul Human Resources te a\u0219teapt\u0103 cu bra\u021bele deschise!\n\n![](https://asmi.ro/images/cd/Madalina.webp) M\u0103d\u0103lina Moraru Director de departament\n\n![gal-item](https://asmi.ro/images/hr/HR-1.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-2.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-3.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-4.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-5.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-6.jpg)\n\n![](https://asmi.ro/images/cd/MariusManea.webp) Marius Manea Director de departament\n\n### Management & Fundraising\n\nPentru ca un proiect s\u0103 decurg\u0103 cum ne dorim este nevoie de munc\u0103, dedicare \u0219i comunicare, \u00eens\u0103 pentru a crea ceva memorabil este nevoie de un element special, ceva s\u0103 uneasc\u0103 efortul comun \u0219i s\u0103 ne dea aripi viselor. Aici intervin sponsorii no\u0219trii care ne sus\u021bin \u00een \u00eencercarea de a-i ajuta pe studen\u021bi. Noi suntem reprezentan\u021bii externi fiind primii cu care iau leg\u0103tura firmele atunci c\u00e2nd ne ofer\u0103 sprijinul lor. De asemenea noi oferim o voce oamenilor dornici s\u0103 spun\u0103 ce le-a pl\u0103cut \u00een cadrul evenimentelor, dar \u0219i ce trebuie \u00eembun\u0103t\u0103\u021bit, astfel \u00eenc\u00e2t edi\u021biile urm\u0103toare s\u0103 fie din ce \u00een ce mai bune. \u00cen cadrul departamentului vei \u00eenv\u0103\u021ba ce \u00eenseamn\u0103 s\u0103 organizezi un proiect, cum s\u0103 discu\u021bi \u0219i s\u0103 negociezi cu firme mari din domeniul IT \u0219i nu numai, dar \u0219i ce \u00eenseamn\u0103 munca \u00een echipa, gestionarea resurselor \u0219i distrac\u021bia al\u0103turi de colegi. Dac\u0103 te intereseaz\u0103 leg\u0103tura dintre Asocia\u021bie \u0219i companiile partenere \u0219i \u00ee\u021bi dore\u0219ti s\u0103 consolidezi mai departe aceste rela\u021bii, dar \u0219i s\u0103 creezi unele noi, atunci Management & Fundraising te a\u0219teapt\u0103!\n\n![gal-item](https://asmi.ro/images/mf/1-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/2-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/3-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/4-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/5-MF.jpg)",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "Departamente - ASMI"
-    },
-    {
-      "url": "https://asmi.ro/Studenti",
-      "crawl": {
-        "loadedUrl": "https://asmi.ro/Studenti",
-        "loadedTime": "2026-11-09T11:55:33.755Z",
-        "referrerUrl": "https://asmi.ro/",
-        "httpStatusCode": 200,
-        "depth": 1,
-        "contentLengthBytes": 36275,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://asmi.ro/Studenti",
-        "title": "Studenti - ASMI",
-        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "content-encoding": "gzip",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:33 GMT",
-          "server": "nginx/1.28.3 (Ubuntu)"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "Studenti - ASMI\nPREZENT\u0102RI EDUCA\u021aIONALE \nMETODE DE EVALUARE SEMESTRUL II 2025-2026 \nGHIDUL BOBOCULUI \nORARUL TUTORIATELOR \nSTRUCTURA ANULUI UNIVERSITAR\nSem I\nPerioad\u0103\tActivitate\t\n01.10.2026-23.12.2026\tActivitate didactic\u0103 (30 11.2026 Sf\u00e2ntul Andrei, 01.12.2026 Ziua Na\u021bional\u0103 a Rom\u00e2niei -zi liber\u0103) \t\n24.12.2026-10.01.2027 \tVacan\u021ba de iarn\u0103 \t\n11.01.2027 - 24.01.2027 \tActivitate didactic\u0103 (24.01.2027, Ziua Unirii Principatelor Rom\u00e2ne - zi liber\u0103) \t\n25.01.2027 - 14.02.2027 \tSesiune de examene, sem. I \t\n15.02.2027 - 21.02.2027 \tVacan\u021b\u0103 intersemestrial\u0103 \t\nSem II (anii neterminali)\nPerioad\u0103\tActivitate\t\n22.02.2027 - 30.04.2027 \tActivitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) \t\n01.05.2027 - 09.05.2027 \tVacan\u0163\u0103 de Pa\u015fte \t\n10.05.2027 - 06.06.2027 \tActivitate didactic\u0103 (01.06.2027, Ziua Copilului - zi liber\u0103) \t\n07.06.2027 - 27.06.2027 \tSesiune de examene, sem. II (20 \u0219i 21.06.2027, Rusaliile \u2013 zile libere) \t\n01.09.2027 - 05.09.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri de note sem. I \t\n06.09.2027 - 10.09.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri de note sem. II \t\nSem. II (anii terminali)\nPerioad\u0103\tActivitate\t\n22.02.2027 - 30.04.2027 \tActivitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) \t\n01.05.2027 - 09.05.2027 \tVacan\u0163\u0103 de Pa\u015fte \t\n10.05 \u2013 23.05.2027 \tElaborarea lucr\u0103rii de licen\u021b\u0103/ Cercetarea \u0219i elaborarea lucr\u0103rii de diserta\u021bie \t\n24.05 -13.06.2027 \tSesiune de examene, sem. II \t\n14.06-20.06.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri, sem I \t\n21.06-27.06.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri, sem II \t\n02.07.2027 - 04.07.2027 \tSus\u021binere licen\u0163\u0103 \u0219i diserta\u0163ie \t\n11-12.09.2027 \tSus\u021binere licen\u021b\u0103 \u0219i diserta\u021bie \t\nH\u0102R\u021aI ALE PB TOWER \nLa sf\u00e2r\u0219itul fiec\u0103rui an universitar, ASMI \u00eentocme\u0219te Formularul Codului Drepturilor \u0219i Obliga\u021biilor Studentului cu scopul \u00eembun\u0103t\u0103\u021birii vie\u021bii studen\u021be\u0219ti la FMI. Rezultatele colectate \u00een urma r\u0103spunsurilor vor fi prezentate, sub forma unui raport, \u00een cadrul structurilor de conducere ale Facult\u0103\u021bii \u0219i Universit\u0103\u021bii. \nUnul dintre scopurile ASMI este monitorizarea, dezvoltarea \u0219i \u00eembun\u0103t\u0103\u021birea vie\u021bii studen\u021be\u0219ti. Dac\u0103 ai vreo problem\u0103 pe care vrei s\u0103 o comunici \u0219i nu \u0219ti cui, am conceput pentru tine un \"Buton de panic\u0103\" prin care po\u021bi s\u0103 ne sesizezi oric\u00e2nd referitor la mediul stden\u021besc FMI. \nTe rug\u0103m completeaz\u0103 formularul de mai jos, iar noi vom lua leg\u0103tura cu tine \u00een cel mai scurt timp posibil:",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# Studenti - ASMI\n\n##### PREZENT\u0102RI EDUCA\u021aIONALE\n\n##### METODE DE EVALUARE SEMESTRUL II 2025-2026\n\n##### GHIDUL BOBOCULUI\n\n##### ORARUL TUTORIATELOR\n\n### STRUCTURA ANULUI UNIVERSITAR\n\n### Sem I\n\n| Perioad\u0103 | Activitate |\n| --- | --- |\n| 01.10.2026-23.12.2026 | Activitate didactic\u0103 (30 11.2026 Sf\u00e2ntul Andrei, 01.12.2026 Ziua Na\u021bional\u0103 a Rom\u00e2niei -zi liber\u0103) |\n| 24.12.2026-10.01.2027 | Vacan\u021ba de iarn\u0103 |\n| 11.01.2027 - 24.01.2027 | Activitate didactic\u0103 (24.01.2027, Ziua Unirii Principatelor Rom\u00e2ne - zi liber\u0103) |\n| 25.01.2027 - 14.02.2027 | Sesiune de examene, sem. I |\n| 15.02.2027 - 21.02.2027 | Vacan\u021b\u0103 intersemestrial\u0103 |\n\n### Sem II (anii neterminali)\n\n| Perioad\u0103 | Activitate |\n| --- | --- |\n| 22.02.2027 - 30.04.2027 | Activitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) |\n| 01.05.2027 - 09.05.2027 | Vacan\u0163\u0103 de Pa\u015fte |\n| 10.05.2027 - 06.06.2027 | Activitate didactic\u0103 (01.06.2027, Ziua Copilului - zi liber\u0103) |\n| 07.06.2027 - 27.06.2027 | Sesiune de examene, sem. II (20 \u0219i 21.06.2027, Rusaliile \u2013 zile libere) |\n| 01.09.2027 - 05.09.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri de note sem. I |\n| 06.09.2027 - 10.09.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri de note sem. II |\n\n### Sem. II (anii terminali)\n\n| Perioad\u0103 | Activitate |\n| --- | --- |\n| 22.02.2027 - 30.04.2027 | Activitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) |\n| 01.05.2027 - 09.05.2027 | Vacan\u0163\u0103 de Pa\u015fte |\n| 10.05 \u2013 23.05.2027 | Elaborarea lucr\u0103rii de licen\u021b\u0103/ Cercetarea \u0219i elaborarea lucr\u0103rii de diserta\u021bie |\n| 24.05 -13.06.2027 | Sesiune de examene, sem. II |\n| 14.06-20.06.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri, sem I |\n| 21.06-27.06.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri, sem II |\n| 02.07.2027 - 04.07.2027 | Sus\u021binere licen\u0163\u0103 \u0219i diserta\u0163ie |\n| 11-12.09.2027 | Sus\u021binere licen\u021b\u0103 \u0219i diserta\u021bie |\n\n##### H\u0102R\u021aI ALE PB TOWER\n\nLa sf\u00e2r\u0219itul fiec\u0103rui an universitar, ASMI \u00eentocme\u0219te **Formularul Codului Drepturilor \u0219i Obliga\u021biilor Studentului** cu scopul \u00eembun\u0103t\u0103\u021birii vie\u021bii studen\u021be\u0219ti la FMI. Rezultatele colectate \u00een urma r\u0103spunsurilor vor fi prezentate, sub forma unui raport, \u00een cadrul structurilor de conducere ale Facult\u0103\u021bii \u0219i Universit\u0103\u021bii.  \n\nUnul dintre scopurile ASMI este monitorizarea, dezvoltarea \u0219i \u00eembun\u0103t\u0103\u021birea vie\u021bii studen\u021be\u0219ti. Dac\u0103 ai vreo problem\u0103 pe care vrei s\u0103 o comunici \u0219i nu \u0219ti cui, am conceput pentru tine un **\"Buton de panic\u0103\"** prin care po\u021bi s\u0103 ne sesizezi oric\u00e2nd referitor la mediul stden\u021besc FMI.\n\nTe rug\u0103m completeaz\u0103 formularul de mai jos, iar noi vom lua leg\u0103tura cu tine \u00een cel mai scurt timp posibil:",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "Studenti - ASMI"
-    },
-    {
-      "url": "https://asmi.ro/Elevi",
-      "crawl": {
-        "loadedUrl": "https://asmi.ro/Elevi",
-        "loadedTime": "2026-11-09T11:55:34.674Z",
-        "referrerUrl": "https://asmi.ro/",
-        "httpStatusCode": 200,
-        "depth": 1,
-        "contentLengthBytes": 14814,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://asmi.ro/Elevi",
-        "title": "Elevi - ASMI",
-        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "content-encoding": "gzip",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:34 GMT",
-          "server": "nginx/1.28.3 (Ubuntu)"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "Elevi - ASMI\nCaravana Edu\nData evenimentului: 09/03/2025 - 13/03/2025\nE\u0219ti elev de liceu \u0219i nu \u0219tii c\u0103tre ce facultate s\u0103 te \u00eendrep\u021bi? Ei bine, voluntarii ASMI te ajut\u0103 s\u0103 descoperi Facultatea de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti!\nZiua Por\u021bilor Deschise\nData evenimentului: 18/04/2026 - 19/04/2026\nDac\u0103 vrei s\u0103 vezi cu ochii t\u0103i facultatea \u00een care \u00ee\u021bi po\u021bi petrece anii studen\u021biei, te invit\u0103m s\u0103 participi la tururile ghidate, cursurile demonstrative \u0219i prezent\u0103rile ofertei educa\u021bionale din cadrul Zilei Por\u021bilor Deschise. \u00cen tot acest timp, voluntarii ASMI \u0219i profesorii Facult\u0103\u021bii vor fi al\u0103turi de tine pentru a-\u021bi r\u0103spunde la \u00eentreb\u0103ri \u0219i curiozit\u0103\u021bi.\nHello FMI\nData evenimentului: 25/09/2025 - 05/10/2025\n\u201dHello FMI\u201d este o serie de evenimente sociale \u0219i academice organizate de ASMI cu scopul ca noii studen\u021bi s\u0103 se acomodeze c\u00e2t mai repede cu Facultatea \u0219i cu colegii lor. Printre acestea se num\u0103r\u0103 Marea Ie\u0219eal\u0103(serie de jocuri de cunoa\u0219tere prin care s\u0103-\u021bi cuno\u0219ti colegii), Tre' s\u0103 caut (treasure hunt \u00een Bucure\u0219ti), Bumtzi(petrecere de \u00eenceput de an) \u0219i Dialog Deschis(prezentare a celor mai importante aspecte din via\u021ba de student \u0219i sesiune de Q&A cu voluntarii ASMI).\n\u201eR\u0103\u021bu\u0219ca\u201d este proiectul prin care intr\u0103m \u00een contact cu bobocii \u0219i \u00eei introducem \u00een via\u021ba de student al FMI. \u00cenc\u0103 din primele zile, voluntarii asocia\u021biei se integreaz\u0103 cu grupele nou formate, \u0219i \u00eei ghideaz\u0103 c\u0103tre primii pa\u0219i ai studen\u021biei.",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# Elevi - ASMI\n\n[![Logo for Caravana Edu](https://asmi.ro/images/CaravanaEducationala2.png)](https://caravana.asmi.ro/)\n\n## Caravana Edu\n\nData evenimentului: 09/03/2025 - 13/03/2025\n\nE\u0219ti elev de liceu \u0219i nu \u0219tii c\u0103tre ce facultate s\u0103 te \u00eendrep\u021bi? Ei bine, voluntarii ASMI te ajut\u0103 s\u0103 descoperi Facultatea de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti!\n\n[![Logo for Ziua Por\u021bilor Deschise](https://asmi.ro/images/zpd.png)](https://asmi.ro/zpd)\n\n## Ziua Por\u021bilor Deschise\n\nData evenimentului: 18/04/2026 - 19/04/2026\n\nDac\u0103 vrei s\u0103 vezi cu ochii t\u0103i facultatea \u00een care \u00ee\u021bi po\u021bi petrece anii studen\u021biei, te invit\u0103m s\u0103 participi la tururile ghidate, cursurile demonstrative \u0219i prezent\u0103rile ofertei educa\u021bionale din cadrul Zilei Por\u021bilor Deschise. \u00cen tot acest timp, voluntarii ASMI \u0219i profesorii Facult\u0103\u021bii vor fi al\u0103turi de tine pentru a-\u021bi r\u0103spunde la \u00eentreb\u0103ri \u0219i curiozit\u0103\u021bi.\n\n![Logo for Hello FMI](https://asmi.ro/images/hellofmi.png)\n\n## Hello FMI\n\nData evenimentului: 25/09/2025 - 05/10/2025\n\n\u201dHello FMI\u201d este o serie de evenimente sociale \u0219i academice organizate de ASMI cu scopul ca noii studen\u021bi s\u0103 se acomodeze c\u00e2t mai repede cu Facultatea \u0219i cu colegii lor. Printre acestea se num\u0103r\u0103 Marea Ie\u0219eal\u0103(serie de jocuri de cunoa\u0219tere prin care s\u0103-\u021bi cuno\u0219ti colegii), Tre' s\u0103 caut (treasure hunt \u00een Bucure\u0219ti), Bumtzi(petrecere de \u00eenceput de an) \u0219i Dialog Deschis(prezentare a celor mai importante aspecte din via\u021ba de student \u0219i sesiune de Q&A cu voluntarii ASMI).\n\n![Logo for R\u0103\u021bu\u0219ca](https://asmi.ro/images/LogoDuckFinal.png)\n\n\u201eR\u0103\u021bu\u0219ca\u201d este proiectul prin care intr\u0103m \u00een contact cu bobocii \u0219i \u00eei introducem \u00een via\u021ba de student al FMI. \u00cenc\u0103 din primele zile, voluntarii asocia\u021biei se integreaz\u0103 cu grupele nou formate, \u0219i \u00eei ghideaz\u0103 c\u0103tre primii pa\u0219i ai studen\u021biei.",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "Elevi - ASMI"
-    },
-    {
-      "url": "https://asmi.ro/Proiecte",
-      "crawl": {
-        "loadedUrl": "https://asmi.ro/Proiecte",
-        "loadedTime": "2026-11-09T11:55:35.581Z",
-        "referrerUrl": "https://asmi.ro/",
-        "httpStatusCode": 200,
-        "depth": 1,
-        "contentLengthBytes": 21957,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://asmi.ro/Proiecte",
-        "title": "Proiecte - ASMI",
-        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "content-encoding": "gzip",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:35 GMT",
-          "server": "nginx/1.28.3 (Ubuntu)"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "Proiecte - ASMI\nMunca noastr\u0103 este prezentarea aptitudinilor noastre. \nArt\u0103\u2019n Dar\n\u201eArt\u0103'n Dar\u201d este un eveniment care promoveaz\u0103 cultura \u0219i arta \u00een r\u00e2ndul studen\u021bilor \u0219i, \u00een acela\u0219i timp, urm\u0103re\u0219te scopul de a \u00eemp\u0103r\u021bi bucurie \u0219i cadouri oamenilor care au cea mai mare nevoie. \nCariere\n\u201eCariere\u201d este un t\u00e2rg de joburi \u0219i internship-uri care ofer\u0103 un sprijin \u00een dezvoltarea pe plan profesional a studen\u021bilor, realiz\u00e2nd o leg\u0103tur\u0103 \u00eentre ace\u0219tia \u0219i o parte dintre cele mai cunoscute companii de pe pia\u021ba IT din Rom\u00e2nia. \nSMARTHACK\n\u201eSmarthack\u201d este un hackathon de 24 de ore \u00een care mai multe echipe formate din c\u00e2te 3-4 studen\u0163i, lucreaz\u0103 la dezvoltarea unui produs software pe baza unei teme, care se finalizeaz\u0103 cu jurizarea \u015fi premierea celor mai bune echipe de c\u0103tre cele mai mari firme din IT din Rom\u00e2nia. \nCARAVANA EDUCA\u021aIONAL\u0102\nE\u0219ti elev de liceu \u0219i nu \u0219tii c\u0103tre ce facultate s\u0103 te \u00eendrep\u021bi? Ei bine, voluntarii ASMI te ajut\u0103 s\u0103 descoperi Facultatea de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti! \nPRACTICA\n\u201ePractica\u201d este proiectul care vine \u00een ajutorul studen\u021bilor din an terminal, cu scopul de a \u00ee\u0219i echivala orele de practic\u0103 necesare ob\u021binerii diplomei de licen\u021b\u0103. \nZilele ASMI\nAcest eveniment este organizat pentru s\u0103rb\u0103torirea zilei \u00eenfiin\u021b\u0103rii asocia\u021biei. Este dedicat tuturor studen\u021bilor FMI care vor s\u0103 \u00ee\u0219i fac\u0103 prieteni noi, s\u0103 participe la competi\u021bii sportive, seri de boardgames, seri de teatru, campionate de CS/LOL etc. \nMarea Ie\u0219eal\u0103\n\u201eMarea Ie\u0219eal\u0103\u201d este unul dintre primele proiecte ale asocia\u021biei cu care te \u00eent\u00e2lne\u0219ti ca boboc la Facultatea de Matematic\u0103 \u0219i Informatic\u0103. \nR\u0103\u021busca\n\u201eR\u0103\u021bu\u0219ca\u201d este proiectul prin care intr\u0103m \u00een contact cu bobocii \u0219i \u00eei introducem \u00een via\u021ba de student al FMI. \u00cenc\u0103 din primele zile, voluntarii asocia\u021biei se integreaz\u0103 cu grupele nou formate, \u0219i \u00eei ghideaz\u0103 c\u0103tre primii pa\u0219i ai studen\u021biei. \nTre\u2019 s\u0103 caut\n\u201eTre' s\u0103 caut\u201d este un treasure hunt care se desf\u0103\u0219oar\u0103 \u00een Bucure\u0219ti. Scopul este familiarizarea studen\u021bilor cu locuri importante din jurul zonei universit\u0103\u021bii, dar mai ales, scopul lui \u00eel reprezint\u0103 cunoa\u0219terea mai bun\u0103 a colegilor \u0219i formarea de leg\u0103turi noi cu ace\u0219tia. \nRaport CDOS\nPrin chestionarul CDOS se urm\u0103re\u0219te nivelul de satisfac\u021bie al studen\u021bilor cu privire la condi\u021biile oferite de facultate, c\u00e2t \u0219i dac\u0103 le-au fost respectate drepturile sau nu. \nNOU! Sesiunea de Comunic\u0103ri Studen\u021be\u0219ti\n\u201eSesiunea de Comunic\u0103ri \u0218tiin\u021bifice Studen\u021be\u0219ti\u201d reprezint\u0103 o oportunitate pentru studen\u021bii no\u0219tri de a-\u0219i prezenta cercet\u0103rile \u0219i proiectele \u00een fa\u021ba comunit\u0103\u021bii academice. Prin acest eveniment, \u00eencuraj\u0103m dezvoltarea g\u00e2ndirii critice, a capacit\u0103\u021bii de cercetare \u0219i a abilit\u0103\u021bilor de comunicare \u00een domeniul academic. \nBalul Bobocilor\nAcest eveniment este dedicat noilor studen\u021bi FMI. \u00cen cadrul acestuia au loc diverse probe prin care trec candida\u021bii pentru Miss \u0219i Mister FMI, iar \u00een urma acestora, sunt desemna\u021bi c\u00e2\u0219tig\u0103torii titlurilor. \nAdmitere\n\u00cen cadrul acestui proiect, voluntarii asocia\u021biei ajut\u0103 la buna desf\u0103\u0219urare a procesului de admitere, cre\u00e2nd un grup de Facebook \u00een care ei r\u0103spund la toate \u00eentreb\u0103rile candida\u021bilor, \u00eendrum\u00e2ndu-i c\u0103tre s\u0103lile de depunere a dosarelor \u0219i ajut\u00e2ndu-i s\u0103 completeze documentele necesare \u0219i multe altele. \nDialog Deschis\nAcest proiect este organizat la \u00eenceputul anului universitar, fiind adresat noilor studen\u021bi \u0219i const\u0103 \u00een discu\u021bii voluntari-boboci, pentru a le oferi informa\u021bii \u0219i a le r\u0103spunde la \u00eentreb\u0103ri. \nTutoriate\nSunt o oportunitate de practic\u0103 pentru studen\u021bii de ani mai mari, de a-i ajuta pe cei de anul I sau II pe parcursul semestrului prin lec\u021bii organizate fizic \u00een facultate. \u00cen cadrul acestora se lucreaz\u0103 exerci\u021bii pentru fixarea \u0219i \u00eensu\u0219irea no\u021biunilor studiate la curs, seminar sau laborator. \nMeet ASMI\nAcest proiect se desf\u0103\u0219oar\u0103 imediat \u00eenainte de \u00eenceperea recrut\u0103rilor din toamn\u0103. El const\u0103 \u00eentr-o prezentare a asocia\u021biei, a departamentelor \u0219i a proiectelor sale \u0219i are rolul de a oferi studen\u021bilor o \u00een\u021belegerea mult mai bun\u0103 a asocia\u021biei c\u00e2t \u0219i s\u0103 \u00eei motiveze s\u0103 participe la procesul de recrutare pentru a deveni voluntari. \nRecrut\u0103ri\nPentru a asigura continuitatea asocia\u021biei \u0219i bunul mers al proiectelor, sunt organizate 2 sesiuni de recrutare \u00een ASMI. Prima sesiune are loc \u00een luna octombrie, odat\u0103 cu venirea noilor studen\u021bi, iar cealalt\u0103 \u00een luna mai, pentru a le oferi ocazia de a se implica \u0219i celor care nu au avut \u0219ansa s\u0103 intre \u00een asocia\u021bie \u00een toamn\u0103. \nPetreceri ASMI\nASMI organizeaz\u0103 o multitudine de petreceri pentru a le face via\u021ba studen\u021beasc\u0103 mai frumoas\u0103 \u0219i pentru a le oferi studen\u021bilor oportunitatea de a socializa \u0219i de a se distra. Printre acestea se num\u0103r\u0103 Bumtzi (prima petrecere din anul universitar) \u0219i FeMeI Party.",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# Proiecte - ASMI\n\nMunca noastr\u0103 este prezentarea aptitudinilor noastre.\n\n![](https://asmi.ro/images/artandar-.png)\n\n### Art\u0103\u2019n Dar\n\n\u201eArt\u0103'n Dar\u201d este un eveniment care promoveaz\u0103 cultura \u0219i arta \u00een r\u00e2ndul studen\u021bilor \u0219i, \u00een acela\u0219i timp, urm\u0103re\u0219te scopul de a \u00eemp\u0103r\u021bi bucurie \u0219i cadouri oamenilor care au cea mai mare nevoie.\n\n[![](https://asmi.ro/images/cariere.png)](https://cariere.asmi.ro/)\n\n### Cariere\n\n\u201eCariere\u201d este un t\u00e2rg de joburi \u0219i internship-uri care ofer\u0103 un sprijin \u00een dezvoltarea pe plan profesional a studen\u021bilor, realiz\u00e2nd o leg\u0103tur\u0103 \u00eentre ace\u0219tia \u0219i o parte dintre cele mai cunoscute companii de pe pia\u021ba IT din Rom\u00e2nia.\n\n[![](https://asmi.ro/images/smarthack.png)](https://smarthack.asmi.ro/)\n\n### SMARTHACK\n\n\u201eSmarthack\u201d este un hackathon de 24 de ore \u00een care mai multe echipe formate din c\u00e2te 3-4 studen\u0163i, lucreaz\u0103 la dezvoltarea unui produs software pe baza unei teme, care se finalizeaz\u0103 cu jurizarea \u015fi premierea celor mai bune echipe de c\u0103tre cele mai mari firme din IT din Rom\u00e2nia.\n\n[![](https://asmi.ro/images/CaravanaEducationala.png)](https://caravana.asmi.ro/)\n\n### CARAVANA EDUCA\u021aIONAL\u0102\n\nE\u0219ti elev de liceu \u0219i nu \u0219tii c\u0103tre ce facultate s\u0103 te \u00eendrep\u021bi? Ei bine, voluntarii ASMI te ajut\u0103 s\u0103 descoperi Facultatea de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti!\n\n![](https://asmi.ro/images/Logo_practica.png)\n\n### PRACTICA\n\n\u201ePractica\u201d este proiectul care vine \u00een ajutorul studen\u021bilor din an terminal, cu scopul de a \u00ee\u0219i echivala orele de practic\u0103 necesare ob\u021binerii diplomei de licen\u021b\u0103.\n\n![](https://asmi.ro/images/logo-zile-1.png)\n\n### Zilele ASMI\n\nAcest eveniment este organizat pentru s\u0103rb\u0103torirea zilei \u00eenfiin\u021b\u0103rii asocia\u021biei. Este dedicat tuturor studen\u021bilor FMI care vor s\u0103 \u00ee\u0219i fac\u0103 prieteni noi, s\u0103 participe la competi\u021bii sportive, seri de boardgames, seri de teatru, campionate de CS/LOL etc.\n\n![](https://asmi.ro/images/logo-marea-ieseala.png)\n\n### Marea Ie\u0219eal\u0103\n\n\u201eMarea Ie\u0219eal\u0103\u201d este unul dintre primele proiecte ale asocia\u021biei cu care te \u00eent\u00e2lne\u0219ti ca boboc la Facultatea de Matematic\u0103 \u0219i Informatic\u0103.\n\n![](https://asmi.ro/images/LogoDuckFinal.png)\n\n### R\u0103\u021busca\n\n\u201eR\u0103\u021bu\u0219ca\u201d este proiectul prin care intr\u0103m \u00een contact cu bobocii \u0219i \u00eei introducem \u00een via\u021ba de student al FMI. \u00cenc\u0103 din primele zile, voluntarii asocia\u021biei se integreaz\u0103 cu grupele nou formate, \u0219i \u00eei ghideaz\u0103 c\u0103tre primii pa\u0219i ai studen\u021biei.\n\n![](https://asmi.ro/images/Logo_Tre_Sa_Caut.png)\n\n### Tre\u2019 s\u0103 caut\n\n\u201eTre' s\u0103 caut\u201d este un treasure hunt care se desf\u0103\u0219oar\u0103 \u00een Bucure\u0219ti. Scopul este familiarizarea studen\u021bilor cu locuri importante din jurul zonei universit\u0103\u021bii, dar mai ales, scopul lui \u00eel reprezint\u0103 cunoa\u0219terea mai bun\u0103 a colegilor \u0219i formarea de leg\u0103turi noi cu ace\u0219tia.\n\n[![](https://asmi.ro/images/logo_raport_cdos.png)](https://drive.google.com/file/d/1pwDIlcFrw_NOgOtDSq8pvnbA6eF8vtVJ/view?usp=sharing)\n\n### Raport CDOS\n\nPrin chestionarul CDOS se urm\u0103re\u0219te nivelul de satisfac\u021bie al studen\u021bilor cu privire la condi\u021biile oferite de facultate, c\u00e2t \u0219i dac\u0103 le-au fost respectate drepturile sau nu.\n\n[\n\n### NOU! Sesiunea de Comunic\u0103ri Studen\u021be\u0219ti\n\n](https://asmi.ro/scss)\n\n\u201eSesiunea de Comunic\u0103ri \u0218tiin\u021bifice Studen\u021be\u0219ti\u201d reprezint\u0103 o oportunitate pentru studen\u021bii no\u0219tri de a-\u0219i prezenta cercet\u0103rile \u0219i proiectele \u00een fa\u021ba comunit\u0103\u021bii academice. Prin acest eveniment, \u00eencuraj\u0103m dezvoltarea g\u00e2ndirii critice, a capacit\u0103\u021bii de cercetare \u0219i a abilit\u0103\u021bilor de comunicare \u00een domeniul academic.\n\n### Balul Bobocilor\n\nAcest eveniment este dedicat noilor studen\u021bi FMI. \u00cen cadrul acestuia au loc diverse probe prin care trec candida\u021bii pentru Miss \u0219i Mister FMI, iar \u00een urma acestora, sunt desemna\u021bi c\u00e2\u0219tig\u0103torii titlurilor.\n\n### Admitere\n\n\u00cen cadrul acestui proiect, voluntarii asocia\u021biei ajut\u0103 la buna desf\u0103\u0219urare a procesului de admitere, cre\u00e2nd un grup de Facebook \u00een care ei r\u0103spund la toate \u00eentreb\u0103rile candida\u021bilor, \u00eendrum\u00e2ndu-i c\u0103tre s\u0103lile de depunere a dosarelor \u0219i ajut\u00e2ndu-i s\u0103 completeze documentele necesare \u0219i multe altele.\n\n### Dialog Deschis\n\nAcest proiect este organizat la \u00eenceputul anului universitar, fiind adresat noilor studen\u021bi \u0219i const\u0103 \u00een discu\u021bii voluntari-boboci, pentru a le oferi informa\u021bii \u0219i a le r\u0103spunde la \u00eentreb\u0103ri.\n\n### Tutoriate\n\nSunt o oportunitate de practic\u0103 pentru studen\u021bii de ani mai mari, de a-i ajuta pe cei de anul I sau II pe parcursul semestrului prin lec\u021bii organizate fizic \u00een facultate. \u00cen cadrul acestora se lucreaz\u0103 exerci\u021bii pentru fixarea \u0219i \u00eensu\u0219irea no\u021biunilor studiate la curs, seminar sau laborator.\n\n### Meet ASMI\n\nAcest proiect se desf\u0103\u0219oar\u0103 imediat \u00eenainte de \u00eenceperea recrut\u0103rilor din toamn\u0103. El const\u0103 \u00eentr-o prezentare a asocia\u021biei, a departamentelor \u0219i a proiectelor sale \u0219i are rolul de a oferi studen\u021bilor o \u00een\u021belegerea mult mai bun\u0103 a asocia\u021biei c\u00e2t \u0219i s\u0103 \u00eei motiveze s\u0103 participe la procesul de recrutare pentru a deveni voluntari.\n\n### Recrut\u0103ri\n\nPentru a asigura continuitatea asocia\u021biei \u0219i bunul mers al proiectelor, sunt organizate 2 sesiuni de recrutare \u00een ASMI. Prima sesiune are loc \u00een luna octombrie, odat\u0103 cu venirea noilor studen\u021bi, iar cealalt\u0103 \u00een luna mai, pentru a le oferi ocazia de a se implica \u0219i celor care nu au avut \u0219ansa s\u0103 intre \u00een asocia\u021bie \u00een toamn\u0103.\n\n### Petreceri ASMI\n\nASMI organizeaz\u0103 o multitudine de petreceri pentru a le face via\u021ba studen\u021beasc\u0103 mai frumoas\u0103 \u0219i pentru a le oferi studen\u021bilor oportunitatea de a socializa \u0219i de a se distra. Printre acestea se num\u0103r\u0103 Bumtzi (prima petrecere din anul universitar) \u0219i FeMeI Party.",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "Proiecte - ASMI"
-    },
-    {
       "url": "https://asmi.ro/CalendarASMI",
       "crawl": {
         "loadedUrl": "https://asmi.ro/CalendarASMI",
-        "loadedTime": "2026-11-09T11:55:36.390Z",
+        "loadedTime": "2026-11-10T00:47:50.014Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342542,7 +342697,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:36 GMT",
+          "date": "Tue, 10 Nov 2026 00:47:49 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342561,7 +342716,7 @@
       "url": "https://asmi.ro/Galerie",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Galerie",
-        "loadedTime": "2026-11-09T11:55:37.341Z",
+        "loadedTime": "2026-11-10T00:47:50.211Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342579,7 +342734,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:37 GMT",
+          "date": "Tue, 10 Nov 2026 00:47:50 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342598,7 +342753,7 @@
       "url": "https://asmi.ro/ButonulRosu",
       "crawl": {
         "loadedUrl": "https://asmi.ro/ButonulRosu",
-        "loadedTime": "2026-11-09T11:55:38.157Z",
+        "loadedTime": "2026-11-10T00:47:50.807Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342616,7 +342771,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:38 GMT",
+          "date": "Tue, 10 Nov 2026 00:47:50 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342635,11 +342790,11 @@
       "url": "https://asmi.ro/bugs",
       "crawl": {
         "loadedUrl": "https://docs.google.com/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA/viewform",
-        "loadedTime": "2026-11-09T11:55:39.601Z",
+        "loadedTime": "2026-11-10T00:47:51.640Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
-        "contentLengthBytes": 104681,
+        "contentLengthBytes": 104792,
         "contentType": "text/html; charset=utf-8"
       },
       "metadata": {
@@ -342692,24 +342847,24 @@
           "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
           "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
           "content-encoding": "gzip",
-          "content-security-policy": "require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt, base-uri 'self';object-src 'none';report-uri https://csp.withgoogle.com/csp/forms/prod;script-src 'nonce-QcSdP8WrBwE_Io9l565Rdg' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval'",
+          "content-security-policy": "require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt, base-uri 'self';object-src 'none';report-uri https://csp.withgoogle.com/csp/forms/prod;script-src 'nonce-JRLe_CR6MX1xq_mxrrdo2w' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval'",
           "content-security-policy-report-only": "report-uri https://csp.withgoogle.com/csp/forms/prod;frame-ancestors 'none'",
           "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:39 GMT",
+          "date": "Tue, 10 Nov 2026 00:47:51 GMT",
           "document-policy": "include-js-call-stacks-in-crash-reports",
           "expires": "Mon, 01 Jan 1990 00:00:00 GMT",
           "p3p": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
           "pragma": "no-cache",
           "referrer-policy": "strict-origin-when-cross-origin",
-          "reporting-endpoints": "default=\"/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA/web-reports?bl=apps-forms.freebird_20261103.07_p5&app=27&clss=1&context=eJwV13dUFFYWBvBxmLkf0pQi0h0GUIognQEGS4amrhpLMjRBEQuKESxYsJfEEg1RYzDrWrFgWzW6bhKNMWpssaxmNWqKBQUJRQRkBgX22z9-571z73fun_e8Z7XUt0VhVOywNCqOWBsVe7obFV4ORsUlZ6NigZ9RERRsVGwMMSpmRBoV98cbFVXUNc-ocKVflxoV1aRbb1SkUkeZUWG31aiYdNuoKKaaZqOijYpbjIqPqWBwmmIh_SczTfGE3gT8peygIxcalaeo4clrZSs9H9KkrKO9YS3KI2SxvEVpTY3TWpVmUieYlLb0dKJJWUNL1pqUn1DHVbNSrpmV6bfNyvG0zqFNuYm8drUpe5M6o0NpS1aKTqUDVXp0KmspbX6nchxllXexyKPAS0qLcApaZmERQR6fWFj40obnFhZb6OGXetVT6npEr7KnMl2CaifN-jJBVUIf5g9UZVNvz0GqEFqdOkhVSuuHDFJ9QUEL31NF0Pr-BtUXVFFoUB2nEcUGlZECjxlU4fTylEHVSIfzk1Qn6VJRkuoG3T6bpPqVql8kqV5RaFSySkfe85JVYRRjSlENIOW0VJUVWTsOVjlSuctglR5DVIk0YvQOtZFmn96hXkhOr3eofakkbqd6BY1t3qmeSN807FGfp6mV5eqZtGj4PvUq-r5uv_omfdPrgPo8XUk_oL5N0YcPqJU1B9VWlDT0kHoYtQw7pG6nggeH1bNpyISj6lF0rrhGfZmWDqhVr6aPvq1VF9O5H2vVl-llWp26kc59Vae-TOlt1pJNMQdsZACt7mYrpXTqa1s5S4WnbGUe3TttK3-Q50tb8SNLZztxIcdLduJO57d3k6vUmeggSHIQt6MOoqURJx3ESBu_d5DddNzbUb6h0bmOkknJvzvJcHowrIc8obT5PWQcuS3oIVqatttZZtG635xlE9V49pTXtKWgp2yn3Z095SD18HYRTxqW5iJjacxRF8ki1RUXsSHdHlcZSA1r3aSVEkvd5W_0y2APeUC7LnpIBZXe85QywmEvaXjoJc104DcvOULPMnuJakkv6UotFhppo79DI3voeLpGvqH7-Rr56d8auUlNe7zlLX38xFs20Ji-WsmitH5aGUeGFK2kUs7HWplMmWu0MoGwUyvdqPGGVt7Q7JtamU-36b-kuqUVi9tasaQCKqKEDq0kkX2Cj7jSX7N9pInuzfeRR7RkgY-spEUlPrKcMhb6SA7N-MVH5tKdg77ylGZd95UVtPMzPzlGJ3_zkzM0xbe3FNJMY29ZQG4qf9HSD-IvV0js_MWODPb-kkrTqJDm7vaXJZR3318KqHeVv4SQpjJOQulnRby808SL4XC8DKWi4_FSTIEn4qUfLaLltObreNlAd4fr5RE9WKyXPyl1S4K8Tylr-ssIutB1gFynURcHiJFyLg6UyWT_n0HiSmdrBskluj3QII9pV4FBKshplkE86NQ8g5ylgSsMkkoJzomSRCENiRJNc4KT5J5DspxemiznaHV5spSSvjBFBtGa2SnyOUUfTpH-NOFBikwjzZMU8Sf3kFTxobmPU2UJRZQ-FR2tqn8m6yloVKVEULK5UoZT3JXnMoQObXohxymg4oWEkduhF6Kl-fUvZDENHVolo6nydJW8JP-bVRJKh_Oq5SQllFSLubxauuytlodnq-VPemqukRo6aP-XnKBFYX_JCqqf8pcsO10rayh6Up30px6_1okn_UNfL3updGqD2J9sEFeKzn4l_alz4ivBJDI2Spe0Rhl9vFGeXm6UKvrk90ZZT5X611JLMUdfi57ejmwSi1FN0n6sWdTHmyU2pEUGUAoNow8okyZQPhXRXFpCq0izkfX6FplBc2kRraJ1tIm20i7aTxvbWuRLCnzwRvrRZn2rbKUTF1vlW3L_qVV8aPTVVsmkqb-3ykzyfdYqfWlIZauMovv0J-2tbpUjpGtuFdsIk_Sg0VEmyaRyOkyGtyYZStPfmWQOXe4wyS3q22mSSGqhdnKxMIuGBtFgeqEySz3NUpulhPLELAVkY20WJ_qxu1muUamrWcrINMQsiqFmeVJklpeUtfSt5JHD-rfiQkFT30kEnT7xTs6Ra267eFPJtnZZStr97RJIVqfaxYFu3GmXO3Sws11OkLNFh3jRbvcOOUgppg4ZQfFHOsVADokKuFH-SgU-ol3NClRQP7MCMXRqdxecpdz2LlgTp8QG8l9ggVDat02Fo1SsE8w5IVhALk0CDZU4WmIZPacaupJqiRu0650l9tPkqV0xnWrauqKBirpaYT5tibXCdlpYYoVlVLLeCiso9Acr6CivygrT6IGfNWyHW8ORVm-2xga6c90a98nYxwY51DvCBn3p8V0bVNOAShv82G6Da9S7kz2KpDi6k2qL-2Tfxw6u1Bxgh3dUVmWHnWT32g5OtONeN5RTQ303tJJZ0x2dtKu8O2JvdEeR2h7zqbmfPT4Ps0cZLRhlj6VkyLVHKp3YZY_TtOafzJDa0wG2VPiZA-ZQbJkj-lPWHCeMp_rDTmim7r16oAftzO-BY9RluTPs6e1DZ3R55AxTeE8oInriH4ae2E2HtS44SeOPumASTUx0xXQKnOeKcOr_yhXJVJftBv-Jbggm94_dcO-pG_6gvDdumErWbW5wpNoJ7mik1AJ3DKOYYA8k0MW1HrhKZidPJPf0xG0PT3zn44kfqGOSJywme2LVGU-sp7v2XnhGm0O8sJU-D_XCFjJRO-U88UIefWjVC9nkP7gXdGR5qxdsafmjXlhL-me9kEgjVRqkUb5Wgxk0lxaRxwwNfGn5Ng3Wkv5XDRKp4bEGrbSmToMNNMnSGx_RckdvrKZib29Y-HoD9LKvNxroUqg3rlH9GW-8oZVt3viUtltrsY8qQrQ4Ru4GLbwpYaUWSTR-vQ_yyX2TD3zoUYcPntDO7r44QKWTffEFnb3rix_ppNIPZ_7PwQ8X6c1BP3RQ8g9-GEp1d_zQQq4BveFN-aW9UURfFfXBDvrkRh98Rtvv9sE-yg31xxSqLQpAI21ZGYC_U9WnAailB58H4A_aXB6AbbTiTADWUev3AeiksfcDkEtjmgOQTrZtAXCgdemBKKVnRYGIfRyI_rTxXSC-omXRQagZFIQGujY9CLfoQnkQrtK4sL7oExqMfrQpOhhbqTU5GFdTgnGTYmYEQ0-6DcHoT8n0N8qlKVRIxbSYVtI-3xD8i1ZvDkEptYb3wzva-F4ovqQ3eaF4S-5vQ-FDYb5hiKa74WF4RDO2hKGY8l6GYRodagrDhdYwXKE_2sPwjB5FhOMxvYoMh4n0MeEwUPaTcEwkc004OmiwLgIjaSzl0fk5Edi0OAJlFNEWAR35e0VCR55lkdCS_nokEsn0NhKKd5H4wDYKmVRvF4VmsusWBScKjoxCOFmMjkJXWkjLaS2VUhltp1EFUcigmk1ReEW15zmHhlyJwggyPIxCKmVYRyOX_uwZjRf0zCMazfStTzTO0_bwaOylY0XR8NwbDR-quRSNBjJej8ZYGtQlBsk0zyoGi8g7MAZ9aPaoGJTQjQkx-C9dPBmDq-T-7xhoqKkpBmba0RGDcrqj0eE--fjp0D1Mhx5kFa-DPU3N1qGQ9h_QwfK5DkFVOoRRYqMOO5p0fL3Hwo92J8TiII0ZGYuJFLEkFnFUVB-L71_F4gI5O8TBnWqj4tBEO7PisI8Wro3DMhpZHgcjnT4ah3M04U4ciujVszi0kFIRDytqz4qHamw8-i6ORxhdrIjHdao8GI8aOnkjHt9SjEIPR_4wXajaVo86qrfXo4kueutxlQb66jHBX4_OWXqoZjM7T4-Vy_X4lFZX6LGB5Ige1pR5W49xpPlFDz9y-l0PV8p8wRl0tFsCviZTRAIUkQmYksDzgwSoaRvtoifz0lBFc0rS8POhNPxCnSfS4Ph1GlZ9l4a1VElxP6fBpjkNG7XpOBKTDpu56bCngr3pKCKPq-nQUlt9OlQN6ag3paOJjIoMZJGkZMCaho_IQDYVvp-BpbSVKigoJwOhZMrLQDuVLs7AFrpyKQM3aNGDDKyg4eWZGPN_pzORQQvNmchxz8J7nlnoeysLEXTMZSxOkInaKbPvWIynn4rG4mdK75mN8fSiKJt7MBtNU3Ngohuf5uAu7ds2DodoyI5cvE8ONpbfvfzpvnQ_VrHqdRc3yw_zJ85NnjFzulY7vrBwVvAkXmeFTJo5cWJu_sy8nPDQ8OiwsNCIkNCYnMKo_wHbNzW0&build-label=apps-forms.freebird_20261103.07_p5&imp-sid=CJSKh6Dq-pcDFWa-IwAdgxEo2Q&is-cached-offline=false&wcrumsspbp=true\"",
+          "reporting-endpoints": "default=\"/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA/web-reports?bl=apps-forms.freebird_20261103.07_p5&app=27&clss=1&context=eJwV12lYE2YSB_AYkhnkknAotyEB5RAMZwIElIZLXbVq23AJiqCCWIkHHniitqLVUrFWu66C4oGCqxSXbbfW2mq9irraStFqRRAQOURAEs7974ffM-8z88z7cZ4ZkzfyXoFWcMxYK6gw1QpOWGoFLlZawfWxWsEGd63A20cr2O-rFawI1ApqF2oFzTA6XSuwhz-2agUtoNqrFcTB8CGtwOKwVrD4vlaQC609WkE_5PZqBZ9A9rR4wUb4b1K8oB7eeb4WDkPFz13CS9BZ_1bYBy-ndwvb4aRfr7ACjPJ7habQtaxPaABxuF5oDi8y9MJW2LJbL_wUhm8ZhHTbIEy4bxAuhD1W_cIicCnpF04AceKw0BxMBCNCK2h0GhG2Qfz6EeECSC4dZZQOXteFRv7gvc3IKACcPjUycoN9L42MDsLjr9SiFzC6Qi2SwCFVuKgYVn0VLsqDjzKnilJA4RwpUsGuuEhRIeydHin6Erw3vicKgL0RGtGXUJajEV2E2bkakRa8LmhE_vDqkkbUBeWZ0aIquK6LFtXA_cvRoj-gpSla9AYUQTEiFbiuixH5gVIfK5oC-qw4kWBZnMjUeprIGkrtponUPF0UBbPnHRNrYXX1MfFGsHl7TOwGeaHF4u0wv6dYnAHfdp4QX4WsxlLxStg065R4J_zQflp8F74df0Z8FW4mnBHfh-DyM2Jh61mxCUTPOCeeCb0zz4mHILuuXLwapi86L54LV3JbxTdg65Q28S74-Ls2cS5c-alNfANexbeLu-DK1-3iG5DQb0opoDxjRlNg1xhzKoRL35jTZci5ZE7r4FG1OT0D47EWZAfW1y3IEa4eHUO3YCTKijjaihzOW5EMZldZkRb2_2BFx-GiqzV9C_PSrCkJYp7a0Cyom2lL9RC_3pYWgMMGW5LBsuNjaRXs-XMsFUGr8zh6Cwezx9FROD4yjs6CrasdOcPMeDuaDx-ct6NkEN20IzNQnbCnqdC524H6IKrQkf4Gv01zojooueZEZVD4yJkOAZe7UOdjF-qBM3-6UAU0JI0n0ZbxNBp6jaTUD39nKZ2AiwlS-hZqM6X0y7-ldBe6T7jSAHxS70r74INJMkqG-MkyWgCaWBnFQeonMloCSQUyWgRcLKMx0FUjo3ew-q6M1sN9-B1E92RkdF9GxpANOggfllE0SMLlZA-vV8upGx6tl9MT2LJBTjtgU56c8iFxo5xSYcVvcloLD8660QtYdceNtkPx5-50Aar-dKfvYanbBMqBldoJtAEcRB4kgx_Jg24CWXiQBWgkHhQHyyAH1h73oC2QXutB2TCh2YN8QdoYSgr4VRBGg9Iw0pSH0QzQXQyjXPCqDKPJsAnyoeCbMNoHD2ep6QnUbVbTXxB3MJzeh9iCCJoNP4-eQndg7rUppIXUa1NpCUj-G0n2cLk1kq7D_akaeg4l2RoqA5tVGnKCS-s0dBmmbtdQHISPjaJo8O2MomBY4xNNj6xiqHprDF2BXaUxVAjqnFiKhILVsfQFBJfHUgQsqoulZSCtjyUPcPSNIzmsfR5HWyCg8AWpYGdHA-0F77mNFAAxhkaaBaE3X9J0OFfURBfBs6yJ_MDhXBPJYH1HE22GGTOaaR40VjfTK_C420wKKE9voSoIz2shQ2kLjTrZQo8vt9Bf8Dz-Fb2EF4ZWaoWzktdUCZv8XtN26Fj6mrZVt1EBBC9upwiw_aOdnOEf6g46CYVZnSSp6iR7CE55QxEwkvGGeDFou2hUfBfNu9hFL250UTN8-rSL9kKj-i21gfL8W1LDwJxuMprbTUMXekh8sYdCfHtpCsTCTPgQkmARZIIO1sIW2AnS_ch39NIKWAubYCfsgSI4DCVwGvb399JX4FX3jibDAXUfHYbKa330HTj-0kdymHerj5Ig62kfrQS3hj6aBNMb-2gu1MJfcLKljypA1dNH5gF6soV5QXpKglIoB82AnmbA8kE9rYEbw3q6B5NG9BQIvTAEdkYGkkIkTIMmkYE6YJXYQHmQTgbKBjNTA9nAT5YGug2F9gY6BPrpBhLMMFC9zkCvIHnrAKWD1d4BsgPvrEEKgOrKQboC9mlD5Ap5R4ZoK8hOD5EXmFwaIiuoeTBED-DsyBBVwnHHYToLsfphmg1hFSOkAasoATtA5g4BfwwlPQIug8kGASvh0vFRfBnShkZxQaiQ94HHBiNWwKkjIj4PuSriNZXEG8Cum1gKL62NuRVuxhlzDZQMGvNpWJI1mpdDa_9o7gTdaBNeDwdDTPgobMwz4W2Qt9eEt4PiRxNWQXqzCS-DOndTNp9lytaw64Ap74MHd0y5FrQTzTgVJgSY8SR4_tCMW2BKoxn_NGTGt2HCCGoQCKHwIM6ca0Ey0YLtocfTggfhULMFF4PFWwu2gWOPxnApdHaM4T4wSC15BEpKLTmkxpJ1Ygmvh57JEi7wk3AhbJgr4a2gSZNwHFSWSLgaCv4p4S9A7GzF5pDzuRWvgZBD1hwByWtseCF0lNtwD1iOt2VbKM605QswKn8sS2Dg8Vge9WQs6_3HsSBgHP9DM46PQ7nMjqtg4Xk7XgwZUfa8HLzW2bM_RLyx5xhoT3FgjwwH9gHHTxz40QsHfgbvv3PgD8G034GtoW2RI3dBXLYjzwSljxOHg8HGmWPGOfN9J2f-j9yZf4Thxc5stMSZH0pcuAEO-LrwYfhC4cIHQQ9DkFrvwunwkcl4TgGPaeNZBcb3xrM55D8Zz7tB3TCeo2COSMrxkCmT8grQQS44rZCyG-QfkfJu6Hwu5T4oaJfyPlhs7MofQ761K--CXFdXNnJzZYZXk1y5E64rXPk27Oh35c_gqKmMT0GZr4wvgKNGxq4QvkPG0bBwr5wzwbFIznJ4Mizneii2dOMzULjEjb-Eyw_d-CeoErrz9_9n5c7X4N1Zdx6GmB_deQa0P3DnXrD3nMCukFk4gXXwtW4iH4NPayby53D04UQ-BWkKD14KbTpP7oKDOzz579D8mSe3Qd0XnvwMDpR68hHY_r0n74H5tZ6cBok9npwK5v2ebAV7Ery4EBp0Xhzy3IsjoLLRi6th_6AXfw3bgr25NdKbO-H2cm--Bz-XevMtWOA3iScqfHgyFAX78GHoi_HhW7E-fBeUK3xYDap9PhwBMfA3SIOlkAO5sBl2wCk3X_4X7Drgy4XQ5z-ZB2H_ewr-Ct6lK3gAHF4oWAaSAQXbg5-bHwfDQ38_fgIrDvpxLqS_8uNlcK7bj3_u8-Ob8GzIjxvgSYA_P4c3gf6sB7XSnzWQUu_PGWBo9edhmKYK4DkwH9Lh6poALtocwIcgoD-AVeDhEsgqcD4UyDJQ3wnkKNAPBLJgMJA_NA_iJOiwCOIesBgTxDagdAlin8Ag9gejeUE8GjZCPuyGQjgER2FudhAnQmtREL-Btqv4C6bfDOLZoHkcxHGQaBrMafDXuGBugganYO6B7-TBfBUu6ILZ-WQwy6H1ejB3gvZOMM-HyFFKjoF1JkreBB5eSp4Mq-cqOQ9qFin5d7hWpeRb4PhvJUuhu1vJBjg2rORSeCBVcS3I3VVs6adiWzAJU7EEslJUnAOnz6jY-KWK3ZtV7AVRXSo-1q3CZh7C7lAeHsJV8MGcEM6AgC0hHAq6jhAeaxXKjtAWFMrdUJwcyqdg4-5Q3gZzSkNZC9XnQ_kKLHoQyjp40xDKvSAUhLEJ9CaH8SBM2hzGfnCtLIzvQOPZMG6Fqpow_g6UAjVb41q0gxZzNbdDh0TN3eBhq2YFXHNV8y2Y6qbmRR5qHlmlZtFqNe_IV_NnsKtMzfuAKtRsCkn31bwApL-p2R1snqrZHpKa0A_nx4TzN6APCGdBYDgvDUf8MJzFcARKoH5dPDfDmrx4_vVcPP8GI5XxbP1NPO_8TzzvhtBf49msJ573yxK4QpnAZmsTWALZJxNYB063ElgG_R0JLOpM4A59AneDVpDIyWAWm8gSmDU7kVNA934ib4PDUAbeqYmsAH16Ig9B4eZEPgg3rydyDWyqS-TtMKs0iT_4v-okToSIniSOgo2GJE51TOb3nJN50r1kDoALdvO5EvQwBEmT5vNC-EU3n3-FtHEpnAVNuhTMwhSulafyU-jOSmU91HyWyg_h1JEFfA6mH0vj9-GBMp0fw-97EOGHzRlsZWZc_fBWLVlufdZUJHQw_igzY23MipXLZbKFOTmrfBbjucp38cqMjLTMlemp_gr_YD8_RYCvQpmaE_Q_N5Azug&build-label=apps-forms.freebird_20261103.07_p5&imp-sid=CI-X9eyW_JcDFYkGkQEdh74Dsg&is-cached-offline=false&wcrumsspbp=true\"",
           "server": "GSE",
           "x-content-type-options": "nosniff",
           "x-robots-tag": "noindex, nofollow, nosnippet",
           "x-xss-protection": "1; mode=block",
           "set-cookie": [
-            "S=spreadsheet_forms=X6YazaxgEombt4-_a6sD0TaCSlDlKQBB7nIx-srD03I; Domain=.docs.google.com; Expires=Mon, 09-Nov-2026 12:55:39 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
-            "COMPASS=spreadsheet_forms=CjIACWuJV86I_PMVig2uM41keLKEQzu-zgpYz9SUIt5HB1HSZDDFtFrLPNa-0M0ckjd7khDLhcfXBho0AAlriVcfM0OQobtSjCDprMy_9pK2TS80tae7FxwYesUBc3P2OIzyhM449XTWpq-V8oSHPQ==; Domain=.docs.google.com; Expires=Mon, 09-Nov-2026 12:55:39 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
-            "NID=CukBCAESmwEBM9Agl-w9mmQ5o47wD-f8_91Vl3px_zQ9jKC-jZVKCkhbVxeWfhDGwPqFMNJ7P5tVKy54Bs807IASreznCPDB13reTr2OC116iDwJCUpdjYIDVeRe8G1DJsYTQppYF8Jf0LI5qtwWb0ZPEy2Q9w-EuL7A9f6Fy_K0bUAZ2WvyHxJJQkBaqQlGJ4Z-Tj19zdnELW6B-s9HXD7RPCgBMkUBcEpCz1rB2pMCUK-Fdlru5X3mINVTLv_OxYVuluQID_9FXlEArRI6GKP0xgkErWeTJVfpD75ZeYnYAAs5JQAWO8ZOggA; expires=Tue, 11-May-2027 11:55:39 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none"
+            "S=spreadsheet_forms=d_XOeVAO9yfTGyGZ1_d_KBy6Pqtfb4uRMFcDoUMSn9c; Domain=.docs.google.com; Expires=Tue, 10-Nov-2026 01:47:51 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
+            "COMPASS=spreadsheet_forms=CjIACWuJVwxekVM8e_eD4WFu2LULUK4FqC-GeceCPGskSSJZ3wM2BLVLv0dZVX5LISx8MhDH78nXBho0AAlriVc5WDTnKMkaihj6385u8ILLB4jhcS40Im2RLxLI0pyt_jMQjfBVDpBSJ4h3BhdPNw==; Domain=.docs.google.com; Expires=Tue, 10-Nov-2026 01:47:51 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
+            "NID=CukBCAESmwEBM9Agl4wYqGZa3Ecs3cbWvkYBTXq5vc-jhhkEX2hhvSHOLMNQR_5B_dGRvhbhvbe8tyJgtRB9gJo0lc3z0h_ccQW3ff2trmGLL3vbj3slURrApwllYBS5jsiFWOz34bDLYTu7rpPdJ0KecuEwjP_ydzDM69VYanO-RDtOexrHjzIq48-aMSCFsJP_XQWXlnMKkrIgCOqoYP-saCgBMkUBcEpCz549TtftAOTQxlIkvqpMsFk81iByEWDARBSLxOwmM9ydyEJ-7Y1of8bbBNIzsCrQlqwSUiXtQ2yz-ZsTQhgoVgE; expires=Wed, 12-May-2027 00:47:51 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none"
           ]
         }
       },
@@ -342728,7 +342883,7 @@
       "url": "https://thebucharesthackathon.com/schedule.html",
       "crawl": {
         "loadedUrl": "https://thebucharesthackathon.com/schedule.html",
-        "loadedTime": "2026-11-09T11:55:40.003Z",
+        "loadedTime": "2026-11-10T00:47:52.120Z",
         "referrerUrl": "https://thebucharesthackathon.com/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342781,21 +342936,21 @@
           "content-encoding": "gzip",
           "content-length": "3037",
           "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:39 GMT",
+          "date": "Tue, 10 Nov 2026 00:47:52 GMT",
           "etag": "W/\"698c6c45-3259\"",
-          "expires": "Mon, 09 Nov 2026 12:05:39 GMT",
+          "expires": "Tue, 10 Nov 2026 00:57:52 GMT",
           "last-modified": "Wed, 11 Feb 2026 11:47:17 GMT",
           "server": "GitHub.com",
           "vary": "Accept-Encoding",
           "via": "1.1 varnish",
           "x-cache": "MISS",
           "x-cache-hits": "0",
-          "x-fastly-request-id": "66bf008651c30eaa73fa09a2095617a0c61c5c6b",
+          "x-fastly-request-id": "3fe05eff21bfc13bbca023f0d46bf7d6f80df12e",
           "x-github-edge-region": "iad",
-          "x-github-request-id": "9BD8:14F8ED:878CF:91D04:6AF1B4BB",
+          "x-github-request-id": "1C5C:13D492:13030B7:14809D0:6AF269B7",
           "x-proxy-cache": "MISS",
-          "x-served-by": "cache-chi-kigq8000150-CHI",
-          "x-timer": "S1794225340.920349,VS0,VE62"
+          "x-served-by": "cache-yyz-cyyz770077-YYZ",
+          "x-timer": "S1794271672.030423,VS0,VE41"
         }
       },
       "screenshotUrl": null,
@@ -342813,7 +342968,7 @@
       "url": "https://asmi.ro/scss",
       "crawl": {
         "loadedUrl": "https://asmi.ro/scss",
-        "loadedTime": "2026-11-09T11:55:40.187Z",
+        "loadedTime": "2026-11-10T00:47:52.782Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342831,7 +342986,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:40 GMT",
+          "date": "Tue, 10 Nov 2026 00:47:51 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342845,43 +343000,6 @@
       },
       "query_id": "crawler",
       "title": "SCSS - ASMI"
-    },
-    {
-      "url": "https://asmi.ro/Articole",
-      "crawl": {
-        "loadedUrl": "https://asmi.ro/Articole",
-        "loadedTime": "2026-11-09T11:55:47.923Z",
-        "referrerUrl": "https://asmi.ro/",
-        "httpStatusCode": 200,
-        "depth": 1,
-        "contentLengthBytes": 5983608,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://asmi.ro/Articole",
-        "title": "Articole - ASMI",
-        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "content-encoding": "gzip",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Mon, 09 Nov 2026 11:55:33 GMT",
-          "server": "nginx/1.28.3 (Ubuntu)"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "Articole - ASMI\nAcum sunt publicate 49 articole \nAfi\u0219eaz\u0103 c\u00e2te articole \nPractica \u00een anul universitar 2026-2027\nInforma\u021bii despre practic\u0103 \u00een anul universitar 2026-2027.\n04 November 2026 \nCite\u0219te mai mult \nBurse studen\u021be\u0219ti 2026-2027\nInforma\u021bii despre burse studen\u021be\u0219ti \u00een anul universitar 2026-2027\n03 November 2026 \nCite\u0219te mai mult \n\u00censcrierea \u00een an \u0219i plata taxelor de \u0219colarizare - 2026\nInforma\u021bii despre plata taxei de \u0219colarizare \u0219i fi\u0219a de \u00eenscriere \u00een an, 2026 - 2027.\n23 October 2026 \nCite\u0219te mai mult \nBurse PPC 2026\nPPC Rom\u00e2nia va oferi 4 burse studen\u021bilor din an terminal de la FMI.\n20 October 2026 \nCite\u0219te mai mult \nROSPIN Satellite Data Processing Masterclass - de la date satelitare la propriul proiect\nROSPIN Satellite Data Processing Masterclass revine cu edi\u021bia a III-a\n11 October 2026 \nCite\u0219te mai mult \n\u00censcrierea la disciplinele facultative, anul universitar 2026-2027\nInforma\u021bii despre \u00eenscrierea la disciplinele facultative \u00een anul universitar 2026-2027, semestrul I.\n09 October 2026 \nCite\u0219te mai mult \n\u00censcrieri la modulul psihopedagogic \u00een anul universitar 2026-2027\nInforma\u021bii despre \u00eenscrierea la modulul psihopedagogic \u00een anul universitar 2026-2027.\n09 October 2026 \nCite\u0219te mai mult \nTutoriate - \u00eenscriere pentru tutori\nAici pute\u021bi g\u0103si formularul de \u00eenscriere dac\u0103 vre\u021bi s\u0103 fi\u021bi tutori!\n08 October 2026 \nCite\u0219te mai mult \nStructura anului universitar 2026-2027 \u0219i noul sistem de m\u0103riri\nAici g\u0103si\u021bi structura anului universitar 2026-2027 \u0219i informa\u021bii despre noul sistem de m\u0103riri.\n07 October 2026 \nCite\u0219te mai mult \nAfi\u0219eaz\u0103 c\u00e2te articole",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# Articole - ASMI\n\nAcum sunt publicate 49 articole\n\nAfi\u0219eaz\u0103 c\u00e2te articole\n\n[\n\n##### Practica \u00een anul universitar 2026-2027\n\nInforma\u021bii despre practic\u0103 \u00een anul universitar 2026-2027.\n\n04 November 2026\n\nCite\u0219te mai mult\n\n\n\n](https://asmi.ro/Articole/practica-2026)\n\n[\n\n##### Burse studen\u021be\u0219ti 2026-2027\n\nInforma\u021bii despre burse studen\u021be\u0219ti \u00een anul universitar 2026-2027\n\n03 November 2026\n\nCite\u0219te mai mult\n\n\n\n](https://asmi.ro/Articole/burse-2026)\n\n[\n\n##### \u00censcrierea \u00een an \u0219i plata taxelor de \u0219colarizare - 2026\n\nInforma\u021bii despre plata taxei de \u0219colarizare \u0219i fi\u0219a de \u00eenscriere \u00een an, 2026 - 2027.\n\n23 October 2026\n\nCite\u0219te mai mult\n\n\n\n](https://asmi.ro/Articole/inscriere-si-taxe-2026)\n\n[\n\n##### Burse PPC 2026\n\nPPC Rom\u00e2nia va oferi 4 burse studen\u021bilor din an terminal de la FMI.\n\n20 October 2026\n\nCite\u0219te mai mult\n\n\n\n](https://asmi.ro/Articole/burse-ppc-2026)\n\n[\n\n##### ROSPIN Satellite Data Processing Masterclass - de la date satelitare la propriul proiect\n\nROSPIN Satellite Data Processing Masterclass revine cu edi\u021bia a III-a\n\n11 October 2026\n\nCite\u0219te mai mult\n\n\n\n](https://asmi.ro/Articole/inscrieri-rospin-2026)\n\n[\n\n##### \u00censcrierea la disciplinele facultative, anul universitar 2026-2027\n\nInforma\u021bii despre \u00eenscrierea la disciplinele facultative \u00een anul universitar 2026-2027, semestrul I.\n\n09 October 2026\n\nCite\u0219te mai mult\n\n\n\n](https://asmi.ro/Articole/facultative-2026)\n\n[\n\n##### \u00censcrieri la modulul psihopedagogic \u00een anul universitar 2026-2027\n\nInforma\u021bii despre \u00eenscrierea la modulul psihopedagogic \u00een anul universitar 2026-2027.\n\n09 October 2026\n\nCite\u0219te mai mult\n\n\n\n](https://asmi.ro/Articole/modul-psihopedagogic-2026)\n\n[\n\n##### Tutoriate - \u00eenscriere pentru tutori\n\nAici pute\u021bi g\u0103si formularul de \u00eenscriere dac\u0103 vre\u021bi s\u0103 fi\u021bi tutori!\n\n08 October 2026\n\nCite\u0219te mai mult\n\n\n\n](https://asmi.ro/Articole/tutoriate-2026)\n\n[\n\n##### Structura anului universitar 2026-2027 \u0219i noul sistem de m\u0103riri\n\nAici g\u0103si\u021bi structura anului universitar 2026-2027 \u0219i informa\u021bii despre noul sistem de m\u0103riri.\n\n07 October 2026\n\nCite\u0219te mai mult\n\n\n\n](https://asmi.ro/Articole/structura-si-mariri-2026)\n\nAfi\u0219eaz\u0103 c\u00e2te articole",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "Articole - ASMI"
     }
   ]
 }
