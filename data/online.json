@@ -1,72 +1,6 @@
 {
-  "updated_at": "2026-11-10T13:18:51.563784+00:00",
+  "updated_at": "2026-11-11T12:29:58.808025+00:00",
   "hackathons": [
-    {
-      "name": "Ctrl+V Hackathon",
-      "organizer": "ADHAYAN",
-      "url": "https://ctrl-v-hackathon-31831.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-11-06",
-      "end_date": "2026-11-10",
-      "registration_deadline": "2026-11-10",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "uid": "hk:c847eee14b6c666b"
-    },
-    {
-      "name": "DATANOVA 2026 GLOBAL DATA-THON",
-      "organizer": "DataNova",
-      "url": "https://datanova-2026-global-data-thon.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-26",
-      "end_date": "2026-11-10",
-      "registration_deadline": "2026-11-10",
-      "tags": [
-        "E-commerce/Retail",
-        "Fintech",
-        "Health"
-      ],
-      "uid": "hk:7d87e4ea26e9377d"
-    },
-    {
-      "name": "Herhack",
-      "organizer": "Echelon institute of technology",
-      "url": "https://herhack.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-10-17",
-      "end_date": "2026-11-10",
-      "registration_deadline": "2026-11-10",
-      "tags": [
-        "Beginner Friendly",
-        "Blockchain",
-        "Open Ended"
-      ],
-      "uid": "hk:edaf7370f1086716"
-    },
-    {
-      "name": "IBM Db2Hack 2026",
-      "organizer": "IBM",
-      "url": "https://ibm-db2hack-2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-11-05",
-      "end_date": "2026-11-10",
-      "registration_deadline": "2026-11-10",
-      "tags": [
-        "Databases"
-      ],
-      "uid": "hk:5389d209a289303d"
-    },
     {
       "name": "Agentic Hackathon",
       "organizer": "Devin",
@@ -623,19 +557,6 @@
       "uid": "hk:07065e31ae3ccd22"
     },
     {
-      "name": "Rewired (Tech Hackathon)",
-      "organizer": "Masters Union School of Business",
-      "url": "https://unstop.com/hackathons/rewired-tech-hackathon-road-to-milky-way-bangalore-masters-union-school-of-business-1802400",
-      "source": "unstop",
-      "location": "Bangalore",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-16",
-      "registration_deadline": "2026-11-16",
-      "tags": [],
-      "uid": "hk:49520cef083fa9ab"
-    },
-    {
       "name": "Roboforge",
       "organizer": "Maharaja Surajmal Institute of Technology (MSIT), New Delhi",
       "url": "https://unstop.com/hackathons/roboforge-maharaja-surajmal-institute-of-technology-msit-new-delhi-1778710",
@@ -827,6 +748,19 @@
       "uid": "hk:8c40361bc8124b0d"
     },
     {
+      "name": "Rewired (Tech Hackathon)",
+      "organizer": "Masters Union School of Business",
+      "url": "https://unstop.com/hackathons/rewired-tech-hackathon-road-to-milky-way-bangalore-masters-union-school-of-business-1802400",
+      "source": "unstop",
+      "location": "Bangalore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-18",
+      "registration_deadline": "2026-11-18",
+      "tags": [],
+      "uid": "hk:49520cef083fa9ab"
+    },
+    {
       "name": "FCA Hacks",
       "organizer": "Bits&Code",
       "url": "https://lis-hack-day.devpost.com/",
@@ -947,19 +881,6 @@
         "Social Good"
       ],
       "uid": "hk:b22cd0552059e903"
-    },
-    {
-      "name": "Build Your Bharat Hackathon (BYB)",
-      "organizer": "Next Bharat Ventures",
-      "url": "https://unstop.com/hackathons/build-your-bharat-hackathon-byb-build-your-bharatbyb-hackathon-next-bharat-ventures-1770621",
-      "source": "unstop",
-      "location": "Hyderabad",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-21",
-      "registration_deadline": "2026-11-21",
-      "tags": [],
-      "uid": "hk:437929c334be7f45"
     },
     {
       "name": "ELUCode - 8",
@@ -1385,7 +1306,7 @@
       "uid": "hk:dbdf3c0d3ef346ff"
     },
     {
-      "name": "VYTRON'26",
+      "name": "VYTRON'26 (Hackathon)",
       "organizer": "Droidecks",
       "url": "https://unstop.com/hackathons/vytron26-droidecks-1786652",
       "source": "unstop",
@@ -1395,7 +1316,7 @@
       "end_date": "2026-11-25",
       "registration_deadline": "2026-11-25",
       "tags": [],
-      "uid": "hk:7c36f0a4cd902890"
+      "uid": "hk:4cc713c349b4fb78"
     },
     {
       "name": "Agentware | 72-Hour Hackathon",
@@ -1546,19 +1467,6 @@
         "Education"
       ],
       "uid": "hk:a7bb3f6880d81c4f"
-    },
-    {
-      "name": "404 Hackathon",
-      "organizer": "haX baby",
-      "url": "https://unstop.com/hackathons/404-hackathon-hax-baby-1793392",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-30",
-      "registration_deadline": "2026-11-30",
-      "tags": [],
-      "uid": "hk:faa88c76bc1456ac"
     },
     {
       "name": "CodeDia 2026",
@@ -1757,19 +1665,6 @@
       "uid": "hk:812cd286728fa9d0"
     },
     {
-      "name": "DoomForge",
-      "organizer": "Vellore Institute of Technology (VIT), Chennai",
-      "url": "https://unstop.com/hackathons/doomforge-vellore-institute-of-technology-vit-chennai-1793341",
-      "source": "unstop",
-      "location": "Chennai",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-12-06",
-      "registration_deadline": "2026-12-06",
-      "tags": [],
-      "uid": "hk:d741183b7d10f679"
-    },
-    {
       "name": "INNOVATE INDIA - Hackathon 2026",
       "organizer": "DevHarbour",
       "url": "https://unstop.com/hackathons/innovate-hackathon-2026-devharbour-1792025",
@@ -1781,6 +1676,40 @@
       "registration_deadline": "2026-12-06",
       "tags": [],
       "uid": "hk:d7c26c2434b6ac37"
+    },
+    {
+      "name": "Deck the Pixels",
+      "organizer": "Google",
+      "url": "https://deckthepixels.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-10",
+      "end_date": "2026-12-07",
+      "registration_deadline": "2026-12-07",
+      "tags": [
+        "Design",
+        "Machine Learning/AI",
+        "Low/No Code"
+      ],
+      "uid": "hk:caad29f0f2f1b4db"
+    },
+    {
+      "name": "Learn AR with SPECS",
+      "organizer": "Devpost",
+      "url": "https://learn-specs.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-10",
+      "end_date": "2026-12-07",
+      "registration_deadline": "2026-12-07",
+      "tags": [
+        "AR/VR",
+        "Design",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:b8102d7a5f94b1c7"
     },
     {
       "name": "SLAY HACKS",
@@ -1886,7 +1815,7 @@
       "source": "devpost",
       "location": "Online",
       "format": "online",
-      "start_date": "2026-11-13",
+      "start_date": "2026-11-10",
       "end_date": "2026-12-13",
       "registration_deadline": "2026-12-13",
       "tags": [
@@ -1895,19 +1824,6 @@
         "Social Good"
       ],
       "uid": "hk:794a4eecaa4405a8"
-    },
-    {
-      "name": "CodeCrafters India 2026 - National Hackathon",
-      "organizer": "HackWithPune",
-      "url": "https://unstop.com/hackathons/codecrafters-india-2026-national-hackathon-hackwithpune-1792826",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-12-14",
-      "registration_deadline": "2026-12-14",
-      "tags": [],
-      "uid": "hk:66916edb8c708300"
     },
     {
       "name": "Ryze Hacks 2026",
@@ -1970,6 +1886,19 @@
         "Low/No Code"
       ],
       "uid": "hk:630de535532901a4"
+    },
+    {
+      "name": "The Forge",
+      "organizer": "Hoollow",
+      "url": "https://unstop.com/hackathons/the-forge-hoollow-1787722",
+      "source": "unstop",
+      "location": "Delhi",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-16",
+      "registration_deadline": "2026-12-16",
+      "tags": [],
+      "uid": "hk:b9283d5b5ee95e6a"
     },
     {
       "name": "Arioron Think 2026",
@@ -2422,19 +2351,6 @@
       "registration_deadline": "2027-02-06",
       "tags": [],
       "uid": "hk:28e963383a5b6921"
-    },
-    {
-      "name": "Hacknova'27 2.0",
-      "organizer": "Bharati Vidyapeeth (Deemed to be University)",
-      "url": "https://unstop.com/hackathons/hacknova27-20-bharati-vidyapeeth-deemed-to-be-university-1772235",
-      "source": "unstop",
-      "location": "Kharghar",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2027-02-07",
-      "registration_deadline": "2027-02-07",
-      "tags": [],
-      "uid": "hk:ee42f96f285bc811"
     },
     {
       "name": "DeveloperWeek 2027 Hackathon",

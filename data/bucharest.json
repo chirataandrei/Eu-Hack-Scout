@@ -1,21 +1,6 @@
 {
-  "updated_at": "2026-11-10T13:18:51.563784+00:00",
+  "updated_at": "2026-11-11T12:29:58.808025+00:00",
   "hackathons": [
-    {
-      "name": "EELISA Student-Led Bootcamp 2026 – Hackathon for a ...",
-      "organizer": "international.upb.ro",
-      "url": "https://www.international.upb.ro/education/explore-and-connect/view/event/en-eelisa-student-led-bootcamp-2026-u2013-hackathon-for-a-circular-campus",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-10",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:2dc4b3bf18c9be51"
-    },
     {
       "name": "Smarthack, 11-12 noiembrie - hackathonul organizat de ...",
       "organizer": "start-up.ro",
