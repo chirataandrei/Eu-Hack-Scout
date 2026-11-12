@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T18:48:41.039760+00:00",
+  "updated_at": "2026-11-12T11:37:46.583883+00:00",
   "items": [
     {
       "title": "",
@@ -341703,7 +341703,7 @@
       "url": "https://asmi.ro/",
       "crawl": {
         "loadedUrl": "https://asmi.ro/",
-        "loadedTime": "2026-11-11T18:48:15.128Z",
+        "loadedTime": "2026-11-12T11:37:17.504Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341721,7 +341721,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:14 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:17 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -341740,7 +341740,7 @@
       "url": "https://lsebucuresti.org/",
       "crawl": {
         "loadedUrl": "https://lsebucuresti.org/",
-        "loadedTime": "2026-11-11T18:48:15.774Z",
+        "loadedTime": "2026-11-12T11:37:18.891Z",
         "referrerUrl": "https://lsebucuresti.org/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341770,19 +341770,18 @@
         ],
         "jsonLd": null,
         "headers": {
-          "age": "79181",
           "content-encoding": "gzip",
           "content-type": "text/html",
-          "date": "Tue, 10 Nov 2026 20:48:35 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:19 GMT",
           "etag": "W/\"0f46bd68887e35078f3a40c01687117c\"",
           "last-modified": "Fri, 20 Oct 2023 10:42:00 GMT",
           "server": "AmazonS3",
           "vary": "Accept-Encoding",
-          "via": "1.1 68d6b51e2f012be26da705a1e408a548.cloudfront.net (CloudFront)",
-          "x-amz-cf-id": "ASPQ6wLwbhHOCSDxx3DiPjY5QQgffiCY-1RqyNX86d9mgfZ3EsT4EA==",
-          "x-amz-cf-pop": "ORD56-P2",
+          "via": "1.1 ea0cd9a002a3cd9c88685ed3084a8fb4.cloudfront.net (CloudFront)",
+          "x-amz-cf-id": "8s7yEq9Wus6fHsZZhB4-uRD3j9M7bJTyIxKovDiRhuAaef6Wold1Ag==",
+          "x-amz-cf-pop": "HEL51-P8",
           "x-amz-meta-userid": "93a2303a-c29d-4068-9b8a-80ccacebe515",
-          "x-cache": "Hit from cloudfront",
+          "x-cache": "RefreshHit from cloudfront",
           "x-powered-by": "genezio"
         }
       },
@@ -341801,7 +341800,7 @@
       "url": "https://eestec.ro/",
       "crawl": {
         "loadedUrl": "https://eestec.ro/",
-        "loadedTime": "2026-11-11T18:48:16.556Z",
+        "loadedTime": "2026-11-12T11:37:19.521Z",
         "referrerUrl": "https://eestec.ro/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341823,15 +341822,15 @@
           "content-encoding": "br",
           "content-length": "1550",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:16 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:19 GMT",
           "etag": "\"dd3ee4e40f05f89f2600e4499aa307a0a1ba086ffa6d905d96aaba946582c569-br\"",
           "last-modified": "Sun, 01 Nov 2026 10:02:23 GMT",
           "strict-transport-security": "max-age=31556926",
           "vary": "x-fh-requested-host, accept-encoding",
-          "x-cache": "MISS",
+          "x-cache": "HIT",
           "x-cache-hits": "0",
-          "x-served-by": "cache-bma-essb1270049-BMA",
-          "x-timer": "S1794422896.348393,VS0,VE72"
+          "x-served-by": "cache-chi-kigq8000124-CHI",
+          "x-timer": "S1794483439.486289,VS0,VE1"
         }
       },
       "screenshotUrl": null,
@@ -341846,47 +341845,51 @@
       "title": "EESTEC Bucure\u0219ti"
     },
     {
-      "url": "https://asmi.ro/Articole/google-hackaton",
+      "url": "https://www.innovationlabs.ro/",
       "crawl": {
-        "loadedUrl": "https://asmi.ro/Articole/google-hackaton",
-        "loadedTime": "2026-11-11T18:48:16.756Z",
-        "referrerUrl": "https://asmi.ro/Articole/google-hackaton",
+        "loadedUrl": "https://www.innovationlabs.ro/",
+        "loadedTime": "2026-11-12T11:37:20.453Z",
+        "referrerUrl": "https://www.innovationlabs.ro/",
         "httpStatusCode": 200,
         "depth": 0,
-        "contentLengthBytes": 1003869,
-        "contentType": "text/html; charset=utf-8"
+        "contentLengthBytes": 3203,
+        "contentType": "text/html"
       },
       "metadata": {
-        "canonicalUrl": "https://asmi.ro/Articole/google-hackaton",
-        "title": "24 Hours of Google - Hackathon - ASMI",
-        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
+        "canonicalUrl": "https://www.innovationlabs.ro/",
+        "title": "Innovation Labs 2026",
+        "description": null,
         "author": null,
         "keywords": null,
         "languageCode": "en",
         "jsonLd": null,
         "headers": {
+          "connection": "keep-alive",
           "content-encoding": "gzip",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:14 GMT",
-          "server": "nginx/1.28.3 (Ubuntu)"
+          "content-type": "text/html",
+          "date": "Thu, 12 Nov 2026 11:34:28 GMT",
+          "etag": "W/\"6a7aed06-c9a\"",
+          "last-modified": "Tue, 11 Aug 2026 09:36:06 GMT",
+          "server": "nginx/1.14.0 (Ubuntu)",
+          "transfer-encoding": "chunked"
         }
       },
       "screenshotUrl": null,
-      "text": "24 Hours of Google - Hackathon\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person 24 Hours of Google Hackathon!\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\nThe Challenge (should you choose to accept it!): Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\nHealth\nSafety\nAccessibility\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\ud83d\udcc5 Date: 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\ud83d\udccd Venue: Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\nWanna Join?\nWho: Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\nHow: Teams of 3 - register via the \"Register\" button by 23:59 Sunday, April 19th 2026 EEST. Don\u2019t forget to include CVs for all team members!\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\nReady to hack? Register now!",
+      "text": "Innovation Labs 2026\nYou are using an unsupported browser. We cannot guarantee that the website will work properly.\nFor best results, try using Microsoft Edge, Google Chrome, Mozilla Firefox or any currently updated browser.",
       "html": null,
       "htmlUrl": null,
-      "markdown": "# 24 Hours of Google - Hackathon\n\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person\u00a0**24 Hours of Google**\u00a0**Hackathon**!\n\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\n\n**The Challenge (should you choose to accept it!):** Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\n\n*   Health\n*   Safety\n*   Accessibility\n\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\n\ud83d\udcc5\u00a0**Date:** 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\n\ud83d\udccd\u00a0**Venue:** Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\n\n**Wanna Join?**\n\n*   **Who:** Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\n*   **How:** Teams of 3 - register via the \"[Register](https://rsvp.withgoogle.com/events/24-hours-of-google-hackathon-2026)\" button by\u00a0**23:59 Sunday, April 19th 2026 EEST**. Don\u2019t forget to include CVs for all team members!\n\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\n\nReady to hack? Register now!",
+      "markdown": "# Innovation Labs 2026\n\nYou are using an unsupported browser. We cannot guarantee that the website will work properly.  \nFor best results, try using Microsoft Edge, Google Chrome, Mozilla Firefox or any currently updated browser.\n\n![](https://www.innovationlabs.ro/loader-icon.svg)",
       "debug": {
         "requestHandlerMode": "http"
       },
       "query_id": "crawler",
-      "title": "24 Hours of Google - Hackathon - ASMI"
+      "title": "Innovation Labs 2026"
     },
     {
       "url": "https://thebucharesthackathon.com/",
       "crawl": {
         "loadedUrl": "https://thebucharesthackathon.com/",
-        "loadedTime": "2026-11-11T18:48:17.274Z",
+        "loadedTime": "2026-11-12T11:37:20.849Z",
         "referrerUrl": "https://thebucharesthackathon.com/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341951,21 +341954,21 @@
           "content-encoding": "gzip",
           "content-length": "10644",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:17 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:20 GMT",
           "etag": "W/\"698c6c45-1192a\"",
-          "expires": "Wed, 11 Nov 2026 18:58:17 GMT",
+          "expires": "Thu, 12 Nov 2026 11:47:20 GMT",
           "last-modified": "Wed, 11 Feb 2026 11:47:17 GMT",
           "server": "GitHub.com",
           "vary": "Accept-Encoding",
           "via": "1.1 varnish",
           "x-cache": "MISS",
           "x-cache-hits": "0",
-          "x-fastly-request-id": "8c7df43ca43bdc152afbc182f1890900e9e10d83",
+          "x-fastly-request-id": "63aa38c41a64cf7af9cca75a0f702a47cdcd083f",
           "x-github-edge-region": "iad",
-          "x-github-request-id": "7C3A:143673:4450CE:5462B8:6AF4B870",
+          "x-github-request-id": "410C:267444:D31E55:10E8DD1:6AF5A4F0",
           "x-proxy-cache": "MISS",
-          "x-served-by": "cache-yyz-cyyz770082-YYZ",
-          "x-timer": "S1794422897.174233,VS0,VE47"
+          "x-served-by": "cache-chi-kigq8000168-CHI",
+          "x-timer": "S1794483441.726225,VS0,VE49"
         }
       },
       "screenshotUrl": null,
@@ -341980,55 +341983,51 @@
       "title": "The Bucharest Hackathon | Bucharest Romania"
     },
     {
-      "url": "https://www.innovationlabs.ro/",
+      "url": "https://asmi.ro/Articole/google-hackaton",
       "crawl": {
-        "loadedUrl": "https://www.innovationlabs.ro/",
-        "loadedTime": "2026-11-11T18:48:17.716Z",
-        "referrerUrl": "https://www.innovationlabs.ro/",
+        "loadedUrl": "https://asmi.ro/Articole/google-hackaton",
+        "loadedTime": "2026-11-12T11:37:20.919Z",
+        "referrerUrl": "https://asmi.ro/Articole/google-hackaton",
         "httpStatusCode": 200,
         "depth": 0,
-        "contentLengthBytes": 3203,
-        "contentType": "text/html"
+        "contentLengthBytes": 1003869,
+        "contentType": "text/html; charset=utf-8"
       },
       "metadata": {
-        "canonicalUrl": "https://www.innovationlabs.ro/",
-        "title": "Innovation Labs 2026",
-        "description": null,
+        "canonicalUrl": "https://asmi.ro/Articole/google-hackaton",
+        "title": "24 Hours of Google - Hackathon - ASMI",
+        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
         "author": null,
         "keywords": null,
         "languageCode": "en",
         "jsonLd": null,
         "headers": {
-          "connection": "keep-alive",
           "content-encoding": "gzip",
-          "content-type": "text/html",
-          "date": "Wed, 11 Nov 2026 18:45:26 GMT",
-          "etag": "W/\"6a7aed06-c9a\"",
-          "last-modified": "Tue, 11 Aug 2026 09:36:06 GMT",
-          "server": "nginx/1.14.0 (Ubuntu)",
-          "transfer-encoding": "chunked"
+          "content-type": "text/html; charset=utf-8",
+          "date": "Thu, 12 Nov 2026 11:37:17 GMT",
+          "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
       "screenshotUrl": null,
-      "text": "Innovation Labs 2026\nYou are using an unsupported browser. We cannot guarantee that the website will work properly.\nFor best results, try using Microsoft Edge, Google Chrome, Mozilla Firefox or any currently updated browser.",
+      "text": "24 Hours of Google - Hackathon\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person 24 Hours of Google Hackathon!\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\nThe Challenge (should you choose to accept it!): Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\nHealth\nSafety\nAccessibility\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\ud83d\udcc5 Date: 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\ud83d\udccd Venue: Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\nWanna Join?\nWho: Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\nHow: Teams of 3 - register via the \"Register\" button by 23:59 Sunday, April 19th 2026 EEST. Don\u2019t forget to include CVs for all team members!\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\nReady to hack? Register now!",
       "html": null,
       "htmlUrl": null,
-      "markdown": "# Innovation Labs 2026\n\nYou are using an unsupported browser. We cannot guarantee that the website will work properly.  \nFor best results, try using Microsoft Edge, Google Chrome, Mozilla Firefox or any currently updated browser.\n\n![](https://www.innovationlabs.ro/loader-icon.svg)",
+      "markdown": "# 24 Hours of Google - Hackathon\n\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person\u00a0**24 Hours of Google**\u00a0**Hackathon**!\n\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\n\n**The Challenge (should you choose to accept it!):** Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\n\n*   Health\n*   Safety\n*   Accessibility\n\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\n\ud83d\udcc5\u00a0**Date:** 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\n\ud83d\udccd\u00a0**Venue:** Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\n\n**Wanna Join?**\n\n*   **Who:** Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\n*   **How:** Teams of 3 - register via the \"[Register](https://rsvp.withgoogle.com/events/24-hours-of-google-hackathon-2026)\" button by\u00a0**23:59 Sunday, April 19th 2026 EEST**. Don\u2019t forget to include CVs for all team members!\n\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\n\nReady to hack? Register now!",
       "debug": {
         "requestHandlerMode": "http"
       },
       "query_id": "crawler",
-      "title": "Innovation Labs 2026"
+      "title": "24 Hours of Google - Hackathon - ASMI"
     },
     {
       "url": "https://www.spaceappschallenge.org/2026/",
       "crawl": {
         "loadedUrl": "https://www.spaceappschallenge.org/2026/",
-        "loadedTime": "2026-11-11T18:48:18.398Z",
+        "loadedTime": "2026-11-12T11:37:21.782Z",
         "referrerUrl": "https://www.spaceappschallenge.org/2026/",
         "httpStatusCode": 200,
         "depth": 0,
-        "contentLengthBytes": 87471,
+        "contentLengthBytes": 87754,
         "contentType": "text/html; charset=utf-8"
       },
       "metadata": {
@@ -342056,14 +342055,14 @@
         "headers": {
           "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a58f7868aefc89f4-ORD",
+          "cf-ray": "a5953e842de372f9-DFW",
           "content-encoding": "br",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:18 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:21 GMT",
           "link": "</_next/static/media/173b4e1ecbfe6c3b-s.p.bb4389f3.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/6d205b44cc8ff5cb-s.p.4b6ba8b5.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/89c2c771ed51f5b8-s.p.62c6b13f.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/b8b552e8609c5636-s.p.25aba60b.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/c76157874a2922f6-s.p.ffb25873.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/cc75fa3e14c3cd04-s.p.0164516d.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/d03dd34c0ad8ced2-s.p.dc34d193.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/ffa7ca14c228762d-s.p.3f59869a.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/84cc554577b25c37.css>; rel=preload; as=\"style\", </_next/static/chunks/4ea52d28df79d0b4.css>; rel=preload; as=\"style\", </_next/static/chunks/9dbc7db39af07986.css>; rel=preload; as=\"style\", </_next/static/chunks/afdaf9f515e96376.css>; rel=preload; as=\"style\", </_next/static/chunks/97d06f03a26fc9a4.css>; rel=preload; as=\"style\", </_next/static/chunks/16a33c90f4d5229d.css>; rel=preload; as=\"style\", </_next/static/chunks/3eed70fef4efa9e8.css>; rel=preload; as=\"style\", </_next/static/chunks/9959a25a0dbb9dba.css>; rel=preload; as=\"style\"",
           "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
-          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=OIMfG491vviwNL6fBER%2F9jOPm5ObXU04lYxZblRbd4w%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1794422898\"}],\"max_age\":3600}",
-          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=OIMfG491vviwNL6fBER%2F9jOPm5ObXU04lYxZblRbd4w%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1794422898\"",
+          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=dn351g4nTBKKzMWxbp2jQ96OH1TXpzh2xHOGqZ%2Fkmmo%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1794483441\"}],\"max_age\":3600}",
+          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=dn351g4nTBKKzMWxbp2jQ96OH1TXpzh2xHOGqZ%2Fkmmo%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1794483441\"",
           "server": "cloudflare",
           "strict-transport-security": "max-age=2592000",
           "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
@@ -342086,7 +342085,7 @@
       "url": "https://www.spaceappschallenge.org/2026/locations/bucharest/",
       "crawl": {
         "loadedUrl": "https://www.spaceappschallenge.org/2026/locations/bucharest/",
-        "loadedTime": "2026-11-11T18:48:18.939Z",
+        "loadedTime": "2026-11-12T11:37:22.458Z",
         "referrerUrl": "https://www.spaceappschallenge.org/2026/locations/bucharest/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342118,14 +342117,14 @@
         "headers": {
           "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a58f786caefef151-ORD",
+          "cf-ray": "a5953e895ee3c569-ORD",
           "content-encoding": "br",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:18 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:22 GMT",
           "link": "</_next/static/media/173b4e1ecbfe6c3b-s.p.bb4389f3.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/6d205b44cc8ff5cb-s.p.4b6ba8b5.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/89c2c771ed51f5b8-s.p.62c6b13f.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/b8b552e8609c5636-s.p.25aba60b.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/c76157874a2922f6-s.p.ffb25873.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/cc75fa3e14c3cd04-s.p.0164516d.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/d03dd34c0ad8ced2-s.p.dc34d193.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/ffa7ca14c228762d-s.p.3f59869a.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/84cc554577b25c37.css>; rel=preload; as=\"style\", </_next/static/chunks/4ea52d28df79d0b4.css>; rel=preload; as=\"style\", </_next/static/chunks/9dbc7db39af07986.css>; rel=preload; as=\"style\", </_next/static/chunks/afdaf9f515e96376.css>; rel=preload; as=\"style\", </_next/static/chunks/97d06f03a26fc9a4.css>; rel=preload; as=\"style\", </_next/static/chunks/16a33c90f4d5229d.css>; rel=preload; as=\"style\", </_next/static/chunks/3eed70fef4efa9e8.css>; rel=preload; as=\"style\", </_next/static/chunks/9959a25a0dbb9dba.css>; rel=preload; as=\"style\"",
           "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
-          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=OIMfG491vviwNL6fBER%2F9jOPm5ObXU04lYxZblRbd4w%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1794422898\"}],\"max_age\":3600}",
-          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=OIMfG491vviwNL6fBER%2F9jOPm5ObXU04lYxZblRbd4w%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1794422898\"",
+          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=Bn3%2Bhmd2ivIHoLLoAS1OPe5B%2BjkQs8uDABRfyO6AMHo%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1794483442\"}],\"max_age\":3600}",
+          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=Bn3%2Bhmd2ivIHoLLoAS1OPe5B%2BjkQs8uDABRfyO6AMHo%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1794483442\"",
           "server": "cloudflare",
           "strict-transport-security": "max-age=2592000",
           "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
@@ -342148,7 +342147,7 @@
       "url": "https://polihack.osut.org/",
       "crawl": {
         "loadedUrl": "https://polihack.osut.org/",
-        "loadedTime": "2026-11-11T18:48:18.982Z",
+        "loadedTime": "2026-11-12T11:37:23.047Z",
         "referrerUrl": "https://polihack.osut.org/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342167,14 +342166,13 @@
           "access-control-allow-origin": "*",
           "alt-svc": "h3=\":443\"; ma=86400",
           "cache-control": "public, max-age=0, must-revalidate",
-          "cf-ray": "a58f786dfba98304-ORD",
+          "cf-ray": "a5953e8c9e0f4dd3-TLL",
           "content-encoding": "br",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:18 GMT",
-          "link": "</assets/Logos/LogoRed.png>; rel=\"preload\"; as=image, </assets/MainBanner.gif>; rel=\"preload\"; as=image, </assets/Logos/LogoWhite.png>; rel=\"preload\"; as=image, </assets/Images/Networking3.jpg>; rel=\"preload\"; as=image, </assets/Images/Networking4.jpg>; rel=\"preload\"; as=image, </assets/Team/Irimiciuc_Cosmin.jpg>; rel=\"preload\"; as=image, </assets/Team/Ioana_Beldean.jpg>; rel=\"preload\"; as=image, </assets/Team/Muresan_Flavia.jpg>; rel=\"preload\"; as=image, </assets/Team/Grama_Silviu.jpg>; rel=\"preload\"; as=image, </assets/Team/Steavu_Irina.jpg>; rel=\"preload\"; as=image, </assets/Team/Teodoritu_Georgiana.jpg>; rel=\"preload\"; as=image, </assets/DocumentBanner.jpg>; rel=\"preload\"; as=image, </assets/Logos/UTCNWhite.png>; rel=\"preload\"; as=image, </assets/Logos/OSUTWhite.png>; rel=\"preload\"; as=image, </assets/LogoText.png>; rel=\"preload\"; as=image",
+          "date": "Thu, 12 Nov 2026 11:37:22 GMT",
           "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
           "referrer-policy": "strict-origin-when-cross-origin",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=OUgkq%2B2yjHQBSnCfg7BpdVCTvl%2BGYC3SEo7kxsokLA0yw0xc%2FQXpKvigtA5hlrk1SOl2wwBxJHkrtiV3llEu%2F9C5FWi01F32WOL4so5qsGWwgJKVvfbBUwwCcyUPWu4foNUJwQ%3D%3D\"}]}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=1816guGPGEZ2KTJILBcIyYrIl%2Frq60OsxTnglyQtXHwhdK3FqsP%2FkogHx6G%2FsMP9dMvYhAKnn8P5BYceEWWVU7bDfZHvLNE4j3MhT%2FhWcT24cTjqEuDBUPJl1dvtdyqi3jI5yA%3D%3D\"}]}",
           "server": "cloudflare",
           "x-content-type-options": "nosniff"
         }
@@ -342194,11 +342192,11 @@
       "url": "https://lablab.ai/event",
       "crawl": {
         "loadedUrl": "https://starfieldlabs.ai/?utm_source=lablab&utm_medium=redirect",
-        "loadedTime": "2026-11-11T18:48:19.861Z",
+        "loadedTime": "2026-11-12T11:37:23.519Z",
         "referrerUrl": "https://lablab.ai/event",
         "httpStatusCode": 200,
         "depth": 0,
-        "contentLengthBytes": 89313,
+        "contentLengthBytes": 143823,
         "contentType": "text/html; charset=utf-8"
       },
       "metadata": {
@@ -342266,30 +342264,30 @@
         "headers": {
           "cache-control": "no-cache",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a58f787268e7ca19-ORD",
+          "cf-ray": "a5953e8f484ffe20-ORD",
           "content-encoding": "br",
-          "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-sg5SZFzxiLxdVUxscHlSjzQa+xmJYjjIM/Z3US2pqZs=' 'sha256-lAEdhEqDKLhx+5D1sf9UmvJlLsCP8+J07uA+VudZ0kU=' 'sha256-sknK35q+FHBwn/T88j5+Dp8+1RhYbKV3Jqm61grOeMo=' 'sha256-OBTN3RiyCV4Bq7dFqZ5a2pAXjnCcCYeTJMO2I/LYKeo=' 'sha256-Qs4CJT9mj6upbR38TmULQhqSbzA6243UPx7twWrQDg4='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://images.starfieldlabs.ai https://storage.googleapis.com/starfield-labs-prod-judging/checked/ https://storage.googleapis.com/starfield-labs-prod-judging-video/; media-src 'self' https://storage.googleapis.com/starfield-labs-prod-judging/checked/ https://storage.googleapis.com/starfield-labs-prod-judging-video/; font-src 'self'; connect-src 'self' https://storage.googleapis.com/starfield-labs-prod-identity/incoming/ https://firestore.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://storage.googleapis.com/starfield-labs-prod-team-files/incoming/ https://storage.googleapis.com/starfield-labs-prod-judging/incoming/; worker-src starfieldlabs.ai/sw.js starfieldlabs.ai/_next/static/; frame-src 'none'; frame-ancestors 'none'; form-action 'self'; base-uri 'none'",
+          "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-sg5SZFzxiLxdVUxscHlSjzQa+xmJYjjIM/Z3US2pqZs=' 'sha256-lAEdhEqDKLhx+5D1sf9UmvJlLsCP8+J07uA+VudZ0kU=' 'sha256-sknK35q+FHBwn/T88j5+Dp8+1RhYbKV3Jqm61grOeMo=' 'sha256-OBTN3RiyCV4Bq7dFqZ5a2pAXjnCcCYeTJMO2I/LYKeo=' 'sha256-OADCh/GLnkpcPnDNUWImnZeyDEZiNz88EmBaNxKcvHQ='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://images.starfieldlabs.ai https://storage.googleapis.com/starfield-labs-prod-judging/checked/ https://storage.googleapis.com/starfield-labs-prod-judging-video/; media-src 'self' https://storage.googleapis.com/starfield-labs-prod-judging/checked/ https://storage.googleapis.com/starfield-labs-prod-judging-video/; font-src 'self'; connect-src 'self' https://storage.googleapis.com/starfield-labs-prod-identity/incoming/ https://firestore.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://storage.googleapis.com/starfield-labs-prod-team-files/incoming/ https://storage.googleapis.com/starfield-labs-prod-judging/incoming/; worker-src starfieldlabs.ai/sw.js starfieldlabs.ai/_next/static/; frame-src 'none'; frame-ancestors 'none'; form-action 'self'; base-uri 'none'",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:19 GMT",
-          "link": "</_next/static/media/archivo_latin_wdth_normal-s.p.1h4hl0m83hjjz.woff2?dpl=f2cdafc3a71deef5cdb6aefae6a3e8b1ef12d4cc>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/0pzdxmh3jcwyc.css?dpl=f2cdafc3a71deef5cdb6aefae6a3e8b1ef12d4cc>; rel=preload; as=\"style\", </_next/static/chunks/3lp3e8xeb3l1g.css?dpl=f2cdafc3a71deef5cdb6aefae6a3e8b1ef12d4cc>; rel=preload; as=\"style\", </_next/static/chunks/2nhvn3-dcymkr.css?dpl=f2cdafc3a71deef5cdb6aefae6a3e8b1ef12d4cc>; rel=preload; as=\"style\", </_next/static/chunks/0i8zix0j1_7nd.css?dpl=f2cdafc3a71deef5cdb6aefae6a3e8b1ef12d4cc>; rel=preload; as=\"style\"",
+          "date": "Thu, 12 Nov 2026 11:37:23 GMT",
+          "link": "</_next/static/media/archivo_latin_wdth_normal-s.p.1h4hl0m83hjjz.woff2?dpl=00010fba337054d732a47f07646aed4147d35bce>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/2tkzwp2mj1b7u.css?dpl=00010fba337054d732a47f07646aed4147d35bce>; rel=preload; as=\"style\", </_next/static/chunks/295de-yn6nw3u.css?dpl=00010fba337054d732a47f07646aed4147d35bce>; rel=preload; as=\"style\", </_next/static/chunks/2nhvn3-dcymkr.css?dpl=00010fba337054d732a47f07646aed4147d35bce>; rel=preload; as=\"style\", </_next/static/chunks/0369rudz3npng.css?dpl=00010fba337054d732a47f07646aed4147d35bce>; rel=preload; as=\"style\"",
           "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
           "permissions-policy": "accelerometer=(), browsing-topics=(), camera=(), display-capture=(), geolocation=(), gyroscope=(), hid=(), magnetometer=(), microphone=(), midi=(), payment=(), serial=(), usb=()",
           "referrer-policy": "strict-origin-when-cross-origin",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=iHl2MzpJmYJlA%2FgivNTDzNTKreDiU9trRj%2FSaoep4xPzrB3bXwO8txl%2F6uKsaEKy73WDPvZ5baKv9Wlv0MNndXMITBLL1Q2oPJyO%2BhtD6CupdH3QNSXt9jqA3858%2FiUno0o%3D\"}]}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=e0qz6mGZIuAtrss5DIHDjzAJjDtLbtGWFwbMP3sUoAOURp381lp%2BcBtzSJyvWv4U7xdVbLeXu8x42r3Km5BWx2k5e6%2FiQlYn%2F4DPtHzcK3KrFcmaob4pMxlehuA32hIW5Q4%3D\"}]}",
           "server": "cloudflare",
           "strict-transport-security": "max-age=31536000; includeSubDomains",
           "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
           "via": "1.1 google",
-          "x-cloud-trace-context": "bd20fd90c0ab628c6882287233cb03c7",
+          "x-cloud-trace-context": "3d497bd8a732c8f76668c39ac4b6df0d",
           "x-content-type-options": "nosniff",
-          "x-robots-tag": "index, follow"
+          "x-robots-tag": "noindex, follow"
         }
       },
       "screenshotUrl": null,
-      "text": "Starfield Labs\nWhat we do\nAgent native\nConnect one MCP server and your coding agent can take part for you, from the terminal you already live in.\nFind events and enroll\nBuild a team and keep it in sync\nClaim compute and perks\nSubmit before the deadline\nclaude mcp add --transport http starfield-labs /mcp",
+      "text": "Starfield Labs\nStarfield Labs Newsletter\nTech news for builders: models that actually work, tools worth trying, hackathons before they fill up, and the best things our builders shipped. Five minutes to read. One click to leave.\nWhat we do\nExplore\nArticle\nCommon mistakes when building LLM apps, and how to fix them\nTutorial \u00b7 45 min\nAdd rate limiting and a daily spending cap to an LLM endpoint in Python\nArticle\nHow to build an AI MVP in 48 hours\nTutorial \u00b7 45 min\nWrite an evaluation script with 20 test cases for your LLM app\nArticle\nHow to test an AI agent before a demo\nTutorial \u00b7 40 min\nCache LLM answers in Python to skip repeat calls\nAgent native\nConnect one MCP server and your coding agent can take part for you, from the terminal you already live in.\nFind events and enroll\nBuild a team and keep it in sync\nClaim compute and perks\nSubmit before the deadline\nclaude mcp add --transport http starfield-labs /mcp",
       "html": null,
       "htmlUrl": null,
-      "markdown": "# Starfield Labs\n\n## What we do\n\nAgent native\n\nConnect one MCP server and your coding agent can take part for you, from the terminal you already live in.\n\n*   Find events and enroll\n*   Build a team and keep it in sync\n*   Claim compute and perks\n*   Submit before the deadline\n\n```\nclaude mcp add --transport http starfield-labs /mcp\n```",
+      "markdown": "# Starfield Labs\n\nStarfield Labs Newsletter\n\nTech news for builders: models that actually work, tools worth trying, hackathons before they fill up, and the best things our builders shipped. Five minutes to read. One click to leave.\n\n## What we do\n\nExplore\n\n*   Article\n    \n    ### [Common mistakes when building LLM apps, and how to fix them](https://lablab.ai/articles/llm-app-mistakes)\n    \n*   Tutorial \u00b7 45 min\n    \n    ### [Add rate limiting and a daily spending cap to an LLM endpoint in Python](https://lablab.ai/tutorials/add-rate-limiting-and-a-daily-spending-cap-to-an-llm)\n    \n*   Article\n    \n    ### [How to build an AI MVP in 48 hours](https://lablab.ai/articles/build-ai-mvp-48-hours)\n    \n*   Tutorial \u00b7 45 min\n    \n    ### [Write an evaluation script with 20 test cases for your LLM app](https://lablab.ai/tutorials/write-an-evaluation-script-with-20-test-cases-for-your-llm)\n    \n*   Article\n    \n    ### [How to test an AI agent before a demo](https://lablab.ai/articles/test-ai-agent-before-demo)\n    \n*   Tutorial \u00b7 40 min\n    \n    ### [Cache LLM answers in Python to skip repeat calls](https://lablab.ai/tutorials/cache-llm-answers-in-python-to-skip-repeat-calls)\n    \n\nAgent native\n\nConnect one MCP server and your coding agent can take part for you, from the terminal you already live in.\n\n*   Find events and enroll\n*   Build a team and keep it in sync\n*   Claim compute and perks\n*   Submit before the deadline\n\n```\nclaude mcp add --transport http starfield-labs /mcp\n```",
       "debug": {
         "requestHandlerMode": "http"
       },
@@ -342297,84 +342295,10 @@
       "title": "Starfield Labs"
     },
     {
-      "url": "https://asmi.ro/Departamente",
-      "crawl": {
-        "loadedUrl": "https://asmi.ro/Departamente",
-        "loadedTime": "2026-11-11T18:48:22.040Z",
-        "referrerUrl": "https://asmi.ro/",
-        "httpStatusCode": 200,
-        "depth": 1,
-        "contentLengthBytes": 32866,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://asmi.ro/Departamente",
-        "title": "Departamente - ASMI",
-        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "content-encoding": "gzip",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:21 GMT",
-          "server": "nginx/1.28.3 (Ubuntu)"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "Departamente - ASMI\nDesign & PR\nDac\u0103 am putea descrie acest departament \u00een dou\u0103 cuvinte acelea sigur ar fi \"Imaginea Asocia\u021biei\". Imagineaz\u0103-\u021bi pentru c\u00e2teva secunde cum ar ar\u0103ta un proiect f\u0103r\u0103 afi\u0219e, post\u0103ri pe Facebook sau pe Instagram. Fie c\u0103 este vorba de Recrut\u0103ri sau Petreceri, f\u0103r\u0103 o promovare ca la carte, lumea nu ar fi atras\u0103 de evenimentele noastre iar informa\u021bia ar ajunge la mult mai pu\u021bini oameni. De aceea, avem nevoie de mult ajutor din partea acestui departament pentru a transmite informa\u021bia \u00eentr-un mod c\u00e2t mai pl\u0103cut \u0219i mai atr\u0103g\u0103tor.\nTe consideri creativ \u0219i mereu \u021bi-ai dorit s\u0103 \u00eenve\u021bi concepte de baz\u0103 \u00een editare grafic\u0103? Sau deja te pricepi la programe de editare foto/video? Ai talent la desen, pasiune pentru fotografie sau pur \u0219i simplu \u00ee\u021bi dore\u0219ti s\u0103 \u00eenve\u021bi tot ce \u021bi-am enumerat? \u00censeamn\u0103 c\u0103 ai nimerit unde trebuie! La Design & PR \u00ee\u021bi po\u021bi dezvolta hard skillurile \u0219i po\u021bi s\u0103 aju\u021bi la toate proiectele Asocia\u021biei!\nMicah Iordache Director de departament\nAmelia Roibu Director de departament\nEduca\u021bional\nDepartamentul Educa\u021bional se ocup\u0103 direct de \u00eentreaga interac\u021biune at\u00e2t cu studen\u021bii facult\u0103\u021bii noastre, c\u00e2t \u0219i cu elevi care \u0219i-ar dori s\u0103 urmeze FMI. Noi coordon\u0103m voluntarii din \u00eentreaga Asocia\u021bie \u00een gestionarea proiectelor precum: R\u0103\u021bu\u0219ca, Admiterea, Caravana Educa\u021bional\u0103, Ziua Por\u021bilor Deschise. Cu ajutorul acestora reu\u0219im s\u0103 motiv\u0103m \u0219i s\u0103 oferim ajutor constant studen\u021bilor pentru a le crea o experien\u021b\u0103 de neuitat \u00eentr-una din cele mai semnificative perioade a vie\u021bii lor.\nMembrii departamentului dezvolt\u0103 abilit\u0103\u0163i de public speaking, project management, teamwork \u015fi leadership pe care le pot folosi \u00een proiectele Asocia\u0163iei \u0219i nu numai.\n\u00cen c\u00e2teva cuvinte, Edu este cu \u015fi pentru studen\u0163i!\nDac\u0103 \u015fi tu vrei s\u0103 \u00ee\u0163i aju\u0163i colegii \u015fi s\u0103 \u00eencerci s\u0103 faci anii petrecu\u0163i \u00een facultate mai buni, hai \u00een echipa Edu!\nHuman Resources\nNoi suntem, pe scurt, \u201einima Asocia\u021biei\u201d ! Ne ocup\u0103m de integrarea bobocilor ce ni se al\u0103tur\u0103 \u00een fiecare toamn\u0103 \u0219i prim\u0103var\u0103, astfel \u00eenc\u00e2t ace\u0219tia s\u0103 ajung\u0103 s\u0103 se simt\u0103 cu adev\u0103rat parte din familia noastr\u0103. De asemenea, asigur\u0103m dezvoltarea \u0219i motivarea constant\u0103 a voluntarilor no\u0219tri prin organizarea activit\u0103\u021bilor de socializare.\nPe l\u00e2ng\u0103 procesul de recrutare, proiecte precum Marea Ie\u0219eal\u0103, Tre' s\u0103 Caut, chiar \u0219i Petrecerile, sunt organizate de voluntarii acestui departament. A\u0219a c\u0103, dac\u0103 e\u0219ti o persoan\u0103 empatic\u0103, altruist\u0103, \u00ee\u021bi place s\u0103 aju\u021bi, s\u0103 comunici cu oamenii \u0219i s\u0103 organizezi activit\u0103\u021bi, departamentul Human Resources te a\u0219teapt\u0103 cu bra\u021bele deschise!\nM\u0103d\u0103lina Moraru Director de departament\nMarius Manea Director de departament\nManagement & Fundraising\nPentru ca un proiect s\u0103 decurg\u0103 cum ne dorim este nevoie de munc\u0103, dedicare \u0219i comunicare, \u00eens\u0103 pentru a crea ceva memorabil este nevoie de un element special, ceva s\u0103 uneasc\u0103 efortul comun \u0219i s\u0103 ne dea aripi viselor. Aici intervin sponsorii no\u0219trii care ne sus\u021bin \u00een \u00eencercarea de a-i ajuta pe studen\u021bi. Noi suntem reprezentan\u021bii externi fiind primii cu care iau leg\u0103tura firmele atunci c\u00e2nd ne ofer\u0103 sprijinul lor. De asemenea noi oferim o voce oamenilor dornici s\u0103 spun\u0103 ce le-a pl\u0103cut \u00een cadrul evenimentelor, dar \u0219i ce trebuie \u00eembun\u0103t\u0103\u021bit, astfel \u00eenc\u00e2t edi\u021biile urm\u0103toare s\u0103 fie din ce \u00een ce mai bune. \u00cen cadrul departamentului vei \u00eenv\u0103\u021ba ce \u00eenseamn\u0103 s\u0103 organizezi un proiect, cum s\u0103 discu\u021bi \u0219i s\u0103 negociezi cu firme mari din domeniul IT \u0219i nu numai, dar \u0219i ce \u00eenseamn\u0103 munca \u00een echipa, gestionarea resurselor \u0219i distrac\u021bia al\u0103turi de colegi. Dac\u0103 te intereseaz\u0103 leg\u0103tura dintre Asocia\u021bie \u0219i companiile partenere \u0219i \u00ee\u021bi dore\u0219ti s\u0103 consolidezi mai departe aceste rela\u021bii, dar \u0219i s\u0103 creezi unele noi, atunci Management & Fundraising te a\u0219teapt\u0103!",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# Departamente - ASMI\n\n### Design & PR\n\nDac\u0103 am putea descrie acest departament \u00een dou\u0103 cuvinte acelea sigur ar fi \"Imaginea Asocia\u021biei\". Imagineaz\u0103-\u021bi pentru c\u00e2teva secunde cum ar ar\u0103ta un proiect f\u0103r\u0103 afi\u0219e, post\u0103ri pe Facebook sau pe Instagram. Fie c\u0103 este vorba de Recrut\u0103ri sau Petreceri, f\u0103r\u0103 o promovare ca la carte, lumea nu ar fi atras\u0103 de evenimentele noastre iar informa\u021bia ar ajunge la mult mai pu\u021bini oameni. De aceea, avem nevoie de mult ajutor din partea acestui departament pentru a transmite informa\u021bia \u00eentr-un mod c\u00e2t mai pl\u0103cut \u0219i mai atr\u0103g\u0103tor.\n\nTe consideri creativ \u0219i mereu \u021bi-ai dorit s\u0103 \u00eenve\u021bi concepte de baz\u0103 \u00een editare grafic\u0103? Sau deja te pricepi la programe de editare foto/video? Ai talent la desen, pasiune pentru fotografie sau pur \u0219i simplu \u00ee\u021bi dore\u0219ti s\u0103 \u00eenve\u021bi tot ce \u021bi-am enumerat? \u00censeamn\u0103 c\u0103 ai nimerit unde trebuie! La Design & PR \u00ee\u021bi po\u021bi dezvolta hard skillurile \u0219i po\u021bi s\u0103 aju\u021bi la toate proiectele Asocia\u021biei!\n\n![](https://asmi.ro/images/cd/MicahIordache.webp) Micah Iordache Director de departament\n\n![gal-item](https://asmi.ro/images/design/1-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/2-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/3-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/4-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/5-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/6-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/7-design.jpg)\n\n![gal-item](https://asmi.ro/images/design/8-DESIGN.jpg)\n\n![](https://asmi.ro/images/cd/AmeliaRoibu.webp) Amelia Roibu Director de departament\n\n### Educa\u021bional\n\nDepartamentul Educa\u021bional se ocup\u0103 direct de \u00eentreaga interac\u021biune at\u00e2t cu studen\u021bii facult\u0103\u021bii noastre, c\u00e2t \u0219i cu elevi care \u0219i-ar dori s\u0103 urmeze FMI. Noi coordon\u0103m voluntarii din \u00eentreaga Asocia\u021bie \u00een gestionarea proiectelor precum: R\u0103\u021bu\u0219ca, Admiterea, Caravana Educa\u021bional\u0103, Ziua Por\u021bilor Deschise. Cu ajutorul acestora reu\u0219im s\u0103 motiv\u0103m \u0219i s\u0103 oferim ajutor constant studen\u021bilor pentru a le crea o experien\u021b\u0103 de neuitat \u00eentr-una din cele mai semnificative perioade a vie\u021bii lor.\n\nMembrii departamentului dezvolt\u0103 abilit\u0103\u0163i de public speaking, project management, teamwork \u015fi leadership pe care le pot folosi \u00een proiectele Asocia\u0163iei \u0219i nu numai.\n\n\u00cen c\u00e2teva cuvinte, Edu este cu \u015fi pentru studen\u0163i!\n\nDac\u0103 \u015fi tu vrei s\u0103 \u00ee\u0163i aju\u0163i colegii \u015fi s\u0103 \u00eencerci s\u0103 faci anii petrecu\u0163i \u00een facultate mai buni, hai \u00een echipa Edu!\n\n![gal-item](https://asmi.ro/images/edu/1-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/2-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/3-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/4-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/5-EDU.jpg)\n\n### Human Resources\n\nNoi suntem, pe scurt, \u201einima Asocia\u021biei\u201d ! Ne ocup\u0103m de integrarea bobocilor ce ni se al\u0103tur\u0103 \u00een fiecare toamn\u0103 \u0219i prim\u0103var\u0103, astfel \u00eenc\u00e2t ace\u0219tia s\u0103 ajung\u0103 s\u0103 se simt\u0103 cu adev\u0103rat parte din familia noastr\u0103. De asemenea, asigur\u0103m dezvoltarea \u0219i motivarea constant\u0103 a voluntarilor no\u0219tri prin organizarea activit\u0103\u021bilor de socializare.\n\nPe l\u00e2ng\u0103 procesul de recrutare, proiecte precum Marea Ie\u0219eal\u0103, Tre' s\u0103 Caut, chiar \u0219i Petrecerile, sunt organizate de voluntarii acestui departament. A\u0219a c\u0103, dac\u0103 e\u0219ti o persoan\u0103 empatic\u0103, altruist\u0103, \u00ee\u021bi place s\u0103 aju\u021bi, s\u0103 comunici cu oamenii \u0219i s\u0103 organizezi activit\u0103\u021bi, departamentul Human Resources te a\u0219teapt\u0103 cu bra\u021bele deschise!\n\n![](https://asmi.ro/images/cd/Madalina.webp) M\u0103d\u0103lina Moraru Director de departament\n\n![gal-item](https://asmi.ro/images/hr/HR-1.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-2.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-3.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-4.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-5.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-6.jpg)\n\n![](https://asmi.ro/images/cd/MariusManea.webp) Marius Manea Director de departament\n\n### Management & Fundraising\n\nPentru ca un proiect s\u0103 decurg\u0103 cum ne dorim este nevoie de munc\u0103, dedicare \u0219i comunicare, \u00eens\u0103 pentru a crea ceva memorabil este nevoie de un element special, ceva s\u0103 uneasc\u0103 efortul comun \u0219i s\u0103 ne dea aripi viselor. Aici intervin sponsorii no\u0219trii care ne sus\u021bin \u00een \u00eencercarea de a-i ajuta pe studen\u021bi. Noi suntem reprezentan\u021bii externi fiind primii cu care iau leg\u0103tura firmele atunci c\u00e2nd ne ofer\u0103 sprijinul lor. De asemenea noi oferim o voce oamenilor dornici s\u0103 spun\u0103 ce le-a pl\u0103cut \u00een cadrul evenimentelor, dar \u0219i ce trebuie \u00eembun\u0103t\u0103\u021bit, astfel \u00eenc\u00e2t edi\u021biile urm\u0103toare s\u0103 fie din ce \u00een ce mai bune. \u00cen cadrul departamentului vei \u00eenv\u0103\u021ba ce \u00eenseamn\u0103 s\u0103 organizezi un proiect, cum s\u0103 discu\u021bi \u0219i s\u0103 negociezi cu firme mari din domeniul IT \u0219i nu numai, dar \u0219i ce \u00eenseamn\u0103 munca \u00een echipa, gestionarea resurselor \u0219i distrac\u021bia al\u0103turi de colegi. Dac\u0103 te intereseaz\u0103 leg\u0103tura dintre Asocia\u021bie \u0219i companiile partenere \u0219i \u00ee\u021bi dore\u0219ti s\u0103 consolidezi mai departe aceste rela\u021bii, dar \u0219i s\u0103 creezi unele noi, atunci Management & Fundraising te a\u0219teapt\u0103!\n\n![gal-item](https://asmi.ro/images/mf/1-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/2-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/3-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/4-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/5-MF.jpg)",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "Departamente - ASMI"
-    },
-    {
-      "url": "https://asmi.ro/Studenti",
-      "crawl": {
-        "loadedUrl": "https://asmi.ro/Studenti",
-        "loadedTime": "2026-11-11T18:48:23.700Z",
-        "referrerUrl": "https://asmi.ro/",
-        "httpStatusCode": 200,
-        "depth": 1,
-        "contentLengthBytes": 36275,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://asmi.ro/Studenti",
-        "title": "Studenti - ASMI",
-        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "content-encoding": "gzip",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:23 GMT",
-          "server": "nginx/1.28.3 (Ubuntu)"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "Studenti - ASMI\nPREZENT\u0102RI EDUCA\u021aIONALE \nMETODE DE EVALUARE SEMESTRUL II 2025-2026 \nGHIDUL BOBOCULUI \nORARUL TUTORIATELOR \nSTRUCTURA ANULUI UNIVERSITAR\nSem I\nPerioad\u0103\tActivitate\t\n01.10.2026-23.12.2026\tActivitate didactic\u0103 (30 11.2026 Sf\u00e2ntul Andrei, 01.12.2026 Ziua Na\u021bional\u0103 a Rom\u00e2niei -zi liber\u0103) \t\n24.12.2026-10.01.2027 \tVacan\u021ba de iarn\u0103 \t\n11.01.2027 - 24.01.2027 \tActivitate didactic\u0103 (24.01.2027, Ziua Unirii Principatelor Rom\u00e2ne - zi liber\u0103) \t\n25.01.2027 - 14.02.2027 \tSesiune de examene, sem. I \t\n15.02.2027 - 21.02.2027 \tVacan\u021b\u0103 intersemestrial\u0103 \t\nSem II (anii neterminali)\nPerioad\u0103\tActivitate\t\n22.02.2027 - 30.04.2027 \tActivitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) \t\n01.05.2027 - 09.05.2027 \tVacan\u0163\u0103 de Pa\u015fte \t\n10.05.2027 - 06.06.2027 \tActivitate didactic\u0103 (01.06.2027, Ziua Copilului - zi liber\u0103) \t\n07.06.2027 - 27.06.2027 \tSesiune de examene, sem. II (20 \u0219i 21.06.2027, Rusaliile \u2013 zile libere) \t\n01.09.2027 - 05.09.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri de note sem. I \t\n06.09.2027 - 10.09.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri de note sem. II \t\nSem. II (anii terminali)\nPerioad\u0103\tActivitate\t\n22.02.2027 - 30.04.2027 \tActivitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) \t\n01.05.2027 - 09.05.2027 \tVacan\u0163\u0103 de Pa\u015fte \t\n10.05 \u2013 23.05.2027 \tElaborarea lucr\u0103rii de licen\u021b\u0103/ Cercetarea \u0219i elaborarea lucr\u0103rii de diserta\u021bie \t\n24.05 -13.06.2027 \tSesiune de examene, sem. II \t\n14.06-20.06.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri, sem I \t\n21.06-27.06.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri, sem II \t\n02.07.2027 - 04.07.2027 \tSus\u021binere licen\u0163\u0103 \u0219i diserta\u0163ie \t\n11-12.09.2027 \tSus\u021binere licen\u021b\u0103 \u0219i diserta\u021bie \t\nH\u0102R\u021aI ALE PB TOWER \nLa sf\u00e2r\u0219itul fiec\u0103rui an universitar, ASMI \u00eentocme\u0219te Formularul Codului Drepturilor \u0219i Obliga\u021biilor Studentului cu scopul \u00eembun\u0103t\u0103\u021birii vie\u021bii studen\u021be\u0219ti la FMI. Rezultatele colectate \u00een urma r\u0103spunsurilor vor fi prezentate, sub forma unui raport, \u00een cadrul structurilor de conducere ale Facult\u0103\u021bii \u0219i Universit\u0103\u021bii. \nUnul dintre scopurile ASMI este monitorizarea, dezvoltarea \u0219i \u00eembun\u0103t\u0103\u021birea vie\u021bii studen\u021be\u0219ti. Dac\u0103 ai vreo problem\u0103 pe care vrei s\u0103 o comunici \u0219i nu \u0219ti cui, am conceput pentru tine un \"Buton de panic\u0103\" prin care po\u021bi s\u0103 ne sesizezi oric\u00e2nd referitor la mediul stden\u021besc FMI. \nTe rug\u0103m completeaz\u0103 formularul de mai jos, iar noi vom lua leg\u0103tura cu tine \u00een cel mai scurt timp posibil:",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# Studenti - ASMI\n\n##### PREZENT\u0102RI EDUCA\u021aIONALE\n\n##### METODE DE EVALUARE SEMESTRUL II 2025-2026\n\n##### GHIDUL BOBOCULUI\n\n##### ORARUL TUTORIATELOR\n\n### STRUCTURA ANULUI UNIVERSITAR\n\n### Sem I\n\n| Perioad\u0103 | Activitate |\n| --- | --- |\n| 01.10.2026-23.12.2026 | Activitate didactic\u0103 (30 11.2026 Sf\u00e2ntul Andrei, 01.12.2026 Ziua Na\u021bional\u0103 a Rom\u00e2niei -zi liber\u0103) |\n| 24.12.2026-10.01.2027 | Vacan\u021ba de iarn\u0103 |\n| 11.01.2027 - 24.01.2027 | Activitate didactic\u0103 (24.01.2027, Ziua Unirii Principatelor Rom\u00e2ne - zi liber\u0103) |\n| 25.01.2027 - 14.02.2027 | Sesiune de examene, sem. I |\n| 15.02.2027 - 21.02.2027 | Vacan\u021b\u0103 intersemestrial\u0103 |\n\n### Sem II (anii neterminali)\n\n| Perioad\u0103 | Activitate |\n| --- | --- |\n| 22.02.2027 - 30.04.2027 | Activitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) |\n| 01.05.2027 - 09.05.2027 | Vacan\u0163\u0103 de Pa\u015fte |\n| 10.05.2027 - 06.06.2027 | Activitate didactic\u0103 (01.06.2027, Ziua Copilului - zi liber\u0103) |\n| 07.06.2027 - 27.06.2027 | Sesiune de examene, sem. II (20 \u0219i 21.06.2027, Rusaliile \u2013 zile libere) |\n| 01.09.2027 - 05.09.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri de note sem. I |\n| 06.09.2027 - 10.09.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri de note sem. II |\n\n### Sem. II (anii terminali)\n\n| Perioad\u0103 | Activitate |\n| --- | --- |\n| 22.02.2027 - 30.04.2027 | Activitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) |\n| 01.05.2027 - 09.05.2027 | Vacan\u0163\u0103 de Pa\u015fte |\n| 10.05 \u2013 23.05.2027 | Elaborarea lucr\u0103rii de licen\u021b\u0103/ Cercetarea \u0219i elaborarea lucr\u0103rii de diserta\u021bie |\n| 24.05 -13.06.2027 | Sesiune de examene, sem. II |\n| 14.06-20.06.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri, sem I |\n| 21.06-27.06.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri, sem II |\n| 02.07.2027 - 04.07.2027 | Sus\u021binere licen\u0163\u0103 \u0219i diserta\u0163ie |\n| 11-12.09.2027 | Sus\u021binere licen\u021b\u0103 \u0219i diserta\u021bie |\n\n##### H\u0102R\u021aI ALE PB TOWER\n\nLa sf\u00e2r\u0219itul fiec\u0103rui an universitar, ASMI \u00eentocme\u0219te **Formularul Codului Drepturilor \u0219i Obliga\u021biilor Studentului** cu scopul \u00eembun\u0103t\u0103\u021birii vie\u021bii studen\u021be\u0219ti la FMI. Rezultatele colectate \u00een urma r\u0103spunsurilor vor fi prezentate, sub forma unui raport, \u00een cadrul structurilor de conducere ale Facult\u0103\u021bii \u0219i Universit\u0103\u021bii.  \n\nUnul dintre scopurile ASMI este monitorizarea, dezvoltarea \u0219i \u00eembun\u0103t\u0103\u021birea vie\u021bii studen\u021be\u0219ti. Dac\u0103 ai vreo problem\u0103 pe care vrei s\u0103 o comunici \u0219i nu \u0219ti cui, am conceput pentru tine un **\"Buton de panic\u0103\"** prin care po\u021bi s\u0103 ne sesizezi oric\u00e2nd referitor la mediul stden\u021besc FMI.\n\nTe rug\u0103m completeaz\u0103 formularul de mai jos, iar noi vom lua leg\u0103tura cu tine \u00een cel mai scurt timp posibil:",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "Studenti - ASMI"
-    },
-    {
       "url": "https://hackathon.com/city/romania/bucharest",
       "crawl": {
         "loadedUrl": "https://www.hackathon.com/city/romania/bucharest",
-        "loadedTime": "2026-11-11T18:48:23.906Z",
+        "loadedTime": "2026-11-12T11:37:24.832Z",
         "referrerUrl": "https://hackathon.com/city/romania/bucharest",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342414,12 +342338,12 @@
           "content-type": "text/html; charset=utf-8",
           "cross-origin-opener-policy": "same-origin",
           "cross-origin-resource-policy": "same-origin",
-          "date": "Wed, 11 Nov 2026 18:48:20 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:24 GMT",
           "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
           "origin-agent-cluster": "?1",
           "referrer-policy": "no-referrer",
-          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=U%2BtM7%2BrsKc615wHE7mjHdCJ6dOrKQFhU9tNNmO0mHoQ%3D\\u0026sid=c4c9725f-1ab0-44d8-820f-430df2718e11\\u0026ts=1794422900\"}],\"max_age\":3600}",
-          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=U%2BtM7%2BrsKc615wHE7mjHdCJ6dOrKQFhU9tNNmO0mHoQ%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1794422900\"",
+          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=c8D3v%2F0xigV6FgkgzAA91q4yV%2BgQu38G9zHEY7EiPYI%3D\\u0026sid=c4c9725f-1ab0-44d8-820f-430df2718e11\\u0026ts=1794483444\"}],\"max_age\":3600}",
+          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=c8D3v%2F0xigV6FgkgzAA91q4yV%2BgQu38G9zHEY7EiPYI%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1794483444\"",
           "server": "Heroku",
           "strict-transport-security": "max-age=63072000; preload",
           "vary": "Origin, Accept-Encoding",
@@ -342444,10 +342368,47 @@
       "title": "Find & Organize Hackathons in Bucharest, Romania"
     },
     {
+      "url": "https://asmi.ro/Departamente",
+      "crawl": {
+        "loadedUrl": "https://asmi.ro/Departamente",
+        "loadedTime": "2026-11-12T11:37:26.527Z",
+        "referrerUrl": "https://asmi.ro/",
+        "httpStatusCode": 200,
+        "depth": 1,
+        "contentLengthBytes": 32866,
+        "contentType": "text/html; charset=utf-8"
+      },
+      "metadata": {
+        "canonicalUrl": "https://asmi.ro/Departamente",
+        "title": "Departamente - ASMI",
+        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Thu, 12 Nov 2026 11:37:26 GMT",
+          "server": "nginx/1.28.3 (Ubuntu)"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "Departamente - ASMI\nDesign & PR\nDac\u0103 am putea descrie acest departament \u00een dou\u0103 cuvinte acelea sigur ar fi \"Imaginea Asocia\u021biei\". Imagineaz\u0103-\u021bi pentru c\u00e2teva secunde cum ar ar\u0103ta un proiect f\u0103r\u0103 afi\u0219e, post\u0103ri pe Facebook sau pe Instagram. Fie c\u0103 este vorba de Recrut\u0103ri sau Petreceri, f\u0103r\u0103 o promovare ca la carte, lumea nu ar fi atras\u0103 de evenimentele noastre iar informa\u021bia ar ajunge la mult mai pu\u021bini oameni. De aceea, avem nevoie de mult ajutor din partea acestui departament pentru a transmite informa\u021bia \u00eentr-un mod c\u00e2t mai pl\u0103cut \u0219i mai atr\u0103g\u0103tor.\nTe consideri creativ \u0219i mereu \u021bi-ai dorit s\u0103 \u00eenve\u021bi concepte de baz\u0103 \u00een editare grafic\u0103? Sau deja te pricepi la programe de editare foto/video? Ai talent la desen, pasiune pentru fotografie sau pur \u0219i simplu \u00ee\u021bi dore\u0219ti s\u0103 \u00eenve\u021bi tot ce \u021bi-am enumerat? \u00censeamn\u0103 c\u0103 ai nimerit unde trebuie! La Design & PR \u00ee\u021bi po\u021bi dezvolta hard skillurile \u0219i po\u021bi s\u0103 aju\u021bi la toate proiectele Asocia\u021biei!\nMicah Iordache Director de departament\nAmelia Roibu Director de departament\nEduca\u021bional\nDepartamentul Educa\u021bional se ocup\u0103 direct de \u00eentreaga interac\u021biune at\u00e2t cu studen\u021bii facult\u0103\u021bii noastre, c\u00e2t \u0219i cu elevi care \u0219i-ar dori s\u0103 urmeze FMI. Noi coordon\u0103m voluntarii din \u00eentreaga Asocia\u021bie \u00een gestionarea proiectelor precum: R\u0103\u021bu\u0219ca, Admiterea, Caravana Educa\u021bional\u0103, Ziua Por\u021bilor Deschise. Cu ajutorul acestora reu\u0219im s\u0103 motiv\u0103m \u0219i s\u0103 oferim ajutor constant studen\u021bilor pentru a le crea o experien\u021b\u0103 de neuitat \u00eentr-una din cele mai semnificative perioade a vie\u021bii lor.\nMembrii departamentului dezvolt\u0103 abilit\u0103\u0163i de public speaking, project management, teamwork \u015fi leadership pe care le pot folosi \u00een proiectele Asocia\u0163iei \u0219i nu numai.\n\u00cen c\u00e2teva cuvinte, Edu este cu \u015fi pentru studen\u0163i!\nDac\u0103 \u015fi tu vrei s\u0103 \u00ee\u0163i aju\u0163i colegii \u015fi s\u0103 \u00eencerci s\u0103 faci anii petrecu\u0163i \u00een facultate mai buni, hai \u00een echipa Edu!\nHuman Resources\nNoi suntem, pe scurt, \u201einima Asocia\u021biei\u201d ! Ne ocup\u0103m de integrarea bobocilor ce ni se al\u0103tur\u0103 \u00een fiecare toamn\u0103 \u0219i prim\u0103var\u0103, astfel \u00eenc\u00e2t ace\u0219tia s\u0103 ajung\u0103 s\u0103 se simt\u0103 cu adev\u0103rat parte din familia noastr\u0103. De asemenea, asigur\u0103m dezvoltarea \u0219i motivarea constant\u0103 a voluntarilor no\u0219tri prin organizarea activit\u0103\u021bilor de socializare.\nPe l\u00e2ng\u0103 procesul de recrutare, proiecte precum Marea Ie\u0219eal\u0103, Tre' s\u0103 Caut, chiar \u0219i Petrecerile, sunt organizate de voluntarii acestui departament. A\u0219a c\u0103, dac\u0103 e\u0219ti o persoan\u0103 empatic\u0103, altruist\u0103, \u00ee\u021bi place s\u0103 aju\u021bi, s\u0103 comunici cu oamenii \u0219i s\u0103 organizezi activit\u0103\u021bi, departamentul Human Resources te a\u0219teapt\u0103 cu bra\u021bele deschise!\nM\u0103d\u0103lina Moraru Director de departament\nMarius Manea Director de departament\nManagement & Fundraising\nPentru ca un proiect s\u0103 decurg\u0103 cum ne dorim este nevoie de munc\u0103, dedicare \u0219i comunicare, \u00eens\u0103 pentru a crea ceva memorabil este nevoie de un element special, ceva s\u0103 uneasc\u0103 efortul comun \u0219i s\u0103 ne dea aripi viselor. Aici intervin sponsorii no\u0219trii care ne sus\u021bin \u00een \u00eencercarea de a-i ajuta pe studen\u021bi. Noi suntem reprezentan\u021bii externi fiind primii cu care iau leg\u0103tura firmele atunci c\u00e2nd ne ofer\u0103 sprijinul lor. De asemenea noi oferim o voce oamenilor dornici s\u0103 spun\u0103 ce le-a pl\u0103cut \u00een cadrul evenimentelor, dar \u0219i ce trebuie \u00eembun\u0103t\u0103\u021bit, astfel \u00eenc\u00e2t edi\u021biile urm\u0103toare s\u0103 fie din ce \u00een ce mai bune. \u00cen cadrul departamentului vei \u00eenv\u0103\u021ba ce \u00eenseamn\u0103 s\u0103 organizezi un proiect, cum s\u0103 discu\u021bi \u0219i s\u0103 negociezi cu firme mari din domeniul IT \u0219i nu numai, dar \u0219i ce \u00eenseamn\u0103 munca \u00een echipa, gestionarea resurselor \u0219i distrac\u021bia al\u0103turi de colegi. Dac\u0103 te intereseaz\u0103 leg\u0103tura dintre Asocia\u021bie \u0219i companiile partenere \u0219i \u00ee\u021bi dore\u0219ti s\u0103 consolidezi mai departe aceste rela\u021bii, dar \u0219i s\u0103 creezi unele noi, atunci Management & Fundraising te a\u0219teapt\u0103!",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# Departamente - ASMI\n\n### Design & PR\n\nDac\u0103 am putea descrie acest departament \u00een dou\u0103 cuvinte acelea sigur ar fi \"Imaginea Asocia\u021biei\". Imagineaz\u0103-\u021bi pentru c\u00e2teva secunde cum ar ar\u0103ta un proiect f\u0103r\u0103 afi\u0219e, post\u0103ri pe Facebook sau pe Instagram. Fie c\u0103 este vorba de Recrut\u0103ri sau Petreceri, f\u0103r\u0103 o promovare ca la carte, lumea nu ar fi atras\u0103 de evenimentele noastre iar informa\u021bia ar ajunge la mult mai pu\u021bini oameni. De aceea, avem nevoie de mult ajutor din partea acestui departament pentru a transmite informa\u021bia \u00eentr-un mod c\u00e2t mai pl\u0103cut \u0219i mai atr\u0103g\u0103tor.\n\nTe consideri creativ \u0219i mereu \u021bi-ai dorit s\u0103 \u00eenve\u021bi concepte de baz\u0103 \u00een editare grafic\u0103? Sau deja te pricepi la programe de editare foto/video? Ai talent la desen, pasiune pentru fotografie sau pur \u0219i simplu \u00ee\u021bi dore\u0219ti s\u0103 \u00eenve\u021bi tot ce \u021bi-am enumerat? \u00censeamn\u0103 c\u0103 ai nimerit unde trebuie! La Design & PR \u00ee\u021bi po\u021bi dezvolta hard skillurile \u0219i po\u021bi s\u0103 aju\u021bi la toate proiectele Asocia\u021biei!\n\n![](https://asmi.ro/images/cd/MicahIordache.webp) Micah Iordache Director de departament\n\n![gal-item](https://asmi.ro/images/design/1-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/2-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/3-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/4-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/5-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/6-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/7-design.jpg)\n\n![gal-item](https://asmi.ro/images/design/8-DESIGN.jpg)\n\n![](https://asmi.ro/images/cd/AmeliaRoibu.webp) Amelia Roibu Director de departament\n\n### Educa\u021bional\n\nDepartamentul Educa\u021bional se ocup\u0103 direct de \u00eentreaga interac\u021biune at\u00e2t cu studen\u021bii facult\u0103\u021bii noastre, c\u00e2t \u0219i cu elevi care \u0219i-ar dori s\u0103 urmeze FMI. Noi coordon\u0103m voluntarii din \u00eentreaga Asocia\u021bie \u00een gestionarea proiectelor precum: R\u0103\u021bu\u0219ca, Admiterea, Caravana Educa\u021bional\u0103, Ziua Por\u021bilor Deschise. Cu ajutorul acestora reu\u0219im s\u0103 motiv\u0103m \u0219i s\u0103 oferim ajutor constant studen\u021bilor pentru a le crea o experien\u021b\u0103 de neuitat \u00eentr-una din cele mai semnificative perioade a vie\u021bii lor.\n\nMembrii departamentului dezvolt\u0103 abilit\u0103\u0163i de public speaking, project management, teamwork \u015fi leadership pe care le pot folosi \u00een proiectele Asocia\u0163iei \u0219i nu numai.\n\n\u00cen c\u00e2teva cuvinte, Edu este cu \u015fi pentru studen\u0163i!\n\nDac\u0103 \u015fi tu vrei s\u0103 \u00ee\u0163i aju\u0163i colegii \u015fi s\u0103 \u00eencerci s\u0103 faci anii petrecu\u0163i \u00een facultate mai buni, hai \u00een echipa Edu!\n\n![gal-item](https://asmi.ro/images/edu/1-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/2-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/3-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/4-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/5-EDU.jpg)\n\n### Human Resources\n\nNoi suntem, pe scurt, \u201einima Asocia\u021biei\u201d ! Ne ocup\u0103m de integrarea bobocilor ce ni se al\u0103tur\u0103 \u00een fiecare toamn\u0103 \u0219i prim\u0103var\u0103, astfel \u00eenc\u00e2t ace\u0219tia s\u0103 ajung\u0103 s\u0103 se simt\u0103 cu adev\u0103rat parte din familia noastr\u0103. De asemenea, asigur\u0103m dezvoltarea \u0219i motivarea constant\u0103 a voluntarilor no\u0219tri prin organizarea activit\u0103\u021bilor de socializare.\n\nPe l\u00e2ng\u0103 procesul de recrutare, proiecte precum Marea Ie\u0219eal\u0103, Tre' s\u0103 Caut, chiar \u0219i Petrecerile, sunt organizate de voluntarii acestui departament. A\u0219a c\u0103, dac\u0103 e\u0219ti o persoan\u0103 empatic\u0103, altruist\u0103, \u00ee\u021bi place s\u0103 aju\u021bi, s\u0103 comunici cu oamenii \u0219i s\u0103 organizezi activit\u0103\u021bi, departamentul Human Resources te a\u0219teapt\u0103 cu bra\u021bele deschise!\n\n![](https://asmi.ro/images/cd/Madalina.webp) M\u0103d\u0103lina Moraru Director de departament\n\n![gal-item](https://asmi.ro/images/hr/HR-1.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-2.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-3.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-4.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-5.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-6.jpg)\n\n![](https://asmi.ro/images/cd/MariusManea.webp) Marius Manea Director de departament\n\n### Management & Fundraising\n\nPentru ca un proiect s\u0103 decurg\u0103 cum ne dorim este nevoie de munc\u0103, dedicare \u0219i comunicare, \u00eens\u0103 pentru a crea ceva memorabil este nevoie de un element special, ceva s\u0103 uneasc\u0103 efortul comun \u0219i s\u0103 ne dea aripi viselor. Aici intervin sponsorii no\u0219trii care ne sus\u021bin \u00een \u00eencercarea de a-i ajuta pe studen\u021bi. Noi suntem reprezentan\u021bii externi fiind primii cu care iau leg\u0103tura firmele atunci c\u00e2nd ne ofer\u0103 sprijinul lor. De asemenea noi oferim o voce oamenilor dornici s\u0103 spun\u0103 ce le-a pl\u0103cut \u00een cadrul evenimentelor, dar \u0219i ce trebuie \u00eembun\u0103t\u0103\u021bit, astfel \u00eenc\u00e2t edi\u021biile urm\u0103toare s\u0103 fie din ce \u00een ce mai bune. \u00cen cadrul departamentului vei \u00eenv\u0103\u021ba ce \u00eenseamn\u0103 s\u0103 organizezi un proiect, cum s\u0103 discu\u021bi \u0219i s\u0103 negociezi cu firme mari din domeniul IT \u0219i nu numai, dar \u0219i ce \u00eenseamn\u0103 munca \u00een echipa, gestionarea resurselor \u0219i distrac\u021bia al\u0103turi de colegi. Dac\u0103 te intereseaz\u0103 leg\u0103tura dintre Asocia\u021bie \u0219i companiile partenere \u0219i \u00ee\u021bi dore\u0219ti s\u0103 consolidezi mai departe aceste rela\u021bii, dar \u0219i s\u0103 creezi unele noi, atunci Management & Fundraising te a\u0219teapt\u0103!\n\n![gal-item](https://asmi.ro/images/mf/1-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/2-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/3-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/4-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/5-MF.jpg)",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "Departamente - ASMI"
+    },
+    {
       "url": "https://asmi.ro/Elevi",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Elevi",
-        "loadedTime": "2026-11-11T18:48:24.652Z",
+        "loadedTime": "2026-11-12T11:37:27.237Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342465,7 +342426,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:24 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:27 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342481,10 +342442,47 @@
       "title": "Elevi - ASMI"
     },
     {
+      "url": "https://asmi.ro/Studenti",
+      "crawl": {
+        "loadedUrl": "https://asmi.ro/Studenti",
+        "loadedTime": "2026-11-12T11:37:27.339Z",
+        "referrerUrl": "https://asmi.ro/",
+        "httpStatusCode": 200,
+        "depth": 1,
+        "contentLengthBytes": 36275,
+        "contentType": "text/html; charset=utf-8"
+      },
+      "metadata": {
+        "canonicalUrl": "https://asmi.ro/Studenti",
+        "title": "Studenti - ASMI",
+        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Thu, 12 Nov 2026 11:37:27 GMT",
+          "server": "nginx/1.28.3 (Ubuntu)"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "Studenti - ASMI\nPREZENT\u0102RI EDUCA\u021aIONALE \nMETODE DE EVALUARE SEMESTRUL II 2025-2026 \nGHIDUL BOBOCULUI \nORARUL TUTORIATELOR \nSTRUCTURA ANULUI UNIVERSITAR\nSem I\nPerioad\u0103\tActivitate\t\n01.10.2026-23.12.2026\tActivitate didactic\u0103 (30 11.2026 Sf\u00e2ntul Andrei, 01.12.2026 Ziua Na\u021bional\u0103 a Rom\u00e2niei -zi liber\u0103) \t\n24.12.2026-10.01.2027 \tVacan\u021ba de iarn\u0103 \t\n11.01.2027 - 24.01.2027 \tActivitate didactic\u0103 (24.01.2027, Ziua Unirii Principatelor Rom\u00e2ne - zi liber\u0103) \t\n25.01.2027 - 14.02.2027 \tSesiune de examene, sem. I \t\n15.02.2027 - 21.02.2027 \tVacan\u021b\u0103 intersemestrial\u0103 \t\nSem II (anii neterminali)\nPerioad\u0103\tActivitate\t\n22.02.2027 - 30.04.2027 \tActivitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) \t\n01.05.2027 - 09.05.2027 \tVacan\u0163\u0103 de Pa\u015fte \t\n10.05.2027 - 06.06.2027 \tActivitate didactic\u0103 (01.06.2027, Ziua Copilului - zi liber\u0103) \t\n07.06.2027 - 27.06.2027 \tSesiune de examene, sem. II (20 \u0219i 21.06.2027, Rusaliile \u2013 zile libere) \t\n01.09.2027 - 05.09.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri de note sem. I \t\n06.09.2027 - 10.09.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri de note sem. II \t\nSem. II (anii terminali)\nPerioad\u0103\tActivitate\t\n22.02.2027 - 30.04.2027 \tActivitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) \t\n01.05.2027 - 09.05.2027 \tVacan\u0163\u0103 de Pa\u015fte \t\n10.05 \u2013 23.05.2027 \tElaborarea lucr\u0103rii de licen\u021b\u0103/ Cercetarea \u0219i elaborarea lucr\u0103rii de diserta\u021bie \t\n24.05 -13.06.2027 \tSesiune de examene, sem. II \t\n14.06-20.06.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri, sem I \t\n21.06-27.06.2027 \tSesiune de restan\u0163e \u0219i m\u0103riri, sem II \t\n02.07.2027 - 04.07.2027 \tSus\u021binere licen\u0163\u0103 \u0219i diserta\u0163ie \t\n11-12.09.2027 \tSus\u021binere licen\u021b\u0103 \u0219i diserta\u021bie \t\nH\u0102R\u021aI ALE PB TOWER \nLa sf\u00e2r\u0219itul fiec\u0103rui an universitar, ASMI \u00eentocme\u0219te Formularul Codului Drepturilor \u0219i Obliga\u021biilor Studentului cu scopul \u00eembun\u0103t\u0103\u021birii vie\u021bii studen\u021be\u0219ti la FMI. Rezultatele colectate \u00een urma r\u0103spunsurilor vor fi prezentate, sub forma unui raport, \u00een cadrul structurilor de conducere ale Facult\u0103\u021bii \u0219i Universit\u0103\u021bii. \nUnul dintre scopurile ASMI este monitorizarea, dezvoltarea \u0219i \u00eembun\u0103t\u0103\u021birea vie\u021bii studen\u021be\u0219ti. Dac\u0103 ai vreo problem\u0103 pe care vrei s\u0103 o comunici \u0219i nu \u0219ti cui, am conceput pentru tine un \"Buton de panic\u0103\" prin care po\u021bi s\u0103 ne sesizezi oric\u00e2nd referitor la mediul stden\u021besc FMI. \nTe rug\u0103m completeaz\u0103 formularul de mai jos, iar noi vom lua leg\u0103tura cu tine \u00een cel mai scurt timp posibil:",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# Studenti - ASMI\n\n##### PREZENT\u0102RI EDUCA\u021aIONALE\n\n##### METODE DE EVALUARE SEMESTRUL II 2025-2026\n\n##### GHIDUL BOBOCULUI\n\n##### ORARUL TUTORIATELOR\n\n### STRUCTURA ANULUI UNIVERSITAR\n\n### Sem I\n\n| Perioad\u0103 | Activitate |\n| --- | --- |\n| 01.10.2026-23.12.2026 | Activitate didactic\u0103 (30 11.2026 Sf\u00e2ntul Andrei, 01.12.2026 Ziua Na\u021bional\u0103 a Rom\u00e2niei -zi liber\u0103) |\n| 24.12.2026-10.01.2027 | Vacan\u021ba de iarn\u0103 |\n| 11.01.2027 - 24.01.2027 | Activitate didactic\u0103 (24.01.2027, Ziua Unirii Principatelor Rom\u00e2ne - zi liber\u0103) |\n| 25.01.2027 - 14.02.2027 | Sesiune de examene, sem. I |\n| 15.02.2027 - 21.02.2027 | Vacan\u021b\u0103 intersemestrial\u0103 |\n\n### Sem II (anii neterminali)\n\n| Perioad\u0103 | Activitate |\n| --- | --- |\n| 22.02.2027 - 30.04.2027 | Activitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) |\n| 01.05.2027 - 09.05.2027 | Vacan\u0163\u0103 de Pa\u015fte |\n| 10.05.2027 - 06.06.2027 | Activitate didactic\u0103 (01.06.2027, Ziua Copilului - zi liber\u0103) |\n| 07.06.2027 - 27.06.2027 | Sesiune de examene, sem. II (20 \u0219i 21.06.2027, Rusaliile \u2013 zile libere) |\n| 01.09.2027 - 05.09.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri de note sem. I |\n| 06.09.2027 - 10.09.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri de note sem. II |\n\n### Sem. II (anii terminali)\n\n| Perioad\u0103 | Activitate |\n| --- | --- |\n| 22.02.2027 - 30.04.2027 | Activitate didactic\u0103 (30.04.2027 zi liber\u0103, Vinerea Mare) |\n| 01.05.2027 - 09.05.2027 | Vacan\u0163\u0103 de Pa\u015fte |\n| 10.05 \u2013 23.05.2027 | Elaborarea lucr\u0103rii de licen\u021b\u0103/ Cercetarea \u0219i elaborarea lucr\u0103rii de diserta\u021bie |\n| 24.05 -13.06.2027 | Sesiune de examene, sem. II |\n| 14.06-20.06.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri, sem I |\n| 21.06-27.06.2027 | Sesiune de restan\u0163e \u0219i m\u0103riri, sem II |\n| 02.07.2027 - 04.07.2027 | Sus\u021binere licen\u0163\u0103 \u0219i diserta\u0163ie |\n| 11-12.09.2027 | Sus\u021binere licen\u021b\u0103 \u0219i diserta\u021bie |\n\n##### H\u0102R\u021aI ALE PB TOWER\n\nLa sf\u00e2r\u0219itul fiec\u0103rui an universitar, ASMI \u00eentocme\u0219te **Formularul Codului Drepturilor \u0219i Obliga\u021biilor Studentului** cu scopul \u00eembun\u0103t\u0103\u021birii vie\u021bii studen\u021be\u0219ti la FMI. Rezultatele colectate \u00een urma r\u0103spunsurilor vor fi prezentate, sub forma unui raport, \u00een cadrul structurilor de conducere ale Facult\u0103\u021bii \u0219i Universit\u0103\u021bii.  \n\nUnul dintre scopurile ASMI este monitorizarea, dezvoltarea \u0219i \u00eembun\u0103t\u0103\u021birea vie\u021bii studen\u021be\u0219ti. Dac\u0103 ai vreo problem\u0103 pe care vrei s\u0103 o comunici \u0219i nu \u0219ti cui, am conceput pentru tine un **\"Buton de panic\u0103\"** prin care po\u021bi s\u0103 ne sesizezi oric\u00e2nd referitor la mediul stden\u021besc FMI.\n\nTe rug\u0103m completeaz\u0103 formularul de mai jos, iar noi vom lua leg\u0103tura cu tine \u00een cel mai scurt timp posibil:",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "Studenti - ASMI"
+    },
+    {
       "url": "https://asmi.ro/Proiecte",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Proiecte",
-        "loadedTime": "2026-11-11T18:48:24.826Z",
+        "loadedTime": "2026-11-12T11:37:28.191Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342502,7 +342500,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:24 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:28 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342521,7 +342519,7 @@
       "url": "https://asmi.ro/CalendarASMI",
       "crawl": {
         "loadedUrl": "https://asmi.ro/CalendarASMI",
-        "loadedTime": "2026-11-11T18:48:25.537Z",
+        "loadedTime": "2026-11-12T11:37:28.274Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342539,7 +342537,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:25 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:28 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342555,47 +342553,10 @@
       "title": "Calendar - ASMI"
     },
     {
-      "url": "https://asmi.ro/Galerie",
-      "crawl": {
-        "loadedUrl": "https://asmi.ro/Galerie",
-        "loadedTime": "2026-11-11T18:48:26.153Z",
-        "referrerUrl": "https://asmi.ro/",
-        "httpStatusCode": 200,
-        "depth": 1,
-        "contentLengthBytes": 14924,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://asmi.ro/Galerie",
-        "title": "Galerie Foto - ASMI",
-        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "content-encoding": "gzip",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:25 GMT",
-          "server": "nginx/1.28.3 (Ubuntu)"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "Galerie Foto - ASMI\nPrin proiectele noastre r\u0103m\u00e2nem cu cele mai frumoase amintiri",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# Galerie Foto - ASMI\n\n##### Prin proiectele noastre r\u0103m\u00e2nem cu cele mai frumoase amintiri\n\n[![](https://asmi.ro/images/galerie/IMG_3577.png)](https://asmi.ro/images/galerie/IMG_3577.png)\n\n[![](https://asmi.ro/images/galerie/IMG_6153.JPG)](https://asmi.ro/images/galerie/IMG_6153.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_5666.JPG)](https://asmi.ro/images/galerie/IMG_5666.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_1610.JPG)](https://asmi.ro/images/galerie/IMG_1610.JPG)\n\n[![](https://asmi.ro/images/galerie/Copy%20of%20IMG_5414.JPG)](https://asmi.ro/images/galerie/Copy%20of%20IMG_5414.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_6373.JPG)](https://asmi.ro/images/galerie/IMG_6373.JPG)\n\n[![](https://asmi.ro/images/galerie/Copy%20of%20DSC_0893.jpg)](https://asmi.ro/images/galerie/Copy%20of%20DSC_0893.jpg)\n\n[![](https://asmi.ro/images/galerie/IMG_3462.JPG)](https://asmi.ro/images/galerie/IMG_3462.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_5642.JPG)](https://asmi.ro/images/galerie/IMG_5642.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_3591.png)](https://asmi.ro/images/galerie/IMG_3591.png)\n\n[![](https://asmi.ro/images/galerie/IMG_3523.JPG)](https://asmi.ro/images/galerie/IMG_3523.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_7909.jpg)](https://asmi.ro/images/galerie/IMG_7909.jpg)\n\n[![](https://asmi.ro/images/galerie/IMG_5649.JPG)](https://asmi.ro/images/galerie/IMG_5649.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_6078.JPG)](https://asmi.ro/images/galerie/IMG_6078.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_5399.JPG)](https://asmi.ro/images/galerie/IMG_5399.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_7900.JPG)](https://asmi.ro/images/galerie/IMG_7900.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_1695.JPG)](https://asmi.ro/images/galerie/IMG_1695.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_1625.JPG)](https://asmi.ro/images/galerie/IMG_1625.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_5339.JPG)](https://asmi.ro/images/galerie/IMG_5339.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_3505.JPG)](https://asmi.ro/images/galerie/IMG_3505.JPG)\n\n[![](https://asmi.ro/images/galerie/Copy%20of%20DSC_0669.jpg)](https://asmi.ro/images/galerie/Copy%20of%20DSC_0669.jpg)\n\n[![](https://asmi.ro/images/galerie/IMG_3482.JPG)](https://asmi.ro/images/galerie/IMG_3482.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_1011.jpeg)](https://asmi.ro/images/galerie/IMG_1011.jpeg)\n\n[![](https://asmi.ro/images/galerie/IMG_6145.JPG)](https://asmi.ro/images/galerie/IMG_6145.JPG)",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "Galerie Foto - ASMI"
-    },
-    {
       "url": "https://asmi.ro/ButonulRosu",
       "crawl": {
         "loadedUrl": "https://asmi.ro/ButonulRosu",
-        "loadedTime": "2026-11-11T18:48:26.555Z",
+        "loadedTime": "2026-11-12T11:37:29.008Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342613,7 +342574,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:26 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:28 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342629,10 +342590,47 @@
       "title": "ButonulRosu - ASMI"
     },
     {
+      "url": "https://asmi.ro/Galerie",
+      "crawl": {
+        "loadedUrl": "https://asmi.ro/Galerie",
+        "loadedTime": "2026-11-12T11:37:29.026Z",
+        "referrerUrl": "https://asmi.ro/",
+        "httpStatusCode": 200,
+        "depth": 1,
+        "contentLengthBytes": 14924,
+        "contentType": "text/html; charset=utf-8"
+      },
+      "metadata": {
+        "canonicalUrl": "https://asmi.ro/Galerie",
+        "title": "Galerie Foto - ASMI",
+        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Thu, 12 Nov 2026 11:37:28 GMT",
+          "server": "nginx/1.28.3 (Ubuntu)"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "Galerie Foto - ASMI\nPrin proiectele noastre r\u0103m\u00e2nem cu cele mai frumoase amintiri",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# Galerie Foto - ASMI\n\n##### Prin proiectele noastre r\u0103m\u00e2nem cu cele mai frumoase amintiri\n\n[![](https://asmi.ro/images/galerie/IMG_3577.png)](https://asmi.ro/images/galerie/IMG_3577.png)\n\n[![](https://asmi.ro/images/galerie/IMG_6153.JPG)](https://asmi.ro/images/galerie/IMG_6153.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_5666.JPG)](https://asmi.ro/images/galerie/IMG_5666.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_1610.JPG)](https://asmi.ro/images/galerie/IMG_1610.JPG)\n\n[![](https://asmi.ro/images/galerie/Copy%20of%20IMG_5414.JPG)](https://asmi.ro/images/galerie/Copy%20of%20IMG_5414.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_6373.JPG)](https://asmi.ro/images/galerie/IMG_6373.JPG)\n\n[![](https://asmi.ro/images/galerie/Copy%20of%20DSC_0893.jpg)](https://asmi.ro/images/galerie/Copy%20of%20DSC_0893.jpg)\n\n[![](https://asmi.ro/images/galerie/IMG_3462.JPG)](https://asmi.ro/images/galerie/IMG_3462.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_5642.JPG)](https://asmi.ro/images/galerie/IMG_5642.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_3591.png)](https://asmi.ro/images/galerie/IMG_3591.png)\n\n[![](https://asmi.ro/images/galerie/IMG_3523.JPG)](https://asmi.ro/images/galerie/IMG_3523.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_7909.jpg)](https://asmi.ro/images/galerie/IMG_7909.jpg)\n\n[![](https://asmi.ro/images/galerie/IMG_5649.JPG)](https://asmi.ro/images/galerie/IMG_5649.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_6078.JPG)](https://asmi.ro/images/galerie/IMG_6078.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_5399.JPG)](https://asmi.ro/images/galerie/IMG_5399.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_7900.JPG)](https://asmi.ro/images/galerie/IMG_7900.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_1695.JPG)](https://asmi.ro/images/galerie/IMG_1695.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_1625.JPG)](https://asmi.ro/images/galerie/IMG_1625.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_5339.JPG)](https://asmi.ro/images/galerie/IMG_5339.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_3505.JPG)](https://asmi.ro/images/galerie/IMG_3505.JPG)\n\n[![](https://asmi.ro/images/galerie/Copy%20of%20DSC_0669.jpg)](https://asmi.ro/images/galerie/Copy%20of%20DSC_0669.jpg)\n\n[![](https://asmi.ro/images/galerie/IMG_3482.JPG)](https://asmi.ro/images/galerie/IMG_3482.JPG)\n\n[![](https://asmi.ro/images/galerie/IMG_1011.jpeg)](https://asmi.ro/images/galerie/IMG_1011.jpeg)\n\n[![](https://asmi.ro/images/galerie/IMG_6145.JPG)](https://asmi.ro/images/galerie/IMG_6145.JPG)",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "Galerie Foto - ASMI"
+    },
+    {
       "url": "https://asmi.ro/scss",
       "crawl": {
         "loadedUrl": "https://asmi.ro/scss",
-        "loadedTime": "2026-11-11T18:48:27.283Z",
+        "loadedTime": "2026-11-12T11:37:30.029Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342650,7 +342648,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:27 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:29 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
@@ -342669,11 +342667,11 @@
       "url": "https://asmi.ro/bugs",
       "crawl": {
         "loadedUrl": "https://docs.google.com/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA/viewform",
-        "loadedTime": "2026-11-11T18:48:27.590Z",
+        "loadedTime": "2026-11-12T11:37:30.586Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
-        "contentLengthBytes": 104919,
+        "contentLengthBytes": 105138,
         "contentType": "text/html; charset=utf-8"
       },
       "metadata": {
@@ -342726,24 +342724,24 @@
           "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
           "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
           "content-encoding": "gzip",
-          "content-security-policy": "require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt, base-uri 'self';object-src 'none';report-uri https://csp.withgoogle.com/csp/forms/prod;script-src 'nonce-X3IhbP2TTzaYnGfzdA6rTA' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval'",
+          "content-security-policy": "require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt, base-uri 'self';object-src 'none';report-uri https://csp.withgoogle.com/csp/forms/prod;script-src 'nonce-28fCIuukyBbCee_QWkvGZg' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval'",
           "content-security-policy-report-only": "report-uri https://csp.withgoogle.com/csp/forms/prod;frame-ancestors 'none'",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:27 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:30 GMT",
           "document-policy": "include-js-call-stacks-in-crash-reports",
           "expires": "Mon, 01 Jan 1990 00:00:00 GMT",
           "p3p": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
           "pragma": "no-cache",
           "referrer-policy": "strict-origin-when-cross-origin",
-          "reporting-endpoints": "default=\"/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA/web-reports?bl=apps-forms.freebird_20261103.07_p5&app=27&clss=1&context=eJwV12dUFAbWBuBxmLkv0nQoSmcYQAEF6TPAYMlIUVeNmmQoKoqgYolgwd5NYomGqLFkXSsWFP3U4GeSjVETjb1EXY2aYkFFghQBmUGBfffHc-497z3n_r7Xri6gSWFW7LA1Kw7bmxV7OpsVvs5mxfkuZsW8ILOiR5hZsT7crJgWY1bcG2tWvKCOuWaFB_22xKyoJMNasyKN2raYFU5bzYrxN82KIqpqNCtaqKjJrPiUfs1KVzymNyF_K9vo8M_1yhNU-_i1spmeDWxQvqK9kU3Kw2SzrElpT_WTm5VWUidZlI70JM-irKLFqy3Kz6jtklUpl63KjJtW5Vha49yi3EC-u1qU3Uid2aZ0JDtFu9KZKrzbldWUPrddOYZGlnSwyaXQ80qbKOqx1MYmmrw_s7EJpHXPbGw20YPNRtUTai8zqnDYqNpiSFLtpBmbk1Tz6aP8vqrR1M2nnyqcVqb1UxXT2oH9VF9RjwXvqaJpbW-T6isqLTCpjtHQIpPKTKFHTaooennCpKqnsvxkVTmdL0xWXaObp5JVv1Hl82RVHUXEpqgM5D8nRRVJekuqqg9ZJqWpFJPTVPYuA1QuVOI-QGXEQFV_Gjpih9pMM0_uUC8g19c71IE0P2GnejmNatypzqPvaveoz9KkihL1dFo4ZJ_6E_rx1X71dfrO74D6LF3MOKC-SXFlB9R-daXq7qSsOqi2o-RBh9SDqWnwIXUrTblfpp5JA8cdUQ-n00VV6gu0pE-1eiV9_H21uohO_1StvkAv01-p6-n016_UFyijxV5Gk_6Ag_ShlZ0cpZhOfOMop6jghKPMobsnHeVPsu3iJO7kct5JvOjs9k5yidr7OwuSncXziLPoaGi5s5hp_Y_OspuO-bvIdzQix0WyKOUPVxlC9we7yWNKn-smY8hznpvoaPLuLjKD1vzeRTZQlU9XeU2bpnSV7bS7vascJDd_d_GhwenuMoo-OOIuI0l10V0cyLDHQ_pS7WpPaab-xV7yD7ozwFvu065z3lJKn971kXWEMl-pfeArjXTgd185TE-z_ES12E86UpONVlron9DKHjqWoZXv6F6-Vn75VivXqWGPv7ylTx_7yzr6oKdORlJ6L52MIVOqTtIo-1OdTKCsVToZR9ipk05Uf00nb2jmdZ3MpZv0H1Ld0InNTZ3Y0hQqpKQ2nSSTJilAPOjvmQHSQHfnBshDWjwvQFbQwvkBsowyFwRINk27EyCz6dbBQHlCM64EynLa-UWQHKXy34PkB5oY2E0KaLq5m8wjT1Ww6OiMBMtFEqdgcSKTJljSaDIV0OzdwbKYcu8FyxTq9iJYwklbkSARdFWRKO-0iWIqS5RBVHgsUYoo9Hii9KKFtIxWfZMo6-j2EKM8pPuLjPIXpW1KkvcpdVVvGUo_d-wjV2j4uT5ipuxzfWUCaX7tJx50qqqfnKebfU3yiHZNMUkpuc4wiTedmGOSU9R3uUnSKKlLf0mm8Nr-EkezwpLlrnOKnFySIqdpZUmKFJOxIFX60aqZqfIlxZWlSm_SPk6VYPIKT5MAmv0oTRZTdPETMdAnNU9lLfUYXiHRlGKtkCGUcPGZDKRDG57LMQopfS6R5Hnouehobs1zWUSDBr2QEVRx8oW8pODrLySCynIrpZyS5leKtaRSOuytlAenKuUvepT-Up7RE2uVVNFBzd9ynBZG_i3LqWbi37L0ZLWsorjxr6Q3uf32SnzoX8Ya2UvFk2pFU14rHlSjrZM3FDe6TnpTe16dYDyZ66VDer2MOFYvTy7Uywv67I96WUsVxtdSTfojr8VIb4c1iM3wBmk92ijqY40SH94kfSiVBtOHlEXjKJ8KaTYtpk9Iu555TZNMo9m0kD6hNbSBttIu2k_rW5pkM4XefyO9aKOxWbbS8XPN8j15_dIsATTiUrNk0aQ_mmU6BT5tlp40sKJZhtM9-ov2VjbLYTI0NotjtEXcaESsRbKohMrI9NYig2jqO4vMogttFrlBPdstEkNN1EruNlbRUj8aQM9VVqmhGWqrzKdcscoUcrC3iiv91Nkql6nYwypbyDLQKopBVnlcaJWX5Lz2rbhTj0nvJJpOHn8np8kjp1X8af62VllCuv2tEkp2J1rFma7dapVbdLC9VY7Tbq82OUipljYZSomH28VEzv0V8KT8FQp8TLsaFSilXlYF9HRidwecopzWDliVoMQ6Cp5ngwjat02FI1RkEMw6LphH7g0CLT1zsUUVXUyzxTXa9c4W-2nCpI6YSlUtHVFLhR3tMJc2xdthOy2Yb4elNH-tHZZTxBk7GCj3hR0m0_0gezgOsYcLrdxoj3V09Yo9fiVzdwdkU7doB_SkR7cdUEl9KhzwbasDzlC3ds4ohhLoVpoj7pGmuxM8qDHECe9oywsn7CSn105wpR13O6GEams6oZms2s5op10lnRF_rTMK1RrMpcZeGqyK1KCY5g3XYAmZcjRIo-O7NDhJq_5Pgy_p-WUNqknt4wxHKvjCGbMofosLetPIWa4YSzVlrmikzn5ucKOd-W44Sh2WdYGG3j7ogg4Pu8AS1RWK6K74l6krdlOZzh3lNPaIO8ZTXn8PTKXQOR6Iot51Hkih4DxPhNHdJ574kya_8UQh2bd4woWqx3mhntKmeGEw6cO8kURWVx-kdPXBTW8f_DvAB2eobbwPbCb44LbGF09pY7gvttKXEb7YRBZqpezHvsilj-z8MJqCB_jBQLY3_OBIyx76YTUZn_qhPw1TaZFO-TotplEhFZH3NC0Cadk2LVZT7SMtmmnVKy3W0Xhbf3xMy1z8sZKK_P1hE-gP0Mue_qil8xH-uEwrWvzxOW2312EflYbrcJS8TDr4U9IKHZJprzoAJ2js2gDkk9eGAATQw7YAPKadnQNxgIonBOIrOnU7ED9RuTIIP_yPcxDO0ZuDQWijlDNBGESvbgWhiTxCusGf8ou7oZC-LuyOHfTZte74gnIigjGRqgtDUE-bVoTgn_Ti8xBU0_0vQ_AnbSwJwTZa_kMI1tCoeyHIoczGEGSTY0sInGlNRiiK6WlhKOIfhaI3rX8Xiq9paVwPVPXrgVq6PLUHbtDPJT1wicZE9kT3iDD0og1xYdhKzSlhuJQahuuknxYGIxnWhaE3pdA_KIcmUgEV0SJaQfsCw_H_tHJjOIqpOaoX3tH69yKwmd7kRuAteT6JgI40byPgQbejIvGQpm2KRBHlvozEZDrUEImfmyNxkf5sjcRTehgdhUdUFxMFCxn1UTDR6MdRyCNrVRTaaIAhGsNoFOXS2VnR2LooGtspuiUaBgr2jYGBfLbEQEfGKzHoT5a3MVC8i8GHjrHIohqnWDSSU6dYuJLeNxZhMbGIIpsRsehIC2gZraZi2kLbafiUWGRS1YZY1NHAi7EYSqYHsUijTPs45NBfXePwnJ56x6GRvg-Iw1naHhWHvXS0MA4-e-MQQFXn41BL5itxGEX9OuiRQnPs9FhIwaF69CK7IXp0opnD9ZhP18bp8R86V67HJfL6Vg8tNTToYaUdbXqU0C2tAfcoIMiAzpEGuJFdogEamjTagALaf8AA22cG9K83YEeDgRd4PIKoLCke5fTBsHjk0fr8eOyl6MXxSKDCmnh0cU6AF1XHJqCBdo5MwD5asDoBS2lYSQLMdPJIAk5T4a0E1D1NQBMpFYmwo9aRiVCNSkTPRYmIpHOlibhCFQcTUUXl1xLxPekVRrjwQ3SnSkcjXlGNxogGCnYzIoLO-RtxifoGGjEu2Ij2GUaoZhqxYpkRn9ONzUbcoZWlRqwjh8NGaCjrphFjSHvHiCBy_cMID8p6zj10pFMSviFLdBIUMUmYmMT6YRLUtI120eM56XhBs-an4-qhdNyh9uPpcPkmHWv-nY5iSriaDofGdKzXZeCwPgMOszOgoSl7M1BI3pcyoKOWmgyoajNQY8lAA5kVmRhJkpoJexoyNBOjqeD9TCyhrVRKPbIzEUGW3Ey0UvGiTGyii-czcY0W3s_EchpSkoUP_udkFjJpgTUL2V4j8Z7PSPS8MRLRdNx9FCzUSlk9R2Es_VI4Clcpp-toTKKGSdmw0LXPs3GbyraNwTE6EzcW52ngjhy8T5dOjsOvdKJ7Lm7pc_GABi_IxYf0cE0uHtGCG7lYRj8uykP50PFwdrB9W3frnnT-rfRGbQdP24_y82anTJs-VacbW1AwI2w82xnh46fn5eXkT8_NjoqIiouMjIgOj9BnF8T-F9UvNDc&build-label=apps-forms.freebird_20261103.07_p5&imp-sid=CLX26J_KgJgDFUX3SgAdpnYBag&is-cached-offline=false&wcrumsspbp=true\"",
+          "reporting-endpoints": "default=\"/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA/web-reports?bl=apps-forms.freebird_20261108.08_p0&app=27&clss=1&context=eJwV1_db04cWBvAvITkHWRKWbJMAypadAEHlhqVWvY4apjgAxVHBgQMn2rqqUrVWe71O3OBFiqXtrVorVlFRqq1Wba0oAiJTwCQocN_7w-c55znjD3hNt3j0CFrhsIlWKDXTCsettIKbtVa4bq8VVnlqBV9_rbA7QCssCtUKj2ZqhUYYlKkVHOGP9VqhCVQ7tEIi9O_XCpYHtEJ2rVbIh-ZurdAL-T1a4TP4NTVJqIN33m9E_VB6rVN0Edrr3op08Gpsl6gVTgT1iErBuLBHZAad83UiA0ii9SILeJGlFzXDum160WborzaI6JZBlFxrEM2E7da9oj3gdrRXNAwkKf0iCzAVBkTWUO8yIGqBpJUDohmQVmxknAk-10XGweC7wdg4BFw2Gxt7wM5Xxsb74MlXavELGFSqFkthvypafASWfBUtLoBpOaPF0yHQNUasgi2JMeIi2DE2Rvwl-K7-hzgEdozUiL-EM7ka8QWYmK8Ra8GnTCMOhtcXNeJOKMmJE1fA9bw4cQ3UXooT_wFNDXHiDggMixerQL4iXhwESn2CeBTo5yWKhfmJYjObMWIbKHYYI1bzWHEsTJxyWKKFpZWHJavB9u1hiQcURB6RbIT07iOSLPi-_bjkKsyrL5YshjUTTko-hcutpyR34fuhpyVX4WbyaUkthJecloiaz0pMIW7cOcl46Bl_TtIHCx6XSJbC2NnnJZPhSn6z5AasH9Ui2QKf_NAiyYcrP7dIbsDrpFZJJ1z5ulVyA5J7zWg6KE-b0yjYMtiCiuDiNxZ0CXIvWtAKeFhpQc_AxN6SHMDmuiU5w9VDg6kaBmKtieOsyem8NSlgYoU1aWH3ZWs6BhfkNvQ9TJllQ6kQ_5ctTYDH4-2oDpJW2tEMcFplRwqYf8yelsD2P-1pDxTTECqBZtch9Bb2LRhCh-DYwBA6C3ZyB3KF8UkOlA5TzztQGohvOpA5qI470mho3-ZEOogtcqaP4LcxLvQYjla50Bn47KEr7QQucaP2J27UDaf_dKNSeJk6lMTrhtIg6DGWUS_8i2V0HC4ky-h7eJQjo1--k9Fd6Doup_fwWZ2cdsJUPwWlQdIIBc0ATYKCEiHjMwXNgdStCpoNfERBg6GzRkHvYOldBa2EWvgdxPcUZFyrIBNYAHkQ3a-gOJBGu5MjvFnqTl3wcKU7PYV1q9xpE6wpcKdCSFntThmw6Dd3Wg73z3rQC1hy24M2wpFdnlQGFX960o8w12MY5cJi7TBaBU5iL1LAPYkXPYKfyItuAll6kSVopF6UCPMhF5Yf86J1kPnIixbAsEYvCgBZfSQFwh0hij7IokhTEkXjIO9CFOWDT3kUjYA1UAhbv4minfBggpqewvO1amqAxH3R9E9I2DqSJsK1QaPoNkyuGkVayKgaTXNA-msMOcKl5hi6DrWjNfQcji7Q0BmwXaIhF7i4QkOXYPRGDSVCtH0sxUFAeyyFwzL_OHpoHU-V6-PpCmwpjqciUOcmUAxsXZpAX0B4SQKNBFldAnmBc0AiucPy54m0DkKKXpAKPm17STvAd3I9hUC8oZ4mQOTNVzQWzu1poAvgfaaBgsDpXAMpYGVbA62FceMaaQrUVzbSa_C620iBUJLZRBUQXdBEhuImMjrRRE8uNdHf8DzpNb2CF4Zmaoaz0jdUDmuC3tBGaJv7hjZUttBWCM9upZFg90crucK_1W10AormtZO0op0cQS_rIEHeQeHTO2gkDGR1EGeDtpOMkjppyoVOenGjkxph81-dtAPq1W-pBZTn35Ia3k_qIuPJXdRX1k2SC90UEdBDoyABxsPHkAqzIQfyYDmsg09Bthvzth5aBMthDXwK22EPHICjcAp29_bQV-Dz-B2NgL1qHR2A8iod_QDOv-jIHSbc1NE0mFKto1SY95eOFsO3L3R0GTxe6sgPxtbraDI8gr_hRJOOSkHVraMyKz19BxYherKDKWF6SoViKAHNez2Ng4Uf9LQMbvTr6R74DegpFHqgDzYbGWgXOBgbSAYxMAYaxAZqgyUSAxVAJhloAZibGcgWfrYy0C0ocjTQftCPNZAwzkB1eQZ6Db7zPlAIVJZ_oCvgOKuP5FBwsI_Wg-JUH_mA6cU-soaa-310H84O9FE5HHPup7OQoO-niRBVOkAasI4V2AlyNgn8CRztFvgMjDAIrISLx4z4EszqM-KtkSLeCV6rjDkQTh4U83nIVxEvKydeBQ5dxDJ4ZWPCzXAz0YRr4OgHEz4Fc-YN4oXQ3DuI2yFvkCmvhH0RpnwIVheY8gYo2GHKGyHwJ1NWQWajKc-Hx55mbDHBjG1gy14z3gl3bpvxr6Adbs4ZMCzEnP3g-QNzboJR9eb8c58534JhA9hBKETC_UQLfgTS4ZbsCN3elvwB9jda8hGwfGvJtnD44WAuhva2wawDg8yKB-BosRVH1FhxgUTKG6F7hJS_CJLyflg1WcrrQTNLyolQflTKlbD1P7iBhltSbgGJqzVbQMR-Gx4JactseSZc3WXL1dBWYsvdYDXUju3gSI4dl4FRoT1L4f0TezZ6as_64CEshAzhf2uG8DEoUThwBcw878DZkBXryAvBZ4UjB8PIDkeOB68sJ_aHhy-c-BlMe-fEaWDW68Q2kLjAmceD0t-Fo8Fg68rxQ1y51sWV_-vuyj9Bf7YrG89x5QdSN34JewPc-AB8EejG-0APfZBR58aZMM10KE8HrzFDWQUm94ayBRQ-HcrbQP1yKMfCJLGMkyBHIeNFkAf54LJIxh5QeFDG26D9uYx1sLVVxjsh20TOn0ChjZy3QL5czsYecmZ47SfndrgeKOdbsKlXzp_DITMFn4QzAQouA2eNguUQvUnBcTBzhzvngPMed3aHp_3uXAdHrDz4NBTN8eAv4dIDD_4ZKkSe_OP_WXtyFbw768n9EP-TJ4-D1vue3AOO3sNYDjlFwzgPvs4bzodhc81w3gWzAr14LrTkeXMn7Nvkzf-Cxs-9uQUef-HNz2BvsTcfhI0_evN2SH_kzbNgarc3J4NFrzdbw_ZkHy6Cl3k-HPHch0fC7g8-_DVsCPfl5hhfbodbC335Hlwr9uVqmBHkx8MD_XkE7An35wOgi_fn6gR_vgvKRf6shvid_vwRzIK5kAv5sBY2wUmPAP4WtuwN4CLQBY_gD_AuM5Dfg9OLQFaA9H0gO8KD4CB-Cov2BXE-6C4F8QBkvg7i-XCuK4iv6YL4JjzrC-KX8DQkmJ9DR2gw60GtDGYNTK8L5iwwNAdzP4xRhfAkSIdMuLoshA-sDeFDENIbwirwcgtlFbjuD2UFqG-Hcizo34ey8CGUP7YI41RoswzjbrAcHMa2oHQLY__QMA4G4ylhPAhWQyFsgyLYD4dg8oIwToHmPWHcAWNvhvFE0DwJ40RIMQvnWfD3kHBugJcu4dwNP7iH81Uoywtn1xPh7A7N18O5HWKMlBwPK0yVvAbkPkoeDksnK7kAamYr-XeoqlByNTh_p2QZdHUp2QCH-5VcDPdlKn4E7p4qtgpSsR2YRqlYCvOmqzgXTp1WsckrFcd2qvhwl4obhQhuBRlFsCeUREdwBUydFMFZsDsngk9AyLoIjoS8tgi-3BHB18DeOpKdoSUskrvgSFokn4TV2yJ5A0wqjmQtVJ6P5CuQdz-SO15Gcg-IhCg2hb60KBanR7Hf2igOgqozUXwb6s9GcTNU1ETxD6AU1GyDhOgATRZqboU2qZq7INhOzZFQJVdzNYz2UPNsLzUPLFGzeKmaNxWq-XPYckbNO8G8VM3Ixpxaq-YZIPtNzZ5g-5eaHSG1Af9wfnA0fwP6kGgWQqN5bjTqx9EsgYNwFOpWJHEjLCtI4jvnkvg3GChPYptvkjjyThKbdyfxbkUylyqT2Xx5MkthwYlkzgOX6mRWQG9bMovbk7lNn8xdoBVSOA3ME1JYChMmpvB0yP1nCq-HA3AGfDNSOBD0mSncB0VrU3gf3LyewjWw5nEKbwQz21SWwoTiVJ76f5WpnAKrDamc4ZzG_3BNY797aRwC5Q7prIc-SPVL55nwS14634H4Z-n8EXTNy2A91HyewQ-g5OAMvgCd52bwO7glmsm1cGXXTK6C6srZ_CsoX81mNZQZZvO3cHF4Jv--PZOfwOp7mVwIp1syuRTGd2XyFLi8NosrJmbztHXZnArW5ia91Q8fkVXZ5X3NRk4m03KylscvWrxQoZiZm7vEPxvtkoDsxVlZs3IWZ2YEBwaHBwUFqgICVRm5gf8DEDJGbw&build-label=apps-forms.freebird_20261108.08_p0&imp-sid=CJO2--SrgpgDFfSBIwAdu2YaFg&is-cached-offline=false&wcrumsspbp=true\"",
           "server": "GSE",
           "x-content-type-options": "nosniff",
           "x-robots-tag": "noindex, nofollow, nosnippet",
           "x-xss-protection": "1; mode=block",
           "set-cookie": [
-            "S=spreadsheet_forms=H80vJnmlqnfuDT26zWbWyBNwA3oXK-eDnDdfUa9Swao; Domain=.docs.google.com; Expires=Wed, 11-Nov-2026 19:48:27 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
-            "COMPASS=spreadsheet_forms=CjIACWuJV8T0CF0Es5H7KpGO91SpDLZvfLFLDkFjT5UpJRyBKmZW-wTo5FVfZW29IO6CORCLjdPXBho0AAlriVecBDyqz67k5ORZE0KRKaaviFMIlADEZN-vzcp8kbp2jdUjzxugtOc4U2UMR5I6IA==; Domain=.docs.google.com; Expires=Wed, 11-Nov-2026 19:48:27 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
-            "NID=CukBCAESmwEBM9Agl6QaNRSKTG6d1aoQ7ufRAbSdknSa-Dgiq4mCpdpBqvfYikAqX8xlzsBmG2LDTai9vSjZcNn28P-VHA5kdOj0AzwUPJ4R3sBDgc6uU1G6MgP_zhdEw1Fuu1UCk1MDu6Z_DZUD8yD7jYB_4W3oPqNHuvvZb40bL0KpgijSmjSHRQcgoogWp8VdC3CEhM3OliE0T6uYrXJ4JSgBMkUBcEpCz3YmLtiJlY_hnH1Q170XidoLLFkgbMxkCMVxnjORaiNNUzNFs3Tud2Y693tnTavzMPTxnsKQYvkk_yS8LnH3oQQ; expires=Thu, 13-May-2027 18:48:27 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none"
+            "S=spreadsheet_forms=K9imyT3PtFQ4AWQ5UGh8_qU6rEILyMen2nQ8ncsXk2I; Domain=.docs.google.com; Expires=Thu, 12-Nov-2026 12:37:30 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
+            "COMPASS=spreadsheet_forms=CjIACWuJV2Qlml_6HAQExeyoNvG-ftzEGe3biTm48h9dZOjbCC1E2yG3Q3FSrb4rquTFsxCK5tbXBho0AAlriVch2Ez_8qeS_sYzwgnOYfioEKKVBI_r8iiz-iha53zDrYiK4hgmDyHz0BXyyBuDsw==; Domain=.docs.google.com; Expires=Thu, 12-Nov-2026 12:37:30 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
+            "NID=CuYBCAESmAEBM9Agl0OXK1mnV_gDGD7NcbQtCtV64mNwXvM6JtjrtDPHq1S4kUc9405-_4uu93G3P2qHp-P0sL388q8ncY9CGgMr-tT-G4NRMi8sL5vPL9wmHHqEyAexw909edRZMj7tHzekoVpkismF-gXY77czuhhrijAkjObzwAv21ZY64jWNRNrMVLqyQDUyG2g_R-EB2tCeaH7OMygBMkUBcEpCzyGxJnAzZULDi8rygCTztoFnO8uZJC3pUpwjX8TkuiTrnqBLfyexmfGS4ZPpas3IgiJzhc1UN-yYAOgyB4mLgwc; expires=Fri, 14-May-2027 11:37:30 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none"
           ]
         }
       },
@@ -342762,7 +342760,7 @@
       "url": "https://thebucharesthackathon.com/schedule.html",
       "crawl": {
         "loadedUrl": "https://thebucharesthackathon.com/schedule.html",
-        "loadedTime": "2026-11-11T18:48:28.259Z",
+        "loadedTime": "2026-11-12T11:37:30.826Z",
         "referrerUrl": "https://thebucharesthackathon.com/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342815,21 +342813,21 @@
           "content-encoding": "gzip",
           "content-length": "3037",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:28 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:30 GMT",
           "etag": "W/\"698c6c45-3259\"",
-          "expires": "Wed, 11 Nov 2026 18:58:28 GMT",
+          "expires": "Thu, 12 Nov 2026 11:47:30 GMT",
           "last-modified": "Wed, 11 Feb 2026 11:47:17 GMT",
           "server": "GitHub.com",
           "vary": "Accept-Encoding",
           "via": "1.1 varnish",
           "x-cache": "MISS",
           "x-cache-hits": "0",
-          "x-fastly-request-id": "0c700b3d4185d1f395669e54b1cce45c31824e35",
-          "x-github-edge-region": "iad",
-          "x-github-request-id": "F00C:397FAB:854C5C:908B9B:6AF4B87B",
+          "x-fastly-request-id": "bae9934f5dfe190b085e6fb92422548411284199",
+          "x-github-edge-region": "swedencentral",
+          "x-github-request-id": "0BCA:243477:12CFE0:14C1F8:6AF5A4F9",
           "x-proxy-cache": "MISS",
-          "x-served-by": "cache-dfw-ktki8620043-DFW",
-          "x-timer": "S1794422908.983569,VS0,VE56"
+          "x-served-by": "cache-bma-essb1270046-BMA",
+          "x-timer": "S1794483451.614182,VS0,VE135"
         }
       },
       "screenshotUrl": null,
@@ -342847,7 +342845,7 @@
       "url": "https://asmi.ro/Articole",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Articole",
-        "loadedTime": "2026-11-11T18:48:35.280Z",
+        "loadedTime": "2026-11-12T11:37:38.967Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342865,7 +342863,7 @@
         "headers": {
           "content-encoding": "gzip",
           "content-type": "text/html; charset=utf-8",
-          "date": "Wed, 11 Nov 2026 18:48:22 GMT",
+          "date": "Thu, 12 Nov 2026 11:37:25 GMT",
           "server": "nginx/1.28.3 (Ubuntu)"
         }
       },
