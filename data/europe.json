@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-12T13:35:33.468607+00:00",
+  "updated_at": "2026-11-13T12:54:30.139568+00:00",
   "hackathons": [
     {
-      "name": "Coffee & Build | Mobile App Hackathon",
+      "name": "Cambridge EduX Hackathon 2026",
       "organizer": "Luma",
-      "url": "https://lu.ma/aiafter5-vp68",
+      "url": "https://lu.ma/6sv64tnt",
       "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
+      "location": "Cambridge, Cambridge, United Kingdom, United Kingdom",
       "format": "in_person",
       "start_date": "2026-11-13",
       "end_date": "2026-11-13",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:0fa6f2b0758dbc74"
+      "uid": "hk:85e33dc7e15afd87"
     },
     {
       "name": "Hackathon Eve: How We Build with Agents",
@@ -52,19 +52,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:c033eeb3a4f5dd05"
-    },
-    {
-      "name": "Game Jam Karlsruhe",
-      "organizer": "Luma",
-      "url": "https://lu.ma/wneibucy",
-      "source": "luma",
-      "location": "Karlsruhe, Karlsruhe, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:6618118774a20a31"
     },
     {
       "name": "Game Jam Munich",
@@ -283,19 +270,6 @@
       "uid": "hk:bed6ff8e5da4ecf4"
     },
     {
-      "name": "AI Mobile App Hackathon · Leicester",
-      "organizer": "Luma",
-      "url": "https://lu.ma/elqavxbw",
-      "source": "luma",
-      "location": "Leicester, Leicester, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-18",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:d6c9c78b873c0c55"
-    },
-    {
       "name": "Jev Mini Hackathon",
       "organizer": "Founders and Coders",
       "url": "https://www.meetup.com/founderscoders/events/317355769/",
@@ -348,6 +322,19 @@
       "uid": "hk:43ebd61216c050d0"
     },
     {
+      "name": "Le Chonk in London - Mistral Vibe Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/le-chonk-in-london",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:3bfcab062f5ba32d"
+    },
+    {
       "name": "November Mini Game Jam 2026 (starting 11:45 at SAE)",
       "organizer": "Game Developers Berlin",
       "url": "https://www.meetup.com/game-developers-berlin/events/317274796/",
@@ -391,19 +378,6 @@
       "uid": "hk:9278612781776c0b"
     },
     {
-      "name": "#42 - Vultr Agent Runtime Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/stockholm-nn3n",
-      "source": "luma",
-      "location": "Stockholm, Stockholm, Sweden, Sweden",
-      "format": "in_person",
-      "start_date": "2026-11-27",
-      "end_date": "2026-11-27",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:c1b40877da7399bb"
-    },
-    {
       "name": "Codex Community Hackathon – London",
       "organizer": "Luma",
       "url": "https://lu.ma/pq9gt2z0",
@@ -417,6 +391,19 @@
       "uid": "hk:a2fe0fd67dcf4c5a"
     },
     {
+      "name": "Codex Community Hackathon: Aalen",
+      "organizer": "Luma",
+      "url": "https://lu.ma/d4rlixh2",
+      "source": "luma",
+      "location": "Aalen, Aalen, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:c2b155ee31c48b3d"
+    },
+    {
       "name": "Launch Day Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/fg1lny5k",
@@ -428,19 +415,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:bc4226231c75ce98"
-    },
-    {
-      "name": "No Slop Allowed: A Creative Harness Hackathon by 36 Labs",
-      "organizer": "Luma",
-      "url": "https://lu.ma/x0qhqiyl",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-11-28",
-      "end_date": "2026-11-28",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:82c41147b2b78851"
     },
     {
       "name": "12th CASSINI Hackathon - EU Space for Peace and Resilience",
@@ -498,6 +472,19 @@
       "uid": "hk:1200a8799caba9a2"
     },
     {
+      "name": "A51 AI x Bio Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/pc12oeyn",
+      "source": "luma",
+      "location": "Paris, Paris, France, France",
+      "format": "in_person",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-02",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:76ba09d2ac483886"
+    },
+    {
       "name": "Finance Engineer Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/umg16123",
@@ -509,6 +496,32 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:f31c79495e2beff3"
+    },
+    {
+      "name": "Charity Tools Hack Day #1",
+      "organizer": "Luma",
+      "url": "https://lu.ma/o0nte22k",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-04",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:ea16a0ef59d03afa"
+    },
+    {
+      "name": "Commit Athens 2: a free evening hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/a2wqs1l3",
+      "source": "luma",
+      "location": "Athina, Athina, Greece, Greece",
+      "format": "in_person",
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-04",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:82b8d08155dbf6d6"
     },
     {
       "name": "Arctic Express Hackathon",
@@ -535,6 +548,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:4a19a75827b4c4d5"
+    },
+    {
+      "name": "Cursor Hackathon Vienna",
+      "organizer": "Luma",
+      "url": "https://lu.ma/spacexai-vienna",
+      "source": "luma",
+      "location": "Wien, Wien, Austria, Austria",
+      "format": "in_person",
+      "start_date": "2026-12-18",
+      "end_date": "2026-12-18",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:7bd901e29857dfb3"
     },
     {
       "name": "ETHGlobal Cannes 2027",
