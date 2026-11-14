@@ -1,21 +1,6 @@
 {
-  "updated_at": "2026-11-13T12:54:30.139568+00:00",
+  "updated_at": "2026-11-14T11:58:22.213830+00:00",
   "hackathons": [
-    {
-      "name": "NASA Space Apps Challenge 2026 - Local Ottawa Event",
-      "organizer": "eventbrite.ca",
-      "url": "https://www.eventbrite.ca/e/nasa-space-apps-challenge-2026-local-ottawa-event-tickets-1993462104818",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-13",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:0a99a7f391071358"
-    },
     {
       "name": "UiPath Future Forward Hackathon in Bucharest, November ...",
       "organizer": "facebook.com",

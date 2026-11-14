@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-11-13T12:54:30.139568+00:00",
+  "updated_at": "2026-11-14T11:58:22.213830+00:00",
   "hackathons": [
-    {
-      "name": "Cambridge EduX Hackathon 2026",
-      "organizer": "Luma",
-      "url": "https://lu.ma/6sv64tnt",
-      "source": "luma",
-      "location": "Cambridge, Cambridge, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-13",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:85e33dc7e15afd87"
-    },
-    {
-      "name": "Hackathon Eve: How We Build with Agents",
-      "organizer": "Luma",
-      "url": "https://lu.ma/xx7msf8o",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-13",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:209e644c879426f4"
-    },
-    {
-      "name": "Hustle Hours x Gen AI Summit Hackathon Pre-Party",
-      "organizer": "Luma",
-      "url": "https://lu.ma/ki4ckvc7",
-      "source": "luma",
-      "location": "Athina, Athina, Greece, Greece",
-      "format": "in_person",
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-13",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:40bbc9c861a574ee"
-    },
     {
       "name": "Building Better Worlds Hackathon",
       "organizer": "Luma",
@@ -52,6 +13,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:c033eeb3a4f5dd05"
+    },
+    {
+      "name": "Game Jam Karlsruhe",
+      "organizer": "Luma",
+      "url": "https://lu.ma/wneibucy",
+      "source": "luma",
+      "location": "Karlsruhe, Karlsruhe, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:6618118774a20a31"
     },
     {
       "name": "Game Jam Munich",
@@ -108,23 +82,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:c1b399e970eff8f9"
-    },
-    {
-      "name": "WiseStart 2026 Hackathon: Tallinn",
-      "organizer": "WISE",
-      "url": "https://wisestart-2026-tll.devpost.com/",
-      "source": "devpost",
-      "location": "Wise Tallinn",
-      "format": "in_person",
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-14",
-      "registration_deadline": "2026-11-14",
-      "tags": [
-        "Open Ended",
-        "Fintech",
-        "Beginner Friendly"
-      ],
-      "uid": "hk:8c8cdd80f04be6b4"
     },
     {
       "name": "DurHack",
@@ -231,6 +188,19 @@
       "uid": "hk:7620223a9d48614f"
     },
     {
+      "name": "QRT x CompSoc C3 Coding Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/m38is3bl",
+      "source": "luma",
+      "location": "Edinburgh, Edinburgh, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-16",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:420ab9c531b894fa"
+    },
+    {
       "name": "BERLIN - Entrepreneurship Festival - Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/gqhcqzo8",
@@ -296,17 +266,17 @@
       "uid": "hk:8a251f11ad19d25d"
     },
     {
-      "name": "Making Sense - OxAI Hackathon",
+      "name": "AI Builders × commIT | Hack Day Berlin 2026",
       "organizer": "Luma",
-      "url": "https://lu.ma/e4wrrck2",
+      "url": "https://lu.ma/ber-nov20-hday",
       "source": "luma",
-      "location": "Oxford, Oxford, United Kingdom, United Kingdom",
+      "location": "Berlin, Berlin, Germany, Germany",
       "format": "in_person",
-      "start_date": "2026-11-13",
+      "start_date": "2026-11-20",
       "end_date": "2026-11-20",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:1af32b0340692276"
+      "uid": "hk:a4a7e7133d8c0600"
     },
     {
       "name": "IXH26 Italian XRPL Hackathon",
@@ -333,6 +303,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:3bfcab062f5ba32d"
+    },
+    {
+      "name": "Lund AI Society x Everi Labs x node.vc Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/3hxwl49j",
+      "source": "luma",
+      "location": "Lund, Lund, Sweden, Sweden",
+      "format": "in_person",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:7cccfb329216e377"
     },
     {
       "name": "November Mini Game Jam 2026 (starting 11:45 at SAE)",
@@ -376,6 +359,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:9278612781776c0b"
+    },
+    {
+      "name": "THE €5K BUILD & LAUNCH HACKATHON",
+      "organizer": "Luma",
+      "url": "https://lu.ma/613ahsn2",
+      "source": "luma",
+      "location": "Berlin, Berlin, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:d5295261a8621572"
     },
     {
       "name": "Codex Community Hackathon – London",
