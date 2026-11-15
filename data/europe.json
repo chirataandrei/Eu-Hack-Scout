@@ -1,88 +1,6 @@
 {
-  "updated_at": "2026-11-14T11:58:22.213830+00:00",
+  "updated_at": "2026-11-15T12:33:27.194392+00:00",
   "hackathons": [
-    {
-      "name": "Building Better Worlds Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/rrnm4pul",
-      "source": "luma",
-      "location": "Wien, Wien, Austria, Austria",
-      "format": "in_person",
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-14",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:c033eeb3a4f5dd05"
-    },
-    {
-      "name": "Game Jam Karlsruhe",
-      "organizer": "Luma",
-      "url": "https://lu.ma/wneibucy",
-      "source": "luma",
-      "location": "Karlsruhe, Karlsruhe, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:6618118774a20a31"
-    },
-    {
-      "name": "Game Jam Munich",
-      "organizer": "Luma",
-      "url": "https://lu.ma/kobeckgo",
-      "source": "luma",
-      "location": "München, München, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:c829e8d15444e279"
-    },
-    {
-      "name": "Hackathon Open Data 🏛️",
-      "organizer": "Luma",
-      "url": "https://lu.ma/ardao19g",
-      "source": "luma",
-      "location": "Paris, Paris, France, France",
-      "format": "in_person",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:12c386b0fc06fb02"
-    },
-    {
-      "name": "Unfair Weekend 2026",
-      "organizer": "ISM University",
-      "url": "https://unfair-weekend.devpost.com/",
-      "source": "devpost",
-      "location": "ISM University, Vilnius",
-      "format": "in_person",
-      "start_date": "2026-11-12",
-      "end_date": "2026-11-14",
-      "registration_deadline": "2026-11-14",
-      "tags": [
-        "Low/No Code",
-        "Machine Learning/AI",
-        "Open Ended"
-      ],
-      "uid": "hk:9fbc18816f5f8bad"
-    },
-    {
-      "name": "VIBENIGHT #2 : Hackathon AI Safety (FINAL)",
-      "organizer": "Luma",
-      "url": "https://lu.ma/gkqbmy2j",
-      "source": "luma",
-      "location": "Paris, Paris, France, France",
-      "format": "in_person",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:c1b399e970eff8f9"
-    },
     {
       "name": "DurHack",
       "organizer": "MLH",
@@ -95,32 +13,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:171ae7a98e42a7d4"
-    },
-    {
-      "name": "Gen AI Summit Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/x1wxi5sn",
-      "source": "luma",
-      "location": "Spata, Spata, Greece, Greece",
-      "format": "in_person",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:35b4027bc0350e9f"
-    },
-    {
-      "name": "Imperial AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/c6zebxau",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:b76c67c220fbecf0"
     },
     {
       "name": "Junction",
@@ -240,17 +132,30 @@
       "uid": "hk:bed6ff8e5da4ecf4"
     },
     {
-      "name": "Jev Mini Hackathon",
-      "organizer": "Founders and Coders",
-      "url": "https://www.meetup.com/founderscoders/events/317355769/",
-      "source": "meetup",
-      "location": "London, Founders & Coders, gb",
+      "name": "AI Mobile App Hackathon · Leicester",
+      "organizer": "Luma",
+      "url": "https://lu.ma/elqavxbw",
+      "source": "luma",
+      "location": "Leicester, Leicester, United Kingdom, United Kingdom",
       "format": "in_person",
       "start_date": "2026-11-18",
-      "end_date": null,
+      "end_date": "2026-11-18",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:cfd1bb39f33455de"
+      "uid": "hk:d6c9c78b873c0c55"
+    },
+    {
+      "name": "Jev Mini Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/8s3s7o73",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:b0df103ed5164737"
     },
     {
       "name": "Mobile App Hackathon Night by Bilt.me",
@@ -316,6 +221,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:7cccfb329216e377"
+    },
+    {
+      "name": "MAIN Summit | The largest student Hackathon in the Netherlands",
+      "organizer": "Luma",
+      "url": "https://lu.ma/p31ut495",
+      "source": "luma",
+      "location": "Maastricht, Maastricht, Netherlands, Netherlands",
+      "format": "in_person",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-21",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:31fdb8ac7ccf20be"
     },
     {
       "name": "November Mini Game Jam 2026 (starting 11:45 at SAE)",
@@ -520,6 +438,19 @@
       "uid": "hk:82b8d08155dbf6d6"
     },
     {
+      "name": "AI Sales Hackathon Stockholm",
+      "organizer": "Luma",
+      "url": "https://lu.ma/glbtr3yz",
+      "source": "luma",
+      "location": "Stockholm, Stockholm, Sweden, Sweden",
+      "format": "in_person",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:c908bb9883ad7893"
+    },
+    {
       "name": "Arctic Express Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/ppxp9k0p",
@@ -533,6 +464,19 @@
       "uid": "hk:005d81223a5b8c43"
     },
     {
+      "name": "„The Gate is the Brain“ - Primion x Projector (Keynote & Hackathon)",
+      "organizer": "Luma",
+      "url": "https://lu.ma/axm9osju",
+      "source": "luma",
+      "location": "Berlin, Berlin, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-09",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:91f4072edf2863e2"
+    },
+    {
       "name": "Hack the Heck: AI Hacking Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/woinor1c",
@@ -544,6 +488,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:4a19a75827b4c4d5"
+    },
+    {
+      "name": "Winter Hackathon ❄️ (supported by Lovable)",
+      "organizer": "Luma",
+      "url": "https://lu.ma/2zl1ik82",
+      "source": "luma",
+      "location": "Berlin, Berlin, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:be80cb86de1735d1"
     },
     {
       "name": "Cursor Hackathon Vienna",
