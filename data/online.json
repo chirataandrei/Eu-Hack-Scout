@@ -1,34 +1,6 @@
 {
-  "updated_at": "2026-11-16T13:26:20.889724+00:00",
+  "updated_at": "2026-11-17T14:12:06.099142+00:00",
   "hackathons": [
-    {
-      "name": "BuildSprint",
-      "organizer": "Workelate",
-      "url": "https://unstop.com/hackathons/buildsprint-workelate-1794884",
-      "source": "unstop",
-      "location": "Hyderabad",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-16",
-      "registration_deadline": "2026-11-16",
-      "tags": [],
-      "uid": "hk:b720ca056e1fb978"
-    },
-    {
-      "name": "Fall 2026 Projects",
-      "organizer": "PRODUCT@TAMU",
-      "url": "https://fall-2026-projects.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-16",
-      "registration_deadline": "2026-11-16",
-      "tags": [
-        "Low/No Code"
-      ],
-      "uid": "hk:6ad6dfbe3629e6dd"
-    },
     {
       "name": "CRC Hacks",
       "organizer": "Programming and Coders Club",
@@ -110,6 +82,19 @@
       "uid": "hk:77496a0a8f1c63c6"
     },
     {
+      "name": "Srujana AI 2026 Hackathon (Batch 3)",
+      "organizer": "Biorad Medisys Private Limited",
+      "url": "https://unstop.com/hackathons/srujana-ai-2026-hackathon-batch-3-biorad-medisys-private-limited-1794480",
+      "source": "unstop",
+      "location": "Pune",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-19",
+      "registration_deadline": "2026-11-19",
+      "tags": [],
+      "uid": "hk:9b0ad0c96727156e"
+    },
+    {
       "name": "WQCC Qiskit Fall Fest 2026",
       "organizer": "Wisconsin Quantum Computing Club",
       "url": "https://wqcc-qiskit-fall-fest-2026.devpost.com/",
@@ -153,6 +138,23 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:df7adf8335cc8484"
+    },
+    {
+      "name": "SMBP FinHack",
+      "organizer": "Small Money, Big Plan",
+      "url": "https://smbp-finhack.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-20",
+      "registration_deadline": "2026-11-20",
+      "tags": [
+        "Beginner Friendly",
+        "Fintech",
+        "Open Ended"
+      ],
+      "uid": "hk:fa02b9c298ff21bb"
     },
     {
       "name": "Bridge The Gap Hacks",
@@ -251,7 +253,7 @@
       "uid": "hk:ddf43843cbdf43ea"
     },
     {
-      "name": "Data Sprint 2.0",
+      "name": "Data Sprint Challenge 2.0",
       "organizer": "The National Institute of Engineering, Karnataka",
       "url": "https://unstop.com/hackathons/data-sprint-20-anveshan-nie-1807080",
       "source": "unstop",
@@ -261,7 +263,7 @@
       "end_date": "2026-11-22",
       "registration_deadline": "2026-11-22",
       "tags": [],
-      "uid": "hk:054b7281e595a16a"
+      "uid": "hk:8dfaaccc204cddb6"
     },
     {
       "name": "EvoHacks 2",
@@ -279,6 +281,19 @@
         "Social Good"
       ],
       "uid": "hk:07a61cc5ba9baada"
+    },
+    {
+      "name": "EvoHacks II",
+      "organizer": "Hack Club",
+      "url": "https://evohacks.xyz/",
+      "source": "hackclub",
+      "location": "",
+      "format": "online",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:dbff16ba3eb46913"
     },
     {
       "name": "KUK VIRTUAL HACKATHON",
@@ -538,19 +553,6 @@
         "Machine Learning/AI"
       ],
       "uid": "hk:d07e6564e9e34a92"
-    },
-    {
-      "name": "Code to Cart: AI x E-commerce Hackathon | KartAI X CodeXcelerate",
-      "organizer": "KartAI",
-      "url": "https://unstop.com/hackathons/code-to-cart-ai-x-e-commerce-hackathon-kartai-x-codexcelerate-kartai-1803912",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-29",
-      "registration_deadline": "2026-11-29",
-      "tags": [],
-      "uid": "hk:a3b3a9792abf08a4"
     },
     {
       "name": "HACKRISE'26",
@@ -830,6 +832,19 @@
       "uid": "hk:78ee031960d44b9a"
     },
     {
+      "name": "Spectrum 1.0 – 24 Hour National Level Hackathon",
+      "organizer": "Guru Nanak Dev Engineering College Bidar",
+      "url": "https://unstop.com/hackathons/spectrum-10-24-hour-national-level-hackathon-guru-nanak-dev-engineering-college-bidar-1812368",
+      "source": "unstop",
+      "location": "Bidar",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-06",
+      "registration_deadline": "2026-12-06",
+      "tags": [],
+      "uid": "hk:409746d0d8497b77"
+    },
+    {
       "name": "Deck the Pixels",
       "organizer": "Google",
       "url": "https://deckthepixels.devpost.com/",
@@ -957,6 +972,19 @@
       "uid": "hk:993bf54e43b30bfa"
     },
     {
+      "name": "CTF Cicada 2026",
+      "organizer": "Birla Institute of Technology, Mesra, Ranchi",
+      "url": "https://unstop.com/hackathons/ctf-cicada-2026-birla-institute-of-technology-mesra-ranchi-1814002",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-10",
+      "registration_deadline": "2026-12-10",
+      "tags": [],
+      "uid": "hk:3beffb36dce06e8b"
+    },
+    {
       "name": "Green Shift Hacks",
       "organizer": "HackathonForEveryone",
       "url": "https://green-shift-hacks.devpost.com/",
@@ -1072,6 +1100,19 @@
       "uid": "hk:794a4eecaa4405a8"
     },
     {
+      "name": "OpenCode 2026",
+      "organizer": "Indian Institute of Information Technology (IIIT), Allahabad",
+      "url": "https://unstop.com/hackathons/opencode-2026-opencode-indian-institute-of-information-technology-iiit-allahabad-1811349",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-13",
+      "registration_deadline": "2026-12-13",
+      "tags": [],
+      "uid": "hk:8680a7c1a5184849"
+    },
+    {
       "name": "Syntax Hacks 2026",
       "organizer": "Syntax Hacks Team",
       "url": "https://syntax-hacks-2026.devpost.com/",
@@ -1098,19 +1139,6 @@
       "registration_deadline": "2026-12-15",
       "tags": [],
       "uid": "hk:d85bd446680020cb"
-    },
-    {
-      "name": "Hacksmart 2.0",
-      "organizer": "Geek Room",
-      "url": "https://unstop.com/hackathons/hacksmart-20-geek-room-1799091",
-      "source": "unstop",
-      "location": "Gurgaon",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-12-15",
-      "registration_deadline": "2026-12-15",
-      "tags": [],
-      "uid": "hk:6b0ae9d91684b5ee"
     },
     {
       "name": "QNX Global Hackathon",
@@ -1213,32 +1241,6 @@
       "uid": "hk:930cf1cf6fc2f2ba"
     },
     {
-      "name": "HackKumbh 2026 : Tech For Humanity",
-      "organizer": "Yeshwantrao Chavan College of Engineering (YCCE), Nagpur",
-      "url": "https://unstop.com/hackathons/hackkumbh-2026-tech-for-humanity-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1800629",
-      "source": "unstop",
-      "location": "Nagpur",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-12-19",
-      "registration_deadline": "2026-12-19",
-      "tags": [],
-      "uid": "hk:331895a0915083b7"
-    },
-    {
-      "name": "IDEATHON- FutureX: Innovating for Global Challenges",
-      "organizer": "Skill2Career",
-      "url": "https://unstop.com/hackathons/ideathon-futurex-innovating-for-global-challenges-skill2career-1803074",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-12-19",
-      "registration_deadline": "2026-12-19",
-      "tags": [],
-      "uid": "hk:b7c5b102247f7782"
-    },
-    {
       "name": "AccessED Hacks",
       "organizer": "AccessEDnpo",
       "url": "https://accessed-hacks.devpost.com/",
@@ -1254,6 +1256,23 @@
         "Social Good"
       ],
       "uid": "hk:0b7cf5236d717401"
+    },
+    {
+      "name": "OVO Hack 48",
+      "organizer": "Ovo Talent",
+      "url": "https://ovo-hack-48.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-12-18",
+      "end_date": "2026-12-20",
+      "registration_deadline": "2026-12-20",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Productivity"
+      ],
+      "uid": "hk:ca04c994534248f4"
     },
     {
       "name": "Arbiter Hacks V1",
@@ -1540,6 +1559,19 @@
       "uid": "hk:b9283d5b5ee95e6a"
     },
     {
+      "name": "Code Relay 5.0",
+      "organizer": "Indian Institute of Technology (IIT), Bhubaneswar",
+      "url": "https://unstop.com/hackathons/code-relay-50-indian-institute-of-technology-iit-bhubaneswar-1810370",
+      "source": "unstop",
+      "location": "Bhubaneswar",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2027-01-17",
+      "registration_deadline": "2027-01-17",
+      "tags": [],
+      "uid": "hk:7c8b19c6600e3850"
+    },
+    {
       "name": "ContextCon: Remember Everything",
       "organizer": "HackerEarth",
       "url": "https://www.hackerearth.com/challenges/hackathon/contextcon-remember-everything/",
@@ -1551,6 +1583,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:3fd94f64a83e4577"
+    },
+    {
+      "name": "Agri-Tech Hackathon 2027: 24 Hours to Hack the Harvest",
+      "organizer": "K. J. Somaiya College of Engineering (KJSCE), Vidyavihar",
+      "url": "https://unstop.com/hackathons/agri-tech-hackathon-2027-24-hours-to-hack-the-harvest-k-j-somaiya-college-of-engineering-kjsce-vidyavihar-1792152",
+      "source": "unstop",
+      "location": "Mumbai",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2027-01-23",
+      "registration_deadline": "2027-01-23",
+      "tags": [],
+      "uid": "hk:15587ae905a318f7"
     },
     {
       "name": "HackZ'26",
@@ -1794,6 +1839,23 @@
         "Health"
       ],
       "uid": "hk:4e47a8e0baef1db6"
+    },
+    {
+      "name": "Knightlytics",
+      "organizer": "UCF",
+      "url": "https://knightlytics.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2027-04-09",
+      "end_date": "2027-04-11",
+      "registration_deadline": "2027-04-11",
+      "tags": [
+        "Beginner Friendly",
+        "Databases",
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:17b155be9b21c7fe"
     },
     {
       "name": "DeveloperWeek New York 2027 Hackathon",

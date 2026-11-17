@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-16T13:26:20.889724+00:00",
+  "updated_at": "2026-11-17T14:12:06.099142+00:00",
   "hackathons": [
+    {
+      "name": "De la explorarea lui Marte la analiza incendiilor: cinci echipe din România merg în etapa globală NASA Space Apps",
+      "organizer": "start-up.ro",
+      "url": "https://start-up.ro/de-la-explorarea-lui-marte-la-analiza-incendiilor-cinci-echipe-din-romania-merg-in-etapa-globala-nasa-space-apps/",
+      "source": "startupro",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": "2026-11-17",
+      "tags": [],
+      "uid": "hk:73eaee79ffc17db8"
+    },
+    {
+      "name": "Listă: Proiectele din București și Cluj calificate în etapa globală a competiției NASA Space Apps Challenge 2026",
+      "organizer": "StartupCafe",
+      "url": "https://startupcafe.ro/lista-proiecte-bucuresti-cluj-calificare-etapa-globala-competitie-nasa-space-apps-challenge-2026-110393",
+      "source": "startupcafe",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": "2026-11-17",
+      "tags": [],
+      "uid": "hk:d7c42d235d3b3fed"
+    },
     {
       "name": "12th CASSINI Hackathon: EU Space for Peace and ...",
       "organizer": "google.com",
@@ -1036,16 +1062,16 @@
     },
     {
       "name": "EUDIS Space & Defence Hackathon",
-      "organizer": "Politehnica București",
+      "organizer": "upb.ro",
       "url": "https://upb.ro/eudis-space-defence-hackathon/",
-      "source": "upb",
+      "source": "apify",
       "location": "Bucharest, Romania",
       "format": "in_person",
       "start_date": null,
       "end_date": null,
       "registration_deadline": null,
       "tags": [
-        "romania"
+        "apify"
       ],
       "uid": "hk:e149b07eea599dff"
     },
