@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-11-17T14:12:06.099142+00:00",
+  "updated_at": "2026-11-18T13:43:13.356784+00:00",
   "hackathons": [
     {
-      "name": "CRC Hacks",
-      "organizer": "Programming and Coders Club",
-      "url": "https://crc-student-hackathon.devpost.com/",
+      "name": "Build with AI - Pico Space Program",
+      "organizer": "XR Bootcamp",
+      "url": "https://pico-space-program.devpost.com/",
       "source": "devpost",
       "location": "Online",
       "format": "online",
-      "start_date": "2026-11-09",
-      "end_date": "2026-11-17",
-      "registration_deadline": "2026-11-17",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "registration_deadline": "2026-11-18",
       "tags": [
-        "Beginner Friendly",
-        "Design",
-        "Machine Learning/AI"
+        "AR/VR",
+        "Machine Learning/AI",
+        "Web"
       ],
-      "uid": "hk:fb317e61e9738c78"
+      "uid": "hk:8aca8e6ea0afdb5a"
     },
     {
       "name": "GWC Projects Program Fall 2026",
@@ -108,6 +108,21 @@
         "Quantum"
       ],
       "uid": "hk:c1cc4108372ba499"
+    },
+    {
+      "name": "AI@UCF Semester Sprint",
+      "organizer": "AI@ucf",
+      "url": "https://semester-sprint.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-20",
+      "registration_deadline": "2026-11-20",
+      "tags": [
+        "Machine Learning/AI"
+      ],
+      "uid": "hk:a5acbdcaca69fc32"
     },
     {
       "name": "Competitive Programming",
@@ -326,19 +341,6 @@
       "uid": "hk:c6be300f98aaaf66"
     },
     {
-      "name": "Expanding Horizons 8.0 Chemical",
-      "organizer": "Motilal Nehru National Institute of Technology",
-      "url": "https://unstop.com/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-23",
-      "registration_deadline": "2026-11-23",
-      "tags": [],
-      "uid": "hk:8a860903b7f28319"
-    },
-    {
       "name": "PromptWars X AITH Kanpur",
       "organizer": "Dr. Ambedkar Institute of Technology for Divyangjan",
       "url": "https://unstop.com/hackathons/promptwars-x-aith-dr-ambedkar-institute-of-technology-for-divyangjan-1807596",
@@ -350,23 +352,6 @@
       "registration_deadline": "2026-11-23",
       "tags": [],
       "uid": "hk:7808a968bec2ddea"
-    },
-    {
-      "name": "CSAIC Hack-AI-Thon",
-      "organizer": "Computer Science and AI Circle @ IISH",
-      "url": "https://csaic-hackaithon.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-24",
-      "registration_deadline": "2026-11-24",
-      "tags": [
-        "Education",
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "uid": "hk:abcc9b5e8777f331"
     },
     {
       "name": "OBSCURA: Satellite AI Research Challenge",
@@ -555,6 +540,32 @@
       "uid": "hk:d07e6564e9e34a92"
     },
     {
+      "name": "Silicon Sprint 2026",
+      "organizer": "National Institute of Technology Karnataka (NITK), Surathkal",
+      "url": "https://unstop.com/hackathons/silicon-sprint-2026-nitk-surathkal-1814263",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-28",
+      "registration_deadline": "2026-11-28",
+      "tags": [],
+      "uid": "hk:1c535df997847b3f"
+    },
+    {
+      "name": "Wie Code 2K26",
+      "organizer": "Siddaganga Institute of Technology (SIT), Tumkur",
+      "url": "https://unstop.com/hackathons/wie-code-2k26-siddaganga-institute-of-technology-sit-tumkur-1817696",
+      "source": "unstop",
+      "location": "Tumakuru",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-28",
+      "registration_deadline": "2026-11-28",
+      "tags": [],
+      "uid": "hk:1f45208911238819"
+    },
+    {
       "name": "HACKRISE'26",
       "organizer": "Mulearn MBCCET ",
       "url": "https://hackrise-26.devpost.com/",
@@ -722,6 +733,32 @@
       "uid": "hk:89eff34315908e63"
     },
     {
+      "name": "Data Visualization using Python - Debugging Test | Unit 1 Set B",
+      "organizer": "ABES Engineering College",
+      "url": "https://unstop.com/hackathons/data-visualization-using-python-debugging-test-unit-1-set-b-abes-engineering-college-1816592",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-02",
+      "registration_deadline": "2026-12-02",
+      "tags": [],
+      "uid": "hk:ad499695f0622c4d"
+    },
+    {
+      "name": "Data Visualization using Python - Debugging Test | Unit 2 Set A",
+      "organizer": "ABES Engineering College",
+      "url": "https://unstop.com/hackathons/data-visualization-using-python-debugging-test-unit-2-set-a-abes-engineering-college-1816631",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-02",
+      "registration_deadline": "2026-12-02",
+      "tags": [],
+      "uid": "hk:ecef65ff1d5ba27c"
+    },
+    {
       "name": "ML Empowerment Build Challenge 4.0 - Prizes and Certificates for EVERYONE",
       "organizer": "ML Empowerment Foundation",
       "url": "https://ml-build-challenge-4.devpost.com/",
@@ -800,6 +837,19 @@
         "Open Ended"
       ],
       "uid": "hk:acd640e9185dae10"
+    },
+    {
+      "name": "PromptWars x Quad Bengaluru",
+      "organizer": "Quad AI School of Technology & Management",
+      "url": "https://unstop.com/hackathons/promptwars-x-quad-bengaluru-quad-ai-school-of-technology-management-1817389",
+      "source": "unstop",
+      "location": "Bangalore",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-04",
+      "registration_deadline": "2026-12-04",
+      "tags": [],
+      "uid": "hk:6f6210b272393b9b"
     },
     {
       "name": "Android Ignition",
@@ -1546,17 +1596,34 @@
       "uid": "hk:d615579c3ed126a4"
     },
     {
-      "name": "The Forge",
-      "organizer": "Hoollow",
-      "url": "https://unstop.com/hackathons/the-forge-hoollow-1787722",
+      "name": "CSAIC Hack-AI-Thon",
+      "organizer": "Computer Science and AI Circle @ IISH",
+      "url": "https://csaic-hackaithon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2027-01-08",
+      "end_date": "2027-01-11",
+      "registration_deadline": "2027-01-11",
+      "tags": [
+        "Education",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "uid": "hk:abcc9b5e8777f331"
+    },
+    {
+      "name": "Hack Uttar Pradesh 2026",
+      "organizer": "Riwa Creatives",
+      "url": "https://unstop.com/hackathons/hack-uttar-pradesh-2026-riwa-creatives-1817499",
       "source": "unstop",
-      "location": "Delhi",
+      "location": "Kanpur",
       "format": "online",
       "start_date": null,
-      "end_date": "2027-01-12",
-      "registration_deadline": "2027-01-12",
+      "end_date": "2027-01-11",
+      "registration_deadline": "2027-01-11",
       "tags": [],
-      "uid": "hk:b9283d5b5ee95e6a"
+      "uid": "hk:2337f278ba909b98"
     },
     {
       "name": "Code Relay 5.0",
@@ -1755,6 +1822,23 @@
         "Beginner Friendly"
       ],
       "uid": "hk:d7e22565ff59aefe"
+    },
+    {
+      "name": "Launchly Project Sprint",
+      "organizer": "Launchly",
+      "url": "https://launchlyp.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2027-01-27",
+      "end_date": "2027-02-24",
+      "registration_deadline": "2027-02-24",
+      "tags": [
+        "Beginner Friendly",
+        "Open Ended",
+        "Social Good"
+      ],
+      "uid": "hk:38649b36f5aadc97"
     },
     {
       "name": "WiCS Hackathon",
