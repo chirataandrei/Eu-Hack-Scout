@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-11-18T13:43:13.356784+00:00",
+  "updated_at": "2026-11-19T14:11:17.223247+00:00",
   "hackathons": [
-    {
-      "name": "AI Mobile App Hackathon · Leicester",
-      "organizer": "Luma",
-      "url": "https://lu.ma/elqavxbw",
-      "source": "luma",
-      "location": "Leicester, Leicester, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-18",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:d6c9c78b873c0c55"
-    },
-    {
-      "name": "HackNight NeuroTechX Paris (hybride)",
-      "organizer": "CogLab, NeuroTechX Paris",
-      "url": "https://www.meetup.com/coglab/events/317466965/",
-      "source": "meetup",
-      "location": "Paris, Makerlab Paris, fr",
-      "format": "in_person",
-      "start_date": "2026-11-18",
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:ca84b9027ab3ae44"
-    },
-    {
-      "name": "Mobile App Hackathon Night by Bilt.me",
-      "organizer": "Luma",
-      "url": "https://lu.ma/shurirhv",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-18",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:8a251f11ad19d25d"
-    },
     {
       "name": "AI Builders × commIT | Hack Day Berlin 2026",
       "organizer": "Luma",
@@ -54,17 +15,33 @@
       "uid": "hk:a4a7e7133d8c0600"
     },
     {
-      "name": "Personal Agent Hackathon: Pippa Labs",
-      "organizer": "Luma",
-      "url": "https://lu.ma/may4mbwf",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
+      "name": "AI Builders × commIT | Hack Day Berlin 2026 - Nov 20",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.nl/e/ai-builders-commit-hack-day-berlin-2026-nov-20-tickets-2004954238098",
+      "source": "eventbrite",
+      "location": "Berlin, DE",
       "format": "in_person",
       "start_date": "2026-11-20",
       "end_date": "2026-11-20",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:746246a85f62e8ff"
+      "uid": "hk:c3709d81b6d9bf3f"
+    },
+    {
+      "name": "rookie hacks",
+      "organizer": "IBM",
+      "url": "https://rookie-hacks.devpost.com/",
+      "source": "devpost",
+      "location": "Helsinki ",
+      "format": "in_person",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "registration_deadline": "2026-11-20",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code"
+      ],
+      "uid": "hk:7c0647153d858476"
     },
     {
       "name": "AI Hackathon @ Nova Startup Club",
@@ -80,6 +57,19 @@
       "uid": "hk:4dda37781465a361"
     },
     {
+      "name": "Berlin Robotics & AI hackathon - Hacklab X BRISA",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/berlin-robotics-ai-hackathon-hacklab-x-brisa-tickets-2001277673394",
+      "source": "eventbrite",
+      "location": "Berlin, BE, DE",
+      "format": "in_person",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:d08ed70030a8eb57"
+    },
+    {
       "name": "Creative Code Jam @ MotionLab.Berlin",
       "organizer": "Creative Code Berlin",
       "url": "https://www.meetup.com/creativecodeberlin/events/317467691/",
@@ -93,17 +83,17 @@
       "uid": "hk:1317221c9b280ace"
     },
     {
-      "name": "IXH26 Italian XRPL Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/IXH26-xrpl-hackathon",
-      "source": "luma",
-      "location": "Bari, Bari, Italy, Italy",
+      "name": "Hackathon - PMI Barcelona",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.es/e/hackathon-pmi-barcelona-tickets-2003206203680",
+      "source": "eventbrite",
+      "location": "Barcelona, CT, ES",
       "format": "in_person",
-      "start_date": "2026-11-20",
+      "start_date": "2026-11-21",
       "end_date": "2026-11-21",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:43ebd61216c050d0"
+      "uid": "hk:dd454d5994b3249d"
     },
     {
       "name": "Le Chonk in London - Mistral Vibe Hackathon",
@@ -201,6 +191,32 @@
       "uid": "hk:9278612781776c0b"
     },
     {
+      "name": "The €5K Build & Launch Hackathon",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/the-5k-build-launch-hackathon-tickets-2004602673559",
+      "source": "eventbrite",
+      "location": "Berlin, BE, DE",
+      "format": "in_person",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:b473f7d1ea40e427"
+    },
+    {
+      "name": "Hackathon \"Imagine ton projet à impact\" !",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.fr/e/billets-hackathon-imagine-ton-projet-a-impact-2003601199122",
+      "source": "eventbrite",
+      "location": "Paris, IDF, FR",
+      "format": "in_person",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-23",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:e9ce91ef3cb5acb4"
+    },
+    {
       "name": "Retail AI & Agents Hackathon | Innovators Guild",
       "organizer": "freeCodeCamp London",
       "url": "https://www.meetup.com/freecodecamp-london/events/317453584/",
@@ -212,6 +228,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:d5e6a66873a078eb"
+    },
+    {
+      "name": "Pre-Hackathon: OneGov #3 | Leer de challenges kennen & vind je team",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.nl/e/pre-hackathon-onegov-3-leer-de-challenges-kennen-vind-je-team-tickets-2002552236647",
+      "source": "eventbrite",
+      "location": "Den Haag, ZH, NL",
+      "format": "in_person",
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-26",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:9142af29eac211e9"
     },
     {
       "name": "AI Health Hackathon Stockholm 2026",
@@ -266,6 +295,19 @@
       "uid": "hk:bc4226231c75ce98"
     },
     {
+      "name": "START Berlin x IBM x ICEYE Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/i50c46oh",
+      "source": "luma",
+      "location": "Berlin, Berlin, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:2786edab75d045a9"
+    },
+    {
       "name": "12th CASSINI Hackathon - EU Space for Peace and Resilience",
       "organizer": "CASSINI",
       "url": "https://www.cassini.eu/hackathons/",
@@ -282,17 +324,17 @@
       "uid": "hk:928397c8e18cd480"
     },
     {
-      "name": "Deezer Hackathon",
+      "name": "AAU AI Hackathon",
       "organizer": "Luma",
-      "url": "https://lu.ma/0dfd8jau",
+      "url": "https://lu.ma/e6hvmjzd",
       "source": "luma",
-      "location": "Paris, Paris, France, France",
+      "location": "Klagenfurt am Wörthersee, Klagenfurt am Wörthersee, Austria, Austria",
       "format": "in_person",
-      "start_date": "2026-11-28",
+      "start_date": "2026-11-27",
       "end_date": "2026-11-29",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:f650cffe86b95934"
+      "uid": "hk:4a1300ba605c02dc"
     },
     {
       "name": "HackEPS",
@@ -332,6 +374,32 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:1200a8799caba9a2"
+    },
+    {
+      "name": "WEB 3 Hackathon & Ideathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/4tx1zlo8",
+      "source": "luma",
+      "location": "Split, Split, Croatia, Croatia",
+      "format": "in_person",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:b457b6ab06fc9aba"
+    },
+    {
+      "name": "merry vibe-mas: festive hackathon w/ tiiny.host + plugged",
+      "organizer": "Luma",
+      "url": "https://lu.ma/merryvibemas26",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:882bbcfbd8ae8427"
     },
     {
       "name": "A51 AI x Bio Hackathon",
@@ -384,6 +452,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:82b8d08155dbf6d6"
+    },
+    {
+      "name": "Culture Jam: Legends & Lore – Final Showcase",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/culture-jam-legends-lore-final-showcase-tickets-2004907708928",
+      "source": "eventbrite",
+      "location": "Warszawa, Województwo mazowieckie, PL",
+      "format": "in_person",
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-04",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:2278966e05900959"
     },
     {
       "name": "Wellness Hackathon: Build AI That Makes People Feel Better",
@@ -451,6 +532,19 @@
       "uid": "hk:91f4072edf2863e2"
     },
     {
+      "name": "OneGov AI Hackathon Series - Editie #3",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.nl/e/tickets-onegov-ai-hackathon-series-editie-3-1990948329047",
+      "source": "eventbrite",
+      "location": "Den Haag, ZH, NL",
+      "format": "in_person",
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-10",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:18da1e48e1e18533"
+    },
+    {
       "name": "Hack the Heck: AI Hacking Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/woinor1c",
@@ -477,6 +571,32 @@
       "uid": "hk:be80cb86de1735d1"
     },
     {
+      "name": "London Aerospace Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/tqnpm7ih",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:e9b780f531c730ce"
+    },
+    {
+      "name": "AI Hackathon voor Founders – Momentum Club",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/ai-hackathon-voor-founders-momentum-club-tickets-1988005641389",
+      "source": "eventbrite",
+      "location": "Rotterdam, ZH, NL",
+      "format": "in_person",
+      "start_date": "2026-12-14",
+      "end_date": "2026-12-14",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:2cedd301a628b6ff"
+    },
+    {
       "name": "Cursor Hackathon Vienna",
       "organizer": "Luma",
       "url": "https://lu.ma/spacexai-vienna",
@@ -501,6 +621,32 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:bca671ab199b2832"
+    },
+    {
+      "name": "AI Hackathon, powered by CapCut",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.co.uk/e/ai-hackathon-powered-by-capcut-tickets-2004643621034",
+      "source": "eventbrite",
+      "location": "London, England, GB",
+      "format": "in_person",
+      "start_date": "2027-01-30",
+      "end_date": "2027-01-30",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:36fdaee47d82bdbc"
+    },
+    {
+      "name": "WTC BUILDATHON - Feb 11",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.nl/e/wtc-buildathon-feb-11-tickets-2004954534986",
+      "source": "eventbrite",
+      "location": "Amsterdam, NL",
+      "format": "in_person",
+      "start_date": "2027-02-11",
+      "end_date": "2027-02-11",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:af797aa06bd108b2"
     },
     {
       "name": "ETHGlobal Cannes 2027",
