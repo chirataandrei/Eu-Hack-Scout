@@ -1,35 +1,6 @@
 {
-  "updated_at": "2026-11-20T13:52:59.189779+00:00",
+  "updated_at": "2026-11-21T13:17:07.298939+00:00",
   "hackathons": [
-    {
-      "name": "AI Builders × commIT | Hack Day Berlin 2026",
-      "organizer": "Luma",
-      "url": "https://lu.ma/ber-nov20-hday",
-      "source": "luma",
-      "location": "Berlin, Berlin, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:a4a7e7133d8c0600"
-    },
-    {
-      "name": "rookie hacks",
-      "organizer": "IBM",
-      "url": "https://rookie-hacks.devpost.com/",
-      "source": "devpost",
-      "location": "Helsinki ",
-      "format": "in_person",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "registration_deadline": "2026-11-20",
-      "tags": [
-        "Beginner Friendly",
-        "Low/No Code"
-      ],
-      "uid": "hk:7c0647153d858476"
-    },
     {
       "name": "AI Hackathon @ Nova Startup Club",
       "organizer": "Luma",
@@ -42,6 +13,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:4dda37781465a361"
+    },
+    {
+      "name": "Berlin Robotics & AI hackathon - Hacklab X BRISA",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/berlin-robotics-ai-hackathon-hacklab-x-brisa-tickets-2001277673394",
+      "source": "eventbrite",
+      "location": "Berlin, BE, DE",
+      "format": "in_person",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:d08ed70030a8eb57"
     },
     {
       "name": "Build With Codex - Community Hackathon Heilbronn",
@@ -68,6 +52,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:1317221c9b280ace"
+    },
+    {
+      "name": "Hackathon - PMI Barcelona",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.es/e/hackathon-pmi-barcelona-tickets-2003206203680",
+      "source": "eventbrite",
+      "location": "Barcelona, CT, ES",
+      "format": "in_person",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:dd454d5994b3249d"
     },
     {
       "name": "Le Chonk in London - Mistral Vibe Hackathon",
@@ -109,19 +106,6 @@
       "uid": "hk:7cccfb329216e377"
     },
     {
-      "name": "MAIN Summit | The largest AI Hackathon in the Netherlands",
-      "organizer": "Luma",
-      "url": "https://lu.ma/p31ut495",
-      "source": "luma",
-      "location": "Maastricht, Maastricht, Netherlands, Netherlands",
-      "format": "in_person",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-21",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:97f412e0af044e8c"
-    },
-    {
       "name": "WoHack",
       "organizer": "Queen Mary Computer Science Society",
       "url": "https://wohack.devpost.com/",
@@ -137,6 +121,19 @@
         "Social Good"
       ],
       "uid": "hk:0f367f52bab65837"
+    },
+    {
+      "name": "Open Court Hackathon with Wonder Studios",
+      "organizer": "Luma",
+      "url": "https://lu.ma/fzy8ibe6",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:be6f7a19c9dbf509"
     },
     {
       "name": "SoTA Scientific Parallelism Hackathon | With Callosum, Inherent, ARIA + Fractile",
@@ -165,6 +162,19 @@
       "uid": "hk:d5e6a66873a078eb"
     },
     {
+      "name": "Pre-Hackathon: OneGov #3 | Leer de challenges kennen & vind je team",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.nl/e/pre-hackathon-onegov-3-leer-de-challenges-kennen-vind-je-team-tickets-2002552236647",
+      "source": "eventbrite",
+      "location": "Den Haag, ZH, NL",
+      "format": "in_person",
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-26",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:9142af29eac211e9"
+    },
+    {
       "name": "Codex Community Hackathon – London",
       "organizer": "Luma",
       "url": "https://lu.ma/pq9gt2z0",
@@ -191,6 +201,19 @@
       "uid": "hk:c2b155ee31c48b3d"
     },
     {
+      "name": "HACKATHON: Build AI on KASPA",
+      "organizer": "Luma",
+      "url": "https://lu.ma/8dl5fglx",
+      "source": "luma",
+      "location": "Le Kremlin-Bicêtre, Le Kremlin-Bicêtre, France, France",
+      "format": "in_person",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:f2291a1d0267b4c9"
+    },
+    {
       "name": "Launch Day Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/fg1lny5k",
@@ -202,6 +225,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:bc4226231c75ce98"
+    },
+    {
+      "name": "Mobile App Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/tjdf787t",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:16fe811b2616f8db"
     },
     {
       "name": "START Berlin x IBM x ICEYE Hackathon",
@@ -285,6 +321,19 @@
       "uid": "hk:954feef8c1dcdc85"
     },
     {
+      "name": "Physical Education Vol. 1 — Mosaico Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/mwu3zj7i",
+      "source": "luma",
+      "location": "Milano, Milano, Italy, Italy",
+      "format": "in_person",
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-29",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:e5cf4861c40a89fc"
+    },
+    {
       "name": "Prompt Startegy Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/aaltoes-u79b",
@@ -296,32 +345,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:1200a8799caba9a2"
-    },
-    {
-      "name": "Reality Check - Robotics Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/aiengine-r88j",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-11-28",
-      "end_date": "2026-11-29",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:4d73cf73febfa0e9"
-    },
-    {
-      "name": "merry vibe-mas: festive hackathon w/ tiiny.host + plugged",
-      "organizer": "Luma",
-      "url": "https://lu.ma/merryvibemas26",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-01",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:882bbcfbd8ae8427"
     },
     {
       "name": "A51 AI x Bio Hackathon",
@@ -376,30 +399,17 @@
       "uid": "hk:82b8d08155dbf6d6"
     },
     {
-      "name": "AI Sales Hackathon Stockholm",
+      "name": "Sustainability Hackathon | Give(a)Go x The Mill",
       "organizer": "Luma",
-      "url": "https://lu.ma/glbtr3yz",
+      "url": "https://lu.ma/sustainability-drogheda",
       "source": "luma",
-      "location": "Stockholm, Stockholm, Sweden, Sweden",
+      "location": "Drogheda, Drogheda, Ireland, Ireland",
       "format": "in_person",
       "start_date": "2026-12-05",
       "end_date": "2026-12-05",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:c908bb9883ad7893"
-    },
-    {
-      "name": "Wellness Hackathon: Build AI That Makes People Feel Better",
-      "organizer": "Luma",
-      "url": "https://lu.ma/encode-4ntf",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-12-05",
-      "end_date": "2026-12-05",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:417e2785ecaa184c"
+      "uid": "hk:2a7653e715e7c1b0"
     },
     {
       "name": "AI Builders Hackathon",
@@ -441,6 +451,32 @@
       "uid": "hk:26e7e99bfdebd3db"
     },
     {
+      "name": "The Gate is the Brain: Keynote + Mini Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/f7jxz3be",
+      "source": "luma",
+      "location": "Berlin, Berlin, Germany, Germany",
+      "format": "in_person",
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-09",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:bf32f32fb49124de"
+    },
+    {
+      "name": "OneGov AI Hackathon Series - Editie #3",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.nl/e/tickets-onegov-ai-hackathon-series-editie-3-1990948329047",
+      "source": "eventbrite",
+      "location": "Den Haag, ZH, NL",
+      "format": "in_person",
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-10",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:18da1e48e1e18533"
+    },
+    {
       "name": "Hack the Heck: AI Hacking Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/woinor1c",
@@ -454,17 +490,30 @@
       "uid": "hk:4a19a75827b4c4d5"
     },
     {
-      "name": "Winter Hackathon ❄️ (supported by Lovable)",
+      "name": "London Aerospace Hackathon",
       "organizer": "Luma",
-      "url": "https://lu.ma/2zl1ik82",
+      "url": "https://lu.ma/tqnpm7ih",
       "source": "luma",
-      "location": "Berlin, Berlin, Germany, Germany",
+      "location": "London, London, United Kingdom, United Kingdom",
       "format": "in_person",
       "start_date": "2026-12-12",
-      "end_date": "2026-12-12",
+      "end_date": "2026-12-13",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:be80cb86de1735d1"
+      "uid": "hk:e9b780f531c730ce"
+    },
+    {
+      "name": "AI Hackathon voor Founders – Momentum Club",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/ai-hackathon-voor-founders-momentum-club-tickets-1988005641389",
+      "source": "eventbrite",
+      "location": "Rotterdam, ZH, NL",
+      "format": "in_person",
+      "start_date": "2026-12-14",
+      "end_date": "2026-12-14",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:2cedd301a628b6ff"
     },
     {
       "name": "Cursor Hackathon Vienna",
@@ -504,6 +553,32 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:bca671ab199b2832"
+    },
+    {
+      "name": "AI Hackathon, powered by CapCut",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.co.uk/e/ai-hackathon-powered-by-capcut-tickets-2004643621034",
+      "source": "eventbrite",
+      "location": "London, England, GB",
+      "format": "in_person",
+      "start_date": "2027-01-30",
+      "end_date": "2027-01-30",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:36fdaee47d82bdbc"
+    },
+    {
+      "name": "WTC BUILDATHON - Feb 11",
+      "organizer": "Eventbrite",
+      "url": "https://www.eventbrite.nl/e/wtc-buildathon-feb-11-tickets-2004954534986",
+      "source": "eventbrite",
+      "location": "Amsterdam, NL",
+      "format": "in_person",
+      "start_date": "2027-02-11",
+      "end_date": "2027-02-11",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:af797aa06bd108b2"
     },
     {
       "name": "ETHGlobal Cannes 2027",

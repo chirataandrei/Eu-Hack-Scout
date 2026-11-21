@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-11-20T13:52:59.189779+00:00",
+  "updated_at": "2026-11-21T13:17:07.298939+00:00",
   "hackathons": [
-    {
-      "name": "12th CASSINI Hackathon: EU Space for Peace and ...",
-      "organizer": "google.com",
-      "url": "https://www.google.com/goto?url=CAEStgEBxCJF160qreyylTfFNCJ8hI612SdC9kXA5eWAPCVmjEaKuOxlyurXF_IjK3uaF0184k5rR4FX8KP9V60CPoUu5j1kFPoS4_nz3BQB1OlyI9WpBnfo1RvTG7LAX4zy9n4nR-maGsSHEI2ExKHwu1hO5YN5BWDItQlJzVGO-d_GgDg5APBnT6Vbh3q4QNU383rQ5jQOL0tmvrV6eHOI6JulGe-p1eMsJTblSK1XZ3LE9iQqbMHN_g",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:4828b9223248816a"
-    },
-    {
-      "name": "Social Entrepreneurship Hackathon: Collective Intelligence…",
-      "organizer": "hackathonradar.com",
-      "url": "https://www.hackathonradar.com/database/hackathon/social-entrepreneurship-hackathon-collective-intelligence-fo-2026",
-      "source": "apify",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "registration_deadline": null,
-      "tags": [
-        "apify"
-      ],
-      "uid": "hk:9bc0843e59e13361"
-    },
     {
       "name": "bestem.bucharest",
       "organizer": "instagram.com",
