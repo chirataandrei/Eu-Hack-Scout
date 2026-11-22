@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-11-21T13:17:07.298939+00:00",
+  "updated_at": "2026-11-22T13:07:53.103368+00:00",
   "hackathons": [
-    {
-      "name": "BiokindxUBSA 2026 Datathon",
-      "organizer": "Biokind Analytics",
-      "url": "https://biokindxubsa-2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "registration_deadline": "2026-11-21",
-      "tags": [
-        "Beginner Friendly",
-        "Databases",
-        "Health"
-      ],
-      "uid": "hk:1c1a02bd266ba0dd"
-    },
     {
       "name": "Creators AI Winter Challenge",
       "organizer": "Creators AI ",
@@ -26,76 +9,14 @@
       "location": "Online",
       "format": "online",
       "start_date": "2026-11-19",
-      "end_date": "2026-11-21",
-      "registration_deadline": "2026-11-21",
+      "end_date": "2026-11-22",
+      "registration_deadline": "2026-11-22",
       "tags": [
         "Enterprise",
         "Fintech",
         "Productivity"
       ],
       "uid": "hk:c9ed221511fedb64"
-    },
-    {
-      "name": "Game On Night – Imagine the Impossible",
-      "organizer": "Google Student Ambassador",
-      "url": "https://game-on-night.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "registration_deadline": "2026-11-21",
-      "tags": [
-        "Design"
-      ],
-      "uid": "hk:fe3f418e25e63d49"
-    },
-    {
-      "name": "Inter-College Coding Competition 2026 | Java & Python",
-      "organizer": "College Of Engineering And Management,Kolaghat",
-      "url": "https://unstop.com/hackathons/inter-college-coding-competition-2026-college-of-engineering-and-managementkolaghat-1801814",
-      "source": "unstop",
-      "location": "Purba Medinipur district",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-21",
-      "registration_deadline": "2026-11-21",
-      "tags": [],
-      "uid": "hk:00e8c6a358d34cd6"
-    },
-    {
-      "name": "Teens Hack Houston Hackathon",
-      "organizer": "HackClub  ✓⃝",
-      "url": "https://tripleh.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-21",
-      "registration_deadline": "2026-11-21",
-      "tags": [
-        "Beginner Friendly",
-        "Low/No Code",
-        "Productivity"
-      ],
-      "uid": "hk:09fb94b940a2ff2b"
-    },
-    {
-      "name": "CrossPointX 2026",
-      "organizer": "Science Innovation Association of XJTLU",
-      "url": "https://cpx2026.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-22",
-      "registration_deadline": "2026-11-22",
-      "tags": [
-        "Beginner Friendly",
-        "Design",
-        "Education"
-      ],
-      "uid": "hk:ddf43843cbdf43ea"
     },
     {
       "name": "EvoHacks 2",
@@ -126,6 +47,23 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:dbff16ba3eb46913"
+    },
+    {
+      "name": "Hack312",
+      "organizer": "ML@IIT",
+      "url": "https://hack312.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "registration_deadline": "2026-11-22",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Productivity"
+      ],
+      "uid": "hk:7cd463689ce1b8ba"
     },
     {
       "name": "KUK VIRTUAL HACKATHON",
@@ -197,6 +135,23 @@
       "uid": "hk:9b2b76c253142b7d"
     },
     {
+      "name": "Glushkov 2026 GameDev Contest",
+      "organizer": "GlushkovCompany",
+      "url": "https://glushkov-2026-gamedev-contest.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-23",
+      "registration_deadline": "2026-11-23",
+      "tags": [
+        "Beginner Friendly",
+        "COVID-19",
+        "Gaming"
+      ],
+      "uid": "hk:23822846b5622cf2"
+    },
+    {
       "name": "Code Fort 2027",
       "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
       "url": "https://unstop.com/hackathons/code-fort-2027-chandigarh-university-cu-ajitgarh-punjab-1817736",
@@ -208,6 +163,23 @@
       "registration_deadline": "2026-11-24",
       "tags": [],
       "uid": "hk:d99e155fe1d24b55"
+    },
+    {
+      "name": "Engineering Without Limits",
+      "organizer": "Engineering Without Limits",
+      "url": "https://engineering-without-limits.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-24",
+      "registration_deadline": "2026-11-24",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Open Ended"
+      ],
+      "uid": "hk:bb320e07f5ff0ad3"
     },
     {
       "name": "OBSCURA: Satellite AI Research Challenge",
@@ -310,17 +282,17 @@
       "uid": "hk:b5f8c1e77b2eb0e9"
     },
     {
-      "name": "Configure 2026: A Mobility Hackathon",
-      "organizer": "Zeliot Pvt Ltd",
-      "url": "https://unstop.com/hackathons/configure-2026-a-mobility-hackathon-zeliot-pvt-ltd-1811085",
+      "name": "IIT Bombay Physical AI Hackathon",
+      "organizer": "Indian Institute of Technology (IIT), Bombay",
+      "url": "https://unstop.com/hackathons/iit-bombay-physical-ai-hackathon-iit-bombay-1822209",
       "source": "unstop",
-      "location": "online",
+      "location": "Mumbai",
       "format": "online",
       "start_date": null,
       "end_date": "2026-11-26",
       "registration_deadline": "2026-11-26",
       "tags": [],
-      "uid": "hk:7d2962b707fcdfff"
+      "uid": "hk:34e3e369a3245b62"
     },
     {
       "name": "Build Your First AI App",
@@ -439,6 +411,19 @@
       "uid": "hk:1f45208911238819"
     },
     {
+      "name": "AI-Powered Career Development Hackathon",
+      "organizer": "UnsaidTalks Education",
+      "url": "https://unstop.com/hackathons/ai-powered-career-development-hackathon-unsaidtalks-education-1821954",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-11-29",
+      "registration_deadline": "2026-11-29",
+      "tags": [],
+      "uid": "hk:c066d86488809eff"
+    },
+    {
       "name": "HACKRISE'26",
       "organizer": "Mulearn MBCCET ",
       "url": "https://hackrise-26.devpost.com/",
@@ -473,19 +458,6 @@
       "uid": "hk:745a7f9da464ac50"
     },
     {
-      "name": "The Algo Trading Innovation Challenge",
-      "organizer": "Indian Institute of Technology (IIT), Bombay",
-      "url": "https://unstop.com/hackathons/the-algo-trading-innovation-challenge-iit-bombay-1811240",
-      "source": "unstop",
-      "location": "Powai",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-11-29",
-      "registration_deadline": "2026-11-29",
-      "tags": [],
-      "uid": "hk:4e5957b995d72a8b"
-    },
-    {
       "name": "#BuildHybridAI 2026",
       "organizer": "Google",
       "url": "https://firebasehybridaihackathon.devpost.com/",
@@ -518,6 +490,23 @@
         "Education"
       ],
       "uid": "hk:a7bb3f6880d81c4f"
+    },
+    {
+      "name": "Acodemic X KeebsforWater Global SDG Hackathon",
+      "organizer": "Hack Club",
+      "url": "https://hackathon-draft-32215.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-30",
+      "registration_deadline": "2026-11-30",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Social Good"
+      ],
+      "uid": "hk:74ef44e607d3fbb6"
     },
     {
       "name": "Anveshak: Open-World Object Detection for Remote Sensing",
@@ -580,23 +569,6 @@
       "uid": "hk:7258d88f2b267830"
     },
     {
-      "name": "DIU Dev Meetup 2026",
-      "organizer": "Data Science Club @ DIU",
-      "url": "https://diu-devthon.devpost.com/",
-      "source": "devpost",
-      "location": "Online",
-      "format": "online",
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-30",
-      "registration_deadline": "2026-11-30",
-      "tags": [
-        "Beginner Friendly",
-        "Design",
-        "Open Ended"
-      ],
-      "uid": "hk:136a0706aeb30405"
-    },
-    {
       "name": "IdeaLab Hacks",
       "organizer": "IdeaLab",
       "url": "https://idealab-hacks.devpost.com/",
@@ -627,6 +599,23 @@
       "uid": "hk:40a8c3a909a1d02e"
     },
     {
+      "name": "Agents that act. Systems that answer.",
+      "organizer": "studentchakra",
+      "url": "https://accountable-agents.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-28",
+      "end_date": "2026-12-01",
+      "registration_deadline": "2026-12-01",
+      "tags": [
+        "Education",
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "uid": "hk:9d1411a23e607079"
+    },
+    {
       "name": "Code for Change",
       "organizer": "HackathonForEveryone",
       "url": "https://code-for-change-global.devpost.com/",
@@ -642,6 +631,36 @@
         "Social Good"
       ],
       "uid": "hk:89eff34315908e63"
+    },
+    {
+      "name": "DIU Dev Meetup 2026",
+      "organizer": "Data Science Club @ DIU",
+      "url": "https://diu-devthon.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2026-11-22",
+      "end_date": "2026-12-01",
+      "registration_deadline": "2026-12-01",
+      "tags": [
+        "Beginner Friendly",
+        "Design",
+        "Open Ended"
+      ],
+      "uid": "hk:136a0706aeb30405"
+    },
+    {
+      "name": "Operation Blackout",
+      "organizer": "R.V. College of Engineering (RVCE), Bangalore",
+      "url": "https://unstop.com/hackathons/operation-blackout-react-2026-rv-college-of-engineering-rvce-bangalore-1818820",
+      "source": "unstop",
+      "location": "Bangalore Urban",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-01",
+      "registration_deadline": "2026-12-01",
+      "tags": [],
+      "uid": "hk:e719eeaa6ca54201"
     },
     {
       "name": "Data Visualization using Python - Debugging Test | Unit 1 Set B",
@@ -763,6 +782,19 @@
       "uid": "hk:6f6210b272393b9b"
     },
     {
+      "name": "PromptWars x Quad Patna",
+      "organizer": "Quad AI School of Technology & Management",
+      "url": "https://unstop.com/hackathons/promptwars-x-quad-patna-quad-ai-school-of-technology-management-1821984",
+      "source": "unstop",
+      "location": "Patna",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-04",
+      "registration_deadline": "2026-12-04",
+      "tags": [],
+      "uid": "hk:54e2962b3f0ef47f"
+    },
+    {
       "name": "SustainIQ",
       "organizer": "Vidyavardhaka College of Engineering, Mysore",
       "url": "https://unstop.com/hackathons/sustainiq-vidyavardhaka-college-of-engineering-mysore-1814270",
@@ -774,6 +806,45 @@
       "registration_deadline": "2026-12-04",
       "tags": [],
       "uid": "hk:4674d5171bc4ed46"
+    },
+    {
+      "name": "Hojohborolo",
+      "organizer": "Department of Information Technology, Jadavpur University",
+      "url": "https://unstop.com/hackathons/hojohborolo-kernel-10-department-of-information-technology-jadavpur-university-1822587",
+      "source": "unstop",
+      "location": "Kolkata",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-05",
+      "registration_deadline": "2026-12-05",
+      "tags": [],
+      "uid": "hk:bc1259cf3afe3d64"
+    },
+    {
+      "name": "Mogoj Dholai",
+      "organizer": "Department of Information Technology, Jadavpur University",
+      "url": "https://unstop.com/hackathons/mogoj-dholai-kernel-10-department-of-information-technology-jadavpur-university-1822588",
+      "source": "unstop",
+      "location": "Kolkata",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-05",
+      "registration_deadline": "2026-12-05",
+      "tags": [],
+      "uid": "hk:74a9d6047b59d400"
+    },
+    {
+      "name": "ELUCode - 9",
+      "organizer": "EduLinkUp",
+      "url": "https://unstop.com/hackathons/elucode-9-edulinkup-1822884",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-06",
+      "registration_deadline": "2026-12-06",
+      "tags": [],
+      "uid": "hk:f0468d5dec360afc"
     },
     {
       "name": "NeuroHack Fall 2026 - Rewiring Pathways: Innovative Neuroscience",
@@ -1252,6 +1323,19 @@
       "uid": "hk:e2d078e855860d68"
     },
     {
+      "name": "Data Nilaam",
+      "organizer": "Department of Information Technology, Jadavpur University",
+      "url": "https://unstop.com/hackathons/data-nilaam-kernel-10-department-of-information-technology-jadavpur-university-1822546",
+      "source": "unstop",
+      "location": "Kolkata",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-18",
+      "registration_deadline": "2026-12-18",
+      "tags": [],
+      "uid": "hk:5da771a0e77b6365"
+    },
+    {
       "name": "Ryze Hacks 2026",
       "organizer": "ryze",
       "url": "https://ryzehacks.devpost.com/",
@@ -1441,6 +1525,32 @@
       "uid": "hk:80b3ac0be90b0e73"
     },
     {
+      "name": "AWS Winter League 2026",
+      "organizer": "Rajiv Gandhi University of Knowledge Technologies (RGUKT), Nuzvid",
+      "url": "https://unstop.com/hackathons/aws-winter-league-2026-rajiv-gandhi-university-of-knowledge-technologies-rgukt-nuzvid-1820870",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-25",
+      "registration_deadline": "2026-12-25",
+      "tags": [],
+      "uid": "hk:1c5a0d8ffeabc08c"
+    },
+    {
+      "name": "Claude Build Challenge 2026",
+      "organizer": "SAGE University Bhopal",
+      "url": "https://unstop.com/hackathons/claude-build-challenge-2026-sage-university-bhopal-1821912",
+      "source": "unstop",
+      "location": "online",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2026-12-25",
+      "registration_deadline": "2026-12-25",
+      "tags": [],
+      "uid": "hk:634eb5498c012eb8"
+    },
+    {
       "name": "ELU Build",
       "organizer": "EduLinkUp",
       "url": "https://unstop.com/hackathons/elubuild-edulinkup-1811493",
@@ -1516,19 +1626,6 @@
       "uid": "hk:8d6a3d087f90da99"
     },
     {
-      "name": "CODERED'26",
-      "organizer": "BMS Insitute of Technology and Management",
-      "url": "https://unstop.com/hackathons/codered26-bms-insitute-of-technology-and-management-1810268",
-      "source": "unstop",
-      "location": "Yelahanka",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2026-12-29",
-      "registration_deadline": "2026-12-29",
-      "tags": [],
-      "uid": "hk:4fcfadcb1499ead7"
-    },
-    {
       "name": "Rajasthan Police Hackathon 2026",
       "organizer": "Rajasthan Police (राजस्थान पुलिस)",
       "url": "https://unstop.com/hackathons/rajasthan-police-hackathon-2026-rajasthan-police-rajasathana-palsa-1818639",
@@ -1555,7 +1652,7 @@
       "uid": "hk:4f917a011aee3dd2"
     },
     {
-      "name": "Buildfest 2026",
+      "name": "BUILDFEST 2026 – National Student Hackathon",
       "organizer": "Learnix Labs",
       "url": "https://unstop.com/hackathons/buildfest-2026-learnix-labs-1814814",
       "source": "unstop",
@@ -1565,7 +1662,7 @@
       "end_date": "2026-12-30",
       "registration_deadline": "2026-12-30",
       "tags": [],
-      "uid": "hk:bbf10c14c0fa6b9e"
+      "uid": "hk:87da84348e849093"
     },
     {
       "name": "305 CodeFest Edition December 2026 — 305Hackathons.vercel.app",
@@ -1625,19 +1722,6 @@
       "registration_deadline": "2027-01-04",
       "tags": [],
       "uid": "hk:5e27295088674a61"
-    },
-    {
-      "name": "Codathon | #1 Global Coding Contest",
-      "organizer": "Indian Institute of Technology (IIT), Bombay",
-      "url": "https://unstop.com/hackathons/codathon-1-global-coding-contest-iit-bombay-1811016",
-      "source": "unstop",
-      "location": "online",
-      "format": "online",
-      "start_date": null,
-      "end_date": "2027-01-09",
-      "registration_deadline": "2027-01-09",
-      "tags": [],
-      "uid": "hk:43c7a3a34472a44e"
     },
     {
       "name": "checkpoint 1 — games for good",
@@ -1743,6 +1827,19 @@
       "uid": "hk:3fd94f64a83e4577"
     },
     {
+      "name": "Hack 2027",
+      "organizer": "Saveetha University",
+      "url": "https://unstop.com/hackathons/hack-2027-saveetha-university-1823379",
+      "source": "unstop",
+      "location": "Chennai",
+      "format": "online",
+      "start_date": null,
+      "end_date": "2027-01-20",
+      "registration_deadline": "2027-01-20",
+      "tags": [],
+      "uid": "hk:1f0ac0ef18bd34e2"
+    },
+    {
       "name": "Agri-Tech Hackathon 2027: 24 Hours to Hack the Harvest",
       "organizer": "K. J. Somaiya College of Engineering (KJSCE), Vidyavihar",
       "url": "https://unstop.com/hackathons/agri-tech-hackathon-2027-24-hours-to-hack-the-harvest-k-j-somaiya-college-of-engineering-kjsce-vidyavihar-1792152",
@@ -1780,6 +1877,23 @@
       "registration_deadline": "2027-01-31",
       "tags": [],
       "uid": "hk:12a22189a71879cb"
+    },
+    {
+      "name": "SunnyHacks Jan 2027",
+      "organizer": "SunnyHacks",
+      "url": "https://sunnyhacks-jan-2027.devpost.com/",
+      "source": "devpost",
+      "location": "Online",
+      "format": "online",
+      "start_date": "2027-01-25",
+      "end_date": "2027-02-01",
+      "registration_deadline": "2027-02-01",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Productivity"
+      ],
+      "uid": "hk:16f61146c29e7ef3"
     },
     {
       "name": "HackTitan",
