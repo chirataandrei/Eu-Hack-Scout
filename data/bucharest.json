@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-24T15:36:39.536271+00:00",
+  "updated_at": "2026-11-25T15:21:15.790042+00:00",
   "hackathons": [
+    {
+      "name": "Listă: Echipele câștigătoare ale unui hackathon UiPath pentru studenții români și agenții AI dezvoltați de acestea",
+      "organizer": "StartupCafe",
+      "url": "https://startupcafe.ro/lista-echipe-studenti-romani-castigatoare-hackathon-uipath-agenti-ai-dezvoltati-110926",
+      "source": "startupcafe",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": "2026-11-25",
+      "tags": [],
+      "uid": "hk:b6bbe66604ae4cf9"
+    },
     {
       "name": "bestem.bucharest",
       "organizer": "instagram.com",
