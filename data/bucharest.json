@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-11-25T15:21:15.790042+00:00",
+  "updated_at": "2026-11-26T14:47:42.226517+00:00",
   "hackathons": [
     {
-      "name": "Listă: Echipele câștigătoare ale unui hackathon UiPath pentru studenții români și agenții AI dezvoltați de acestea",
-      "organizer": "StartupCafe",
-      "url": "https://startupcafe.ro/lista-echipe-studenti-romani-castigatoare-hackathon-uipath-agenti-ai-dezvoltati-110926",
-      "source": "startupcafe",
+      "name": "AudioBolt, agent AI care localizează înregistrări audio, a câștigat Future Forward Hackathon organizată de UiPath",
+      "organizer": "start-up.ro",
+      "url": "https://start-up.ro/audiobolt-agent-ai-care-localizeaza-inregistrari-audio-a-castigat-future-forward-hackathon-organizata-de-uipath/",
+      "source": "startupro",
       "location": "Bucharest, Romania",
       "format": "in_person",
       "start_date": null,
       "end_date": null,
-      "registration_deadline": "2026-11-25",
+      "registration_deadline": "2026-11-26",
       "tags": [],
-      "uid": "hk:b6bbe66604ae4cf9"
+      "uid": "hk:7cddcb7ac7e7a3d8"
+    },
+    {
+      "name": "HealthON Hackathon revine pe 17 decembrie. Soluții tehnologice pentru medicină",
+      "organizer": "start-up.ro",
+      "url": "https://start-up.ro/healthon-hackathon-revine-pe-17-decembrie-solutii-tehnologice-pentru-medicina/",
+      "source": "startupro",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": "2026-12-17",
+      "end_date": "2026-12-17",
+      "registration_deadline": "2026-11-26",
+      "tags": [],
+      "uid": "hk:73f34eb3b39bb9e0"
+    },
+    {
+      "name": "Selly anunță HACKSTAGE, un hackathon AI pentru industria de entertainment cu premii de 15.000 de euro",
+      "organizer": "start-up.ro",
+      "url": "https://start-up.ro/selly-anunta-hackstage-un-hackathon-ai-pentru-industria-de-entertainment-cu-premii-de-15-000-de-euro/",
+      "source": "startupro",
+      "location": "Bucharest, Romania",
+      "format": "in_person",
+      "start_date": null,
+      "end_date": null,
+      "registration_deadline": "2026-11-26",
+      "tags": [],
+      "uid": "hk:c54fab6454e30f0a"
     },
     {
       "name": "bestem.bucharest",
