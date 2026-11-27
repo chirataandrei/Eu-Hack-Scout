@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-26T14:47:42.226517+00:00",
+  "updated_at": "2026-11-27T14:47:50.567831+00:00",
   "hackathons": [
+    {
+      "name": "VirWave × Lovable 🦃 Friendsgiving Hackathon",
+      "organizer": "Luma",
+      "url": "https://lu.ma/2p0zir0a",
+      "source": "luma",
+      "location": "London, London, United Kingdom, United Kingdom",
+      "format": "in_person",
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:aad7a018d4f53dbe"
+    },
     {
       "name": "Codex Community Hackathon – London",
       "organizer": "Luma",
@@ -65,19 +78,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:bc4226231c75ce98"
-    },
-    {
-      "name": "Lumi Marketing Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/8h9h66mz",
-      "source": "luma",
-      "location": "London, London, United Kingdom, United Kingdom",
-      "format": "in_person",
-      "start_date": "2026-11-28",
-      "end_date": "2026-11-28",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:d78ab28ab4f5b4b8"
     },
     {
       "name": "Rooftop Mobile App Hackathon",
@@ -265,17 +265,17 @@
       "uid": "hk:f31c79495e2beff3"
     },
     {
-      "name": "Benelux Robotics Hackathon",
+      "name": "Samba TV Hackathon | Warsaw",
       "organizer": "Luma",
-      "url": "https://lu.ma/hdg4ktrb",
+      "url": "https://lu.ma/yqy2119p",
       "source": "luma",
-      "location": "Eindhoven, Eindhoven, Netherlands, Netherlands",
+      "location": "Warszawa, Warszawa, Poland, Poland",
       "format": "in_person",
       "start_date": "2026-12-03",
-      "end_date": "2026-12-04",
+      "end_date": "2026-12-03",
       "registration_deadline": null,
       "tags": [],
-      "uid": "hk:60d506ba0e59b178"
+      "uid": "hk:03d021ab4f6dcada"
     },
     {
       "name": "Charity Tools Hack Day #1",
@@ -382,19 +382,6 @@
       "uid": "hk:005d81223a5b8c43"
     },
     {
-      "name": "Cursor Prague Hackathon: Build Something Merry",
-      "organizer": "Luma",
-      "url": "https://lu.ma/spacexsi-il7n",
-      "source": "luma",
-      "location": "Hlavní město Praha, Hlavní město Praha, Czechia, Czechia",
-      "format": "in_person",
-      "start_date": "2026-12-09",
-      "end_date": "2026-12-09",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:34cee9efec96f36b"
-    },
-    {
       "name": "Data & AI Buildathon: Think, Collaborate, Create",
       "organizer": "AtlasShift Buildathon",
       "url": "https://www.meetup.com/atlasshift-buildathon/events/317458628/",
@@ -486,32 +473,6 @@
       "uid": "hk:9930ab170994e656"
     },
     {
-      "name": "Winter Hackathon ❄️ (supported by Lovable)",
-      "organizer": "Luma",
-      "url": "https://lu.ma/2zl1ik82",
-      "source": "luma",
-      "location": "Berlin, Berlin, Germany, Germany",
-      "format": "in_person",
-      "start_date": "2026-12-12",
-      "end_date": "2026-12-12",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:be80cb86de1735d1"
-    },
-    {
-      "name": "EESTISTARTUP -Vibe Coding Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/a4d66kfq",
-      "source": "luma",
-      "location": "Tallinn, Tallinn, Estonia, Estonia",
-      "format": "in_person",
-      "start_date": "2026-12-13",
-      "end_date": "2026-12-13",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:6900bc7e3d672642"
-    },
-    {
       "name": "London Aerospace Hackathon",
       "organizer": "Luma",
       "url": "https://lu.ma/tqnpm7ih",
@@ -536,6 +497,19 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:7bd901e29857dfb3"
+    },
+    {
+      "name": "Christmas Hackathon",
+      "organizer": "Agent Builders",
+      "url": "https://www.meetup.com/agent-builders/events/317412198/",
+      "source": "meetup",
+      "location": "Brighton and Hove, PLATF9RM Brighton - Coworking, Offices & Events, gb",
+      "format": "in_person",
+      "start_date": "2026-12-22",
+      "end_date": null,
+      "registration_deadline": null,
+      "tags": [],
+      "uid": "hk:cbf0daa38550d2c9"
     },
     {
       "name": "House London! #4 | Data Hackathon",
@@ -575,19 +549,6 @@
       "registration_deadline": null,
       "tags": [],
       "uid": "hk:82b96b4f2105f527"
-    },
-    {
-      "name": "Longevity AI Hackathon",
-      "organizer": "Luma",
-      "url": "https://lu.ma/34511of9",
-      "source": "luma",
-      "location": "Utrecht, Utrecht, Netherlands, Netherlands",
-      "format": "in_person",
-      "start_date": "2027-03-05",
-      "end_date": "2027-03-07",
-      "registration_deadline": null,
-      "tags": [],
-      "uid": "hk:d7bea4a19ab11346"
     },
     {
       "name": "ETHGlobal Cannes 2027",

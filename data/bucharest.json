@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-11-26T14:47:42.226517+00:00",
+  "updated_at": "2026-11-27T14:47:50.567831+00:00",
   "hackathons": [
-    {
-      "name": "AudioBolt, agent AI care localizează înregistrări audio, a câștigat Future Forward Hackathon organizată de UiPath",
-      "organizer": "start-up.ro",
-      "url": "https://start-up.ro/audiobolt-agent-ai-care-localizeaza-inregistrari-audio-a-castigat-future-forward-hackathon-organizata-de-uipath/",
-      "source": "startupro",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": "2026-11-26",
-      "tags": [],
-      "uid": "hk:7cddcb7ac7e7a3d8"
-    },
-    {
-      "name": "HealthON Hackathon revine pe 17 decembrie. Soluții tehnologice pentru medicină",
-      "organizer": "start-up.ro",
-      "url": "https://start-up.ro/healthon-hackathon-revine-pe-17-decembrie-solutii-tehnologice-pentru-medicina/",
-      "source": "startupro",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": "2026-12-17",
-      "end_date": "2026-12-17",
-      "registration_deadline": "2026-11-26",
-      "tags": [],
-      "uid": "hk:73f34eb3b39bb9e0"
-    },
-    {
-      "name": "Selly anunță HACKSTAGE, un hackathon AI pentru industria de entertainment cu premii de 15.000 de euro",
-      "organizer": "start-up.ro",
-      "url": "https://start-up.ro/selly-anunta-hackstage-un-hackathon-ai-pentru-industria-de-entertainment-cu-premii-de-15-000-de-euro/",
-      "source": "startupro",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": "2026-11-26",
-      "tags": [],
-      "uid": "hk:c54fab6454e30f0a"
-    },
     {
       "name": "bestem.bucharest",
       "organizer": "instagram.com",
@@ -1179,21 +1140,6 @@
       "uid": "hk:442a9810751122b0"
     },
     {
-      "name": "Ești student în domeniul IT? ASMI îți propune 24 de ore de inovație și creativitate la Smarthack",
-      "organizer": "Universitatea din București",
-      "url": "https://unibuc.ro/esti-student-in-domeniul-it-asmi-iti-propune-24-de-ore-de-inovatie-si-creativitate-la-smarthack/",
-      "source": "unibuc",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "romania"
-      ],
-      "uid": "hk:29c8d4c3ef4abb57"
-    },
-    {
       "name": "FAR AWAY Hackathon 2026: India to Japan",
       "organizer": "linkedin.com",
       "url": "https://www.linkedin.com/posts/opportunity-radar-by-startup-researcher_hackathon-studentopportunity-youthinnovation-activity-7458580298885214208-h2UY",
@@ -1297,21 +1243,6 @@
         "apify"
       ],
       "uid": "hk:c9c58d7eed479b21"
-    },
-    {
-      "name": "GitGood Hack 2026 by ASMI & Microsoft: maraton de coding pentru studenții Universității din București",
-      "organizer": "Universitatea din București",
-      "url": "https://unibuc.ro/gitgood-hack-2026-by-asmi-microsoft-maraton-de-coding-pentru-studentii-universitatii-din-bucuresti/",
-      "source": "unibuc",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "romania"
-      ],
-      "uid": "hk:dc97665d591fe3c0"
     },
     {
       "name": "Going with the trend  Our Hackathon is just 5 days away",
@@ -3616,21 +3547,6 @@
         "apify"
       ],
       "uid": "hk:d4681b52cc4957e5"
-    },
-    {
-      "name": "UEFISCDI organizează ediția locală a competiției europene EU Sparks for Climate – Citizens Hackaton Championship",
-      "organizer": "Universitatea din București",
-      "url": "https://unibuc.ro/uefiscdi-organizeaza-editia-locala-a-competitiei-europene-eu-sparks-for-climate-citizens-hackaton-championship/",
-      "source": "unibuc",
-      "location": "Bucharest, Romania",
-      "format": "in_person",
-      "start_date": null,
-      "end_date": null,
-      "registration_deadline": null,
-      "tags": [
-        "romania"
-      ],
-      "uid": "hk:77f5d1d77eee671d"
     },
     {
       "name": "UofT ASIC Team - Devpost",
