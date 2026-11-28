@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T00:41:53.857235+00:00",
+  "updated_at": "2026-11-28T12:10:04.580074+00:00",
   "items": [
     {
       "title": "",
@@ -341703,7 +341703,7 @@
       "url": "https://asmi.ro/",
       "crawl": {
         "loadedUrl": "https://asmi.ro/",
-        "loadedTime": "2026-11-28T00:41:16.503Z",
+        "loadedTime": "2026-11-28T12:09:36.925Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341721,14 +341721,14 @@
         "headers": {
           "alt-svc": "h3=\":443\"; ma=86400",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a61553704f27c8c1-LAX",
+          "cf-ray": "a61943c1ad44ee11-ORD",
           "content-encoding": "zstd",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:16 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:36 GMT",
           "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=G4YlPJZFSmf4jD3oDLo0nDs2uIwgLb4%2BuVP1v721AvVnQybxVdJBtfLunryZ2GJihR%2FBEr8SRFxep10UWk42YPNqmNiCLv3NVQ900Fu%2Fz8bhfjqc5VwsY8wD\"}]}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=0oz8fGw7mt0KQW7XT69C7zh7dHKwhKCmGUU%2BTStFkstvJbVQNLcpblqqyrBVz7oH4v6%2BUuxkMe%2Bbu9BZb0FZqf45SgA0jZIRd28qKhbT2cADGvSzmO81CB9O\"}]}",
           "server": "cloudflare",
-          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=19,cfOrigin;dur=802",
+          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=19,cfOrigin;dur=559",
           "vary": "accept-encoding"
         }
       },
@@ -341747,7 +341747,7 @@
       "url": "https://lsebucuresti.org/",
       "crawl": {
         "loadedUrl": "https://lsebucuresti.org/",
-        "loadedTime": "2026-11-28T00:41:18.380Z",
+        "loadedTime": "2026-11-28T12:09:38.889Z",
         "referrerUrl": "https://lsebucuresti.org/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341777,16 +341777,16 @@
         ],
         "jsonLd": null,
         "headers": {
-          "age": "72583",
+          "age": "27395",
           "content-encoding": "gzip",
           "content-type": "text/html",
-          "date": "Fri, 27 Nov 2026 04:31:36 GMT",
+          "date": "Sat, 28 Nov 2026 04:33:04 GMT",
           "etag": "W/\"0f46bd68887e35078f3a40c01687117c\"",
           "last-modified": "Fri, 20 Oct 2023 10:42:00 GMT",
           "server": "AmazonS3",
           "vary": "Accept-Encoding",
-          "via": "1.1 d34c1f3bde73ba74acaa2d8cb0ec40b2.cloudfront.net (CloudFront)",
-          "x-amz-cf-id": "cY_9rCAvvaB6XmuKSYQPOsrs1q6Dme7vLveHJmd_dyoT8bw04XP1fg==",
+          "via": "1.1 d819e0fec943c45d31b55f5dce0b44ee.cloudfront.net (CloudFront)",
+          "x-amz-cf-id": "TbFznIrKeXQbpJu5vxOFflqdc79sM_dM3dIBSlR0KERt5H42brwX6A==",
           "x-amz-cf-pop": "LAX50-P1",
           "x-amz-meta-userid": "93a2303a-c29d-4068-9b8a-80ccacebe515",
           "x-cache": "Hit from cloudfront",
@@ -341808,7 +341808,7 @@
       "url": "https://eestec.ro/",
       "crawl": {
         "loadedUrl": "https://eestec.ro/",
-        "loadedTime": "2026-11-28T00:41:19.172Z",
+        "loadedTime": "2026-11-28T12:09:39.543Z",
         "referrerUrl": "https://eestec.ro/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341830,15 +341830,15 @@
           "content-encoding": "br",
           "content-length": "1550",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:19 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:39 GMT",
           "etag": "\"dd3ee4e40f05f89f2600e4499aa307a0a1ba086ffa6d905d96aaba946582c569-br\"",
           "last-modified": "Sun, 01 Nov 2026 10:02:23 GMT",
           "strict-transport-security": "max-age=31556926",
           "vary": "x-fh-requested-host, accept-encoding",
-          "x-cache": "MISS",
+          "x-cache": "HIT",
           "x-cache-hits": "0",
-          "x-served-by": "cache-lax-kwhp1940077-LAX",
-          "x-timer": "S1795826479.035003,VS0,VE64"
+          "x-served-by": "cache-lax-kwhp1940131-LAX",
+          "x-timer": "S1795867779.445506,VS0,VE1"
         }
       },
       "screenshotUrl": null,
@@ -341853,54 +341853,10 @@
       "title": "EESTEC Bucure\u0219ti"
     },
     {
-      "url": "https://asmi.ro/Articole/google-hackaton",
-      "crawl": {
-        "loadedUrl": "https://asmi.ro/Articole/google-hackaton",
-        "loadedTime": "2026-11-28T00:41:19.223Z",
-        "referrerUrl": "https://asmi.ro/Articole/google-hackaton",
-        "httpStatusCode": 200,
-        "depth": 0,
-        "contentLengthBytes": 1005034,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://asmi.ro/Articole/google-hackaton",
-        "title": "24 Hours of Google - Hackathon - ASMI",
-        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "alt-svc": "h3=\":443\"; ma=86400",
-          "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a615536ffc894643-LAX",
-          "content-encoding": "zstd",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:17 GMT",
-          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=b0Q4%2FBOJMGxVYmpvXDRbpBaV6dUwivo7zlnUNbdjKz9ohxyFfvd1zBzaF5G2hxEgOnS1thGQ1sQu%2Fvt2it8WqzjzmEszKDM%2B%2B96HBit4SB0w2mMIk6J3UbSM\"}]}",
-          "server": "cloudflare",
-          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=10,cfOrigin;dur=1468",
-          "vary": "accept-encoding"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "24 Hours of Google - Hackathon\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person 24 Hours of Google Hackathon!\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\nThe Challenge (should you choose to accept it!): Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\nHealth\nSafety\nAccessibility\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\ud83d\udcc5 Date: 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\ud83d\udccd Venue: Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\nWanna Join?\nWho: Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\nHow: Teams of 3 - register via the \"Register\" button by 23:59 Sunday, April 19th 2026 EEST. Don\u2019t forget to include CVs for all team members!\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\nReady to hack? Register now!",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# 24 Hours of Google - Hackathon\n\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person\u00a0**24 Hours of Google**\u00a0**Hackathon**!\n\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\n\n**The Challenge (should you choose to accept it!):** Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\n\n*   Health\n*   Safety\n*   Accessibility\n\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\n\ud83d\udcc5\u00a0**Date:** 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\n\ud83d\udccd\u00a0**Venue:** Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\n\n**Wanna Join?**\n\n*   **Who:** Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\n*   **How:** Teams of 3 - register via the \"[Register](https://rsvp.withgoogle.com/events/24-hours-of-google-hackathon-2026)\" button by\u00a0**23:59 Sunday, April 19th 2026 EEST**. Don\u2019t forget to include CVs for all team members!\n\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\n\nReady to hack? Register now!",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "24 Hours of Google - Hackathon - ASMI"
-    },
-    {
       "url": "https://www.innovationlabs.ro/",
       "crawl": {
         "loadedUrl": "https://www.innovationlabs.ro/",
-        "loadedTime": "2026-11-28T00:41:20.584Z",
+        "loadedTime": "2026-11-28T12:09:40.451Z",
         "referrerUrl": "https://www.innovationlabs.ro/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -341919,7 +341875,7 @@
           "connection": "keep-alive",
           "content-encoding": "gzip",
           "content-type": "text/html",
-          "date": "Sat, 28 Nov 2026 00:38:22 GMT",
+          "date": "Sat, 28 Nov 2026 12:06:42 GMT",
           "etag": "W/\"6a7aed06-c9a\"",
           "last-modified": "Tue, 11 Aug 2026 09:36:06 GMT",
           "server": "nginx/1.14.0 (Ubuntu)",
@@ -341938,10 +341894,54 @@
       "title": "Innovation Labs 2026"
     },
     {
+      "url": "https://asmi.ro/Articole/google-hackaton",
+      "crawl": {
+        "loadedUrl": "https://asmi.ro/Articole/google-hackaton",
+        "loadedTime": "2026-11-28T12:09:40.608Z",
+        "referrerUrl": "https://asmi.ro/Articole/google-hackaton",
+        "httpStatusCode": 200,
+        "depth": 0,
+        "contentLengthBytes": 1005034,
+        "contentType": "text/html; charset=utf-8"
+      },
+      "metadata": {
+        "canonicalUrl": "https://asmi.ro/Articole/google-hackaton",
+        "title": "24 Hours of Google - Hackathon - ASMI",
+        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a61943c278d2fb77-LAX",
+          "content-encoding": "zstd",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Sat, 28 Nov 2026 12:09:37 GMT",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Oa25sc7l47M2rN30Gr0A99GCGbnkR9kWC%2Fua8L1PS3edSEExX3yGabCMBVoXDSgoa8uyHPzLahUTRx05dMsbo0AQrkqwXkxpezbW48xyeD3XQSo8A2%2F4wYzw\"}]}",
+          "server": "cloudflare",
+          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=18,cfOrigin;dur=1148",
+          "vary": "accept-encoding"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "24 Hours of Google - Hackathon\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person 24 Hours of Google Hackathon!\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\nThe Challenge (should you choose to accept it!): Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\nHealth\nSafety\nAccessibility\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\ud83d\udcc5 Date: 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\ud83d\udccd Venue: Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\nWanna Join?\nWho: Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\nHow: Teams of 3 - register via the \"Register\" button by 23:59 Sunday, April 19th 2026 EEST. Don\u2019t forget to include CVs for all team members!\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\nReady to hack? Register now!",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# 24 Hours of Google - Hackathon\n\nAre you a Computer Science or Technology enthusiastic student ready to hack with Google? Registrations are NOW OPEN for our in-person\u00a0**24 Hours of Google**\u00a0**Hackathon**!\n\nTeam up (3 people) and build a cross-device project using an Android phone (your own!), a Wear OS smartwatch and/or a NuttX embedded device (we'll provide!).\n\n**The Challenge (should you choose to accept it!):** Phone + Watch / Embedded = Awesome App! The suggested themes for this year's projects are:\n\n*   Health\n*   Safety\n*   Accessibility\n\nPresent your project after 24 hours for a chance to win Google devices & goodies (plus everyone gets swag!)\n\n\ud83d\udcc5\u00a0**Date:** 09:00 Saturday, April 25th 2026 - 17:00 Sunday, April 26th 2026 EEST\n\n\ud83d\udccd\u00a0**Venue:** Universitatea Politehnica Bucure\u0219ti - Facultatea de Automatic\u0103 \u0219i Calculatoare - Hol EC, Bucharest, RO\n\n**Wanna Join?**\n\n*   **Who:** Registration is open for all Bachelors and Masters Computer Science (and related fields) students in Romania.\n*   **How:** Teams of 3 - register via the \"[Register](https://rsvp.withgoogle.com/events/24-hours-of-google-hackathon-2026)\" button by\u00a0**23:59 Sunday, April 19th 2026 EEST**. Don\u2019t forget to include CVs for all team members!\n\nPlease remember that this is an in-person event only. Once registered, shortlisted teams will hear from us soon.\n\nReady to hack? Register now!",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "24 Hours of Google - Hackathon - ASMI"
+    },
+    {
       "url": "https://thebucharesthackathon.com/",
       "crawl": {
         "loadedUrl": "https://thebucharesthackathon.com/",
-        "loadedTime": "2026-11-28T00:41:20.855Z",
+        "loadedTime": "2026-11-28T12:09:40.992Z",
         "referrerUrl": "https://thebucharesthackathon.com/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342006,21 +342006,21 @@
           "content-encoding": "gzip",
           "content-length": "10644",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:20 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:40 GMT",
           "etag": "W/\"698c6c45-1192a\"",
-          "expires": "Sat, 28 Nov 2026 00:51:20 GMT",
+          "expires": "Sat, 28 Nov 2026 12:19:40 GMT",
           "last-modified": "Wed, 11 Feb 2026 11:47:17 GMT",
           "server": "GitHub.com",
           "vary": "Accept-Encoding",
           "via": "1.1 varnish",
           "x-cache": "MISS",
           "x-cache-hits": "0",
-          "x-fastly-request-id": "ae23d15d0eadae1c63cfc5c8d518e2d2a94b1be2",
-          "x-github-edge-region": "iad",
-          "x-github-request-id": "6680:4443B:F512EA:128126C:6B0A2330",
+          "x-fastly-request-id": "35a9e27debf7548facb16b3b21074d42513adfd6",
+          "x-github-edge-region": "westus3",
+          "x-github-request-id": "958A:20BFA3:34C6B2:3AFAD0:6B0AC484",
           "x-proxy-cache": "MISS",
-          "x-served-by": "cache-yyz-cyyz770074-YYZ",
-          "x-timer": "S1795826481.684067,VS0,VE64"
+          "x-served-by": "cache-bur-kbur8200071-BUR",
+          "x-timer": "S1795867781.850091,VS0,VE77"
         }
       },
       "screenshotUrl": null,
@@ -342038,7 +342038,7 @@
       "url": "https://www.spaceappschallenge.org/2026/",
       "crawl": {
         "loadedUrl": "https://www.spaceappschallenge.org/2026/",
-        "loadedTime": "2026-11-28T00:41:21.326Z",
+        "loadedTime": "2026-11-28T12:09:42.545Z",
         "referrerUrl": "https://www.spaceappschallenge.org/2026/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342070,14 +342070,14 @@
         "headers": {
           "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a615539189fcda7a-ORD",
+          "cf-ray": "a61943e599f313aa-LAX",
           "content-encoding": "br",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:21 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:42 GMT",
           "link": "</_next/static/media/173b4e1ecbfe6c3b-s.p.bb4389f3.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/6d205b44cc8ff5cb-s.p.4b6ba8b5.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/89c2c771ed51f5b8-s.p.62c6b13f.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/b8b552e8609c5636-s.p.25aba60b.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/c76157874a2922f6-s.p.ffb25873.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/cc75fa3e14c3cd04-s.p.0164516d.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/d03dd34c0ad8ced2-s.p.dc34d193.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/ffa7ca14c228762d-s.p.3f59869a.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/84cc554577b25c37.css>; rel=preload; as=\"style\", </_next/static/chunks/4ea52d28df79d0b4.css>; rel=preload; as=\"style\", </_next/static/chunks/9dbc7db39af07986.css>; rel=preload; as=\"style\", </_next/static/chunks/afdaf9f515e96376.css>; rel=preload; as=\"style\", </_next/static/chunks/97d06f03a26fc9a4.css>; rel=preload; as=\"style\", </_next/static/chunks/16a33c90f4d5229d.css>; rel=preload; as=\"style\", </_next/static/chunks/3eed70fef4efa9e8.css>; rel=preload; as=\"style\", </_next/static/chunks/9959a25a0dbb9dba.css>; rel=preload; as=\"style\"",
           "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
-          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=0TglTLR4bbk8n8LCRgJ0ggVitRu4ltm98NwFBvuskd8%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1795826480\"}],\"max_age\":3600}",
-          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=0TglTLR4bbk8n8LCRgJ0ggVitRu4ltm98NwFBvuskd8%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1795826480\"",
+          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=n3M0oxYe9LXmpQGrzz%2BXruInZy23%2FTfWfy1QU0UoSTY%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1795867782\"}],\"max_age\":3600}",
+          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=n3M0oxYe9LXmpQGrzz%2BXruInZy23%2FTfWfy1QU0UoSTY%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1795867782\"",
           "server": "cloudflare",
           "strict-transport-security": "max-age=2592000",
           "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
@@ -342100,7 +342100,7 @@
       "url": "https://www.spaceappschallenge.org/2026/locations/bucharest/",
       "crawl": {
         "loadedUrl": "https://www.spaceappschallenge.org/2026/locations/bucharest/",
-        "loadedTime": "2026-11-28T00:41:22.111Z",
+        "loadedTime": "2026-11-28T12:09:42.676Z",
         "referrerUrl": "https://www.spaceappschallenge.org/2026/locations/bucharest/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342132,14 +342132,14 @@
         "headers": {
           "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a61553966cae9d1c-ORD",
+          "cf-ray": "a61943e7ba4789e0-ORD",
           "content-encoding": "br",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:22 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:42 GMT",
           "link": "</_next/static/media/173b4e1ecbfe6c3b-s.p.bb4389f3.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/6d205b44cc8ff5cb-s.p.4b6ba8b5.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/89c2c771ed51f5b8-s.p.62c6b13f.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/b8b552e8609c5636-s.p.25aba60b.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/c76157874a2922f6-s.p.ffb25873.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/cc75fa3e14c3cd04-s.p.0164516d.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/d03dd34c0ad8ced2-s.p.dc34d193.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/ffa7ca14c228762d-s.p.3f59869a.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/84cc554577b25c37.css>; rel=preload; as=\"style\", </_next/static/chunks/4ea52d28df79d0b4.css>; rel=preload; as=\"style\", </_next/static/chunks/9dbc7db39af07986.css>; rel=preload; as=\"style\", </_next/static/chunks/afdaf9f515e96376.css>; rel=preload; as=\"style\", </_next/static/chunks/97d06f03a26fc9a4.css>; rel=preload; as=\"style\", </_next/static/chunks/16a33c90f4d5229d.css>; rel=preload; as=\"style\", </_next/static/chunks/3eed70fef4efa9e8.css>; rel=preload; as=\"style\", </_next/static/chunks/9959a25a0dbb9dba.css>; rel=preload; as=\"style\"",
           "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
-          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=nVC9A%2Fat3b8ct9L%2Fui3%2BpQJhkrw3uhmNUOgCUM4uDnM%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1795826481\"}],\"max_age\":3600}",
-          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=nVC9A%2Fat3b8ct9L%2Fui3%2BpQJhkrw3uhmNUOgCUM4uDnM%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1795826481\"",
+          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=n3M0oxYe9LXmpQGrzz%2BXruInZy23%2FTfWfy1QU0UoSTY%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1795867782\"}],\"max_age\":3600}",
+          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=n3M0oxYe9LXmpQGrzz%2BXruInZy23%2FTfWfy1QU0UoSTY%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1795867782\"",
           "server": "cloudflare",
           "strict-transport-security": "max-age=2592000",
           "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
@@ -342162,7 +342162,7 @@
       "url": "https://polihack.osut.org/",
       "crawl": {
         "loadedUrl": "https://polihack.osut.org/",
-        "loadedTime": "2026-11-28T00:41:22.483Z",
+        "loadedTime": "2026-11-28T12:09:43.135Z",
         "referrerUrl": "https://polihack.osut.org/",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342181,14 +342181,14 @@
           "access-control-allow-origin": "*",
           "alt-svc": "h3=\":443\"; ma=86400",
           "cache-control": "public, max-age=0, must-revalidate",
-          "cf-ray": "a615539ab9f0ab71-ORD",
+          "cf-ray": "a61943ebcb7feb09-ORD",
           "content-encoding": "br",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:22 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:43 GMT",
           "link": "</assets/Logos/LogoRed.png>; rel=\"preload\"; as=image, </assets/MainBanner.gif>; rel=\"preload\"; as=image, </assets/Logos/LogoWhite.png>; rel=\"preload\"; as=image, </assets/Images/Networking3.jpg>; rel=\"preload\"; as=image, </assets/Images/Networking4.jpg>; rel=\"preload\"; as=image, </assets/Team/Irimiciuc_Cosmin.jpg>; rel=\"preload\"; as=image, </assets/Team/Ioana_Beldean.jpg>; rel=\"preload\"; as=image, </assets/Team/Muresan_Flavia.jpg>; rel=\"preload\"; as=image, </assets/Team/Grama_Silviu.jpg>; rel=\"preload\"; as=image, </assets/Team/Steavu_Irina.jpg>; rel=\"preload\"; as=image, </assets/Team/Teodoritu_Georgiana.jpg>; rel=\"preload\"; as=image, </assets/DocumentBanner.jpg>; rel=\"preload\"; as=image, </assets/Logos/UTCNWhite.png>; rel=\"preload\"; as=image, </assets/Logos/OSUTWhite.png>; rel=\"preload\"; as=image, </assets/LogoText.png>; rel=\"preload\"; as=image",
           "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
           "referrer-policy": "strict-origin-when-cross-origin",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fgTnQtFHX0I5lyaEejBSzfqXGpTOxTyC7eLi6oi6ChqRFpDjvZMyh7PmZjApGvY27OW5ghL7YF0HhWWj6eMg6EMxX1W15pNKY7yTRqEjJH2BgmeYkQ9XGNQSgyUOG0eP23C5vQ%3D%3D\"}]}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ACgA9%2BD0LzTE4jBAfYdN14N0kyJvj%2F7tovWTB4L84PVtKnCkyUsL6IuigVV66IZGki009Ark3oHWPhO27TNDVxIwrMkWDZYjOOjXzU0%2Bux4vUnez0WQhfXVazvbFDIS1k2sGTw%3D%3D\"}]}",
           "server": "cloudflare",
           "x-content-type-options": "nosniff"
         }
@@ -342208,7 +342208,7 @@
       "url": "https://lablab.ai/event",
       "crawl": {
         "loadedUrl": "https://starfieldlabs.ai/ai-hackathons?utm_source=lablab&utm_medium=redirect",
-        "loadedTime": "2026-11-28T00:41:23.122Z",
+        "loadedTime": "2026-11-28T12:09:44.242Z",
         "referrerUrl": "https://lablab.ai/event",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342421,21 +342421,21 @@
           "alt-svc": "h3=\":443\"; ma=86400",
           "cache-control": "public, max-age=0, s-maxage=86400, stale-if-error=86400",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a615539dbc75c945-ORD",
+          "cf-ray": "a61943efb86d565c-LAX",
           "content-encoding": "br",
           "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-sg5SZFzxiLxdVUxscHlSjzQa+xmJYjjIM/Z3US2pqZs=' 'sha256-7Q9Y82zfyx7Sp3IZPWbFRlndz1xTvcF8vl/5BelCOTc=' 'sha256-i+L9t/bVTTJdSRvFCoylRQO/mNDn3WKjLbFoZOkZB0k=' 'sha256-OBTN3RiyCV4Bq7dFqZ5a2pAXjnCcCYeTJMO2I/LYKeo=' 'sha256-OTPNJR3c6359ZKij6uJxvqljGsBKg0SZen4ZS2Q+Nsc='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://images.starfieldlabs.ai https://storage.googleapis.com/starfield-labs-prod-events-host/variants/ https://storage.googleapis.com/starfield-labs-prod-content-covers/checked/ https://storage.googleapis.com/starfield-labs-prod-judging/checked/ https://storage.googleapis.com/starfield-labs-prod-judging-video/; media-src 'self' https://storage.googleapis.com/starfield-labs-prod-judging/checked/ https://storage.googleapis.com/starfield-labs-prod-judging-video/ https://images.starfieldlabs.ai/site/; font-src 'self'; connect-src 'self' https://storage.googleapis.com/starfield-labs-prod-identity/incoming/ https://firestore.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://storage.googleapis.com/starfield-labs-prod-team-files/incoming/ https://storage.googleapis.com/starfield-labs-prod-judging/incoming/ https://storage.googleapis.com/starfield-labs-prod-events-host/incoming/ https://storage.googleapis.com/starfield-labs-prod-content-covers/incoming/; worker-src starfieldlabs.ai/sw.js starfieldlabs.ai/_next/static/; frame-src 'none'; frame-ancestors 'none'; form-action 'self'; base-uri 'none'",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:23 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:43 GMT",
           "link": "</_next/static/media/archivo_latin_wdth_normal-s.p.1h4hl0m83hjjz.woff2?dpl=12206f3a73b291e6ecb595038b939aae32f95ec7>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </icons/lablab-logo.png>; rel=preload; as=\"image\", </_next/static/chunks/1mp74k8ou34ge.css?dpl=12206f3a73b291e6ecb595038b939aae32f95ec7>; rel=preload; as=\"style\", </_next/static/chunks/2i-4yogzmmbrt.css?dpl=12206f3a73b291e6ecb595038b939aae32f95ec7>; rel=preload; as=\"style\", </_next/static/chunks/1ijcf3w62oq7f.css?dpl=12206f3a73b291e6ecb595038b939aae32f95ec7>; rel=preload; as=\"style\"",
           "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
           "permissions-policy": "accelerometer=(), browsing-topics=(), camera=(), display-capture=(), geolocation=(), gyroscope=(), hid=(), magnetometer=(), microphone=(), midi=(), payment=(), serial=(), usb=()",
           "referrer-policy": "strict-origin-when-cross-origin",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ZX93teqRUshgME0A2%2BN%2BKKRUUFxtNWIszqAOAprJuHRietacoVKTRoVxLZtZhMu5UosFZ7DuDPo1cJtUvEosF346TzhOA2DCm%2FwdlGRjpk1dD2WViVpIYOTIOXpJ%2FTRE5x0%3D\"}]}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fkoMo7SrDLqtDlscOYWVEsAYfY%2BPhOtAdUg0iHc5%2Fv5O3GGojzgh%2FGNmkfGV8VGk92UdwxM7iIGHT9lYOg1QEA8%2FU9%2BoFWODjEWLyz83aBLux%2F9npG3LT%2FdD%2FmhEBTF2ULk%3D\"}]}",
           "server": "cloudflare",
           "strict-transport-security": "max-age=31536000; includeSubDomains",
           "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
           "via": "1.1 google",
-          "x-cloud-trace-context": "0768fa97285bb301f8736b5777c11bd3",
+          "x-cloud-trace-context": "774ceb176c0dea114919c88763219720",
           "x-content-type-options": "nosniff",
           "x-robots-tag": "index, follow"
         }
@@ -342452,54 +342452,10 @@
       "title": "AI hackathons | Starfield Labs"
     },
     {
-      "url": "https://asmi.ro/Departamente",
-      "crawl": {
-        "loadedUrl": "https://asmi.ro/Departamente",
-        "loadedTime": "2026-11-28T00:41:24.895Z",
-        "referrerUrl": "https://asmi.ro/",
-        "httpStatusCode": 200,
-        "depth": 1,
-        "contentLengthBytes": 34031,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://asmi.ro/Departamente",
-        "title": "Departamente - ASMI",
-        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "alt-svc": "h3=\":443\"; ma=86400",
-          "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a61553a47f92f835-LAX",
-          "content-encoding": "zstd",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:24 GMT",
-          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=P866CIljonhPao3Ryewozza4vCGwo4jBIVV7TExAWSC1ys1Y7AmzPTGEnwAuosUlWB54q1h6AGa0ajr90yIuZ1AVq98uwLb59Bln0gMhPhM8bK%2BCOKbQrmon\"}]}",
-          "server": "cloudflare",
-          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=57,cfOrigin;dur=757",
-          "vary": "accept-encoding"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "Departamente - ASMI\nDesign & PR\nDac\u0103 am putea descrie acest departament \u00een dou\u0103 cuvinte acelea sigur ar fi \"Imaginea Asocia\u021biei\". Imagineaz\u0103-\u021bi pentru c\u00e2teva secunde cum ar ar\u0103ta un proiect f\u0103r\u0103 afi\u0219e, post\u0103ri pe Facebook sau pe Instagram. Fie c\u0103 este vorba de Recrut\u0103ri sau Petreceri, f\u0103r\u0103 o promovare ca la carte, lumea nu ar fi atras\u0103 de evenimentele noastre iar informa\u021bia ar ajunge la mult mai pu\u021bini oameni. De aceea, avem nevoie de mult ajutor din partea acestui departament pentru a transmite informa\u021bia \u00eentr-un mod c\u00e2t mai pl\u0103cut \u0219i mai atr\u0103g\u0103tor.\nTe consideri creativ \u0219i mereu \u021bi-ai dorit s\u0103 \u00eenve\u021bi concepte de baz\u0103 \u00een editare grafic\u0103? Sau deja te pricepi la programe de editare foto/video? Ai talent la desen, pasiune pentru fotografie sau pur \u0219i simplu \u00ee\u021bi dore\u0219ti s\u0103 \u00eenve\u021bi tot ce \u021bi-am enumerat? \u00censeamn\u0103 c\u0103 ai nimerit unde trebuie! La Design & PR \u00ee\u021bi po\u021bi dezvolta hard skillurile \u0219i po\u021bi s\u0103 aju\u021bi la toate proiectele Asocia\u021biei!\nMicah Iordache Director de departament\nAmelia Roibu Director de departament\nEduca\u021bional\nDepartamentul Educa\u021bional se ocup\u0103 direct de \u00eentreaga interac\u021biune at\u00e2t cu studen\u021bii facult\u0103\u021bii noastre, c\u00e2t \u0219i cu elevi care \u0219i-ar dori s\u0103 urmeze FMI. Noi coordon\u0103m voluntarii din \u00eentreaga Asocia\u021bie \u00een gestionarea proiectelor precum: R\u0103\u021bu\u0219ca, Admiterea, Caravana Educa\u021bional\u0103, Ziua Por\u021bilor Deschise. Cu ajutorul acestora reu\u0219im s\u0103 motiv\u0103m \u0219i s\u0103 oferim ajutor constant studen\u021bilor pentru a le crea o experien\u021b\u0103 de neuitat \u00eentr-una din cele mai semnificative perioade a vie\u021bii lor.\nMembrii departamentului dezvolt\u0103 abilit\u0103\u0163i de public speaking, project management, teamwork \u015fi leadership pe care le pot folosi \u00een proiectele Asocia\u0163iei \u0219i nu numai.\n\u00cen c\u00e2teva cuvinte, Edu este cu \u015fi pentru studen\u0163i!\nDac\u0103 \u015fi tu vrei s\u0103 \u00ee\u0163i aju\u0163i colegii \u015fi s\u0103 \u00eencerci s\u0103 faci anii petrecu\u0163i \u00een facultate mai buni, hai \u00een echipa Edu!\nHuman Resources\nNoi suntem, pe scurt, \u201einima Asocia\u021biei\u201d ! Ne ocup\u0103m de integrarea bobocilor ce ni se al\u0103tur\u0103 \u00een fiecare toamn\u0103 \u0219i prim\u0103var\u0103, astfel \u00eenc\u00e2t ace\u0219tia s\u0103 ajung\u0103 s\u0103 se simt\u0103 cu adev\u0103rat parte din familia noastr\u0103. De asemenea, asigur\u0103m dezvoltarea \u0219i motivarea constant\u0103 a voluntarilor no\u0219tri prin organizarea activit\u0103\u021bilor de socializare.\nPe l\u00e2ng\u0103 procesul de recrutare, proiecte precum Marea Ie\u0219eal\u0103, Tre' s\u0103 Caut, chiar \u0219i Petrecerile, sunt organizate de voluntarii acestui departament. A\u0219a c\u0103, dac\u0103 e\u0219ti o persoan\u0103 empatic\u0103, altruist\u0103, \u00ee\u021bi place s\u0103 aju\u021bi, s\u0103 comunici cu oamenii \u0219i s\u0103 organizezi activit\u0103\u021bi, departamentul Human Resources te a\u0219teapt\u0103 cu bra\u021bele deschise!\nM\u0103d\u0103lina Moraru Director de departament\nMarius Manea Director de departament\nManagement & Fundraising\nPentru ca un proiect s\u0103 decurg\u0103 cum ne dorim este nevoie de munc\u0103, dedicare \u0219i comunicare, \u00eens\u0103 pentru a crea ceva memorabil este nevoie de un element special, ceva s\u0103 uneasc\u0103 efortul comun \u0219i s\u0103 ne dea aripi viselor. Aici intervin sponsorii no\u0219trii care ne sus\u021bin \u00een \u00eencercarea de a-i ajuta pe studen\u021bi. Noi suntem reprezentan\u021bii externi fiind primii cu care iau leg\u0103tura firmele atunci c\u00e2nd ne ofer\u0103 sprijinul lor. De asemenea noi oferim o voce oamenilor dornici s\u0103 spun\u0103 ce le-a pl\u0103cut \u00een cadrul evenimentelor, dar \u0219i ce trebuie \u00eembun\u0103t\u0103\u021bit, astfel \u00eenc\u00e2t edi\u021biile urm\u0103toare s\u0103 fie din ce \u00een ce mai bune. \u00cen cadrul departamentului vei \u00eenv\u0103\u021ba ce \u00eenseamn\u0103 s\u0103 organizezi un proiect, cum s\u0103 discu\u021bi \u0219i s\u0103 negociezi cu firme mari din domeniul IT \u0219i nu numai, dar \u0219i ce \u00eenseamn\u0103 munca \u00een echipa, gestionarea resurselor \u0219i distrac\u021bia al\u0103turi de colegi. Dac\u0103 te intereseaz\u0103 leg\u0103tura dintre Asocia\u021bie \u0219i companiile partenere \u0219i \u00ee\u021bi dore\u0219ti s\u0103 consolidezi mai departe aceste rela\u021bii, dar \u0219i s\u0103 creezi unele noi, atunci Management & Fundraising te a\u0219teapt\u0103!",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# Departamente - ASMI\n\n### Design & PR\n\nDac\u0103 am putea descrie acest departament \u00een dou\u0103 cuvinte acelea sigur ar fi \"Imaginea Asocia\u021biei\". Imagineaz\u0103-\u021bi pentru c\u00e2teva secunde cum ar ar\u0103ta un proiect f\u0103r\u0103 afi\u0219e, post\u0103ri pe Facebook sau pe Instagram. Fie c\u0103 este vorba de Recrut\u0103ri sau Petreceri, f\u0103r\u0103 o promovare ca la carte, lumea nu ar fi atras\u0103 de evenimentele noastre iar informa\u021bia ar ajunge la mult mai pu\u021bini oameni. De aceea, avem nevoie de mult ajutor din partea acestui departament pentru a transmite informa\u021bia \u00eentr-un mod c\u00e2t mai pl\u0103cut \u0219i mai atr\u0103g\u0103tor.\n\nTe consideri creativ \u0219i mereu \u021bi-ai dorit s\u0103 \u00eenve\u021bi concepte de baz\u0103 \u00een editare grafic\u0103? Sau deja te pricepi la programe de editare foto/video? Ai talent la desen, pasiune pentru fotografie sau pur \u0219i simplu \u00ee\u021bi dore\u0219ti s\u0103 \u00eenve\u021bi tot ce \u021bi-am enumerat? \u00censeamn\u0103 c\u0103 ai nimerit unde trebuie! La Design & PR \u00ee\u021bi po\u021bi dezvolta hard skillurile \u0219i po\u021bi s\u0103 aju\u021bi la toate proiectele Asocia\u021biei!\n\n![](https://asmi.ro/images/cd/MicahIordache.webp) Micah Iordache Director de departament\n\n![gal-item](https://asmi.ro/images/design/1-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/2-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/3-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/4-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/5-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/6-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/7-design.jpg)\n\n![gal-item](https://asmi.ro/images/design/8-DESIGN.jpg)\n\n![](https://asmi.ro/images/cd/AmeliaRoibu.webp) Amelia Roibu Director de departament\n\n### Educa\u021bional\n\nDepartamentul Educa\u021bional se ocup\u0103 direct de \u00eentreaga interac\u021biune at\u00e2t cu studen\u021bii facult\u0103\u021bii noastre, c\u00e2t \u0219i cu elevi care \u0219i-ar dori s\u0103 urmeze FMI. Noi coordon\u0103m voluntarii din \u00eentreaga Asocia\u021bie \u00een gestionarea proiectelor precum: R\u0103\u021bu\u0219ca, Admiterea, Caravana Educa\u021bional\u0103, Ziua Por\u021bilor Deschise. Cu ajutorul acestora reu\u0219im s\u0103 motiv\u0103m \u0219i s\u0103 oferim ajutor constant studen\u021bilor pentru a le crea o experien\u021b\u0103 de neuitat \u00eentr-una din cele mai semnificative perioade a vie\u021bii lor.\n\nMembrii departamentului dezvolt\u0103 abilit\u0103\u0163i de public speaking, project management, teamwork \u015fi leadership pe care le pot folosi \u00een proiectele Asocia\u0163iei \u0219i nu numai.\n\n\u00cen c\u00e2teva cuvinte, Edu este cu \u015fi pentru studen\u0163i!\n\nDac\u0103 \u015fi tu vrei s\u0103 \u00ee\u0163i aju\u0163i colegii \u015fi s\u0103 \u00eencerci s\u0103 faci anii petrecu\u0163i \u00een facultate mai buni, hai \u00een echipa Edu!\n\n![gal-item](https://asmi.ro/images/edu/1-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/2-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/3-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/4-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/5-EDU.jpg)\n\n### Human Resources\n\nNoi suntem, pe scurt, \u201einima Asocia\u021biei\u201d ! Ne ocup\u0103m de integrarea bobocilor ce ni se al\u0103tur\u0103 \u00een fiecare toamn\u0103 \u0219i prim\u0103var\u0103, astfel \u00eenc\u00e2t ace\u0219tia s\u0103 ajung\u0103 s\u0103 se simt\u0103 cu adev\u0103rat parte din familia noastr\u0103. De asemenea, asigur\u0103m dezvoltarea \u0219i motivarea constant\u0103 a voluntarilor no\u0219tri prin organizarea activit\u0103\u021bilor de socializare.\n\nPe l\u00e2ng\u0103 procesul de recrutare, proiecte precum Marea Ie\u0219eal\u0103, Tre' s\u0103 Caut, chiar \u0219i Petrecerile, sunt organizate de voluntarii acestui departament. A\u0219a c\u0103, dac\u0103 e\u0219ti o persoan\u0103 empatic\u0103, altruist\u0103, \u00ee\u021bi place s\u0103 aju\u021bi, s\u0103 comunici cu oamenii \u0219i s\u0103 organizezi activit\u0103\u021bi, departamentul Human Resources te a\u0219teapt\u0103 cu bra\u021bele deschise!\n\n![](https://asmi.ro/images/cd/Madalina.webp) M\u0103d\u0103lina Moraru Director de departament\n\n![gal-item](https://asmi.ro/images/hr/HR-1.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-2.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-3.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-4.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-5.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-6.jpg)\n\n![](https://asmi.ro/images/cd/MariusManea.webp) Marius Manea Director de departament\n\n### Management & Fundraising\n\nPentru ca un proiect s\u0103 decurg\u0103 cum ne dorim este nevoie de munc\u0103, dedicare \u0219i comunicare, \u00eens\u0103 pentru a crea ceva memorabil este nevoie de un element special, ceva s\u0103 uneasc\u0103 efortul comun \u0219i s\u0103 ne dea aripi viselor. Aici intervin sponsorii no\u0219trii care ne sus\u021bin \u00een \u00eencercarea de a-i ajuta pe studen\u021bi. Noi suntem reprezentan\u021bii externi fiind primii cu care iau leg\u0103tura firmele atunci c\u00e2nd ne ofer\u0103 sprijinul lor. De asemenea noi oferim o voce oamenilor dornici s\u0103 spun\u0103 ce le-a pl\u0103cut \u00een cadrul evenimentelor, dar \u0219i ce trebuie \u00eembun\u0103t\u0103\u021bit, astfel \u00eenc\u00e2t edi\u021biile urm\u0103toare s\u0103 fie din ce \u00een ce mai bune. \u00cen cadrul departamentului vei \u00eenv\u0103\u021ba ce \u00eenseamn\u0103 s\u0103 organizezi un proiect, cum s\u0103 discu\u021bi \u0219i s\u0103 negociezi cu firme mari din domeniul IT \u0219i nu numai, dar \u0219i ce \u00eenseamn\u0103 munca \u00een echipa, gestionarea resurselor \u0219i distrac\u021bia al\u0103turi de colegi. Dac\u0103 te intereseaz\u0103 leg\u0103tura dintre Asocia\u021bie \u0219i companiile partenere \u0219i \u00ee\u021bi dore\u0219ti s\u0103 consolidezi mai departe aceste rela\u021bii, dar \u0219i s\u0103 creezi unele noi, atunci Management & Fundraising te a\u0219teapt\u0103!\n\n![gal-item](https://asmi.ro/images/mf/1-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/2-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/3-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/4-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/5-MF.jpg)",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "Departamente - ASMI"
-    },
-    {
       "url": "https://hackathon.com/city/romania/bucharest",
       "crawl": {
         "loadedUrl": "https://www.hackathon.com/city/romania/bucharest",
-        "loadedTime": "2026-11-28T00:41:25.127Z",
+        "loadedTime": "2026-11-28T12:09:44.833Z",
         "referrerUrl": "https://hackathon.com/city/romania/bucharest",
         "httpStatusCode": 200,
         "depth": 0,
@@ -342539,12 +342495,12 @@
           "content-type": "text/html; charset=utf-8",
           "cross-origin-opener-policy": "same-origin",
           "cross-origin-resource-policy": "same-origin",
-          "date": "Sat, 28 Nov 2026 00:41:24 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:44 GMT",
           "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
           "origin-agent-cluster": "?1",
           "referrer-policy": "no-referrer",
-          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=2IFhveRSEpeCovmdiU0E9YvFW7xYyoQxYiPgHeWaCB8%3D\\u0026sid=c4c9725f-1ab0-44d8-820f-430df2718e11\\u0026ts=1795826484\"}],\"max_age\":3600}",
-          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=2IFhveRSEpeCovmdiU0E9YvFW7xYyoQxYiPgHeWaCB8%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1795826484\"",
+          "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=ZYid9XwgWYpr6j0iywobRoEqm3lryQK5xJtetuT7PWw%3D\\u0026sid=c4c9725f-1ab0-44d8-820f-430df2718e11\\u0026ts=1795867784\"}],\"max_age\":3600}",
+          "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=ZYid9XwgWYpr6j0iywobRoEqm3lryQK5xJtetuT7PWw%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1795867784\"",
           "server": "Heroku",
           "strict-transport-security": "max-age=63072000; preload",
           "vary": "Origin, Accept-Encoding",
@@ -342569,10 +342525,54 @@
       "title": "Find & Organize Hackathons in Bucharest, Romania"
     },
     {
+      "url": "https://asmi.ro/Departamente",
+      "crawl": {
+        "loadedUrl": "https://asmi.ro/Departamente",
+        "loadedTime": "2026-11-28T12:09:45.560Z",
+        "referrerUrl": "https://asmi.ro/",
+        "httpStatusCode": 200,
+        "depth": 1,
+        "contentLengthBytes": 34031,
+        "contentType": "text/html; charset=utf-8"
+      },
+      "metadata": {
+        "canonicalUrl": "https://asmi.ro/Departamente",
+        "title": "Departamente - ASMI",
+        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a61943f7bb607e38-ORD",
+          "content-encoding": "zstd",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Sat, 28 Nov 2026 12:09:45 GMT",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=RzK1qNmfeXjd4dJYgcsvDNTwLlxODCcDy2JULEvwNrm8r%2FEytCp%2F5syd48%2FxSVNMRWitfSIzZrVZx%2B7CFInAXp%2BjGRacRvYf2FfiHdp%2FbwuM5eYL3dBhEKZp\"}]}",
+          "server": "cloudflare",
+          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=16,cfOrigin;dur=579",
+          "vary": "accept-encoding"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "Departamente - ASMI\nDesign & PR\nDac\u0103 am putea descrie acest departament \u00een dou\u0103 cuvinte acelea sigur ar fi \"Imaginea Asocia\u021biei\". Imagineaz\u0103-\u021bi pentru c\u00e2teva secunde cum ar ar\u0103ta un proiect f\u0103r\u0103 afi\u0219e, post\u0103ri pe Facebook sau pe Instagram. Fie c\u0103 este vorba de Recrut\u0103ri sau Petreceri, f\u0103r\u0103 o promovare ca la carte, lumea nu ar fi atras\u0103 de evenimentele noastre iar informa\u021bia ar ajunge la mult mai pu\u021bini oameni. De aceea, avem nevoie de mult ajutor din partea acestui departament pentru a transmite informa\u021bia \u00eentr-un mod c\u00e2t mai pl\u0103cut \u0219i mai atr\u0103g\u0103tor.\nTe consideri creativ \u0219i mereu \u021bi-ai dorit s\u0103 \u00eenve\u021bi concepte de baz\u0103 \u00een editare grafic\u0103? Sau deja te pricepi la programe de editare foto/video? Ai talent la desen, pasiune pentru fotografie sau pur \u0219i simplu \u00ee\u021bi dore\u0219ti s\u0103 \u00eenve\u021bi tot ce \u021bi-am enumerat? \u00censeamn\u0103 c\u0103 ai nimerit unde trebuie! La Design & PR \u00ee\u021bi po\u021bi dezvolta hard skillurile \u0219i po\u021bi s\u0103 aju\u021bi la toate proiectele Asocia\u021biei!\nMicah Iordache Director de departament\nAmelia Roibu Director de departament\nEduca\u021bional\nDepartamentul Educa\u021bional se ocup\u0103 direct de \u00eentreaga interac\u021biune at\u00e2t cu studen\u021bii facult\u0103\u021bii noastre, c\u00e2t \u0219i cu elevi care \u0219i-ar dori s\u0103 urmeze FMI. Noi coordon\u0103m voluntarii din \u00eentreaga Asocia\u021bie \u00een gestionarea proiectelor precum: R\u0103\u021bu\u0219ca, Admiterea, Caravana Educa\u021bional\u0103, Ziua Por\u021bilor Deschise. Cu ajutorul acestora reu\u0219im s\u0103 motiv\u0103m \u0219i s\u0103 oferim ajutor constant studen\u021bilor pentru a le crea o experien\u021b\u0103 de neuitat \u00eentr-una din cele mai semnificative perioade a vie\u021bii lor.\nMembrii departamentului dezvolt\u0103 abilit\u0103\u0163i de public speaking, project management, teamwork \u015fi leadership pe care le pot folosi \u00een proiectele Asocia\u0163iei \u0219i nu numai.\n\u00cen c\u00e2teva cuvinte, Edu este cu \u015fi pentru studen\u0163i!\nDac\u0103 \u015fi tu vrei s\u0103 \u00ee\u0163i aju\u0163i colegii \u015fi s\u0103 \u00eencerci s\u0103 faci anii petrecu\u0163i \u00een facultate mai buni, hai \u00een echipa Edu!\nHuman Resources\nNoi suntem, pe scurt, \u201einima Asocia\u021biei\u201d ! Ne ocup\u0103m de integrarea bobocilor ce ni se al\u0103tur\u0103 \u00een fiecare toamn\u0103 \u0219i prim\u0103var\u0103, astfel \u00eenc\u00e2t ace\u0219tia s\u0103 ajung\u0103 s\u0103 se simt\u0103 cu adev\u0103rat parte din familia noastr\u0103. De asemenea, asigur\u0103m dezvoltarea \u0219i motivarea constant\u0103 a voluntarilor no\u0219tri prin organizarea activit\u0103\u021bilor de socializare.\nPe l\u00e2ng\u0103 procesul de recrutare, proiecte precum Marea Ie\u0219eal\u0103, Tre' s\u0103 Caut, chiar \u0219i Petrecerile, sunt organizate de voluntarii acestui departament. A\u0219a c\u0103, dac\u0103 e\u0219ti o persoan\u0103 empatic\u0103, altruist\u0103, \u00ee\u021bi place s\u0103 aju\u021bi, s\u0103 comunici cu oamenii \u0219i s\u0103 organizezi activit\u0103\u021bi, departamentul Human Resources te a\u0219teapt\u0103 cu bra\u021bele deschise!\nM\u0103d\u0103lina Moraru Director de departament\nMarius Manea Director de departament\nManagement & Fundraising\nPentru ca un proiect s\u0103 decurg\u0103 cum ne dorim este nevoie de munc\u0103, dedicare \u0219i comunicare, \u00eens\u0103 pentru a crea ceva memorabil este nevoie de un element special, ceva s\u0103 uneasc\u0103 efortul comun \u0219i s\u0103 ne dea aripi viselor. Aici intervin sponsorii no\u0219trii care ne sus\u021bin \u00een \u00eencercarea de a-i ajuta pe studen\u021bi. Noi suntem reprezentan\u021bii externi fiind primii cu care iau leg\u0103tura firmele atunci c\u00e2nd ne ofer\u0103 sprijinul lor. De asemenea noi oferim o voce oamenilor dornici s\u0103 spun\u0103 ce le-a pl\u0103cut \u00een cadrul evenimentelor, dar \u0219i ce trebuie \u00eembun\u0103t\u0103\u021bit, astfel \u00eenc\u00e2t edi\u021biile urm\u0103toare s\u0103 fie din ce \u00een ce mai bune. \u00cen cadrul departamentului vei \u00eenv\u0103\u021ba ce \u00eenseamn\u0103 s\u0103 organizezi un proiect, cum s\u0103 discu\u021bi \u0219i s\u0103 negociezi cu firme mari din domeniul IT \u0219i nu numai, dar \u0219i ce \u00eenseamn\u0103 munca \u00een echipa, gestionarea resurselor \u0219i distrac\u021bia al\u0103turi de colegi. Dac\u0103 te intereseaz\u0103 leg\u0103tura dintre Asocia\u021bie \u0219i companiile partenere \u0219i \u00ee\u021bi dore\u0219ti s\u0103 consolidezi mai departe aceste rela\u021bii, dar \u0219i s\u0103 creezi unele noi, atunci Management & Fundraising te a\u0219teapt\u0103!",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# Departamente - ASMI\n\n### Design & PR\n\nDac\u0103 am putea descrie acest departament \u00een dou\u0103 cuvinte acelea sigur ar fi \"Imaginea Asocia\u021biei\". Imagineaz\u0103-\u021bi pentru c\u00e2teva secunde cum ar ar\u0103ta un proiect f\u0103r\u0103 afi\u0219e, post\u0103ri pe Facebook sau pe Instagram. Fie c\u0103 este vorba de Recrut\u0103ri sau Petreceri, f\u0103r\u0103 o promovare ca la carte, lumea nu ar fi atras\u0103 de evenimentele noastre iar informa\u021bia ar ajunge la mult mai pu\u021bini oameni. De aceea, avem nevoie de mult ajutor din partea acestui departament pentru a transmite informa\u021bia \u00eentr-un mod c\u00e2t mai pl\u0103cut \u0219i mai atr\u0103g\u0103tor.\n\nTe consideri creativ \u0219i mereu \u021bi-ai dorit s\u0103 \u00eenve\u021bi concepte de baz\u0103 \u00een editare grafic\u0103? Sau deja te pricepi la programe de editare foto/video? Ai talent la desen, pasiune pentru fotografie sau pur \u0219i simplu \u00ee\u021bi dore\u0219ti s\u0103 \u00eenve\u021bi tot ce \u021bi-am enumerat? \u00censeamn\u0103 c\u0103 ai nimerit unde trebuie! La Design & PR \u00ee\u021bi po\u021bi dezvolta hard skillurile \u0219i po\u021bi s\u0103 aju\u021bi la toate proiectele Asocia\u021biei!\n\n![](https://asmi.ro/images/cd/MicahIordache.webp) Micah Iordache Director de departament\n\n![gal-item](https://asmi.ro/images/design/1-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/2-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/3-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/4-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/5-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/6-DESIGN.jpg)\n\n![gal-item](https://asmi.ro/images/design/7-design.jpg)\n\n![gal-item](https://asmi.ro/images/design/8-DESIGN.jpg)\n\n![](https://asmi.ro/images/cd/AmeliaRoibu.webp) Amelia Roibu Director de departament\n\n### Educa\u021bional\n\nDepartamentul Educa\u021bional se ocup\u0103 direct de \u00eentreaga interac\u021biune at\u00e2t cu studen\u021bii facult\u0103\u021bii noastre, c\u00e2t \u0219i cu elevi care \u0219i-ar dori s\u0103 urmeze FMI. Noi coordon\u0103m voluntarii din \u00eentreaga Asocia\u021bie \u00een gestionarea proiectelor precum: R\u0103\u021bu\u0219ca, Admiterea, Caravana Educa\u021bional\u0103, Ziua Por\u021bilor Deschise. Cu ajutorul acestora reu\u0219im s\u0103 motiv\u0103m \u0219i s\u0103 oferim ajutor constant studen\u021bilor pentru a le crea o experien\u021b\u0103 de neuitat \u00eentr-una din cele mai semnificative perioade a vie\u021bii lor.\n\nMembrii departamentului dezvolt\u0103 abilit\u0103\u0163i de public speaking, project management, teamwork \u015fi leadership pe care le pot folosi \u00een proiectele Asocia\u0163iei \u0219i nu numai.\n\n\u00cen c\u00e2teva cuvinte, Edu este cu \u015fi pentru studen\u0163i!\n\nDac\u0103 \u015fi tu vrei s\u0103 \u00ee\u0163i aju\u0163i colegii \u015fi s\u0103 \u00eencerci s\u0103 faci anii petrecu\u0163i \u00een facultate mai buni, hai \u00een echipa Edu!\n\n![gal-item](https://asmi.ro/images/edu/1-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/2-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/3-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/4-EDU.jpg)\n\n![gal-item](https://asmi.ro/images/edu/5-EDU.jpg)\n\n### Human Resources\n\nNoi suntem, pe scurt, \u201einima Asocia\u021biei\u201d ! Ne ocup\u0103m de integrarea bobocilor ce ni se al\u0103tur\u0103 \u00een fiecare toamn\u0103 \u0219i prim\u0103var\u0103, astfel \u00eenc\u00e2t ace\u0219tia s\u0103 ajung\u0103 s\u0103 se simt\u0103 cu adev\u0103rat parte din familia noastr\u0103. De asemenea, asigur\u0103m dezvoltarea \u0219i motivarea constant\u0103 a voluntarilor no\u0219tri prin organizarea activit\u0103\u021bilor de socializare.\n\nPe l\u00e2ng\u0103 procesul de recrutare, proiecte precum Marea Ie\u0219eal\u0103, Tre' s\u0103 Caut, chiar \u0219i Petrecerile, sunt organizate de voluntarii acestui departament. A\u0219a c\u0103, dac\u0103 e\u0219ti o persoan\u0103 empatic\u0103, altruist\u0103, \u00ee\u021bi place s\u0103 aju\u021bi, s\u0103 comunici cu oamenii \u0219i s\u0103 organizezi activit\u0103\u021bi, departamentul Human Resources te a\u0219teapt\u0103 cu bra\u021bele deschise!\n\n![](https://asmi.ro/images/cd/Madalina.webp) M\u0103d\u0103lina Moraru Director de departament\n\n![gal-item](https://asmi.ro/images/hr/HR-1.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-2.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-3.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-4.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-5.jpg)\n\n![gal-item](https://asmi.ro/images/hr/HR-6.jpg)\n\n![](https://asmi.ro/images/cd/MariusManea.webp) Marius Manea Director de departament\n\n### Management & Fundraising\n\nPentru ca un proiect s\u0103 decurg\u0103 cum ne dorim este nevoie de munc\u0103, dedicare \u0219i comunicare, \u00eens\u0103 pentru a crea ceva memorabil este nevoie de un element special, ceva s\u0103 uneasc\u0103 efortul comun \u0219i s\u0103 ne dea aripi viselor. Aici intervin sponsorii no\u0219trii care ne sus\u021bin \u00een \u00eencercarea de a-i ajuta pe studen\u021bi. Noi suntem reprezentan\u021bii externi fiind primii cu care iau leg\u0103tura firmele atunci c\u00e2nd ne ofer\u0103 sprijinul lor. De asemenea noi oferim o voce oamenilor dornici s\u0103 spun\u0103 ce le-a pl\u0103cut \u00een cadrul evenimentelor, dar \u0219i ce trebuie \u00eembun\u0103t\u0103\u021bit, astfel \u00eenc\u00e2t edi\u021biile urm\u0103toare s\u0103 fie din ce \u00een ce mai bune. \u00cen cadrul departamentului vei \u00eenv\u0103\u021ba ce \u00eenseamn\u0103 s\u0103 organizezi un proiect, cum s\u0103 discu\u021bi \u0219i s\u0103 negociezi cu firme mari din domeniul IT \u0219i nu numai, dar \u0219i ce \u00eenseamn\u0103 munca \u00een echipa, gestionarea resurselor \u0219i distrac\u021bia al\u0103turi de colegi. Dac\u0103 te intereseaz\u0103 leg\u0103tura dintre Asocia\u021bie \u0219i companiile partenere \u0219i \u00ee\u021bi dore\u0219ti s\u0103 consolidezi mai departe aceste rela\u021bii, dar \u0219i s\u0103 creezi unele noi, atunci Management & Fundraising te a\u0219teapt\u0103!\n\n![gal-item](https://asmi.ro/images/mf/1-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/2-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/3-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/4-MF.jpg)\n\n![gal-item](https://asmi.ro/images/mf/5-MF.jpg)",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "Departamente - ASMI"
+    },
+    {
       "url": "https://asmi.ro/Studenti",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Studenti",
-        "loadedTime": "2026-11-28T00:41:25.746Z",
+        "loadedTime": "2026-11-28T12:09:46.112Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342590,14 +342590,14 @@
         "headers": {
           "alt-svc": "h3=\":443\"; ma=86400",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a61553adcb594b1f-LAX",
+          "cf-ray": "a61943fb39b38f4b-ORD",
           "content-encoding": "zstd",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:25 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:46 GMT",
           "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=hW%2FZZDh%2BRX39aAE61iLZWLL1Flu9wQQziNamdO5kwmbQHtWju8RGwULoYt67Q3PhbglesjI51Co8zGIxE0GmaS2bENnCqZ1bE4yLQghtSn6oYFB7ey0A%2BIR0\"}]}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=EYgpVpuytbi60v0FQ4yxaVo2Mk9lZnsiKdwDU%2Fh%2BGNuM4292YTixbSsUp%2B9mh5VBRbWgpd4plWlkWJyN2hgF5lqkNJymSK%2Bj0kQSLxGcLiPqqCnKV77jHTrs\"}]}",
           "server": "cloudflare",
-          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=35,cfOrigin;dur=202",
+          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=23,cfOrigin;dur=550",
           "vary": "accept-encoding"
         }
       },
@@ -342613,54 +342613,10 @@
       "title": "Studenti - ASMI"
     },
     {
-      "url": "https://asmi.ro/Practica",
-      "crawl": {
-        "loadedUrl": "https://asmi.ro/Practica",
-        "loadedTime": "2026-11-28T00:41:26.561Z",
-        "referrerUrl": "https://asmi.ro/",
-        "httpStatusCode": 200,
-        "depth": 1,
-        "contentLengthBytes": 159841,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://asmi.ro/Practica",
-        "title": "Practica - ASMI",
-        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "alt-svc": "h3=\":443\"; ma=86400",
-          "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a61553afc847eaf3-ORD",
-          "content-encoding": "zstd",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:26 GMT",
-          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ygvfLdGL8agnhvFZL9PNSClmE2sUlhe61F9RWv6YWMRN0N1cWcqso3wfVTSLLMZTpMs4rODFsyWTUIJ7ghLWgl5YoEOiuSFbgbpcUtCz3%2F8kC%2FeZlzCPLgvR\"}]}",
-          "server": "cloudflare",
-          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=40,cfOrigin;dur=628",
-          "vary": "accept-encoding"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "Practica - ASMI\nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x)",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# Practica - ASMI\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "Practica - ASMI"
-    },
-    {
       "url": "https://asmi.ro/Elevi",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Elevi",
-        "loadedTime": "2026-11-28T00:41:27.343Z",
+        "loadedTime": "2026-11-28T12:09:47.095Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342678,14 +342634,14 @@
         "headers": {
           "alt-svc": "h3=\":443\"; ma=86400",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a61553b45ef0f6a7-LAX",
+          "cf-ray": "a61944034d77c173-LAX",
           "content-encoding": "zstd",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:27 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:46 GMT",
           "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=gORa0wVSxRjPomf06aj36fCAKrX5vGNdazscIpzNDXep6uY0zu%2BzLUFuR8UgWU6Jqvv9ttC5AmJjar%2FWX3RYOR%2BQmNwUAKAqptmIo7smFi3qpsHghMash8Cl\"}]}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=o8ZoeDFqSjqKr2keSgbUUpCVH1yg%2FcZ8i20MQoN76r98YlPoB%2BCehvmPXtadRoWWa7rDj9SJNcquUzkETf5Uq3N1ko21b5i3bDFPuFGJfuWubizx9YEIgZPZ\"}]}",
           "server": "cloudflare",
-          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=10,cfOrigin;dur=773",
+          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=14,cfOrigin;dur=191",
           "vary": "accept-encoding"
         }
       },
@@ -342701,10 +342657,54 @@
       "title": "Elevi - ASMI"
     },
     {
+      "url": "https://asmi.ro/Practica",
+      "crawl": {
+        "loadedUrl": "https://asmi.ro/Practica",
+        "loadedTime": "2026-11-28T12:09:47.353Z",
+        "referrerUrl": "https://asmi.ro/",
+        "httpStatusCode": 200,
+        "depth": 1,
+        "contentLengthBytes": 159834,
+        "contentType": "text/html; charset=utf-8"
+      },
+      "metadata": {
+        "canonicalUrl": "https://asmi.ro/Practica",
+        "title": "Practica - ASMI",
+        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a61943fece031ee0-LAX",
+          "content-encoding": "zstd",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Sat, 28 Nov 2026 12:09:47 GMT",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=049BikxTzc5SjT3eOSQDdSLT2SO78YhBVTWKh8NnXJIf0em6q86tAi2ZD%2B5zqCdx3SwlECxhfTqSe2O8zB58gNQr1k3ISjE4XQZKb2tUIQr%2Fo5DQmsknOT2N\"}]}",
+          "server": "cloudflare",
+          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=11,cfOrigin;dur=995",
+          "vary": "accept-encoding"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "Practica - ASMI\nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x) \nisEven :: Int -> Bool \nonlyOdds = filter (not . isEven) \napplyTwice f x = f (f x) \nlet squares = [x*x | x <- [1..10]] \ndirect_connection(station_b, station_e). \npath(Start, End) :- direct_connection(Start, End). \npath(A, C) :- direct_connection(A, B), path(B, C). \nquery(Result) :- findall(X, my_list(X), Result). \nreverse(List, Reversed) :- reverse_helper(List, [], Reversed). \npublic static async IAsyncEnumerable<int> GetData(int limit) \n{ for (int i = 0; i < limit; i++) { yield return i; } } \nawait foreach (var packet in GetData(25)) \nvar cacheEntry = memoryCache.GetOrCreate(key, factory); \nprivate readonly ILogger<T> _logger; \n#!/bin/bash \nfind . -name '*.sh' -print0 | xargs -0 chmod +x \ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u \nif [[ -z \"$VARIABLE\" ]]; then echo \"Error: Missing var\"; exit 1; fi \ntar -czf backup-$(date +%Y%m%d).tar.gz /data/ \nuse std::sync::{Arc, Mutex}; \nlet data_guard = Arc::new(Mutex::new(vec![1, 2, 3])); \nlet thread_handle = thread::spawn(move || { \nlet mut data = data_guard.lock().unwrap(); \ndata.push(42); \n}); \nthread_handle.join().unwrap(); \nfn process_result<T, E>(r: Result<T, E>) -> T {} \ndata Color = Red | Green | Blue \nfmap f (Just x) = Just (f x)",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# Practica - ASMI\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)\n\nisEven :: Int -> Bool\n\nonlyOdds = filter (not . isEven)\n\napplyTwice f x = f (f x)\n\nlet squares = \\[x\\*x | x <- \\[1..10\\]\\]\n\ndirect\\_connection(station\\_b, station\\_e).\n\npath(Start, End) :- direct\\_connection(Start, End).\n\npath(A, C) :- direct\\_connection(A, B), path(B, C).\n\nquery(Result) :- findall(X, my\\_list(X), Result).\n\nreverse(List, Reversed) :- reverse\\_helper(List, \\[\\], Reversed).\n\npublic static async IAsyncEnumerable<int> GetData(int limit)\n\n{ for (int i = 0; i < limit; i++) { yield return i; } }\n\nawait foreach (var packet in GetData(25))\n\nvar cacheEntry = memoryCache.GetOrCreate(key, factory);\n\nprivate readonly ILogger<T> \\_logger;\n\n#!/bin/bash\n\nfind . -name '\\*.sh' -print0 | xargs -0 chmod +x\n\ngrep -r 'function' /src/ | awk -F: '{print $1}' | sort -u\n\nif \\[\\[ -z \"$VARIABLE\" \\]\\]; then echo \"Error: Missing var\"; exit 1; fi\n\ntar -czf backup-$(date +%Y%m%d).tar.gz /data/\n\nuse std::sync::{Arc, Mutex};\n\nlet data\\_guard = Arc::new(Mutex::new(vec!\\[1, 2, 3\\]));\n\nlet thread\\_handle = thread::spawn(move || {\n\nlet mut data = data\\_guard.lock().unwrap();\n\ndata.push(42);\n\n});\n\nthread\\_handle.join().unwrap();\n\nfn process\\_result<T, E>(r: Result<T, E>) -> T {}\n\ndata Color = Red | Green | Blue\n\nfmap f (Just x) = Just (f x)",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "Practica - ASMI"
+    },
+    {
       "url": "https://asmi.ro/Proiecte",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Proiecte",
-        "loadedTime": "2026-11-28T00:41:27.547Z",
+        "loadedTime": "2026-11-28T12:09:48.340Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342722,14 +342722,14 @@
         "headers": {
           "alt-svc": "h3=\":443\"; ma=86400",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a61553b92aa7b5d4-LAX",
+          "cf-ray": "a61944092a51c193-PIT",
           "content-encoding": "zstd",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:27 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:48 GMT",
           "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=BzzrRsMPI3zGurERGZVet6I5Lgan61qKKs5dwLcJKwZRDKw0ig2roFAVJThG%2B2C8NGMz%2FL%2BD5MCJEM1zPnZWMLu7AFpEgtAHjJ7d8rjIquk0bdA%2FCIM64flI\"}]}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=G8%2BQZKiQ4OrcPUs0EesjM%2B2qMqFLw6RmbpwvCwl0Irbhs35BIqOhsy%2FA6hPs7YRD1BsJsLBX0cZ2Sj9Lo304nd59MSdSWmW2EYoosX5Xu9LkbW2t9liMPN%2FK\"}]}",
           "server": "cloudflare",
-          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=20,cfOrigin;dur=199",
+          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=14,cfOrigin;dur=525",
           "vary": "accept-encoding"
         }
       },
@@ -342748,7 +342748,7 @@
       "url": "https://asmi.ro/Galerie",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Galerie",
-        "loadedTime": "2026-11-28T00:41:28.335Z",
+        "loadedTime": "2026-11-28T12:09:48.895Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342766,14 +342766,14 @@
         "headers": {
           "alt-svc": "h3=\":443\"; ma=86400",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a61553be5daeef32-LAX",
+          "cf-ray": "a619440f2ee82bff-ORD",
           "content-encoding": "zstd",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:28 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:48 GMT",
           "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=auDBuhc3gE%2Ft9gNQ17ocWgp04Lh2kO%2BLH7lOVhGIC5dxEWKBi1xKpXJUo%2BbyJPiLBUaiJnbEneuksz6vSmfYFm8V%2Bj7%2BSMrt3hJekM7hq8UwUsPgj4UWvL6z\"}]}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=I3QrrOHretXrsCKykzmUjf3ttngvxbBurFDgHxUYLvsLn4spj%2Bn3%2BLZmWF5YGtr8UKLZovYs80U4d7rlRS6WC0PaY07EilhjIy1H6qKFbpt7KE1ah%2FzhA6We\"}]}",
           "server": "cloudflare",
-          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=21,cfOrigin;dur=199",
+          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=15,cfOrigin;dur=146",
           "vary": "accept-encoding"
         }
       },
@@ -342792,7 +342792,7 @@
       "url": "https://asmi.ro/CalendarASMI",
       "crawl": {
         "loadedUrl": "https://asmi.ro/CalendarASMI",
-        "loadedTime": "2026-11-28T00:41:28.527Z",
+        "loadedTime": "2026-11-28T12:09:49.169Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342810,14 +342810,14 @@
         "headers": {
           "alt-svc": "h3=\":443\"; ma=86400",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a61553bcdfa6f84b-ATL",
+          "cf-ray": "a619440c48fc999a-LAX",
           "content-encoding": "zstd",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:28 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:48 GMT",
           "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=S1jWwKUiO2CkLNnkYVd%2FcpSjQ9hhc701sDwsWET0pGRHJHCmMGmyIP%2B5OBvGL81uHIswEaZ1LYiTdfi3QbLyjDX6sZHODXWURH%2Fo%2Fz751LC26mgDnWTa0Gbd\"}]}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=8g9LYd95%2BjJuf%2BxCALPnwclZeG4RaL9IF5al2zdkbQodXyN0m7FuXLl1hMQOzvVWrruy0j1atQ81vzi2S%2B1MNxfHffHZc17cjUwruBCdF7i1O3%2B7mJQm0JbE\"}]}",
           "server": "cloudflare",
-          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=31,cfOrigin;dur=546",
+          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=15,cfOrigin;dur=770",
           "vary": "accept-encoding"
         }
       },
@@ -342836,7 +342836,7 @@
       "url": "https://asmi.ro/ButonulRosu",
       "crawl": {
         "loadedUrl": "https://asmi.ro/ButonulRosu",
-        "loadedTime": "2026-11-28T00:41:29.082Z",
+        "loadedTime": "2026-11-28T12:09:50.183Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -342854,14 +342854,14 @@
         "headers": {
           "alt-svc": "h3=\":443\"; ma=86400",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a61553c288fafc10-LAX",
+          "cf-ray": "a619441318e32f3a-LAX",
           "content-encoding": "zstd",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:28 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:50 GMT",
           "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=afQ9m9qu8wKTqRBHFPMOuWwQNb0CVNfWePl3jSKLI6q1gD6NwJUxcGlXsWM5mGQMxkVmH6g8J3pUn60mK6v36QvkGXB1mUCARzTwYw1scEEdcs3VHQeSHM8S\"}]}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=6E2%2BrVMxk2TC3M3%2BxVIbqfz%2BywgvNxBoxHRDj6KQN%2FxXqFWtULjM7V1fCSdXyrrSue5zyrSl6VzbdODKbEUtUHaMZGalsRa1SU8mZyp04UBxE%2Fkl6A7rIQd%2B\"}]}",
           "server": "cloudflare",
-          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=17,cfOrigin;dur=202",
+          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=20,cfOrigin;dur=772",
           "vary": "accept-encoding"
         }
       },
@@ -342877,58 +342877,14 @@
       "title": "ButonulRosu - ASMI"
     },
     {
-      "url": "https://asmi.ro/scss",
-      "crawl": {
-        "loadedUrl": "https://asmi.ro/scss",
-        "loadedTime": "2026-11-28T00:41:29.892Z",
-        "referrerUrl": "https://asmi.ro/",
-        "httpStatusCode": 200,
-        "depth": 1,
-        "contentLengthBytes": 36478,
-        "contentType": "text/html; charset=utf-8"
-      },
-      "metadata": {
-        "canonicalUrl": "https://asmi.ro/scss",
-        "title": "SCSS - ASMI",
-        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
-        "author": null,
-        "keywords": null,
-        "languageCode": "en",
-        "jsonLd": null,
-        "headers": {
-          "alt-svc": "h3=\":443\"; ma=86400",
-          "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a61553c7b91a5227-LAX",
-          "content-encoding": "zstd",
-          "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:29 GMT",
-          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=PTY5NIsTapePATfOcJ6VFPiyCsi9ShrhWypGIiE0bnn4SrAyW2KYSroFBi93wmKRRUYalBIWCXySMALJ1WxLrgujuJIn8OOgrw8sj6uPxhURi0Ui4KS7LtSJ\"}]}",
-          "server": "cloudflare",
-          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=25,cfOrigin;dur=206",
-          "vary": "accept-encoding"
-        }
-      },
-      "screenshotUrl": null,
-      "text": "SCSS - ASMI\nSesiunea de Comunic\u0103ri \u0218tiin\u021bifice Studen\u021be\u0219ti 2027 (SCSS)\nO oportunitate unic\u0103 pentru studen\u021bii no\u0219tri de a-\u0219i prezenta cercet\u0103rile \u0219i proiectele \u00een fa\u021ba comunit\u0103\u021bii academice. \n\u00censcrie-te acum \nInformatic\u0103 \nCryptographic Inventory of Cloud Infrastructure\nInformatic\u0103 sau CTI \nExplicarea automat\u0103 a anomaliilor SCADA cu modele de limbaj (LLM) - Root-Cause Reasoning\nInformatic\u0103 sau CTI \nActive Learning pentru detec\u021bia scurgerilor/emisiilor de metan din imagini aeriene sau satelitare\nInformatic\u0103 sau CTI \nAsistent RAG de \u00eencredere pentru documente tehnice \u0219i de reglementare \u00een limba rom\u00e2n\u0103: evaluare \u0219i detectarea halucina\u021biilor\nMatematic\u0103 sau Informatic\u0103 \nAmplasarea optim\u0103 a sta\u021biilor de \u00eenc\u0103rcare pentru vehicule electrice\nInformatic\u0103 sau CTI \nDetectarea anomaliilor \u00een consumul energetic prin metode nesupervizate\nMatematic\u0103 sau Informatic\u0103 \nGenerarea de date sintetice de consum energetic cu garan\u021bii de confiden\u021bialitate\nInformatic\u0103 \nPost-Quantum Migration of Cloud Infrastructure\nMatematic\u0103, Informatic\u0103 sau CTI \nGenerarea de scenarii extreme de produc\u021bie regenerabil\u0103 cu modele de difuzie\nMatematic\u0103 sau Informatic\u0103 \nInferen\u021b\u0103 cauzal\u0103 pentru evaluarea impactului energiilor regenerabile asupra pre\u021burilor pie\u021bei\nMatematic\u0103, Informatic\u0103 sau CTI Doar Master \nReinforcement Learning pentru arbitrajul energetic al sistemelor de stocare \u00een baterii (BESS)\nInformatic\u0103 Doar Master \nChoosing the Right Store for the Job: Performance, Consistency and Operational Cost in Polyglot Architectures for Energy Data\nInformatic\u0103 Doar Master \nModelling Energy Market Time Series for Parallel Processing: How Dimensional, Data Vault and Wide-Table Schemas Scale across Cores and Nodes\nAPLICA\u021aII ALE SVD \u00ceN SISTEME DE RECOMANDARE Lucrarea pe care se bazeaz\u0103 prezentarea exploreaz\u0103 aplica\u021biile Decompunerii \u00een Valori Singulare (SVD) \u00een sisteme de recomandare, combin\u00e2nd analiza teoretic\u0103 cu o implementare practic\u0103. \u00cen prima parte, voi prezenta conceptele matematice esen\u021biale pentru \u00een\u021belegerea SVD. Voi prezenta apoi dou\u0103 metode de determinare a SVD-ului unei matrice \u0219i le voi compara din punct de vedere al preciziei \u0219i stabilit\u0103\u021bii numerice. \u00cen final, voi prezenta un model de recomandare de filme pe care l-am dezvoltat utiliz\u00e2nd SVD trunchiat \u0219i voi comenta rezultatele ob\u021binute. \nProfesor coordonator: Lect. Dr. Mihai Bucataru \nAUTOMATED ANOMALY DETECTION IN WINDOWS SYSTEM LOGS FOR CYBER DEFENSE \u00cen ciuda progreselor recente \u00een detectarea comportamentului anormal pe platforma Windows, atacatorii \u00eenc\u0103 folosesc tehnici care pot fi detectate printr-o analiz\u0103 detaliat\u0103 a evenimentelor de sistem. \u00cen aceast\u0103 lucrare, este colectat \u0219i analizat un set de date ce cuprinde peste 240.000 loguri de sistem colectate pe parcursul a mai multor zile \u0219i 22 de milioane de evenimente preluate \u00een cadrul LockedShields, cel mai mare exerci\u021biu de securitate cibernetic\u0103 organizat de NATO CCDCOE. Lucrarea se focalizeaz\u0103 pe antrenarea de diverse modele pentru detectare de anomalii \u2014 de la metode statistice clasice pana la LLMs \u0219i o abordare de tip BERT bazat\u0103 pe Masked Language Modeling (MLM), \u0219i aplicarea lor pentru atribuirea de scoruri \u0219i etichete de anomalie pentru logurile de Windows. \u00cen abordarea bazat\u0103 pe BERT, masc\u0103m repetat un procent fix din tokeni \u00een fiecare secven\u021b\u0103 de loguri pe parcursul a k itera\u021bii \u0219i prezicem tokenii masca\u021bi cu ajutorul modelului. Din aceste predic\u021bii, deriv\u0103m scoruri de anomalie pe baza probabilit\u0103\u021bilor atribuite tokenilor corec\u021bi, ceea ce permite o compara\u021bie direct\u0103 \u00eentre rezultatele modelului \u0219i anomaliile efective prezente \u00een date. Aplic\u00e2nd aceast\u0103 abordare, modelul BERT ob\u021bine scoruri F1 de 0,6842 \u0219i 0,6580 pe subseturile de test (\u0219i 0,7020 pe datasetul LockedShields), dep\u0103\u0219ind metodele tradi\u021bionale de detectare a anomaliilor, care \u00eenregistreaz\u0103 scoruri F1 de 0,5736 \u0219i 0,5914, eviden\u021biind astfel poten\u021bialul abord\u0103rii de a contribui la \u00eembun\u0103t\u0103\u021birea securit\u0103\u021bii cibernetice. \nAutor: Daria Mihaela Brosco\u021beanu Profesor coordonator: Radu Tudor Ionescu \nANALIZA COMPONENTELOR INDEPENDENTE CU APLICA\u021aII \u00ceN NEURO\u0218TIIN\u021aE Analiza componentelor independente(ICA) este una dintre cele mai folosite tehnici de prelucrare a datelor \u00een sfera neuro\u0219tiin\u021belor \u0219i nu numai. Metoda implic\u0103 descompunerea unui semnal \u00een componentele sale subiacente cu c\u00e2t mai pu\u021bine presupuneri despre structura acestora. \u00cen lucrarea de fa\u021b\u0103 prezent\u0103m cadrul matematic al ICA \u0219i exemple de aplica\u021bii pe date cerebrale (EEG, fMRI), men\u021bion\u00e2nd \u0219i diferen\u021be fa\u021b\u0103 de algoritmul PCA. \nAutor: Matei Alexandru Busoiu Profesor coordonator: Lect. Dr. Alexandru Amarioarei \nLOGIC\u0102 \u0218I SISTEME DISTRIBUITE Aceast\u0103 lucrare \u00ee\u0219i propune introducerea unei specifica\u021bii pentru demonstrarea distribuit\u0103 a formulelor din logica propozi\u021bional\u0103 clasic\u0103 \u0219i intui\u021bionist\u0103. Sistemul de deduc\u021bie care st\u0103 la baza acestei specifica\u021bii este calculul secven\u021bilor. \u00cen mod tradi\u021bional, implement\u0103rile computa\u021bionale ale acestuia adopt\u0103 o form\u0103 mono-agent. \u00cen aceast\u0103 lucrare utiliz\u0103m modelul VLSM, un formalism bazat pe ma\u0219ini cu st\u0103ri introdus pentru reprezentarea protocoalelor de consens, reprezent\u00e2nd fiecare regul\u0103 de inferen\u021b\u0103 sub forma unei componente. Aceast\u0103 abordare modular\u0103 permite o specificare compozi\u021bional\u0103 a procesului de demonstrare, \u00een care regulile pot interac\u021biona \u00eentr-un mod controlat. Modelul VLSM ofer\u0103 garan\u021bii formale privind corectitudinea \u0219i interoperabilitatea componentelor, facilit\u00e2nd astfel analiza distribu\u021biei \u0219i sincroniz\u0103rii \u00een cadrul procesului de construc\u021bie a demonstra\u021biilor. Specifica\u021bia propus\u0103 ofer\u0103 un cadru teoretic riguros pentru explorarea demonstr\u0103rii distribuite \u00een logic\u0103, contribuind la apropierea dintre teoria demonstra\u021biilor \u0219i modelele formale utilizate \u00een sisteme distribuite. Rezultatele principale ale acestei lucr\u0103ri au fost mecanizate \u00een limbajul Coq/Rocq. \nAutor: Radu-Mihai Costache Profesor coordonator: Conf. Denisa Diaconescu \n24.11.2026 - 28.04.2027 \u00censcrieri \nTBA Workshop de preg\u0103tire \nTBA Prezentarea lucr\u0103rilor \nCe este Sesiunea de Comunic\u0103ri \u0218tiin\u021bifice Studen\u021be\u0219ti? \nPrimul concurs de cercetare \u0219tiin\u021bific\u0103 pentru studen\u021bii FMI! Alege o tem\u0103 propus\u0103 de firme partenere sau de facultate, realizeaz\u0103 o lucrare de cercetare \u0219i prezint\u0103-\u021bi munca \u00een fa\u021ba unui juriu de profesori \u0219i reprezentan\u021bi ai companiilor.\nCine poate participa? \nTo\u021bi studen\u021bii de la Facultatea de Matematic\u0103 \u0219i Informatic\u0103, indiferent de ciclu de studii: licen\u021b\u0103, masterat sau doctorat. Sunt bineveni\u021bi \u0219i studen\u021bi de la alte Facult\u0103\u021bi!\nC\u00e2nd sunt \u00eenscrierile? \n\u00censcrierile vor fi \u00een perioada 24 noiembrie - 28 aprilie, data evenimentului propriu-zis va fi anun\u021bat\u0103 ulterior .\nCe teme pot alege? \nTemele propuse de firmele partenere: Licen\u021b\u0103 Master & Doctorat SAU Po\u021bi veni cu propria tem\u0103! \nCe este workshop-ul? \nPe la final de februarie: profesor al facult\u0103\u021bii, un reprezentant al firmei \u0219i un invitat care a participat \u00een edi\u021biile anterioare te \u00eenva\u021b\u0103 cum s\u0103 faci o cercetare!",
-      "html": null,
-      "htmlUrl": null,
-      "markdown": "# SCSS - ASMI\n\n![Logo SCSS](https://asmi.ro/images/scss/scss_logo.png)\n\n## Sesiunea de Comunic\u0103ri \u0218tiin\u021bifice Studen\u021be\u0219ti 2027 (SCSS)\n\n![Simboluri matematice](https://asmi.ro/images/scss/math_symbols.svg)\n\nO oportunitate unic\u0103 pentru studen\u021bii no\u0219tri de a-\u0219i prezenta cercet\u0103rile \u0219i proiectele \u00een fa\u021ba comunit\u0103\u021bii academice.\n\n[\u00censcrie-te acum](https://forms.gle/Yohc48sHxz65TKht6)\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103\n\n### Cryptographic Inventory of Cloud Infrastructure\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103 sau CTI\n\n### Explicarea automat\u0103 a anomaliilor SCADA cu modele de limbaj (LLM) - Root-Cause Reasoning\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103 sau CTI\n\n### Active Learning pentru detec\u021bia scurgerilor/emisiilor de metan din imagini aeriene sau satelitare\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103 sau CTI\n\n### Asistent RAG de \u00eencredere pentru documente tehnice \u0219i de reglementare \u00een limba rom\u00e2n\u0103: evaluare \u0219i detectarea halucina\u021biilor\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nMatematic\u0103 sau Informatic\u0103\n\n### Amplasarea optim\u0103 a sta\u021biilor de \u00eenc\u0103rcare pentru vehicule electrice\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103 sau CTI\n\n### Detectarea anomaliilor \u00een consumul energetic prin metode nesupervizate\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nMatematic\u0103 sau Informatic\u0103\n\n### Generarea de date sintetice de consum energetic cu garan\u021bii de confiden\u021bialitate\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103\n\n### Post-Quantum Migration of Cloud Infrastructure\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nMatematic\u0103, Informatic\u0103 sau CTI\n\n### Generarea de scenarii extreme de produc\u021bie regenerabil\u0103 cu modele de difuzie\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nMatematic\u0103 sau Informatic\u0103\n\n### Inferen\u021b\u0103 cauzal\u0103 pentru evaluarea impactului energiilor regenerabile asupra pre\u021burilor pie\u021bei\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nMatematic\u0103, Informatic\u0103 sau CTI Doar Master\n\n### Reinforcement Learning pentru arbitrajul energetic al sistemelor de stocare \u00een baterii (BESS)\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103 Doar Master\n\n### Choosing the Right Store for the Job: Performance, Consistency and Operational Cost in Polyglot Architectures for Energy Data\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103 Doar Master\n\n### Modelling Energy Market Time Series for Parallel Processing: How Dimensional, Data Vault and Wide-Table Schemas Scale across Cores and Nodes\n\nAPLICA\u021aII ALE SVD \u00ceN SISTEME DE RECOMANDARE Lucrarea pe care se bazeaz\u0103 prezentarea exploreaz\u0103 aplica\u021biile Decompunerii \u00een Valori Singulare (SVD) \u00een sisteme de recomandare, combin\u00e2nd analiza teoretic\u0103 cu o implementare practic\u0103. \u00cen prima parte, voi prezenta conceptele matematice esen\u021biale pentru \u00een\u021belegerea SVD. Voi prezenta apoi dou\u0103 metode de determinare a SVD-ului unei matrice \u0219i le voi compara din punct de vedere al preciziei \u0219i stabilit\u0103\u021bii numerice. \u00cen final, voi prezenta un model de recomandare de filme pe care l-am dezvoltat utiliz\u00e2nd SVD trunchiat \u0219i voi comenta rezultatele ob\u021binute.\n\nProfesor coordonator: Lect. Dr. Mihai Bucataru\n\nAUTOMATED ANOMALY DETECTION IN WINDOWS SYSTEM LOGS FOR CYBER DEFENSE \u00cen ciuda progreselor recente \u00een detectarea comportamentului anormal pe platforma Windows, atacatorii \u00eenc\u0103 folosesc tehnici care pot fi detectate printr-o analiz\u0103 detaliat\u0103 a evenimentelor de sistem. \u00cen aceast\u0103 lucrare, este colectat \u0219i analizat un set de date ce cuprinde peste 240.000 loguri de sistem colectate pe parcursul a mai multor zile \u0219i 22 de milioane de evenimente preluate \u00een cadrul LockedShields, cel mai mare exerci\u021biu de securitate cibernetic\u0103 organizat de NATO CCDCOE. Lucrarea se focalizeaz\u0103 pe antrenarea de diverse modele pentru detectare de anomalii \u2014 de la metode statistice clasice pana la LLMs \u0219i o abordare de tip BERT bazat\u0103 pe Masked Language Modeling (MLM), \u0219i aplicarea lor pentru atribuirea de scoruri \u0219i etichete de anomalie pentru logurile de Windows. \u00cen abordarea bazat\u0103 pe BERT, masc\u0103m repetat un procent fix din tokeni \u00een fiecare secven\u021b\u0103 de loguri pe parcursul a k itera\u021bii \u0219i prezicem tokenii masca\u021bi cu ajutorul modelului. Din aceste predic\u021bii, deriv\u0103m scoruri de anomalie pe baza probabilit\u0103\u021bilor atribuite tokenilor corec\u021bi, ceea ce permite o compara\u021bie direct\u0103 \u00eentre rezultatele modelului \u0219i anomaliile efective prezente \u00een date. Aplic\u00e2nd aceast\u0103 abordare, modelul BERT ob\u021bine scoruri F1 de 0,6842 \u0219i 0,6580 pe subseturile de test (\u0219i 0,7020 pe datasetul LockedShields), dep\u0103\u0219ind metodele tradi\u021bionale de detectare a anomaliilor, care \u00eenregistreaz\u0103 scoruri F1 de 0,5736 \u0219i 0,5914, eviden\u021biind astfel poten\u021bialul abord\u0103rii de a contribui la \u00eembun\u0103t\u0103\u021birea securit\u0103\u021bii cibernetice.\n\nAutor: Daria Mihaela Brosco\u021beanu Profesor coordonator: Radu Tudor Ionescu\n\nANALIZA COMPONENTELOR INDEPENDENTE CU APLICA\u021aII \u00ceN NEURO\u0218TIIN\u021aE Analiza componentelor independente(ICA) este una dintre cele mai folosite tehnici de prelucrare a datelor \u00een sfera neuro\u0219tiin\u021belor \u0219i nu numai. Metoda implic\u0103 descompunerea unui semnal \u00een componentele sale subiacente cu c\u00e2t mai pu\u021bine presupuneri despre structura acestora. \u00cen lucrarea de fa\u021b\u0103 prezent\u0103m cadrul matematic al ICA \u0219i exemple de aplica\u021bii pe date cerebrale (EEG, fMRI), men\u021bion\u00e2nd \u0219i diferen\u021be fa\u021b\u0103 de algoritmul PCA.\n\nAutor: Matei Alexandru Busoiu Profesor coordonator: Lect. Dr. Alexandru Amarioarei\n\nLOGIC\u0102 \u0218I SISTEME DISTRIBUITE Aceast\u0103 lucrare \u00ee\u0219i propune introducerea unei specifica\u021bii pentru demonstrarea distribuit\u0103 a formulelor din logica propozi\u021bional\u0103 clasic\u0103 \u0219i intui\u021bionist\u0103. Sistemul de deduc\u021bie care st\u0103 la baza acestei specifica\u021bii este calculul secven\u021bilor. \u00cen mod tradi\u021bional, implement\u0103rile computa\u021bionale ale acestuia adopt\u0103 o form\u0103 mono-agent. \u00cen aceast\u0103 lucrare utiliz\u0103m modelul VLSM, un formalism bazat pe ma\u0219ini cu st\u0103ri introdus pentru reprezentarea protocoalelor de consens, reprezent\u00e2nd fiecare regul\u0103 de inferen\u021b\u0103 sub forma unei componente. Aceast\u0103 abordare modular\u0103 permite o specificare compozi\u021bional\u0103 a procesului de demonstrare, \u00een care regulile pot interac\u021biona \u00eentr-un mod controlat. Modelul VLSM ofer\u0103 garan\u021bii formale privind corectitudinea \u0219i interoperabilitatea componentelor, facilit\u00e2nd astfel analiza distribu\u021biei \u0219i sincroniz\u0103rii \u00een cadrul procesului de construc\u021bie a demonstra\u021biilor. Specifica\u021bia propus\u0103 ofer\u0103 un cadru teoretic riguros pentru explorarea demonstr\u0103rii distribuite \u00een logic\u0103, contribuind la apropierea dintre teoria demonstra\u021biilor \u0219i modelele formale utilizate \u00een sisteme distribuite. Rezultatele principale ale acestei lucr\u0103ri au fost mecanizate \u00een limbajul Coq/Rocq.\n\nAutor: Radu-Mihai Costache Profesor coordonator: Conf. Denisa Diaconescu\n\n24.11.2026 - 28.04.2027 \u00censcrieri\n\nTBA Workshop de preg\u0103tire\n\nTBA Prezentarea lucr\u0103rilor\n\nCe este Sesiunea de Comunic\u0103ri \u0218tiin\u021bifice Studen\u021be\u0219ti?\n\nPrimul concurs de cercetare \u0219tiin\u021bific\u0103 pentru studen\u021bii FMI! Alege o tem\u0103 propus\u0103 de firme partenere sau de facultate, realizeaz\u0103 o lucrare de cercetare \u0219i prezint\u0103-\u021bi munca \u00een fa\u021ba unui juriu de profesori \u0219i reprezentan\u021bi ai companiilor.\n\nCine poate participa?\n\nTo\u021bi studen\u021bii de la Facultatea de Matematic\u0103 \u0219i Informatic\u0103, indiferent de ciclu de studii: licen\u021b\u0103, masterat sau doctorat. Sunt bineveni\u021bi \u0219i studen\u021bi de la alte Facult\u0103\u021bi!\n\nC\u00e2nd sunt \u00eenscrierile?\n\n\u00censcrierile vor fi \u00een perioada 24 noiembrie - 28 aprilie, data evenimentului propriu-zis va fi anun\u021bat\u0103 ulterior .\n\nCe teme pot alege?\n\nTemele propuse de firmele partenere: Licen\u021b\u0103 Master & Doctorat SAU Po\u021bi veni cu propria tem\u0103!\n\nCe este workshop-ul?\n\nPe la final de februarie: profesor al facult\u0103\u021bii, un reprezentant al firmei \u0219i un invitat care a participat \u00een edi\u021biile anterioare te \u00eenva\u021b\u0103 cum s\u0103 faci o cercetare!",
-      "debug": {
-        "requestHandlerMode": "http"
-      },
-      "query_id": "crawler",
-      "title": "SCSS - ASMI"
-    },
-    {
       "url": "https://asmi.ro/bugs",
       "crawl": {
         "loadedUrl": "https://docs.google.com/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA/viewform",
-        "loadedTime": "2026-11-28T00:41:30.211Z",
+        "loadedTime": "2026-11-28T12:09:50.724Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
-        "contentLengthBytes": 104454,
+        "contentLengthBytes": 104230,
         "contentType": "text/html; charset=utf-8"
       },
       "metadata": {
@@ -342981,24 +342937,24 @@
           "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
           "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
           "content-encoding": "gzip",
-          "content-security-policy": "require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt, base-uri 'self';object-src 'none';report-uri https://csp.withgoogle.com/csp/forms/prod;script-src 'nonce-5kv6IVHRVR3mO2hWO_fjow' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval'",
+          "content-security-policy": "require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt, base-uri 'self';object-src 'none';report-uri https://csp.withgoogle.com/csp/forms/prod;script-src 'nonce-jSlANtN1kV5FFNJezb3QpA' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval'",
           "content-security-policy-report-only": "report-uri https://csp.withgoogle.com/csp/forms/prod;frame-ancestors 'none'",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:30 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:50 GMT",
           "document-policy": "include-js-call-stacks-in-crash-reports",
           "expires": "Mon, 01 Jan 1990 00:00:00 GMT",
           "p3p": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
           "pragma": "no-cache",
           "referrer-policy": "strict-origin-when-cross-origin",
-          "reporting-endpoints": "default=\"/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA/web-reports?bl=apps-forms.freebird_20261115.08_p0&app=27&clss=1&os=9&context=eJwV13lYDQjbBvDjdM5zp4Q2WsTpVFRIizotJzRpsWVkZk6LprSRZRTGTiYMxtbYhhkfIXtcmIzlY_BOTJaGwcvQDCJKkxaVFqrv_v74Xdd93c_z_3M9JnlOTQqDYo-xQXHc1KDY39Og6GthUFzrZVAscjEoBg42KDZ7GBSzhhoUjyYbFBXUNdWgsKW_lhsUleS_waCIpI4dBkX3nQZF-l2DYh5VNRoUbTSvyaD4lmaOilEspT_jYxRl9N7tX2UHHf-tXnmGasveKZvp1egG5Vs64NWkPE5GOU1KU6qf3qxsJXVwi9KMXqS1KKso-7sW5WrquNGqlJutyti7rcrJtM6iTbmF-u5tU_YndVyH0oxMFJ1KCyrv06msppiFncokmpTfxSiV3K8pjbypz2ojI2fa-MrIaDs9-UGvekGdBXoVjutVO_yDVXk054dg1WL6ImOE6kvq7xCi8qA1kSGqXNowOkS1jQYu-UTlQxuGhaq20ZHMUNUpGj8vVGUg95OhKm96cyZUVU8FGWGqQrqWFaYqobuXwlR_UeXrMFUdefqGq_zJcUG4yot0LRGq4dQyLVKlmB6pMrUcpbKkfJtRKj1Gq0bS-Il71Aaae3aPeglZvdujdqbFgXnqFZTQmKdOo_O1-9VXaVp5vno2LY06qF5Fv749pP6Dzvc7rL5KxbGH1XfJr-CwWll1VG1CYWOOqcdR07hj6naa8bhAPZdGp5xQR9PleVXq32n58Gr1GvrqQrV6Hl3-T7X6d3oT81ZdT5d_fKv-nSa2mUoM6Q53k-G0poeZ5NKZn83kEmWeMZMF9PCsmTwlhzdm4kLGvbqLDV3d3UNuUOdIC0GYhdidsBAtjS-0EANt_tVC9tEpR0s5T0E6S6mjicmWEk_h_1hJFD0eZy1lFLPQWpLIbpG1aGn6vl4yh66W9pIbtO7vXrKFqhx6yzvaPqO37KZ9nb3lKFk72ogDjYuxkQT67ISNTCJVsY10I__9tjKCTmXbyXmq_c5Ommlkrr2MpQej-shj2lvUR45Q7kMH2UEo6Cu1T_pKIx3-u68cp5fx_USV3U-6UpORRtroJ2hkP52K1ch5epShkevnNPIHNex3lA_0bZmjbKTPBmllEsUM0UoShUZoJZISv9XKFIpfq5UUqi_Rynua-4dWFtJd-i-p7mjF6K5WjGkGZVFwh1bCyDzYSWzp4UInKaXsRU6ykpYudpIcilviJIk064GTzKd7R53lBc255SwrKG-Ti5ykwr9d5CJNde4vmWSnchUtPVa7ShldEVcpJunuKt0p1NxVImk6ZdL8fa6STamPXGUG9a9wFQ_SlAeKJ91WBMlHTZCEFgTJGMo6FSTzyP10kAyhpZRDa38Oko10P0ovpfR4mV6eUeT2YPmUItYOk_H0W9fhcouii4aLgRKLRsgUMv8zRGzpUlWIXKO7I0LlOVnNCZU-dGZBqFyiEStCJZKCe42UMPKoHSl-9PXgMHloES5nl4fLZVqTHy65pM-MkBBaOzdCvie_gggZRpqyCHEle49IcaL5zyMlm3xyX4g_rap5KRtoYHS5-FB4a7lEUWDxKxlNx7a8llO0sOa1LKMxYypkIpWfrZA35PpHhXhSQWqlFFLw4kppza-ULgcq5cmlSnlGz2PeyCt60VolVXTU_F85TUu9_pUVVDP1X_nmbLWsJb_0tzKM_kdfIwdo5hc1Mptyp9WKeWGt2FKLpk4UjnXi92WdDKPOtDpBep1MPFUvL36vlwoq17-TatKdeCd6-jChQYyiG6T9ZKOoTzVKgEeTDKcIGkefUzylUAZl0XzKplWk2cy-pklm0XxaSqtoHW2hnbSXDtHmtib5gdwfv5chtFXfLDvpdFGzXCD7683iRFtpF5kXN4stRdEXNPFGs8TTtH-aZTZdedEsxTS6vFmi6RE9o-KKZrlLByqb5Tj5NzZLUfcWuU0ne7bIOTLzaRFrCv3QImPoqKJVTtPqLq2yiUKMWmUUlWW1yhs6e_qjXCbb5HZxpMW72mU5aQ-1izuZnGkXCyq51y736Ghnu5ymffYdcpQiWjpkPAUd75RQshipgB1lrFTgK9rbqMARGtKqgI7O7OuCS5Tc3gVrA5XYSK6LjOBJB3epcIJsGgQaemVpjCoqjjRGCe39aIxDNGVaV8ykqrauqKWsriZYSNsDTLCbliw2wTe0eIMJVlBqhQmm02MXU5hFmcKS1mw1xUa6fcsUf5JhQDckUn-fbhhEz-93QyUNL--G_7R3w03q38kZDaVAuhdphkdkPqA7bKnRrTs-0o6K7sijPQ97IJ9qa3qgmVo1PdFJe_N7IqCkJxarzbGCGoeY43svc-ygRdHmWE6hyeaIpNc3zVFNagcLmFHADksMo7ObrHCZagqs0Eg9-1nDmvIyrHGSuuT0gjl9eNILXUp7ocW7NxQ-vVGgtUEhTT5hg3RKG2mLmeS-wBbeFFlni0_JNc0Og-nhCzs8pYT3dkgh0zY7WFLkDHuMI93gPgimVisHhPd2wN0-DvhfJwdcoY50BxhNccB98754Sd979sV2aqF2Sizri1QyvtMPZpRT2g_f0QSVBjGUpdVgHvWZpYEz5ezS4Duqfa5BM619q8FGSjd2xFeUY-mINTTP0RFGzo4AvRnkiFq65umIm7SyzRHrabepFgfpiIcWJ8k-VAtHqlutRRNN3uCEDLLf4gQnKu1wQhnl9XTGYcqd4oxtdPa-My5SodIFF_-fhQuK6O09FzRRRm5_ZNGPWQOwh1aXDMAm2n1_AA5SsqcrplJ1lhvqaftKN_xEFevdUE2Pv3fDU9qa74ZdtOKiG9ZRwiM3JNNnjW6IJbM2N1jQulh35NLLLHeMPeiOCXSu3B2XaPNHd_xI3_gNRFXIQNTSzZkDcYd-yx-IG5TkNQhenoMRQFv8BmMnNYcPRvjGwRhLyTSVMmkeLaOVdNDZA7_Qmq0eyKVm7yH4SO9TPfGB7F54Qkv2HzzhRPe9vVBKs7Z7YR41X_JCJ6W-8cJ0Otbghd-avVBMT9u98JJKfbzxnOqGeqOF9DpvhNKXZd5Io9Yqb3TQKH8fTKAESqWrX_tg5zIf7CZDgw982nzgTw47hkJL-ltDMZJaPgyF4iM7hS_c6HMzX8RTTXdfNFL3Hr6wIl1fXwwe6gtvip7hiziq2uKLOhpd7IvxFPrEF5EUZ-qHZHrW2w-v6YKTH67SySw_OBzwgxNVXfNDLYV00SGcFpjosJQc3XUYQKooHbrS3GgdFlNJig7_JZsjOvSlokIdbpD9OR001NCgQyvt6dAhn5xc_NHTyx_WZBLkD3P6Kswfc2nal_7IpEOH_WH8yh8j6_2xp8EfzxUBeE0aCYALFQQHoJA2ZwTgAPlkByCQsmoC0MsiEPZU7RuIBsqbFIiDNCE_EAY6eyIQlynrXiBOjwrCOYqYFoSxVHQkCLeo_GgQqqiwJAgXSKfQw5Ifjg1Vmunxlryt9QikIkc9btAIZz1SXPXonKOHaq4eK3P0WE-aB3q4kNU_ethS_Gvu0YkewfiZpgYHQ_F5MNS0i_aSvtGAT-jrxTG4fSwGD6jzdAwsf45B4O0YZP8Zg9XUrTEGm7WxOK6LRbf5sTCnGQdikUV9bsRCS201sVDVxqKmJRYNZFDEYRJdsYxD5qdxWE4DE-PgSS2pcWin3GVx2E7F1-JQQksfx2EFFdXE4TaZWsXDnKLy4_EZmZ-PR29a0hqPRPtJGHRnEnzotE0CWqid4gclYDKtmpmAdXQ9KwG3KfxpAsZSlCYRE-lmYiKeUMn6RNwn_eZEhFB1cBLekeXmJNhTwa4knKKEe0lIJud_kuBOP9UkYS8dpZP0y7skXKTrfpNxm-ZvS8ZS-pbW0zb6iUyjUniLU6D7NAXD6dWEFLylTdEp-IGCX6XgEzrZmoJfaE5bChbSzsmp2Eul61LxnKz2pcKeltxJRQ6dqE5FIY1rSMVE-nVZGjKK0lB2LQ0VlFKfhum0qEc6cqiQrtCZrHRcpknZ6UimflvSYShlJvXBKehGGx5Mwdh9UxFNEZenYhzl_TUVB-hhxVT8TbcbpuIBPVNl4BVN7J-BWBq4IQPe9HX7dFiYGl-4fvgv6Xnl_gYnO-MvMtLmh8-aPVOrnZyZOWdwOuMcj_TZaWnJGbNTE709vf28vLx8PTz9EzM9_w80NDTJ&build-label=apps-forms.freebird_20261115.08_p0&imp-sid=CKnwkoC3qZgDFZDG8gcd6_cTvw&is-cached-offline=false&wcrumsspbp=true\"",
+          "reporting-endpoints": "default=\"/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA/web-reports?bl=apps-forms.freebird_20261115.08_p0&app=27&clss=1&os=9&context=eJwV13lYDQjbBvDjdM5zpwWVaBGnU9GitKjTcrK8abGPzMxp0ZQ2ZRmFsYcJYzdNhmHGZ80eFyaDeRm8mMkSDV4GM4goTVqUORXVd79__K7rvp77-f-5HrMW7TuFQbHT1KA4am5Q7O1hUPS1Niiu9jIoFroZFF7eBkWhj0Exc7BB8WCyQVFFXdMNCnv6Y5lBUU3BGwyKGOrYalB022ZQZJYbFHOpptmgaKO57wyKr2jGyDhFHv2eGKeooH88_lZ20NHLjcpTVF_xVmmkl6OalG9on9875VEyyX-nNKfGaUZlK6nDW5SW9DyjRVlDS9e2KFdRx7VWpVxvVcaXtyon0zrrNuUm6ru7Tdmf1AkdSksyU3QqramyT6eyluIWdCpTaFJRF5N08ryqNPGnPqtMTFxp40sTky306Du96jl1FutVOKpXbQ0OV-2i2d-FqxbRp9nDVJ-Rr9NwVTCtjhmuKqANo4arNpPX4n-pAmjDkAjVZjqUE6E6QePnRqgM5Hk8QuVPr09FqBqpODtSVUJXcyNVZVR-PlL1B1W_ilQ1kG9glCqYnOdHqfxI1xKtGkrKaTEqMzK3GamyoSK7kSo9RqlG0PiJO9UGmnN6p3ox9Xy7U-1Ki0J3qZdTUvMudQadrd-rvkRTK4vUsyhv3H71SvrlzQH1LTrb76D6EpXGH1SXU1DxQbWy5rDajCJHH1GPpXdjj6jbafrDYvUcGpV2TB1LF-bWqH-jZUNr1avp859r1XPpwn9q1b_R67g36ka68P0b9W80sc1c4kh30EKG0urullJAp360lPOUc8pS5tP905byhJxeW4obmfbqJnZ0aUd3uUZenlYSQJ0jrAWR1uJwzFq0NL7EWgxU-Iu17KETzjZylsJ0NtJAE1NtJJGi_uop4-jhWFupoLgFtpJCDgttRUvT9vSS2bTuz16yiWqcestb2jK9t-ygPZ295TDZOtuJE42Ns5Mk-viYnUwiVamdWFDwXnsZRvVrHcRIIwocZQzdG9lHHtLuK33kEBXcd5KthOK-Uv-orzTTwT_7ylF6kdhPVEv7SVd6Z6KRNvoBGtlLJ-I1cpYeZGvk1zMauUVNe53lPX1V4Swb6eOBWplEcYO0kkIR0VqJoeSvtDKFEtdoJY0ay7TyD825pZUFVE7_JdVtrZiUa8WUplMuhXdoJZKswl3Enu4vcJHHtHShi6ygvEUukk8Ji10kmWbec5F5dOewqzyn2TdcZTnt-tpNjlPJn25yjrJc-0sOOajcRUsP1e5SQRfFXUpJurlLN4qwcpcYmkY5NG-Puyyl9AfuMp36V7mLD2kqQ8WXbirC5IMmTCKKw2Q05Z4Ik7nkeTJMBlEe5dOaH8NkI90dp5fH9HCJXp5SzJZw-Yii1wyR8XS561C5QbFXhoqBkq8Mkylk9ftwsafzNcPlKpUPi5Bn1HN2hPShU_Mj5DwNWx4hMRTea4REkk_9CAmiL7wj5b51lJxeFiUXaHVRlBSQPidahtOaOdHyDQUVR8sQ0lREizs5-sSIC817FiNLKaDguQTTyroXsoG8YislgKJaK2UchZa-lFF0ZNMrOUEL6l7JEho9ukomUuXpKnlN7reqxJeK06ulhMIXVUtrUbV02Vctj85Xy1N6FvdaXtLz1hqpocNWf8tJyvP7W5ZTXdbf8uXpWllDQZlvZAj9n75O9tGMT-tkFhVMrRerknqxpxZNgyicGyToswYZQp0ZDYLMBpl4olGe_9YoVVSpfyu1pDv2VvT0fkKTmMQ2SfvxZlGfaJYQn3cylKJpLH1CiZRG2ZRL82gprSRNIed172QmzaM8WknraBNto910gArb3sl35PnwHxlE3-qNso1OXjHKz-T4q1FcaC0VklWpUexpHH1KE68ZJZGm_mWUWXTxuVFKaVSlUWLpAT2l0iqjlNO-aqMcpeBmo1zp1iI36XiPFjlDlgEtYksR71tkNB1WtMpJWtWlVb6m4SatMpIqclvlNZ0--UEukH1quzjTou3tsoy0B9rFk8xOtYs1ld1plzt0uLNdTtIexw45TNEtHTKewo52SgRZj1DAgbJXKPA57W5W4BANalVAR6f2dMF5Sm3vgjWhSmwk94Um8KX921U4RnZNAg29tDFFDZXGmKKMdn8wxQGaMrUrZlBNW1fUU25XMyygLSFm2EGLF5nhS1q0wQzLKb3KDNPooZs5LMeZw4ZWf2uOjXTzhjl-J8MACyRT_wALDKRndy1QTUMrLXCm3QIXqX8nOxpMoXQnxhIPyGpAN9hTs0c3fKCtVd2wi3be744iqq_rDiO1anqgk3YX9UBIWQ8sUlthOTUPssI3flbYSgtjrbCMIlKtEENvrrMntZM1LClkqw2GUF1xTzRTj362sKVd2bY4Tl3ye8GK3j_qhS6Pe6HFvzcUAb1RrLVDCU0-ZodMyhhhjxnkOd8e_hTTYI-PyD3DAd50_7kDnlDSPw5II_M2B9hQzHRHjCWddx-EU2tPJ0T1dkJ5Hyf828UJF6kj0wkmU5xw16ovXtA3vn2xhVqonZIr-iKdTG_3gyXlP-6HtTRBpUEczdNqkEd9ZmrgSvnbNVhL9c80MNKaNxpspExTZ3xO-TbOWE1znZ1h4uoM0OuBzqinq77OuE4r2pyxnnaYa7GfDvlocZwcI7RwpskbXJBNjptc4EKPO1xQQbt6uOIgFUxxxWY6fdcV56hE6YZz_2Pthiv05o4b3lF2QX_k0ve5A7CTVpUNwNe04-4A7KdUX3dkUW2uBxppywoP_EBV6z1QSw-_8cAT-rbIA9tp-TkPrKOkBx5IpYRmDySTZZsHrGldvCcK6EWuJ8bs98QEOlPpifNU-MET39OXQV6oGe6Fero-wwu36XKRF65Rit9A-Pl6I4Q2BXljGxmjvBG10RtjKJWyKIfm0hJaQftdffATrf7WBwVk9B-ED_RPui_ek8NzX2jJ8b0vXOiuvx8e08wtfphLxvN-6KT0136YRkea_HDZ6IdSetLuhxf0OMAfz6hhsD9aSK_zRwR9VuGPDGqt8UcHjQwOwARKonS69EUAti0JwA4KaAtAMDltHQwt6W8MxghqeT8Yig-cKQLhQZ9YBiKR6roFopm6dQ9ET9L1DYT34ED4U-z0QCRQzaZANNCo0kCMp4hHgYihBPMgpNLT3kF4RT-7BOESHc8NgtO-ILhQzdUg1NPwLjpE0XwzHfLI3VOHQTQnVodFVJamw3-p3yEd3OhKiQ7XyPGMDhpqatKhlXZ26FBELm7B6OEXDFsyCwuGFX0eGYw5NPWzYOTQgYPBMH0ZjBGNwdjZFIxnihC8Io2EwI2Kw0NQQoXZIdhHAUtDEEq5dSHoZR0KR6oNDEUT7ZoUiv00oSgUBjp9LBQXKPdOKE6ODMMZip4ahjF05VAYblDl4TDUUElZGH4mnUIPG34vdlRtqccb8rfVI5SuOOtxjYa56pHmrkfnbD1Uc_RYka_HetLc08ONev6lhz0lvuIeHesejh8pKzwcik_CoabttJsCmw0Ioy8WxeHmkTjco86TcbD5MQ6hN-Ow9Pc4rCKL5jgUauNxVBcPi3nxsKLp--KRS32uxUNLbXXxUNXHo64lHk1kUCRgEl20SUDORwlYRl7JCfCllvQEtFPBkgRsodKrCSijvIcJWE636hJwn6x7JsKOxhUl4mOyOpuI3rS4NRHJjpMw8PYkBNBJuyS0UDslDkzCZFo5Iwnr6NfcJNykqCdJGEPjNMmYSNeTk_GIytYn4y7VhqfgLdkUpsCRiren4AQl3UlBKrn-lQJP-qEuBbvpMB2nn96m4Bz9GjQZN2ne5lTk0Ve0njbTD2Q-Lo13Ng26j9IwlOonpMFIgbFpCKev6bv_5Zdp-Bcdb03DTzS7LQ0LaNvkdOymx-vS8Yz67EmHCy2-nY58OlabjhIa25SOifTLkgxUXM1AFaU1ZmAaLeyeiXwqoYt0KjcTF2jS0kykUr9NmVDvnwIL2nBvCsbsyUIsRV_Iwlja9UcW9tH9qiz8SZebsnCDnqqy8ZK6O2TDlib2z0Y8eW3Ihj990T4N1hamG9cc-UN6lJd8KFQ6mH6anTEvauasGVrt5Jyc2d6ZjLN9MmdlZKRmz0pP9vf1D_Lz8wv08Q1OzvH9f1iTItM&build-label=apps-forms.freebird_20261115.08_p0&imp-sid=CLGv4e3QqpgDFZnPcAIdEz8jgQ&is-cached-offline=false&wcrumsspbp=true\"",
           "server": "GSE",
           "x-content-type-options": "nosniff",
           "x-robots-tag": "noindex, nofollow, nosnippet",
           "x-xss-protection": "1; mode=block",
           "set-cookie": [
-            "S=spreadsheet_forms=N4SKQ_w88hqTKL2oexNMhCw9MFIVzgLIRElyep1qseo; Domain=.docs.google.com; Expires=Sat, 28-Nov-2026 01:41:30 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
-            "COMPASS=spreadsheet_forms=CjIACWuJV2G5GMSp7HCc_SCp4SgZPyR6TlnCRvWWYthzdBzYFLj5wHam9pZK1iv76VSwHxDK4qjYBho0AAlriVeRvjnXt30Tc90vIx-nx6EV8j5DasEdiB-hqkjNg7Kbl9-wXNMUDy35Gc3VpZxEzQ==; Domain=.docs.google.com; Expires=Sat, 28-Nov-2026 01:41:30 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
-            "NID=CuoBCAESnAEBM9Agl5xBhIgB4GRtQpkggArGbnPtmOy3AZ0An-DHVCHarBH_FokQgA4MdgPuh5fGCz9aH-UVqCp_KMELrZpz9YWUf27P4NPsHbNZ2hznboWGK1NyV2I1u6uYor6QFEQItI4HyxvyH9sIZbFLI5THAZjxgJpqXprap-S38RfhKeiGKMKlk9VnsB6-tK_9W60aKVMoWl5J_pKFhK8oATJFAXBKQs80g5Jdq4bmMR-ZuVgBmuvAtv0DSHuZLVSXxbKSwuWs4rZWKQrp5e10pplXxMPq5nfU1HEDO-27aJSoz0l5OTAJ; expires=Sun, 30-May-2027 00:41:29 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none"
+            "S=spreadsheet_forms=-yWbym9kCh4p2zCjjmAIles-GFYMWbrWniPcXH9o0UM; Domain=.docs.google.com; Expires=Sat, 28-Nov-2026 13:09:50 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
+            "COMPASS=spreadsheet_forms=CjIACWuJV7Ju1FJWZSIVd-DSzmj7EW5l_xCPk3aBLt2Hx8HPj-cRYtpS_5GRNFPHrDQ74RCepavYBho0AAlriVcEYfh2pKKbB_-H8wbTkVjVXF6EiakiRgnT1xqFE85_z6hj76ZpotzjcsPJpLXGlg==; Domain=.docs.google.com; Expires=Sat, 28-Nov-2026 13:09:50 GMT; Path=/forms/u/4/d/e/1FAIpQLScEMXdFjIgVCnOulXRBSxdi17AHxzvYIWz3iEAu0p9Gg_yELA; Secure; HttpOnly; SameSite=none",
+            "NID=CukBCAESmwEBM9Agl6JYSGXkaOXWmOQUMvVZ2IV0fFuHiqJdYZiF9puDa1cDkzmI7RD-KOiLg6MwW9G-CPyDDZ9G4p-4nD0oa3QYe5n5r82LpZi8Fa-XdjDaddIn1WPMLrUEEIiwURPzpLtkZ_ZpYjdNqVuCBvCtez7Nmjk9-B6JyjkXXu1rx5U-0WZOzJKKuusS4kC3t5HRjy1VWhz9QMyFcCgBMkUBcEpCz4wSU3NMM7GV0i4BaIfa5tojPGgxcQjJfQv58MyLx2dR9nU-ve3o2sP9Z4nFL4qVo9Mr_T5GOkp0yDRXsWQUOAQ; expires=Sun, 30-May-2027 12:09:50 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none"
           ]
         }
       },
@@ -343014,10 +342970,54 @@
       "title": "TECH GROUP ASMI - Bug Report"
     },
     {
+      "url": "https://asmi.ro/scss",
+      "crawl": {
+        "loadedUrl": "https://asmi.ro/scss",
+        "loadedTime": "2026-11-28T12:09:51.040Z",
+        "referrerUrl": "https://asmi.ro/",
+        "httpStatusCode": 200,
+        "depth": 1,
+        "contentLengthBytes": 36478,
+        "contentType": "text/html; charset=utf-8"
+      },
+      "metadata": {
+        "canonicalUrl": "https://asmi.ro/scss",
+        "title": "SCSS - ASMI",
+        "description": "ASMI este asocia\u021bia reprezentativ\u0103 la nivelul Facult\u0103\u021bii de Matematic\u0103 \u0219i Informatic\u0103 a Universit\u0103\u021bii din Bucure\u0219ti.",
+        "author": null,
+        "keywords": null,
+        "languageCode": "en",
+        "jsonLd": null,
+        "headers": {
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a619441b6a02a8ca-LAX",
+          "content-encoding": "zstd",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Sat, 28 Nov 2026 12:09:50 GMT",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=cSx3FeH%2Bkkyy%2FQhERgnX515SC0wgmfdp7LXH5c5lT27MYcDLb6pMmO6DjiSKQaYLiwl2Ubyah8OeHM2TU%2BJfP9omwbMfAFuW9bAGMigXWyoGBk2Ra9KCrlqm\"}]}",
+          "server": "cloudflare",
+          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=12,cfOrigin;dur=205",
+          "vary": "accept-encoding"
+        }
+      },
+      "screenshotUrl": null,
+      "text": "SCSS - ASMI\nSesiunea de Comunic\u0103ri \u0218tiin\u021bifice Studen\u021be\u0219ti 2027 (SCSS)\nO oportunitate unic\u0103 pentru studen\u021bii no\u0219tri de a-\u0219i prezenta cercet\u0103rile \u0219i proiectele \u00een fa\u021ba comunit\u0103\u021bii academice. \n\u00censcrie-te acum \nInformatic\u0103 \nCryptographic Inventory of Cloud Infrastructure\nInformatic\u0103 sau CTI \nExplicarea automat\u0103 a anomaliilor SCADA cu modele de limbaj (LLM) - Root-Cause Reasoning\nInformatic\u0103 sau CTI \nActive Learning pentru detec\u021bia scurgerilor/emisiilor de metan din imagini aeriene sau satelitare\nInformatic\u0103 sau CTI \nAsistent RAG de \u00eencredere pentru documente tehnice \u0219i de reglementare \u00een limba rom\u00e2n\u0103: evaluare \u0219i detectarea halucina\u021biilor\nMatematic\u0103 sau Informatic\u0103 \nAmplasarea optim\u0103 a sta\u021biilor de \u00eenc\u0103rcare pentru vehicule electrice\nInformatic\u0103 sau CTI \nDetectarea anomaliilor \u00een consumul energetic prin metode nesupervizate\nMatematic\u0103 sau Informatic\u0103 \nGenerarea de date sintetice de consum energetic cu garan\u021bii de confiden\u021bialitate\nInformatic\u0103 \nPost-Quantum Migration of Cloud Infrastructure\nMatematic\u0103, Informatic\u0103 sau CTI \nGenerarea de scenarii extreme de produc\u021bie regenerabil\u0103 cu modele de difuzie\nMatematic\u0103 sau Informatic\u0103 \nInferen\u021b\u0103 cauzal\u0103 pentru evaluarea impactului energiilor regenerabile asupra pre\u021burilor pie\u021bei\nMatematic\u0103, Informatic\u0103 sau CTI Doar Master \nReinforcement Learning pentru arbitrajul energetic al sistemelor de stocare \u00een baterii (BESS)\nInformatic\u0103 Doar Master \nChoosing the Right Store for the Job: Performance, Consistency and Operational Cost in Polyglot Architectures for Energy Data\nInformatic\u0103 Doar Master \nModelling Energy Market Time Series for Parallel Processing: How Dimensional, Data Vault and Wide-Table Schemas Scale across Cores and Nodes\nAPLICA\u021aII ALE SVD \u00ceN SISTEME DE RECOMANDARE Lucrarea pe care se bazeaz\u0103 prezentarea exploreaz\u0103 aplica\u021biile Decompunerii \u00een Valori Singulare (SVD) \u00een sisteme de recomandare, combin\u00e2nd analiza teoretic\u0103 cu o implementare practic\u0103. \u00cen prima parte, voi prezenta conceptele matematice esen\u021biale pentru \u00een\u021belegerea SVD. Voi prezenta apoi dou\u0103 metode de determinare a SVD-ului unei matrice \u0219i le voi compara din punct de vedere al preciziei \u0219i stabilit\u0103\u021bii numerice. \u00cen final, voi prezenta un model de recomandare de filme pe care l-am dezvoltat utiliz\u00e2nd SVD trunchiat \u0219i voi comenta rezultatele ob\u021binute. \nProfesor coordonator: Lect. Dr. Mihai Bucataru \nAUTOMATED ANOMALY DETECTION IN WINDOWS SYSTEM LOGS FOR CYBER DEFENSE \u00cen ciuda progreselor recente \u00een detectarea comportamentului anormal pe platforma Windows, atacatorii \u00eenc\u0103 folosesc tehnici care pot fi detectate printr-o analiz\u0103 detaliat\u0103 a evenimentelor de sistem. \u00cen aceast\u0103 lucrare, este colectat \u0219i analizat un set de date ce cuprinde peste 240.000 loguri de sistem colectate pe parcursul a mai multor zile \u0219i 22 de milioane de evenimente preluate \u00een cadrul LockedShields, cel mai mare exerci\u021biu de securitate cibernetic\u0103 organizat de NATO CCDCOE. Lucrarea se focalizeaz\u0103 pe antrenarea de diverse modele pentru detectare de anomalii \u2014 de la metode statistice clasice pana la LLMs \u0219i o abordare de tip BERT bazat\u0103 pe Masked Language Modeling (MLM), \u0219i aplicarea lor pentru atribuirea de scoruri \u0219i etichete de anomalie pentru logurile de Windows. \u00cen abordarea bazat\u0103 pe BERT, masc\u0103m repetat un procent fix din tokeni \u00een fiecare secven\u021b\u0103 de loguri pe parcursul a k itera\u021bii \u0219i prezicem tokenii masca\u021bi cu ajutorul modelului. Din aceste predic\u021bii, deriv\u0103m scoruri de anomalie pe baza probabilit\u0103\u021bilor atribuite tokenilor corec\u021bi, ceea ce permite o compara\u021bie direct\u0103 \u00eentre rezultatele modelului \u0219i anomaliile efective prezente \u00een date. Aplic\u00e2nd aceast\u0103 abordare, modelul BERT ob\u021bine scoruri F1 de 0,6842 \u0219i 0,6580 pe subseturile de test (\u0219i 0,7020 pe datasetul LockedShields), dep\u0103\u0219ind metodele tradi\u021bionale de detectare a anomaliilor, care \u00eenregistreaz\u0103 scoruri F1 de 0,5736 \u0219i 0,5914, eviden\u021biind astfel poten\u021bialul abord\u0103rii de a contribui la \u00eembun\u0103t\u0103\u021birea securit\u0103\u021bii cibernetice. \nAutor: Daria Mihaela Brosco\u021beanu Profesor coordonator: Radu Tudor Ionescu \nANALIZA COMPONENTELOR INDEPENDENTE CU APLICA\u021aII \u00ceN NEURO\u0218TIIN\u021aE Analiza componentelor independente(ICA) este una dintre cele mai folosite tehnici de prelucrare a datelor \u00een sfera neuro\u0219tiin\u021belor \u0219i nu numai. Metoda implic\u0103 descompunerea unui semnal \u00een componentele sale subiacente cu c\u00e2t mai pu\u021bine presupuneri despre structura acestora. \u00cen lucrarea de fa\u021b\u0103 prezent\u0103m cadrul matematic al ICA \u0219i exemple de aplica\u021bii pe date cerebrale (EEG, fMRI), men\u021bion\u00e2nd \u0219i diferen\u021be fa\u021b\u0103 de algoritmul PCA. \nAutor: Matei Alexandru Busoiu Profesor coordonator: Lect. Dr. Alexandru Amarioarei \nLOGIC\u0102 \u0218I SISTEME DISTRIBUITE Aceast\u0103 lucrare \u00ee\u0219i propune introducerea unei specifica\u021bii pentru demonstrarea distribuit\u0103 a formulelor din logica propozi\u021bional\u0103 clasic\u0103 \u0219i intui\u021bionist\u0103. Sistemul de deduc\u021bie care st\u0103 la baza acestei specifica\u021bii este calculul secven\u021bilor. \u00cen mod tradi\u021bional, implement\u0103rile computa\u021bionale ale acestuia adopt\u0103 o form\u0103 mono-agent. \u00cen aceast\u0103 lucrare utiliz\u0103m modelul VLSM, un formalism bazat pe ma\u0219ini cu st\u0103ri introdus pentru reprezentarea protocoalelor de consens, reprezent\u00e2nd fiecare regul\u0103 de inferen\u021b\u0103 sub forma unei componente. Aceast\u0103 abordare modular\u0103 permite o specificare compozi\u021bional\u0103 a procesului de demonstrare, \u00een care regulile pot interac\u021biona \u00eentr-un mod controlat. Modelul VLSM ofer\u0103 garan\u021bii formale privind corectitudinea \u0219i interoperabilitatea componentelor, facilit\u00e2nd astfel analiza distribu\u021biei \u0219i sincroniz\u0103rii \u00een cadrul procesului de construc\u021bie a demonstra\u021biilor. Specifica\u021bia propus\u0103 ofer\u0103 un cadru teoretic riguros pentru explorarea demonstr\u0103rii distribuite \u00een logic\u0103, contribuind la apropierea dintre teoria demonstra\u021biilor \u0219i modelele formale utilizate \u00een sisteme distribuite. Rezultatele principale ale acestei lucr\u0103ri au fost mecanizate \u00een limbajul Coq/Rocq. \nAutor: Radu-Mihai Costache Profesor coordonator: Conf. Denisa Diaconescu \n24.11.2026 - 28.04.2027 \u00censcrieri \nTBA Workshop de preg\u0103tire \nTBA Prezentarea lucr\u0103rilor \nCe este Sesiunea de Comunic\u0103ri \u0218tiin\u021bifice Studen\u021be\u0219ti? \nPrimul concurs de cercetare \u0219tiin\u021bific\u0103 pentru studen\u021bii FMI! Alege o tem\u0103 propus\u0103 de firme partenere sau de facultate, realizeaz\u0103 o lucrare de cercetare \u0219i prezint\u0103-\u021bi munca \u00een fa\u021ba unui juriu de profesori \u0219i reprezentan\u021bi ai companiilor.\nCine poate participa? \nTo\u021bi studen\u021bii de la Facultatea de Matematic\u0103 \u0219i Informatic\u0103, indiferent de ciclu de studii: licen\u021b\u0103, masterat sau doctorat. Sunt bineveni\u021bi \u0219i studen\u021bi de la alte Facult\u0103\u021bi!\nC\u00e2nd sunt \u00eenscrierile? \n\u00censcrierile vor fi \u00een perioada 24 noiembrie - 28 aprilie, data evenimentului propriu-zis va fi anun\u021bat\u0103 ulterior .\nCe teme pot alege? \nTemele propuse de firmele partenere: Licen\u021b\u0103 Master & Doctorat SAU Po\u021bi veni cu propria tem\u0103! \nCe este workshop-ul? \nPe la final de februarie: profesor al facult\u0103\u021bii, un reprezentant al firmei \u0219i un invitat care a participat \u00een edi\u021biile anterioare te \u00eenva\u021b\u0103 cum s\u0103 faci o cercetare!",
+      "html": null,
+      "htmlUrl": null,
+      "markdown": "# SCSS - ASMI\n\n![Logo SCSS](https://asmi.ro/images/scss/scss_logo.png)\n\n## Sesiunea de Comunic\u0103ri \u0218tiin\u021bifice Studen\u021be\u0219ti 2027 (SCSS)\n\n![Simboluri matematice](https://asmi.ro/images/scss/math_symbols.svg)\n\nO oportunitate unic\u0103 pentru studen\u021bii no\u0219tri de a-\u0219i prezenta cercet\u0103rile \u0219i proiectele \u00een fa\u021ba comunit\u0103\u021bii academice.\n\n[\u00censcrie-te acum](https://forms.gle/Yohc48sHxz65TKht6)\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103\n\n### Cryptographic Inventory of Cloud Infrastructure\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103 sau CTI\n\n### Explicarea automat\u0103 a anomaliilor SCADA cu modele de limbaj (LLM) - Root-Cause Reasoning\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103 sau CTI\n\n### Active Learning pentru detec\u021bia scurgerilor/emisiilor de metan din imagini aeriene sau satelitare\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103 sau CTI\n\n### Asistent RAG de \u00eencredere pentru documente tehnice \u0219i de reglementare \u00een limba rom\u00e2n\u0103: evaluare \u0219i detectarea halucina\u021biilor\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nMatematic\u0103 sau Informatic\u0103\n\n### Amplasarea optim\u0103 a sta\u021biilor de \u00eenc\u0103rcare pentru vehicule electrice\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103 sau CTI\n\n### Detectarea anomaliilor \u00een consumul energetic prin metode nesupervizate\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nMatematic\u0103 sau Informatic\u0103\n\n### Generarea de date sintetice de consum energetic cu garan\u021bii de confiden\u021bialitate\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103\n\n### Post-Quantum Migration of Cloud Infrastructure\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nMatematic\u0103, Informatic\u0103 sau CTI\n\n### Generarea de scenarii extreme de produc\u021bie regenerabil\u0103 cu modele de difuzie\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nMatematic\u0103 sau Informatic\u0103\n\n### Inferen\u021b\u0103 cauzal\u0103 pentru evaluarea impactului energiilor regenerabile asupra pre\u021burilor pie\u021bei\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nMatematic\u0103, Informatic\u0103 sau CTI Doar Master\n\n### Reinforcement Learning pentru arbitrajul energetic al sistemelor de stocare \u00een baterii (BESS)\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103 Doar Master\n\n### Choosing the Right Store for the Job: Performance, Consistency and Operational Cost in Polyglot Architectures for Energy Data\n\n![Logo companie](https://asmi.ro/images/scss/ppc_logo.svg)\n\nInformatic\u0103 Doar Master\n\n### Modelling Energy Market Time Series for Parallel Processing: How Dimensional, Data Vault and Wide-Table Schemas Scale across Cores and Nodes\n\nAPLICA\u021aII ALE SVD \u00ceN SISTEME DE RECOMANDARE Lucrarea pe care se bazeaz\u0103 prezentarea exploreaz\u0103 aplica\u021biile Decompunerii \u00een Valori Singulare (SVD) \u00een sisteme de recomandare, combin\u00e2nd analiza teoretic\u0103 cu o implementare practic\u0103. \u00cen prima parte, voi prezenta conceptele matematice esen\u021biale pentru \u00een\u021belegerea SVD. Voi prezenta apoi dou\u0103 metode de determinare a SVD-ului unei matrice \u0219i le voi compara din punct de vedere al preciziei \u0219i stabilit\u0103\u021bii numerice. \u00cen final, voi prezenta un model de recomandare de filme pe care l-am dezvoltat utiliz\u00e2nd SVD trunchiat \u0219i voi comenta rezultatele ob\u021binute.\n\nProfesor coordonator: Lect. Dr. Mihai Bucataru\n\nAUTOMATED ANOMALY DETECTION IN WINDOWS SYSTEM LOGS FOR CYBER DEFENSE \u00cen ciuda progreselor recente \u00een detectarea comportamentului anormal pe platforma Windows, atacatorii \u00eenc\u0103 folosesc tehnici care pot fi detectate printr-o analiz\u0103 detaliat\u0103 a evenimentelor de sistem. \u00cen aceast\u0103 lucrare, este colectat \u0219i analizat un set de date ce cuprinde peste 240.000 loguri de sistem colectate pe parcursul a mai multor zile \u0219i 22 de milioane de evenimente preluate \u00een cadrul LockedShields, cel mai mare exerci\u021biu de securitate cibernetic\u0103 organizat de NATO CCDCOE. Lucrarea se focalizeaz\u0103 pe antrenarea de diverse modele pentru detectare de anomalii \u2014 de la metode statistice clasice pana la LLMs \u0219i o abordare de tip BERT bazat\u0103 pe Masked Language Modeling (MLM), \u0219i aplicarea lor pentru atribuirea de scoruri \u0219i etichete de anomalie pentru logurile de Windows. \u00cen abordarea bazat\u0103 pe BERT, masc\u0103m repetat un procent fix din tokeni \u00een fiecare secven\u021b\u0103 de loguri pe parcursul a k itera\u021bii \u0219i prezicem tokenii masca\u021bi cu ajutorul modelului. Din aceste predic\u021bii, deriv\u0103m scoruri de anomalie pe baza probabilit\u0103\u021bilor atribuite tokenilor corec\u021bi, ceea ce permite o compara\u021bie direct\u0103 \u00eentre rezultatele modelului \u0219i anomaliile efective prezente \u00een date. Aplic\u00e2nd aceast\u0103 abordare, modelul BERT ob\u021bine scoruri F1 de 0,6842 \u0219i 0,6580 pe subseturile de test (\u0219i 0,7020 pe datasetul LockedShields), dep\u0103\u0219ind metodele tradi\u021bionale de detectare a anomaliilor, care \u00eenregistreaz\u0103 scoruri F1 de 0,5736 \u0219i 0,5914, eviden\u021biind astfel poten\u021bialul abord\u0103rii de a contribui la \u00eembun\u0103t\u0103\u021birea securit\u0103\u021bii cibernetice.\n\nAutor: Daria Mihaela Brosco\u021beanu Profesor coordonator: Radu Tudor Ionescu\n\nANALIZA COMPONENTELOR INDEPENDENTE CU APLICA\u021aII \u00ceN NEURO\u0218TIIN\u021aE Analiza componentelor independente(ICA) este una dintre cele mai folosite tehnici de prelucrare a datelor \u00een sfera neuro\u0219tiin\u021belor \u0219i nu numai. Metoda implic\u0103 descompunerea unui semnal \u00een componentele sale subiacente cu c\u00e2t mai pu\u021bine presupuneri despre structura acestora. \u00cen lucrarea de fa\u021b\u0103 prezent\u0103m cadrul matematic al ICA \u0219i exemple de aplica\u021bii pe date cerebrale (EEG, fMRI), men\u021bion\u00e2nd \u0219i diferen\u021be fa\u021b\u0103 de algoritmul PCA.\n\nAutor: Matei Alexandru Busoiu Profesor coordonator: Lect. Dr. Alexandru Amarioarei\n\nLOGIC\u0102 \u0218I SISTEME DISTRIBUITE Aceast\u0103 lucrare \u00ee\u0219i propune introducerea unei specifica\u021bii pentru demonstrarea distribuit\u0103 a formulelor din logica propozi\u021bional\u0103 clasic\u0103 \u0219i intui\u021bionist\u0103. Sistemul de deduc\u021bie care st\u0103 la baza acestei specifica\u021bii este calculul secven\u021bilor. \u00cen mod tradi\u021bional, implement\u0103rile computa\u021bionale ale acestuia adopt\u0103 o form\u0103 mono-agent. \u00cen aceast\u0103 lucrare utiliz\u0103m modelul VLSM, un formalism bazat pe ma\u0219ini cu st\u0103ri introdus pentru reprezentarea protocoalelor de consens, reprezent\u00e2nd fiecare regul\u0103 de inferen\u021b\u0103 sub forma unei componente. Aceast\u0103 abordare modular\u0103 permite o specificare compozi\u021bional\u0103 a procesului de demonstrare, \u00een care regulile pot interac\u021biona \u00eentr-un mod controlat. Modelul VLSM ofer\u0103 garan\u021bii formale privind corectitudinea \u0219i interoperabilitatea componentelor, facilit\u00e2nd astfel analiza distribu\u021biei \u0219i sincroniz\u0103rii \u00een cadrul procesului de construc\u021bie a demonstra\u021biilor. Specifica\u021bia propus\u0103 ofer\u0103 un cadru teoretic riguros pentru explorarea demonstr\u0103rii distribuite \u00een logic\u0103, contribuind la apropierea dintre teoria demonstra\u021biilor \u0219i modelele formale utilizate \u00een sisteme distribuite. Rezultatele principale ale acestei lucr\u0103ri au fost mecanizate \u00een limbajul Coq/Rocq.\n\nAutor: Radu-Mihai Costache Profesor coordonator: Conf. Denisa Diaconescu\n\n24.11.2026 - 28.04.2027 \u00censcrieri\n\nTBA Workshop de preg\u0103tire\n\nTBA Prezentarea lucr\u0103rilor\n\nCe este Sesiunea de Comunic\u0103ri \u0218tiin\u021bifice Studen\u021be\u0219ti?\n\nPrimul concurs de cercetare \u0219tiin\u021bific\u0103 pentru studen\u021bii FMI! Alege o tem\u0103 propus\u0103 de firme partenere sau de facultate, realizeaz\u0103 o lucrare de cercetare \u0219i prezint\u0103-\u021bi munca \u00een fa\u021ba unui juriu de profesori \u0219i reprezentan\u021bi ai companiilor.\n\nCine poate participa?\n\nTo\u021bi studen\u021bii de la Facultatea de Matematic\u0103 \u0219i Informatic\u0103, indiferent de ciclu de studii: licen\u021b\u0103, masterat sau doctorat. Sunt bineveni\u021bi \u0219i studen\u021bi de la alte Facult\u0103\u021bi!\n\nC\u00e2nd sunt \u00eenscrierile?\n\n\u00censcrierile vor fi \u00een perioada 24 noiembrie - 28 aprilie, data evenimentului propriu-zis va fi anun\u021bat\u0103 ulterior .\n\nCe teme pot alege?\n\nTemele propuse de firmele partenere: Licen\u021b\u0103 Master & Doctorat SAU Po\u021bi veni cu propria tem\u0103!\n\nCe este workshop-ul?\n\nPe la final de februarie: profesor al facult\u0103\u021bii, un reprezentant al firmei \u0219i un invitat care a participat \u00een edi\u021biile anterioare te \u00eenva\u021b\u0103 cum s\u0103 faci o cercetare!",
+      "debug": {
+        "requestHandlerMode": "http"
+      },
+      "query_id": "crawler",
+      "title": "SCSS - ASMI"
+    },
+    {
       "url": "https://asmi.ro/Articole",
       "crawl": {
         "loadedUrl": "https://asmi.ro/Articole",
-        "loadedTime": "2026-11-28T00:41:44.241Z",
+        "loadedTime": "2026-11-28T12:09:53.295Z",
         "referrerUrl": "https://asmi.ro/",
         "httpStatusCode": 200,
         "depth": 1,
@@ -343035,14 +343035,14 @@
         "headers": {
           "alt-svc": "h3=\":443\"; ma=86400",
           "cf-cache-status": "DYNAMIC",
-          "cf-ray": "a61553a69b68454f-ORD",
+          "cf-ray": "a61943fb8f8e5535-LAX",
           "content-encoding": "zstd",
           "content-type": "text/html; charset=utf-8",
-          "date": "Sat, 28 Nov 2026 00:41:25 GMT",
+          "date": "Sat, 28 Nov 2026 12:09:46 GMT",
           "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Ev2LQhcvuRSHPO410%2Bijsalo78vDdym616mP9OCfBPlSHfTtF2RT0qCSicmUscbt9WbLYMV8ItR%2B2nGp4vZof%2BWpSK6oMDm59VG4lnZUY1BYIrvKcsSrfNob\"}]}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=dS7Z38gMScVdPk1zqu%2BuGrOYKg5Wdg7z6%2FPUHnUeB3iog3iyRKn63%2BK5UPQNjJCr%2BXR1rTyutOrK7OGYcwMjUkhvrfYBQ68%2BxBVdXZDKx%2BW0YAZhmYtvEkch\"}]}",
           "server": "cloudflare",
-          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=47,cfOrigin;dur=1346",
+          "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=15,cfOrigin;dur=1401",
           "vary": "accept-encoding"
         }
       },
